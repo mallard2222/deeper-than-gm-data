@@ -1,0 +1,432 @@
+- generic [ref=f5492e3]:
+  - generic [ref=f5492e6]:
+    - banner [ref=f5492e8]:
+      - generic [ref=f5492e9]:
+        - generic [ref=f5492e11]:
+          - generic [ref=f5492e12]:
+            - generic [ref=f5492e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f5492e14]
+              - link "Yahoo Sports" [ref=f5492e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f5492e20]:
+              - generic [ref=f5492e21]: Search query
+              - combobox "Search query" [ref=f5492e22]
+              - button "Search" [ref=f5492e24] [cursor=pointer]
+          - navigation [ref=f5492e28]:
+            - list [ref=f5492e29]:
+              - listitem [ref=f5492e30]:
+                - link "News" [ref=f5492e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f5492e32]:
+                - link "Finance" [ref=f5492e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f5492e34]:
+                - link "Sports" [ref=f5492e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f5492e36]:
+                - button "More" [ref=f5492e37] [cursor=pointer]
+          - toolbar [ref=f5492e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f5492e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f5492e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f5492e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f5492e55]:
+          - link "Fantasy Football" [ref=f5492e56] [cursor=pointer]:
+            - /url: http://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f5492e60] [cursor=pointer]:
+            - /url: /2016/f1/79234
+          - link "League" [ref=f5492e61] [cursor=pointer]:
+            - /url: /2016/f1/79234
+          - link "My Team" [ref=f5492e62] [cursor=pointer]:
+            - /url: /2016/f1/79234/8
+          - link "Matchups" [ref=f5492e63] [cursor=pointer]:
+            - /url: /2016/f1/79234/matchup
+          - link "Players" [ref=f5492e64] [cursor=pointer]:
+            - /url: /2016/f1/79234/players
+          - link "Draft Results" [ref=f5492e65] [cursor=pointer]:
+            - /url: /2016/f1/79234/draftresults
+          - list [ref=f5492e68]:
+            - listitem [ref=f5492e69]:
+              - link [ref=f5492e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f5492e79]:
+              - link [ref=f5492e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5492e89]:
+              - link "Get Fantasy Plus" [ref=f5492e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f5492e97]: Deeper Than (ID# 79234)
+  - generic [ref=f5492e101]:
+    - banner [ref=f5492e102]:
+      - generic [ref=f5492e103]:
+        - heading [level=2] [ref=f5492e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f5492e106] [cursor=pointer]:
+            - /url: /2016/f1
+        - link [ref=f5492e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f5492e113]
+    - generic [ref=f5492e118]:
+      - heading "Transactions" [level=1] [ref=f5492e122]
+      - generic [ref=f5492e124]:
+        - generic [ref=f5492e125]:
+          - heading "Recent Transactions" [level=2] [ref=f5492e126]
+          - link "All Teams " [ref=f5492e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f5492e129]:
+              - generic [ref=f5492e130]: All Teams
+              - generic [ref=f5492e131]: 
+        - generic [ref=f5492e132]:
+          - list [ref=f5492e134]:
+            - listitem [ref=f5492e135]:
+              - link "All Transactions" [ref=f5492e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f5492e137]:
+              - link "Added Players" [ref=f5492e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f5492e139]:
+              - link "Dropped Players" [ref=f5492e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f5492e141]:
+              - link "Trades" [ref=f5492e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f5492e143]:
+              - link "FAB Offers" [ref=f5492e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f5492e145]:
+            - rowgroup [ref=f5492e146]:
+              - row [ref=f5492e147]:
+                - cell "" [ref=f5492e148]
+                - cell [ref=f5492e149]:
+                  - paragraph [ref=f5492e150]:
+                    - link "Jordy Nelson" [ref=f5492e151] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8813
+                    - text: LV - WR NA
+                  - paragraph [ref=f5492e152]:
+                    - link "Isaiah Crowell" [ref=f5492e153] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28014
+                    - text: LV - RB NA
+                  - paragraph [ref=f5492e154]:
+                    - link "Derek Carr" [ref=f5492e155] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27564
+                    - text: NO - QB NA
+                  - paragraph [ref=f5492e156]:
+                    - link "Quincy Enunwa" [ref=f5492e157] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27737
+                    - text: NYJ - WR NA
+                  - paragraph [ref=f5492e158]:
+                    - link "Rob Kelley" [ref=f5492e159] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29694
+                    - text: Was - RB NA
+                  - paragraph [ref=f5492e160]: Round 1
+                  - paragraph [ref=f5492e161]: Round 3
+                  - paragraph [ref=f5492e162]: Round 4
+                - cell "Traded to" [ref=f5492e163]
+                - cell "Vaqueros Nov 10, 6:22 pm logo" [ref=f5492e164]:
+                  - generic [ref=f5492e165]:
+                    - generic [ref=f5492e166]:
+                      - link "Vaqueros" [ref=f5492e167] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/8
+                      - generic [ref=f5492e168]: Nov 10, 6:22 pm
+                    - link "logo" [ref=f5492e169] [cursor=pointer]:
+                      - /url: /2016/f1/79234/8
+                      - img "logo" [ref=f5492e170]
+              - row [ref=f5492e171]:
+                - cell [ref=f5492e172]:
+                  - paragraph [ref=f5492e173]:
+                    - link "Aaron Rodgers" [ref=f5492e174] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7200
+                    - text: Pit - QB
+                  - paragraph [ref=f5492e175]:
+                    - link "Mike Evans" [ref=f5492e176] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27535
+                    - text: SF - WR
+                  - paragraph [ref=f5492e177]:
+                    - link "A.J. Green" [ref=f5492e178] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24791
+                    - text: Ari - WR NA
+                  - paragraph [ref=f5492e179]:
+                    - link "Matt Forte" [ref=f5492e180] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8821
+                    - text: NYJ - RB NA
+                  - paragraph [ref=f5492e181]:
+                    - link "Rob Gronkowski" [ref=f5492e182] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24017
+                    - text: TB - TE NA
+                  - paragraph [ref=f5492e183]: Round 5
+                  - paragraph [ref=f5492e184]: Round 6
+                  - paragraph [ref=f5492e185]: Round 11 (traded from DUGASM)
+                - cell "Traded to" [ref=f5492e186]
+                - cell "Wet Serapas Nov 10, 6:22 pm logo" [ref=f5492e187]:
+                  - generic [ref=f5492e188]:
+                    - generic [ref=f5492e189]:
+                      - link "Wet Serapas" [ref=f5492e190] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/1
+                      - generic [ref=f5492e191]: Nov 10, 6:22 pm
+                    - link "logo" [ref=f5492e192] [cursor=pointer]:
+                      - /url: /2016/f1/79234/1
+                      - img "logo" [ref=f5492e193]
+              - row [ref=f5492e194]:
+                - cell "" [ref=f5492e195]
+                - cell [ref=f5492e196]:
+                  - paragraph [ref=f5492e197]:
+                    - link "Cody Kessler" [ref=f5492e198] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29327
+                    - text: NE - QB NA
+                  - paragraph [ref=f5492e199]:
+                    - link "Devontae Booker" [ref=f5492e200] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29370
+                    - text: NYG - RB NA
+                  - paragraph [ref=f5492e201]:
+                    - link "Jeremy Maclin" [ref=f5492e202] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9283
+                    - text: Bal - WR NA
+                  - paragraph [ref=f5492e203]:
+                    - link "Will Fuller V" [ref=f5492e204] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29255
+                    - text: Mia - WR NA
+                  - paragraph [ref=f5492e205]: Round 1
+                  - paragraph [ref=f5492e206]: Round 3
+                  - paragraph [ref=f5492e207]: Round 4
+                - cell "Traded to" [ref=f5492e208]
+                - cell "FFAmuseBouche ( James ) Nov 9, 10:35 am logo" [ref=f5492e209]:
+                  - generic [ref=f5492e210]:
+                    - generic [ref=f5492e211]:
+                      - link "FFAmuseBouche" [ref=f5492e212] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/6
+                      - generic [ref=f5492e213]:
+                        - text: (
+                        - link "James" [ref=f5492e215] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e216]: Nov 9, 10:35 am
+                    - link "logo" [ref=f5492e217] [cursor=pointer]:
+                      - /url: /2016/f1/79234/6
+                      - img "logo" [ref=f5492e218]
+              - row [ref=f5492e219]:
+                - cell [ref=f5492e220]:
+                  - paragraph [ref=f5492e221]:
+                    - link "David Johnson" [ref=f5492e222] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28474
+                    - text: NO - RB NA
+                  - paragraph [ref=f5492e223]:
+                    - link "Brandin Cooks" [ref=f5492e224] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27548
+                    - text: NO - WR NA
+                  - paragraph [ref=f5492e225]:
+                    - link "Michael Crabtree" [ref=f5492e226] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9274
+                    - text: Ari - WR NA
+                  - paragraph [ref=f5492e227]:
+                    - link "Kirk Cousins" [ref=f5492e228] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25812
+                    - text: LV - QB
+                  - paragraph [ref=f5492e229]: Round 7
+                  - paragraph [ref=f5492e230]: Round 9
+                  - paragraph [ref=f5492e231]: Round 11
+                - cell "Traded to" [ref=f5492e232]
+                - cell "Good Strongs ( James ) Nov 9, 10:35 am logo" [ref=f5492e233]:
+                  - generic [ref=f5492e234]:
+                    - generic [ref=f5492e235]:
+                      - link "Good Strongs" [ref=f5492e236] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/7
+                      - generic [ref=f5492e237]:
+                        - text: (
+                        - link "James" [ref=f5492e239] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e240]: Nov 9, 10:35 am
+                    - link "logo" [ref=f5492e241] [cursor=pointer]:
+                      - /url: /2016/f1/79234/7
+                      - img "logo" [ref=f5492e242]
+              - row [ref=f5492e243]:
+                - cell "" [ref=f5492e244]
+                - cell [ref=f5492e245]:
+                  - paragraph [ref=f5492e246]:
+                    - link "Travis Benjamin" [ref=f5492e247] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25810
+                    - text: SF - WR NA
+                  - paragraph [ref=f5492e248]:
+                    - link "Jameis Winston" [ref=f5492e249] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28389
+                    - text: NYG - QB
+                  - paragraph [ref=f5492e250]:
+                    - link "Mark Ingram II" [ref=f5492e251] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24815
+                    - text: NO - RB NA
+                  - paragraph [ref=f5492e252]: Round 1
+                  - paragraph [ref=f5492e253]: Round 4
+                - cell "Traded to" [ref=f5492e254]
+                - cell "DUGASM ( James ) Nov 1, 9:57 am logo" [ref=f5492e255]:
+                  - generic [ref=f5492e256]:
+                    - generic [ref=f5492e257]:
+                      - link "DUGASM" [ref=f5492e258] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/5
+                      - generic [ref=f5492e259]:
+                        - text: (
+                        - link "James" [ref=f5492e261] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e262]: Nov 1, 9:57 am
+                    - link "logo" [ref=f5492e263] [cursor=pointer]:
+                      - /url: /2016/f1/79234/5
+                      - img "logo" [ref=f5492e264]
+              - row [ref=f5492e265]:
+                - cell [ref=f5492e266]:
+                  - paragraph [ref=f5492e267]:
+                    - link "Matt Forte" [ref=f5492e268] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8821
+                    - text: NYJ - RB NA
+                  - paragraph [ref=f5492e269]:
+                    - link "Andrew Luck" [ref=f5492e270] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25711
+                    - text: Ind - QB NA
+                  - paragraph [ref=f5492e271]:
+                    - link "Ryan Mathews" [ref=f5492e272] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/23987
+                    - text: Phi - RB NA
+                  - paragraph [ref=f5492e273]: Round 9
+                  - paragraph [ref=f5492e274]: Round 11
+                - cell "Traded to" [ref=f5492e275]
+                - cell "Vaqueros ( James ) Nov 1, 9:57 am logo" [ref=f5492e276]:
+                  - generic [ref=f5492e277]:
+                    - generic [ref=f5492e278]:
+                      - link "Vaqueros" [ref=f5492e279] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/8
+                      - generic [ref=f5492e280]:
+                        - text: (
+                        - link "James" [ref=f5492e282] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e283]: Nov 1, 9:57 am
+                    - link "logo" [ref=f5492e284] [cursor=pointer]:
+                      - /url: /2016/f1/79234/8
+                      - img "logo" [ref=f5492e285]
+              - row [ref=f5492e286]:
+                - cell "" [ref=f5492e287]
+                - cell [ref=f5492e288]:
+                  - paragraph [ref=f5492e289]:
+                    - link "Christine Michael" [ref=f5492e290] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26685
+                    - text: Ind - RB NA
+                - cell "Traded to" [ref=f5492e291]
+                - cell "Vaqueros ( James ) Oct 24, 10:56 am logo" [ref=f5492e292]:
+                  - generic [ref=f5492e293]:
+                    - generic [ref=f5492e294]:
+                      - link "Vaqueros" [ref=f5492e295] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/8
+                      - generic [ref=f5492e296]:
+                        - text: (
+                        - link "James" [ref=f5492e298] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e299]: Oct 24, 10:56 am
+                    - link "logo" [ref=f5492e300] [cursor=pointer]:
+                      - /url: /2016/f1/79234/8
+                      - img "logo" [ref=f5492e301]
+              - row [ref=f5492e302]:
+                - cell [ref=f5492e303]:
+                  - paragraph [ref=f5492e304]:
+                    - link "Michael Crabtree" [ref=f5492e305] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9274
+                    - text: Ari - WR NA
+                - cell "Traded to" [ref=f5492e306]
+                - cell "FFAmuseBouche ( James ) Oct 24, 10:56 am logo" [ref=f5492e307]:
+                  - generic [ref=f5492e308]:
+                    - generic [ref=f5492e309]:
+                      - link "FFAmuseBouche" [ref=f5492e310] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/6
+                      - generic [ref=f5492e311]:
+                        - text: (
+                        - link "James" [ref=f5492e313] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e314]: Oct 24, 10:56 am
+                    - link "logo" [ref=f5492e315] [cursor=pointer]:
+                      - /url: /2016/f1/79234/6
+                      - img "logo" [ref=f5492e316]
+              - row [ref=f5492e317]:
+                - cell "" [ref=f5492e318]
+                - cell [ref=f5492e319]:
+                  - paragraph [ref=f5492e320]:
+                    - link "Allen Hurns" [ref=f5492e321] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27874
+                    - text: Mia - WR NA
+                  - paragraph [ref=f5492e322]: Round 2
+                - cell "Traded to" [ref=f5492e323]
+                - cell "DUGASM ( James ) Oct 19, 6:33 pm logo" [ref=f5492e324]:
+                  - generic [ref=f5492e325]:
+                    - generic [ref=f5492e326]:
+                      - link "DUGASM" [ref=f5492e327] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/5
+                      - generic [ref=f5492e328]:
+                        - text: (
+                        - link "James" [ref=f5492e330] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e331]: Oct 19, 6:33 pm
+                    - link "logo" [ref=f5492e332] [cursor=pointer]:
+                      - /url: /2016/f1/79234/5
+                      - img "logo" [ref=f5492e333]
+              - row [ref=f5492e334]:
+                - cell [ref=f5492e335]:
+                  - paragraph [ref=f5492e336]:
+                    - link "Antonio Brown" [ref=f5492e337] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24171
+                    - text: TB - WR NA
+                  - paragraph [ref=f5492e338]: Round 10
+                - cell "Traded to" [ref=f5492e339]
+                - cell "bigballs ( James ) Oct 19, 6:33 pm logo" [ref=f5492e340]:
+                  - generic [ref=f5492e341]:
+                    - generic [ref=f5492e342]:
+                      - link "bigballs" [ref=f5492e343] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2016/f1/79234/2
+                      - generic [ref=f5492e344]:
+                        - text: (
+                        - link "James" [ref=f5492e346] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5492e347]: Oct 19, 6:33 pm
+                    - link "logo" [ref=f5492e348] [cursor=pointer]:
+                      - /url: /2016/f1/79234/2
+                      - img "logo" [ref=f5492e349]
+    - contentinfo [ref=f5492e351]:
+      - generic [ref=f5492e358]:
+        - list [ref=f5492e359]:
+          - listitem [ref=f5492e360]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f5492e361]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f5492e362] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f5492e363]:
+            - text: "-"
+            - link "Feedback" [ref=f5492e364] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f5492e365]:
+            - text: "-"
+            - link "Terms" [ref=f5492e366] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f5492e367] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f5492e368]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f5492e369] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f5492e370]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f5492e371] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f5492e372]:
+            - text: "-"
+            - link "About Our Ads" [ref=f5492e373] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f5492e374]:
+            - text: "-"
+            - link "Help" [ref=f5492e375] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f5492e376]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f5492e377]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f5492e378]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
