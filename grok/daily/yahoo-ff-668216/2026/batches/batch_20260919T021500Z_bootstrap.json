@@ -1,0 +1,196 @@
+{
+  "schema_version": "0.1.0-proposed",
+  "batch_id": "batch_20260919T021500Z_bootstrap",
+  "league_id": "yahoo-ff-668216",
+  "generated_at": "2026-09-19T02:14:24Z",
+  "generator": "grok-bot",
+  "notes": "Proposed exchange format. Not POSTed to Work app. Settings scrape was in progress at draft time; may append batch_..._settings when complete.",
+  "signals": [
+    {
+      "id": "sig_nico_collins_grade1_hamstring_w2_out_20260918",
+      "subject": "Nico Collins",
+      "player_id": null,
+      "claim": "Nico Collins (HOU WR) has a Grade 1 hamstring strain and is ruled out for Week 2 vs Cincinnati; not described as season-ending; Week 3 availability uncertain.",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Sportsnet",
+          "url": "https://www.sportsnet.ca/nfl/article/texans-nico-collins-ruled-out-vs-bengals-with-hamstring-injury/",
+          "published_at": "2026-09-18T16:15:00-04:00",
+          "role": "original_or_primary_report_via_team_announcement_and_Aaron_Wilson"
+        },
+        {
+          "name": "FantasyPros (Leo Sells / Aaron Wilson cite)",
+          "url": "https://www.fantasypros.com/nfl/news/608588/nico-collins-diagnosed-with-grade-1-hamstring-strain.php",
+          "published_at": "2026-09-17T12:37:00-04:00",
+          "role": "repost_of_Aaron_Wilson_reporting_Grade_1"
+        },
+        {
+          "name": "Draft Sharks",
+          "url": "https://www.draftsharks.com/fantasy-football-news/82701/nico-collins-out-for-week-2",
+          "published_at": "2026-09-18T19:58:00-04:00",
+          "role": "secondary_summary_Week_2_out"
+        }
+      ],
+      "retrieved_at": "2026-09-18T20:48:00-05:00",
+      "supporting_evidence": [
+        "Yahoo Vaqueros roster showed Nico Collins OUT with 0.00 Week 2 projection during 2026-09-18 scout (league UI observation)."
+      ],
+      "contradicting_evidence": [],
+      "confidence": {
+        "level": "high",
+        "basis": "Multiple outlets citing team announcement / Aaron Wilson; Yahoo UI OUT designation consistent. Grade 1 and timeline are medical reports, not independent imaging review.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Must not start Collins Week 2; Vaqueros moved Golden into W/T with Andrew approval.",
+        "waiver": "Short-term WR help optional; do not drop Collins for Boutte/Downs without clear forever-bench cut.",
+        "trade": "Temporary WR scarcity on Vaqueros; avoid selling Collins as season-ending."
+      },
+      "review_deadline": "2026-09-24T12:00:00-05:00",
+      "expiry_rationale": "Week 3 practice reports will supersede Week 2 OUT status.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    },
+    {
+      "id": "sig_vaqueros_w2_lineup_golden_start_collins_bench_20260918",
+      "subject": "Vaqueros Week 2 W/T slot",
+      "player_id": null,
+      "claim": "As of Yahoo save confirmation 2026-09-18 ~20:58 CT, Matthew Golden is starting in Vaqueros W/T and Nico Collins is benched for Week 2 in league 668216.",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Yahoo Fantasy team page (authenticated browser session)",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "published_at": null,
+          "role": "league_system_of_record_ui"
+        }
+      ],
+      "retrieved_at": "2026-09-18T20:58:00-05:00",
+      "supporting_evidence": [
+        "Screenshot evidence file /workspace/vaqueros-week2-final.png; agent reported Yahoo text \u201cAll changes saved.\u201d"
+      ],
+      "contradicting_evidence": [],
+      "confidence": {
+        "level": "high",
+        "basis": "Direct UI confirmation after approved edit in same session.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Week 2 flex set unless Andrew changes it again.",
+        "waiver": null,
+        "trade": null
+      },
+      "review_deadline": "2026-09-21T12:00:00-05:00",
+      "expiry_rationale": "Sunday kickoffs / later lineup edits supersede.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    },
+    {
+      "id": "sig_vaqueros_w2_matchup_big_balls_proj_gap_20260918",
+      "subject": "Vaqueros vs Big Balls Week 2",
+      "player_id": null,
+      "claim": "At scout time 2026-09-18 evening CT, Yahoo showed Vaqueros projected ~131.14 vs Big Balls ~170.29 for Week 2, with Big Balls already scoring (incl. Josh Allen ~40.82 and Amon-Ra St. Brown ~30.70 reported in scout summary).",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Yahoo Fantasy matchup/standings UI (authenticated)",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216",
+          "published_at": null,
+          "role": "league_system_of_record_ui"
+        }
+      ],
+      "retrieved_at": "2026-09-18T20:42:00-05:00",
+      "supporting_evidence": [
+        "Scout summary captured during computerUse pass; standings screenshot artifacts under /workspace/standings*.png and deep-stand*.png"
+      ],
+      "contradicting_evidence": [
+        "Projections are live and will change; early scores already moved projected gap."
+      ],
+      "confidence": {
+        "level": "medium",
+        "basis": "UI observation via agent report + screenshots; exact live numbers may have moved since retrieval.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Maximize remaining Vaqueros starters; avoid zeros.",
+        "waiver": "Only if upgrade exceeds roster cost.",
+        "trade": "Unlikely to close projected gap via trade before Sunday."
+      },
+      "review_deadline": "2026-09-21T20:00:00-05:00",
+      "expiry_rationale": "Week 2 games complete.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    },
+    {
+      "id": "sig_vaqueros_faab_budget_100_observed_20260918",
+      "subject": "Vaqueros waiver budget",
+      "player_id": null,
+      "claim": "Yahoo team header for Vaqueros in Deeper Than showed $100 remaining waiver budget at scout time (implies FAAB league), but full waiver process rules were not yet captured from Settings.",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Yahoo Fantasy Vaqueros team header (user screenshot / UI)",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "published_at": null,
+          "role": "league_system_of_record_ui"
+        }
+      ],
+      "retrieved_at": "2026-09-18T20:36:00-05:00",
+      "supporting_evidence": [
+        "User desktop screenshot of Deeper Than Vaqueros page showing Waiver Budget $100; standings table also listed per-team waiver $ amounts in scout summary."
+      ],
+      "contradicting_evidence": [],
+      "confidence": {
+        "level": "medium",
+        "basis": "Budget figure observed; FAAB mechanics (min bid, process time) NOT verified from settings page yet \u2014 do not recommend bid amounts.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": null,
+        "waiver": "No FAAB amount should be recommended until settings retrieval completes.",
+        "trade": null
+      },
+      "review_deadline": "2026-09-19T12:00:00-05:00",
+      "expiry_rationale": "Superseded once settings scrape confirms waiver rules and any budget spend.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    },
+    {
+      "id": "sig_drop_candidate_concepcion_hypothesis_20260918",
+      "subject": "KC Concepcion Jr.",
+      "player_id": null,
+      "claim": "Among Vaqueros bench players observed Week 2, KC Concepcion Jr. is the weakest hold if a roster spot is required (analytical judgment from projections/role, not a verified drop requirement).",
+      "classification": "inference",
+      "sources": [
+        {
+          "name": "Yahoo Vaqueros roster UI projections (authenticated scout)",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "published_at": null,
+          "role": "projection_display_not_independent_model"
+        }
+      ],
+      "retrieved_at": "2026-09-18T20:42:00-05:00",
+      "supporting_evidence": [
+        "Scout listed Concepcion among lowest projected bench WRs (~7.82) vs Golden/Reed/Odunze higher."
+      ],
+      "contradicting_evidence": [
+        "Projection vendors disagree; rookies can spike; no snap-share study attached in this batch."
+      ],
+      "confidence": {
+        "level": "low",
+        "basis": "Single-evening projection ordering + shallow bench ranking; not grounded in multi-week usage study.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Not a Week 2 starter recommendation.",
+        "waiver": "First cut only if Andrew approves needing a spot for a clear upgrade.",
+        "trade": "Near-zero trade value currently assumed \u2014 hypothesis."
+      },
+      "review_deadline": "2026-09-23T08:00:00-05:00",
+      "expiry_rationale": "Re-rank after Week 2 usage and any waiver activity.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    }
+  ]
+}

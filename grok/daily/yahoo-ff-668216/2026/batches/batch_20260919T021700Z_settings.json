@@ -1,0 +1,119 @@
+{
+  "schema_version": "0.1.0-proposed",
+  "batch_id": "batch_20260919T021700Z_settings",
+  "league_id": "yahoo-ff-668216",
+  "generated_at": "2026-09-19T02:16:11Z",
+  "generator": "grok-bot",
+  "notes": "Verified settings scrape from Yahoo. Contradicts prior assumed Full PPR and 6-pt all TDs.",
+  "signals": [
+    {
+      "id": "sig_settings_half_ppr_not_full_20260918",
+      "subject": "Deeper Than scoring \u2014 PPR",
+      "player_id": null,
+      "claim": "League 668216 scoring is Half-PPR (0.5 points per reception), not Full PPR.",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Yahoo Fantasy league settings UI",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/settings",
+          "published_at": null,
+          "role": "league_system_of_record_ui"
+        }
+      ],
+      "retrieved_at": "2026-09-18T21:15:00-05:00",
+      "supporting_evidence": [
+        "/workspace/deeper-than-gm/research/league-668216-settings.txt",
+        "/workspace/deeper-than-gm/evidence/settings-complete.png"
+      ],
+      "contradicting_evidence": [
+        "Prior working assumption / memory stated Full PPR \u2014 that assumption is superseded by Yahoo settings."
+      ],
+      "confidence": {
+        "level": "high",
+        "basis": "Direct settings page scrape in authenticated Yahoo session.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Reception volume slightly less valuable than under full PPR.",
+        "waiver": "Recheck WR/RB valuations under 0.5 PPR.",
+        "trade": "Do not use full-PPR trade charts without adjustment."
+      },
+      "review_deadline": null,
+      "expiry_rationale": "Stable unless commissioner changes scoring mid-season (unlikely).",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    },
+    {
+      "id": "sig_settings_pass_td_4_not_6_20260918",
+      "subject": "Deeper Than scoring \u2014 pass TD",
+      "player_id": null,
+      "claim": "Passing TDs are worth 4 points; rushing/receiving/return TDs are worth 6. Not 6 points for all touchdowns.",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Yahoo Fantasy league settings UI",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/settings",
+          "published_at": null,
+          "role": "league_system_of_record_ui"
+        }
+      ],
+      "retrieved_at": "2026-09-18T21:15:00-05:00",
+      "supporting_evidence": [
+        "/workspace/deeper-than-gm/research/league-668216-settings.txt"
+      ],
+      "contradicting_evidence": [
+        "Prior assumed format said 6 points for all TDs \u2014 superseded."
+      ],
+      "confidence": {
+        "level": "high",
+        "basis": "Direct settings page scrape.",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Standard 4pt pass TD environment for QBs.",
+        "waiver": null,
+        "trade": "QB valuations should assume 4pt pass TDs."
+      },
+      "review_deadline": null,
+      "expiry_rationale": "Stable unless settings change.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    },
+    {
+      "id": "sig_settings_roster_waivers_playoffs_20260918",
+      "subject": "Deeper Than roster / waivers / playoffs",
+      "player_id": null,
+      "claim": "Starters: 2QB, 2RB, 2WR, TE, W/T, W/R, K, DEF; 8 BN; 1 IR; no IDP/NA. Waivers: FAAB, 1-day, Game Time Tuesday, rolling-standings tiebreak. Trades: commissioner review, 2-day reject, deadline Nov 28 2026, draft-pick trades allowed. Playoffs: 4 teams, Weeks 15\u201316, no reseeding. Keepers: none listed.",
+      "classification": "fact",
+      "sources": [
+        {
+          "name": "Yahoo Fantasy league settings UI",
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/settings",
+          "published_at": null,
+          "role": "league_system_of_record_ui"
+        }
+      ],
+      "retrieved_at": "2026-09-18T21:15:00-05:00",
+      "supporting_evidence": [
+        "/workspace/deeper-than-gm/research/league-668216-settings.txt",
+        "/workspace/deeper-than-gm/evidence/settings-overview.png",
+        "/workspace/deeper-than-gm/evidence/settings-complete.png"
+      ],
+      "contradicting_evidence": [],
+      "confidence": {
+        "level": "high",
+        "basis": "Direct settings scrape. FAAB total budget not shown on settings page (team header previously showed $100 for Vaqueros).",
+        "not_a_calibrated_probability": true
+      },
+      "potential_impact": {
+        "lineup": "Collins can use IR slot if Yahoo injured-status rules allow and Andrew approves.",
+        "waiver": "Recommend claims only with FAAB rules known; still avoid inventing bid amounts without current budgets for all teams.",
+        "trade": "Commissioner review + 2-day window; deadline Nov 28."
+      },
+      "review_deadline": null,
+      "expiry_rationale": "Re-check if commissioner edits settings.",
+      "status": "quarantined",
+      "league_id": "yahoo-ff-668216"
+    }
+  ]
+}

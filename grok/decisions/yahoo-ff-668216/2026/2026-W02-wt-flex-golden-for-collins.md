@@ -1,0 +1,18 @@
+# Decision — Vaqueros Week 2 W/T flex
+- league_id: yahoo-ff-668216
+- season: 2026
+- week: 2
+- decided_at: 2026-09-18T20:55:00-05:00
+- executed_at: 2026-09-18T20:58:00-05:00
+- recommended: Sit Nico Collins (OUT, Grade 1 hamstring); start Matthew Golden in W/T
+- approved_by: Andrew
+- executed: yes (Yahoo “All changes saved.”)
+- alternatives_considered: Jayden Reed, Rome Odunze
+- sources_at_time:
+  - Yahoo roster UI OUT designation
+  - Sportsnet / FantasyPros / Draft Sharks Grade 1 hamstring reports (see signal batch)
+- expected_benefit: avoid 0.00 flex; capture Golden projection
+- uncertainty: Golden role/volume unproven; Collins return Week 3+ TBD
+- verified_yahoo_result: Golden starting W/T; Collins benched
+- outcome: pending Week 2 games
+- evidence_local: /workspace/vaqueros-week2-final.png (also copied if binary publish succeeds)

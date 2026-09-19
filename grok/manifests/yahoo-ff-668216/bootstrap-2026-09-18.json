@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.1.0-proposed",
+  "manifest_id": "manifest_bootstrap_20260919",
+  "generated_at": "2026-09-19T03:50:18Z",
+  "league_ids": [
+    "yahoo-ff-668216",
+    "yahoo-ff-135150"
+  ],
+  "published_paths": [
+    "grok/README.md",
+    "grok/bootstrap/BRIEF-bootstrap.md",
+    "grok/bootstrap/GM-BOOTSTRAP-HANDOFF.md",
+    "grok/bootstrap/access-test.md",
+    "grok/daily/yahoo-ff-668216/2026/batches/batch_20260919T021500Z_bootstrap.json",
+    "grok/daily/yahoo-ff-668216/2026/batches/batch_20260919T021700Z_settings.json",
+    "grok/daily/yahoo-ff-668216/2026/league-settings.txt",
+    "grok/decisions/yahoo-ff-668216/2026/2026-W02-wt-flex-golden-for-collins.md",
+    "grok/evidence/yahoo-ff-668216/2026/settings-complete.png",
+    "grok/evidence/yahoo-ff-668216/2026/settings-overview.png",
+    "grok/evidence/yahoo-ff-668216/2026/vaqueros-week2-final.png",
+    "grok/manifests/yahoo-ff-668216/bootstrap-2026-09-18.json",
+    "grok/manifests/yahoo-ff-668216/settings-2026.txt"
+  ],
+  "excluded": [
+    "credentials",
+    "cookies",
+    "GH_TOKEN",
+    "chrome profile",
+    "box-secrets",
+    "login screenshots with passwords"
+  ],
+  "notes": "Initial publish of bootstrap handoff, settings, signal batches, Week 2 flex decision, and evidence screenshots."
+}
