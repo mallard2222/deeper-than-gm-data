@@ -1,0 +1,150 @@
+- generic [ref=f907e3]:
+  - generic [ref=f907e6]:
+    - banner [ref=f907e8]:
+      - generic [ref=f907e9]:
+        - generic [ref=f907e11]:
+          - generic [ref=f907e12]:
+            - generic [ref=f907e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f907e14]
+              - link "Yahoo Sports" [ref=f907e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f907e20]:
+              - generic [ref=f907e21]: Search query
+              - combobox "Search query" [ref=f907e22]
+              - button "Search" [ref=f907e24] [cursor=pointer]
+          - navigation [ref=f907e28]:
+            - list [ref=f907e29]:
+              - listitem [ref=f907e30]:
+                - link "News" [ref=f907e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f907e32]:
+                - link "Finance" [ref=f907e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f907e34]:
+                - link "Sports" [ref=f907e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f907e36]:
+                - button "More" [ref=f907e37] [cursor=pointer]
+          - toolbar [ref=f907e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f907e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f907e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f907e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f907e55]:
+          - link "Fantasy Football" [ref=f907e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f907e60] [cursor=pointer]:
+            - /url: /2022/f1/59165
+          - link "League" [ref=f907e61] [cursor=pointer]:
+            - /url: /2022/f1/59165
+          - link "My Team" [ref=f907e62] [cursor=pointer]:
+            - /url: /2022/f1/59165/8
+          - link "Matchups" [ref=f907e63] [cursor=pointer]:
+            - /url: /2022/f1/59165/matchup
+          - link "Players" [ref=f907e64] [cursor=pointer]:
+            - /url: /2022/f1/59165/players
+          - link "Draft Results" [ref=f907e65] [cursor=pointer]:
+            - /url: /2022/f1/59165/draftresults
+          - list [ref=f907e68]:
+            - listitem [ref=f907e69]:
+              - link [ref=f907e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f907e79]:
+              - link [ref=f907e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f907e89]:
+              - link "Get Fantasy Plus" [ref=f907e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f907e97]: Deeper Than (ID# 59165)
+  - generic [ref=f907e101]:
+    - banner [ref=f907e102]:
+      - generic [ref=f907e103]:
+        - heading [level=2] [ref=f907e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f907e106] [cursor=pointer]:
+            - /url: /2022/f1
+        - iframe [ref=f907e182]:
+          - insertion [ref=f920e3]:
+            - iframe [ref=f920e4]:
+              - iframe [ref=f921e4]
+        - link [ref=f907e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f907e113]
+    - generic [ref=f907e118]:
+      - heading "Transactions" [level=1] [ref=f907e122]
+      - generic [ref=f907e124]:
+        - generic [ref=f907e125]:
+          - heading "Recent Transactions" [level=2] [ref=f907e126]
+          - link "Vaqueros " [ref=f907e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f907e129]:
+              - generic [ref=f907e130]: Vaqueros
+              - generic [ref=f907e131]: 
+        - generic [ref=f907e132]:
+          - list [ref=f907e134]:
+            - listitem [ref=f907e135]:
+              - link "All Transactions" [ref=f907e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&mid=8"
+            - listitem [ref=f907e137]:
+              - link "Added Players" [ref=f907e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add&mid=8"
+            - listitem [ref=f907e139]:
+              - link "Dropped Players" [ref=f907e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop&mid=8"
+            - listitem [ref=f907e141]:
+              - link "Trades" [ref=f907e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade&mid=8"
+            - listitem [ref=f907e143]:
+              - link "FAB Offers" [ref=f907e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f907e145]:
+            - rowgroup [ref=f907e146]:
+              - row [ref=f907e147]:
+                - cell " No recent transactions" [ref=f907e148]:
+                  - generic [ref=f907e149]:
+                    - generic [ref=f907e150]: 
+                    - generic [ref=f907e151]: No recent transactions
+    - contentinfo [ref=f907e153]:
+      - iframe [ref=f907e184]:
+        - insertion [ref=f922e3]:
+          - iframe [ref=f922e4]:
+            - iframe [ref=f924e4]
+      - generic [ref=f907e160]:
+        - list [ref=f907e161]:
+          - listitem [ref=f907e162]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f907e163]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f907e164] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f907e165]:
+            - text: "-"
+            - link "Feedback" [ref=f907e166] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f907e167]:
+            - text: "-"
+            - link "Terms" [ref=f907e168] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f907e169] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f907e170]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f907e171] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f907e172]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f907e173] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f907e174]:
+            - text: "-"
+            - link "About Our Ads" [ref=f907e175] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f907e176]:
+            - text: "-"
+            - link "Help" [ref=f907e177] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f907e178]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f907e179]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f907e180]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

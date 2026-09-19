@@ -1,0 +1,1301 @@
+- generic [ref=f733e3]:
+  - generic [ref=f733e6]:
+    - banner [ref=f733e8]:
+      - generic [ref=f733e9]:
+        - generic [ref=f733e11]:
+          - generic [ref=f733e12]:
+            - generic [ref=f733e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f733e14]
+              - link "Yahoo Sports" [ref=f733e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f733e20]:
+              - generic [ref=f733e21]: Search query
+              - combobox "Search query" [ref=f733e22]
+              - button "Search" [ref=f733e24] [cursor=pointer]
+          - navigation [ref=f733e28]:
+            - list [ref=f733e29]:
+              - listitem [ref=f733e30]:
+                - link "News" [ref=f733e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f733e32]:
+                - link "Finance" [ref=f733e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f733e34]:
+                - link "Sports" [ref=f733e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f733e36]:
+                - button "More" [ref=f733e37] [cursor=pointer]
+          - toolbar [ref=f733e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f733e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f733e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f733e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f733e55]:
+          - link "Fantasy Football" [ref=f733e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f733e60] [cursor=pointer]:
+            - /url: /2022/f1/59165
+          - link "League" [ref=f733e61] [cursor=pointer]:
+            - /url: /2022/f1/59165
+          - link "My Team" [ref=f733e62] [cursor=pointer]:
+            - /url: /2022/f1/59165/8
+          - link "Matchups" [ref=f733e63] [cursor=pointer]:
+            - /url: /2022/f1/59165/matchup
+          - link "Players" [ref=f733e64] [cursor=pointer]:
+            - /url: /2022/f1/59165/players
+          - link "Draft Results" [ref=f733e65] [cursor=pointer]:
+            - /url: /2022/f1/59165/draftresults
+          - list [ref=f733e68]:
+            - listitem [ref=f733e69]:
+              - link [ref=f733e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f733e79]:
+              - link [ref=f733e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f733e89]:
+              - link "Get Fantasy Plus" [ref=f733e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f733e97]: Deeper Than (ID# 59165)
+  - generic [ref=f733e101]:
+    - banner [ref=f733e102]:
+      - generic [ref=f733e103]:
+        - heading [level=2] [ref=f733e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f733e106] [cursor=pointer]:
+            - /url: /2022/f1
+        - iframe [ref=f733e1243]:
+          - iframe [ref=f746e2]:
+            - generic [ref=f747e5]:
+              - generic [ref=f747e8] [cursor=pointer]:
+                - iframe [ref=f747e9]:
+                  - insertion [ref=f749e3]:
+                    - iframe [ref=f749e4]:
+                      - iframe [ref=f750e4]
+                - generic [ref=f747e10]:
+                  - 'link "Sponsored: learn about this recommendation (opens dialog)" [ref=f747e11]':
+                    - /url: "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoosports-headerbidding&utm_medium=referral&utm_content=Viper_970x250_1x1_Stream:football.fantasysports.yahoo.com_P1635768_S1635768_TYahoo Sports - Fantasy - Desktop - Top_Center_W970_H250_N1_TB:"
+                  - 'link "Sponsored: learn about this recommendation (opens dialog)" [ref=f747e12]':
+                    - /url: "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoosports-headerbidding&utm_medium=referral&utm_content=Viper_970x250_1x1_Stream:football.fantasysports.yahoo.com_P1635768_S1635768_TYahoo Sports - Fantasy - Desktop - Top_Center_W970_H250_N1_TB:"
+              - generic:
+                - link "|U.S. Privacy" [ref=f747e14] [cursor=pointer]:
+                  - /url: https://ccparequest.taboola.com
+                - link "AdChoices information (opens dialog)" [ref=f747e16] [cursor=pointer]:
+                  - /url: "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoosports-headerbidding&utm_medium=referral&utm_content=Viper_970x250_1x1_Stream:football.fantasysports.yahoo.com_P1635768_S1635768_TYahoo Sports - Fantasy - Desktop - Top_Center_W970_H250_N1_TB:"
+        - link [ref=f733e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f733e113]
+    - generic [ref=f733e118]:
+      - heading "Draft Results" [level=1] [ref=f733e122]
+      - generic [ref=f733e124]:
+        - generic [ref=f733e125]:
+          - combobox [ref=f733e126]:
+            - option "2022 draft order" [selected]
+            - option "2021 season draft results"
+          - list [ref=f733e128]:
+            - listitem [ref=f733e129]:
+              - link "Round" [ref=f733e130] [cursor=pointer]:
+                - /url: /2022/f1/59165/draftresults?drafttab=round&draft_results_period=current
+            - listitem [ref=f733e131]:
+              - link "Team" [ref=f733e132] [cursor=pointer]:
+                - /url: /2022/f1/59165/draftresults?drafttab=team&draft_results_period=current
+        - generic [ref=f733e133]:
+          - generic [ref=f733e134]:
+            - table [ref=f733e136]:
+              - rowgroup [ref=f733e141]:
+                - row [ref=f733e142]:
+                  - columnheader "Round 1" [ref=f733e143]
+              - rowgroup [ref=f733e144]:
+                - row [ref=f733e145]:
+                  - cell "1." [ref=f733e146]
+                  - cell [ref=f733e147]:
+                    - link "Christian McCaffrey" [ref=f733e148] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30121
+                  - cell "FFAmuseBouche" [ref=f733e149]
+                - row [ref=f733e150]:
+                  - cell "2." [ref=f733e151]
+                  - cell [ref=f733e152]:
+                    - link "Josh Allen" [ref=f733e153] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30977
+                  - cell "Bigballs" [ref=f733e154]
+                - row [ref=f733e155]:
+                  - cell "3." [ref=f733e156]
+                  - cell [ref=f733e157]:
+                    - link "Austin Ekeler" [ref=f733e158] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30423
+                  - cell "Good Strongs" [ref=f733e159]
+                - row [ref=f733e160]:
+                  - cell "4." [ref=f733e161]
+                  - cell [ref=f733e162]:
+                    - link "Derrick Henry" [ref=f733e163] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29279
+                  - cell "Dezbians" [ref=f733e164]
+                - row [ref=f733e165]:
+                  - cell "5." [ref=f733e166]
+                  - cell [ref=f733e167]:
+                    - link "Dalvin Cook" [ref=f733e168] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30154
+                  - cell "Wet Serapas" [ref=f733e169]
+                - row [ref=f733e170]:
+                  - cell "6." [ref=f733e171]
+                  - cell [ref=f733e172]:
+                    - link "Joe Mixon" [ref=f733e173] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30161
+                  - cell "Deepest" [ref=f733e174]
+                - row [ref=f733e175]:
+                  - cell "7." [ref=f733e176]
+                  - cell [ref=f733e177]:
+                    - link "Najee Harris" [ref=f733e178] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33412
+                  - cell "Vaqueros" [ref=f733e179]
+                - row [ref=f733e180]:
+                  - cell "8." [ref=f733e181]
+                  - cell [ref=f733e182]:
+                    - link "Jonathan Taylor" [ref=f733e183] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32711
+                    - text: 
+                  - cell "DUGASM" [ref=f733e184]
+            - table [ref=f733e186]:
+              - rowgroup [ref=f733e191]:
+                - row [ref=f733e192]:
+                  - columnheader "Round 2" [ref=f733e193]
+              - rowgroup [ref=f733e194]:
+                - row [ref=f733e195]:
+                  - cell "1." [ref=f733e196]
+                  - cell [ref=f733e197]:
+                    - link "Justin Herbert" [ref=f733e198] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32676
+                  - cell "DUGASM" [ref=f733e199]
+                - row [ref=f733e200]:
+                  - cell "2." [ref=f733e201]
+                  - cell [ref=f733e202]:
+                    - link "Saquon Barkley" [ref=f733e203] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30972
+                  - cell "Vaqueros" [ref=f733e204]
+                - row [ref=f733e205]:
+                  - cell "3." [ref=f733e206]
+                  - cell [ref=f733e207]:
+                    - link "Alvin Kamara" [ref=f733e208] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30180
+                  - cell "Deepest" [ref=f733e209]
+                - row [ref=f733e210]:
+                  - cell "4." [ref=f733e211]
+                  - cell [ref=f733e212]:
+                    - link "Davante Adams" [ref=f733e213] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27581
+                  - cell "Wet Serapas" [ref=f733e214]
+                - row [ref=f733e215]:
+                  - cell "5." [ref=f733e216]
+                  - cell [ref=f733e217]:
+                    - link "Patrick Mahomes" [ref=f733e218] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30123
+                  - cell "Dezbians" [ref=f733e219]
+                - row [ref=f733e220]:
+                  - cell "6." [ref=f733e221]
+                  - cell [ref=f733e222]:
+                    - link "Mike Evans" [ref=f733e223] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27535
+                  - cell "Good Strongs" [ref=f733e224]
+                - row [ref=f733e225]:
+                  - cell "7." [ref=f733e226]
+                  - cell [ref=f733e227]:
+                    - link "Aaron Jones Sr." [ref=f733e228] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30295
+                  - cell "Bigballs" [ref=f733e229]
+                - row [ref=f733e230]:
+                  - cell "8." [ref=f733e231]
+                  - cell [ref=f733e232]:
+                    - link "Nick Chubb" [ref=f733e233] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31005
+                  - cell "FFAmuseBouche" [ref=f733e234]
+            - table [ref=f733e236]:
+              - rowgroup [ref=f733e241]:
+                - row [ref=f733e242]:
+                  - columnheader "Round 3" [ref=f733e243]
+              - rowgroup [ref=f733e244]:
+                - row [ref=f733e245]:
+                  - cell "1." [ref=f733e246]
+                  - cell [ref=f733e247]:
+                    - link "Travis Kelce" [ref=f733e248] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26686
+                  - cell "DUGASM" [ref=f733e249]
+                - row [ref=f733e250]:
+                  - cell "2." [ref=f733e251]
+                  - cell [ref=f733e252]:
+                    - link "Ezekiel Elliott" [ref=f733e253] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29238
+                  - cell "Bigballs" [ref=f733e254]
+                - row [ref=f733e255]:
+                  - cell "3." [ref=f733e256]
+                  - cell [ref=f733e257]:
+                    - link "Lamar Jackson" [ref=f733e258] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31002
+                  - cell "Good Strongs" [ref=f733e259]
+                - row [ref=f733e260]:
+                  - cell "4." [ref=f733e261]
+                  - cell [ref=f733e262]:
+                    - link "D'Andre Swift" [ref=f733e263] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32705
+                    - text: 
+                  - cell "Dezbians" [ref=f733e264]
+                - row [ref=f733e265]:
+                  - cell "5." [ref=f733e266]
+                  - cell [ref=f733e267]:
+                    - link "Tyreek Hill" [ref=f733e268] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29399
+                  - cell "Wet Serapas" [ref=f733e269]
+                - row [ref=f733e270]:
+                  - cell "6." [ref=f733e271]
+                  - cell [ref=f733e272]:
+                    - link "Tom Brady" [ref=f733e273] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/5228
+                  - cell "Deepest" [ref=f733e274]
+                - row [ref=f733e275]:
+                  - cell "7." [ref=f733e276]
+                  - cell [ref=f733e277]:
+                    - link "Kyler Murray" [ref=f733e278] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31833
+                  - cell "Vaqueros" [ref=f733e279]
+                - row [ref=f733e280]:
+                  - cell "8." [ref=f733e281]
+                  - cell [ref=f733e282]:
+                    - link "Stefon Diggs" [ref=f733e283] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28534
+                    - text: 
+                  - cell "FFAmuseBouche" [ref=f733e284]
+          - generic [ref=f733e285]:
+            - table [ref=f733e287]:
+              - rowgroup [ref=f733e292]:
+                - row [ref=f733e293]:
+                  - columnheader "Round 4" [ref=f733e294]
+              - rowgroup [ref=f733e295]:
+                - row [ref=f733e296]:
+                  - cell "1." [ref=f733e297]
+                  - cell [ref=f733e298]:
+                    - link "A.J. Brown" [ref=f733e299] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31883
+                  - cell "DUGASM" [ref=f733e300]
+                - row [ref=f733e301]:
+                  - cell "2." [ref=f733e302]
+                  - cell [ref=f733e303]:
+                    - link "Travis Etienne Jr." [ref=f733e304] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33413
+                  - cell "Vaqueros" [ref=f733e305]
+                - row [ref=f733e306]:
+                  - cell "3." [ref=f733e307]
+                  - cell [ref=f733e308]:
+                    - link "Cooper Kupp" [ref=f733e309] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30182
+                    - text: 
+                  - cell "Deepest" [ref=f733e310]
+                - row [ref=f733e311]:
+                  - cell "4." [ref=f733e312]
+                  - cell [ref=f733e313]:
+                    - link "Jalen Hurts" [ref=f733e314] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32723
+                  - cell "Wet Serapas" [ref=f733e315]
+                - row [ref=f733e316]:
+                  - cell "5." [ref=f733e317]
+                  - cell [ref=f733e318]:
+                    - link "Cam Akers" [ref=f733e319] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32722
+                  - cell "Dezbians" [ref=f733e320]
+                - row [ref=f733e321]:
+                  - cell "6." [ref=f733e322]
+                  - cell [ref=f733e323]:
+                    - link "Dak Prescott" [ref=f733e324] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29369
+                  - cell "DUGASM" [ref=f733e325]
+                - row [ref=f733e326]:
+                  - cell "7." [ref=f733e327]
+                  - cell [ref=f733e328]:
+                    - link "Keenan Allen" [ref=f733e329] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26699
+                    - text: 
+                  - cell "Bigballs" [ref=f733e330]
+                - row [ref=f733e331]:
+                  - cell "8." [ref=f733e332]
+                  - cell [ref=f733e333]:
+                    - link "Aaron Rodgers" [ref=f733e334] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7200
+                  - cell "FFAmuseBouche" [ref=f733e335]
+            - table [ref=f733e337]:
+              - rowgroup [ref=f733e342]:
+                - row [ref=f733e343]:
+                  - columnheader "Round 5" [ref=f733e344]
+              - rowgroup [ref=f733e345]:
+                - row [ref=f733e346]:
+                  - cell "1." [ref=f733e347]
+                  - cell [ref=f733e348]:
+                    - link "Kyle Pitts Sr." [ref=f733e349] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33392
+                  - cell "FFAmuseBouche" [ref=f733e350]
+                - row [ref=f733e351]:
+                  - cell "2." [ref=f733e352]
+                  - cell [ref=f733e353]:
+                    - link "Russell Wilson" [ref=f733e354] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25785
+                  - cell "Bigballs" [ref=f733e355]
+                - row [ref=f733e356]:
+                  - cell "3." [ref=f733e357]
+                  - cell [ref=f733e358]:
+                    - link "Tee Higgins" [ref=f733e359] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32703
+                  - cell "Good Strongs" [ref=f733e360]
+                - row [ref=f733e361]:
+                  - cell "4." [ref=f733e362]
+                  - cell [ref=f733e363]:
+                    - link "Courtland Sutton" [ref=f733e364] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31010
+                    - text: 
+                  - cell "Dezbians" [ref=f733e365]
+                - row [ref=f733e366]:
+                  - cell "5." [ref=f733e367]
+                  - cell [ref=f733e368]:
+                    - link "Elijah Mitchell" [ref=f733e369] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33582
+                  - cell "Wet Serapas" [ref=f733e370]
+                - row [ref=f733e371]:
+                  - cell "6." [ref=f733e372]
+                  - cell [ref=f733e373]:
+                    - link "Mike Williams" [ref=f733e374] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30120
+                  - cell "Deepest" [ref=f733e375]
+                - row [ref=f733e376]:
+                  - cell "7." [ref=f733e377]
+                  - cell [ref=f733e378]:
+                    - link "Mark Andrews" [ref=f733e379] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31056
+                    - text: 
+                  - cell "Vaqueros" [ref=f733e380]
+                - row [ref=f733e381]:
+                  - cell "8." [ref=f733e382]
+                  - cell [ref=f733e383]:
+                    - link "Javonte Williams" [ref=f733e384] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33423
+                    - text: 
+                  - cell "Good Strongs" [ref=f733e385]
+            - table [ref=f733e387]:
+              - rowgroup [ref=f733e392]:
+                - row [ref=f733e393]:
+                  - columnheader "Round 6" [ref=f733e394]
+              - rowgroup [ref=f733e395]:
+                - row [ref=f733e396]:
+                  - cell "1." [ref=f733e397]
+                  - cell [ref=f733e398]:
+                    - link "George Kittle" [ref=f733e399] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30259
+                  - cell "Good Strongs" [ref=f733e400]
+                - row [ref=f733e401]:
+                  - cell "2." [ref=f733e402]
+                  - cell [ref=f733e403]:
+                    - link "Breece Hall" [ref=f733e404] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33991
+                  - cell "Vaqueros" [ref=f733e405]
+                - row [ref=f733e406]:
+                  - cell "3." [ref=f733e407]
+                  - cell [ref=f733e408]:
+                    - link "Darren Waller" [ref=f733e409] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28592
+                    - text: 
+                  - cell "Deepest" [ref=f733e410]
+                - row [ref=f733e411]:
+                  - cell "4." [ref=f733e412]
+                  - cell [ref=f733e413]:
+                    - link "Matthew Stafford" [ref=f733e414] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9265
+                  - cell "Wet Serapas" [ref=f733e415]
+                - row [ref=f733e416]:
+                  - cell "5." [ref=f733e417]
+                  - cell [ref=f733e418]:
+                    - link "Ja'Marr Chase" [ref=f733e419] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33393
+                    - text: 
+                  - cell "Dezbians" [ref=f733e420]
+                - row [ref=f733e421]:
+                  - cell "6." [ref=f733e422]
+                  - cell [ref=f733e423]:
+                    - link "Deebo Samuel Sr." [ref=f733e424] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31868
+                    - text: 
+                  - cell "DUGASM" [ref=f733e425]
+                - row [ref=f733e426]:
+                  - cell "7." [ref=f733e427]
+                  - cell [ref=f733e428]:
+                    - link "J.K. Dobbins" [ref=f733e429] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32725
+                  - cell "Wet Serapas" [ref=f733e430]
+                - row [ref=f733e431]:
+                  - cell "8." [ref=f733e432]
+                  - cell [ref=f733e433]:
+                    - link "DJ Moore" [ref=f733e434] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30994
+                  - cell "FFAmuseBouche" [ref=f733e435]
+          - generic [ref=f733e436]:
+            - table [ref=f733e438]:
+              - rowgroup [ref=f733e443]:
+                - row [ref=f733e444]:
+                  - columnheader "Round 7" [ref=f733e445]
+              - rowgroup [ref=f733e446]:
+                - row [ref=f733e447]:
+                  - cell "1." [ref=f733e448]
+                  - cell [ref=f733e449]:
+                    - link "DK Metcalf" [ref=f733e450] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31896
+                  - cell "FFAmuseBouche" [ref=f733e451]
+                - row [ref=f733e452]:
+                  - cell "2." [ref=f733e453]
+                  - cell [ref=f733e454]:
+                    - link "Dalton Schultz" [ref=f733e455] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31107
+                  - cell "Bigballs" [ref=f733e456]
+                - row [ref=f733e457]:
+                  - cell "3." [ref=f733e458]
+                  - cell [ref=f733e459]:
+                    - link "Terry McLaurin" [ref=f733e460] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31908
+                  - cell "FFAmuseBouche" [ref=f733e461]
+                - row [ref=f733e462]:
+                  - cell "4." [ref=f733e463]
+                  - cell [ref=f733e464]:
+                    - link "Derek Carr" [ref=f733e465] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27564
+                  - cell "Dezbians" [ref=f733e466]
+                - row [ref=f733e467]:
+                  - cell "5." [ref=f733e468]
+                  - cell [ref=f733e469]:
+                    - link "Josh Jacobs" [ref=f733e470] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31856
+                  - cell "Wet Serapas" [ref=f733e471]
+                - row [ref=f733e472]:
+                  - cell "6." [ref=f733e473]
+                  - cell [ref=f733e474]:
+                    - link "David Montgomery" [ref=f733e475] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31905
+                    - text: 
+                  - cell "Deepest" [ref=f733e476]
+                - row [ref=f733e477]:
+                  - cell "7." [ref=f733e478]
+                  - cell [ref=f733e479]:
+                    - link "Clyde Edwards-Helaire" [ref=f733e480] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32702
+                  - cell "Vaqueros" [ref=f733e481]
+                - row [ref=f733e482]:
+                  - cell "8." [ref=f733e483]
+                  - cell [ref=f733e484]:
+                    - link "Jaylen Waddle" [ref=f733e485] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33394
+                  - cell "DUGASM" [ref=f733e486]
+            - table [ref=f733e488]:
+              - rowgroup [ref=f733e493]:
+                - row [ref=f733e494]:
+                  - columnheader "Round 8" [ref=f733e495]
+              - rowgroup [ref=f733e496]:
+                - row [ref=f733e497]:
+                  - cell "1." [ref=f733e498]
+                  - cell [ref=f733e499]:
+                    - link "AJ Dillon" [ref=f733e500] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32732
+                  - cell "DUGASM" [ref=f733e501]
+                - row [ref=f733e502]:
+                  - cell "2." [ref=f733e503]
+                  - cell [ref=f733e504]:
+                    - link "CeeDee Lamb" [ref=f733e505] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32687
+                    - text: 
+                  - cell "Vaqueros" [ref=f733e506]
+                - row [ref=f733e507]:
+                  - cell "3." [ref=f733e508]
+                  - cell [ref=f733e509]:
+                    - link "Brandin Cooks" [ref=f733e510] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27548
+                  - cell "Deepest" [ref=f733e511]
+                - row [ref=f733e512]:
+                  - cell "4." [ref=f733e513]
+                  - cell [ref=f733e514]:
+                    - link "Tony Pollard" [ref=f733e515] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31960
+                  - cell "Bigballs" [ref=f733e516]
+                - row [ref=f733e517]:
+                  - cell "5." [ref=f733e518]
+                  - cell [ref=f733e519]:
+                    - link "Michael Thomas" [ref=f733e520] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29281
+                  - cell "Dezbians" [ref=f733e521]
+                - row [ref=f733e522]:
+                  - cell "6." [ref=f733e523]
+                  - cell [ref=f733e524]:
+                    - link "Allen Robinson" [ref=f733e525] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27589
+                  - cell "Good Strongs" [ref=f733e526]
+                - row [ref=f733e527]:
+                  - cell "7." [ref=f733e528]
+                  - cell [ref=f733e529]:
+                    - link "Diontae Johnson" [ref=f733e530] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31898
+                    - text: 
+                  - cell "Bigballs" [ref=f733e531]
+                - row [ref=f733e532]:
+                  - cell "8." [ref=f733e533]
+                  - cell [ref=f733e534]:
+                    - link "Joe Burrow" [ref=f733e535] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32671
+                    - text: 
+                  - cell "FFAmuseBouche" [ref=f733e536]
+            - table [ref=f733e538]:
+              - rowgroup [ref=f733e543]:
+                - row [ref=f733e544]:
+                  - columnheader "Round 9" [ref=f733e545]
+              - rowgroup [ref=f733e546]:
+                - row [ref=f733e547]:
+                  - cell "1." [ref=f733e548]
+                  - cell [ref=f733e549]:
+                    - link "Tua Tagovailoa" [ref=f733e550] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32675
+                  - cell "Good Strongs" [ref=f733e551]
+                - row [ref=f733e552]:
+                  - cell "2." [ref=f733e553]
+                  - cell [ref=f733e554]:
+                    - link "Chase Edmonds" [ref=f733e555] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31104
+                  - cell "Good Strongs" [ref=f733e556]
+                - row [ref=f733e557]:
+                  - cell "3." [ref=f733e558]
+                  - cell [ref=f733e559]:
+                    - link "Chris Godwin Jr." [ref=f733e560] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30197
+                  - cell "Good Strongs" [ref=f733e561]
+                - row [ref=f733e562]:
+                  - cell "4." [ref=f733e563]
+                  - cell [ref=f733e564]:
+                    - link "Amon-Ra St. Brown" [ref=f733e565] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33500
+                  - cell "Dezbians" [ref=f733e566]
+                - row [ref=f733e567]:
+                  - cell "5." [ref=f733e568]
+                  - cell [ref=f733e569]:
+                    - link "Kareem Hunt" [ref=f733e570] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30199
+                  - cell "Wet Serapas" [ref=f733e571]
+                - row [ref=f733e572]:
+                  - cell "6." [ref=f733e573]
+                  - cell [ref=f733e574]:
+                    - link "Kirk Cousins" [ref=f733e575] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25812
+                  - cell "Deepest" [ref=f733e576]
+                - row [ref=f733e577]:
+                  - cell "7." [ref=f733e578]
+                  - cell [ref=f733e579]:
+                    - link "Rashod Bateman" [ref=f733e580] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33415
+                  - cell "Vaqueros" [ref=f733e581]
+                - row [ref=f733e582]:
+                  - cell "8." [ref=f733e583]
+                  - cell [ref=f733e584]:
+                    - link "JuJu Smith-Schuster" [ref=f733e585] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30175
+                  - cell "DUGASM" [ref=f733e586]
+          - generic [ref=f733e587]:
+            - table [ref=f733e589]:
+              - rowgroup [ref=f733e594]:
+                - row [ref=f733e595]:
+                  - columnheader "Round 10" [ref=f733e596]
+              - rowgroup [ref=f733e597]:
+                - row [ref=f733e598]:
+                  - cell "1." [ref=f733e599]
+                  - cell [ref=f733e600]:
+                    - link "Melvin Gordon III" [ref=f733e601] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28403
+                  - cell "DUGASM" [ref=f733e602]
+                - row [ref=f733e603]:
+                  - cell "2." [ref=f733e604]
+                  - cell [ref=f733e605]:
+                    - link "Amari Cooper" [ref=f733e606] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28392
+                  - cell "Vaqueros" [ref=f733e607]
+                - row [ref=f733e608]:
+                  - cell "3." [ref=f733e609]
+                  - cell [ref=f733e610]:
+                    - link "Gabe Davis" [ref=f733e611] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32798
+                  - cell "Deepest" [ref=f733e612]
+                - row [ref=f733e613]:
+                  - cell "4." [ref=f733e614]
+                  - cell [ref=f733e615]:
+                    - link "Dallas Goedert" [ref=f733e616] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31019
+                  - cell "Wet Serapas" [ref=f733e617]
+                - row [ref=f733e618]:
+                  - cell "5." [ref=f733e619]
+                  - cell [ref=f733e620]:
+                    - link "Trevor Lawrence" [ref=f733e621] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33389
+                  - cell "Dezbians" [ref=f733e622]
+                - row [ref=f733e623]:
+                  - cell "6." [ref=f733e624]
+                  - cell [ref=f733e625]:
+                    - link "Cordarrelle Patterson" [ref=f733e626] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26652
+                  - cell "Good Strongs" [ref=f733e627]
+                - row [ref=f733e628]:
+                  - cell "7." [ref=f733e629]
+                  - cell [ref=f733e630]:
+                    - link "Rhamondre Stevenson" [ref=f733e631] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33508
+                  - cell "Bigballs" [ref=f733e632]
+                - row [ref=f733e633]:
+                  - cell "8." [ref=f733e634]
+                  - cell [ref=f733e635]:
+                    - link "Leonard Fournette" [ref=f733e636] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30117
+                    - text: 
+                  - cell "FFAmuseBouche" [ref=f733e637]
+            - table [ref=f733e639]:
+              - rowgroup [ref=f733e644]:
+                - row [ref=f733e645]:
+                  - columnheader "Round 11" [ref=f733e646]
+              - rowgroup [ref=f733e647]:
+                - row [ref=f733e648]:
+                  - cell "1." [ref=f733e649]
+                  - cell [ref=f733e650]:
+                    - link "Dameon Pierce" [ref=f733e651] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34063
+                  - cell "FFAmuseBouche" [ref=f733e652]
+                - row [ref=f733e653]:
+                  - cell "2." [ref=f733e654]
+                  - cell [ref=f733e655]:
+                    - link "Christian Kirk" [ref=f733e656] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31017
+                  - cell "Bigballs" [ref=f733e657]
+                - row [ref=f733e658]:
+                  - cell "3." [ref=f733e659]
+                  - cell [ref=f733e660]:
+                    - link "Devin Singletary" [ref=f733e661] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31906
+                  - cell "Good Strongs" [ref=f733e662]
+                - row [ref=f733e663]:
+                  - cell "4." [ref=f733e664]
+                  - cell [ref=f733e665]:
+                    - link "Elijah Moore" [ref=f733e666] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33422
+                  - cell "Dezbians" [ref=f733e667]
+                - row [ref=f733e668]:
+                  - cell "5." [ref=f733e669]
+                  - cell [ref=f733e670]:
+                    - link "Jerry Jeudy" [ref=f733e671] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32685
+                    - text: 
+                  - cell "Wet Serapas" [ref=f733e672]
+                - row [ref=f733e673]:
+                  - cell "6." [ref=f733e674]
+                  - cell [ref=f733e675]:
+                    - link "Damien Harris" [ref=f733e676] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31919
+                  - cell "Deepest" [ref=f733e677]
+                - row [ref=f733e678]:
+                  - cell "7." [ref=f733e679]
+                  - cell [ref=f733e680]:
+                    - link "Antonio Gibson" [ref=f733e681] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32736
+                  - cell "Vaqueros" [ref=f733e682]
+                - row [ref=f733e683]:
+                  - cell "8." [ref=f733e684]
+                  - cell [ref=f733e685]:
+                    - link "James Conner" [ref=f733e686] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30218
+                    - text: 
+                  - cell "DUGASM" [ref=f733e687]
+            - table [ref=f733e689]:
+              - rowgroup [ref=f733e694]:
+                - row [ref=f733e695]:
+                  - columnheader "Round 12" [ref=f733e696]
+              - rowgroup [ref=f733e697]:
+                - row [ref=f733e698]:
+                  - cell "1." [ref=f733e699]
+                  - cell [ref=f733e700]:
+                    - link "Justin Fields" [ref=f733e701] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33399
+                  - cell "DUGASM" [ref=f733e702]
+                - row [ref=f733e703]:
+                  - cell "2." [ref=f733e704]
+                  - cell [ref=f733e705]:
+                    - link "Allen Lazard" [ref=f733e706] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31268
+                  - cell "Vaqueros" [ref=f733e707]
+                - row [ref=f733e708]:
+                  - cell "3." [ref=f733e709]
+                  - cell [ref=f733e710]:
+                    - link "Adam Thielen" [ref=f733e711] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27277
+                  - cell "Deepest" [ref=f733e712]
+                - row [ref=f733e713]:
+                  - cell "4." [ref=f733e714]
+                  - cell [ref=f733e715]:
+                    - link "DeAndre Hopkins" [ref=f733e716] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26650
+                  - cell "Wet Serapas" [ref=f733e717]
+                - row [ref=f733e718]:
+                  - cell "5." [ref=f733e719]
+                  - cell [ref=f733e720]:
+                    - link "Hunter Renfrow" [ref=f733e721] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31981
+                  - cell "Dezbians" [ref=f733e722]
+                - row [ref=f733e723]:
+                  - cell "6." [ref=f733e724]
+                  - cell [ref=f733e725]:
+                    - link "DeVonta Smith" [ref=f733e726] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33398
+                  - cell "Good Strongs" [ref=f733e727]
+                - row [ref=f733e728]:
+                  - cell "7." [ref=f733e729]
+                  - cell [ref=f733e730]:
+                    - link "Brian Robinson" [ref=f733e731] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34054
+                  - cell "Bigballs" [ref=f733e732]
+                - row [ref=f733e733]:
+                  - cell "8." [ref=f733e734]
+                  - cell [ref=f733e735]:
+                    - link "Jameis Winston" [ref=f733e736] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28389
+                  - cell "FFAmuseBouche" [ref=f733e737]
+          - generic [ref=f733e738]:
+            - table [ref=f733e740]:
+              - rowgroup [ref=f733e745]:
+                - row [ref=f733e746]:
+                  - columnheader "Round 13" [ref=f733e747]
+              - rowgroup [ref=f733e748]:
+                - row [ref=f733e749]:
+                  - cell "1." [ref=f733e750]
+                  - cell [ref=f733e751]:
+                    - link "Drake London" [ref=f733e752] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33963
+                  - cell "FFAmuseBouche" [ref=f733e753]
+                - row [ref=f733e754]:
+                  - cell "2." [ref=f733e755]
+                  - cell [ref=f733e756]:
+                    - link "Miles Sanders" [ref=f733e757] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31885
+                  - cell "Bigballs" [ref=f733e758]
+                - row [ref=f733e759]:
+                  - cell "3." [ref=f733e760]
+                  - cell [ref=f733e761]:
+                    - link "Michael Pittman Jr." [ref=f733e762] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32704
+                    - text: 
+                  - cell "Good Strongs" [ref=f733e763]
+                - row [ref=f733e764]:
+                  - cell "4." [ref=f733e765]
+                  - cell [ref=f733e766]:
+                    - link "Mike Gesicki" [ref=f733e767] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31012
+                  - cell "Dezbians" [ref=f733e768]
+                - row [ref=f733e769]:
+                  - cell "5." [ref=f733e770]
+                  - cell [ref=f733e771]:
+                    - link "Brandon Aiyuk" [ref=f733e772] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32695
+                  - cell "Wet Serapas" [ref=f733e773]
+                - row [ref=f733e774]:
+                  - cell "6." [ref=f733e775]
+                  - cell [ref=f733e776]:
+                    - link "Kenneth Walker III" [ref=f733e777] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33996
+                  - cell "Deepest" [ref=f733e778]
+                - row [ref=f733e779]:
+                  - cell "7." [ref=f733e780]
+                  - cell [ref=f733e781]:
+                    - link "Robert Woods" [ref=f733e782] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26664
+                  - cell "Vaqueros" [ref=f733e783]
+                - row [ref=f733e784]:
+                  - cell "8." [ref=f733e785]
+                  - cell [ref=f733e786]:
+                    - link "Tyler Lockett" [ref=f733e787] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28457
+                  - cell "DUGASM" [ref=f733e788]
+            - table [ref=f733e790]:
+              - rowgroup [ref=f733e795]:
+                - row [ref=f733e796]:
+                  - columnheader "Round 14" [ref=f733e797]
+              - rowgroup [ref=f733e798]:
+                - row [ref=f733e799]:
+                  - cell "1." [ref=f733e800]
+                  - cell [ref=f733e801]:
+                    - link "Zach Ertz" [ref=f733e802] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26658
+                  - cell "DUGASM" [ref=f733e803]
+                - row [ref=f733e804]:
+                  - cell "2." [ref=f733e805]
+                  - cell [ref=f733e806]:
+                    - link "Matt Ryan" [ref=f733e807] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8780
+                  - cell "Vaqueros" [ref=f733e808]
+                - row [ref=f733e809]:
+                  - cell "3." [ref=f733e810]
+                  - cell [ref=f733e811]:
+                    - link "Kadarius Toney" [ref=f733e812] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33408
+                  - cell "Deepest" [ref=f733e813]
+                - row [ref=f733e814]:
+                  - cell "4." [ref=f733e815]
+                  - cell [ref=f733e816]:
+                    - link "Darnell Mooney" [ref=f733e817] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32843
+                    - text: 
+                  - cell "Wet Serapas" [ref=f733e818]
+                - row [ref=f733e819]:
+                  - cell "5." [ref=f733e820]
+                  - cell [ref=f733e821]:
+                    - link "Chris Olave" [ref=f733e822] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33966
+                  - cell "Dezbians" [ref=f733e823]
+                - row [ref=f733e824]:
+                  - cell "6." [ref=f733e825]
+                  - cell [ref=f733e826]:
+                    - link "Bills" [ref=f733e827] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/buffalo/
+                  - cell "Bigballs" [ref=f733e828]
+                - row [ref=f733e829]:
+                  - cell "7." [ref=f733e830]
+                  - cell [ref=f733e831]:
+                    - link "DJ Chark" [ref=f733e832] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31031
+                  - cell "Bigballs" [ref=f733e833]
+                - row [ref=f733e834]:
+                  - cell "8." [ref=f733e835]
+                  - cell [ref=f733e836]:
+                    - link "Marcus Mariota" [ref=f733e837] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28390
+                  - cell "FFAmuseBouche" [ref=f733e838]
+            - table [ref=f733e840]:
+              - rowgroup [ref=f733e845]:
+                - row [ref=f733e846]:
+                  - columnheader "Round 15" [ref=f733e847]
+              - rowgroup [ref=f733e848]:
+                - row [ref=f733e849]:
+                  - cell "1." [ref=f733e850]
+                  - cell [ref=f733e851]:
+                    - link "Rashaad Penny" [ref=f733e852] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30997
+                  - cell "FFAmuseBouche" [ref=f733e853]
+                - row [ref=f733e854]:
+                  - cell "2." [ref=f733e855]
+                  - cell [ref=f733e856]:
+                    - link "Hollywood Brown" [ref=f733e857] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31857
+                    - text: 
+                  - cell "Bigballs" [ref=f733e858]
+                - row [ref=f733e859]:
+                  - cell "3." [ref=f733e860]
+                  - cell [ref=f733e861]:
+                    - link "Nyheim Miller-Hines" [ref=f733e862] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31074
+                  - cell "Good Strongs" [ref=f733e863]
+                - row [ref=f733e864]:
+                  - cell "4." [ref=f733e865]
+                  - cell [ref=f733e866]:
+                    - link "Mac Jones" [ref=f733e867] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33403
+                  - cell "Dezbians" [ref=f733e868]
+                - row [ref=f733e869]:
+                  - cell "5." [ref=f733e870]
+                  - cell [ref=f733e871]:
+                    - link "Khalil Herbert" [ref=f733e872] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33605
+                  - cell "Wet Serapas" [ref=f733e873]
+                - row [ref=f733e874]:
+                  - cell "6." [ref=f733e875]
+                  - cell [ref=f733e876]:
+                    - link "Marquez Valdes-Scantling" [ref=f733e877] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31144
+                  - cell "Deepest" [ref=f733e878]
+                - row [ref=f733e879]:
+                  - cell "7." [ref=f733e880]
+                  - cell [ref=f733e881]:
+                    - link "Justin Jefferson" [ref=f733e882] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32692
+                    - text: 
+                  - cell "Vaqueros" [ref=f733e883]
+                - row [ref=f733e884]:
+                  - cell "8." [ref=f733e885]
+                  - cell [ref=f733e886]:
+                    - link "Albert Okwuegbunam Jr." [ref=f733e887] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32788
+                  - cell "DUGASM" [ref=f733e888]
+          - generic [ref=f733e889]:
+            - table [ref=f733e891]:
+              - rowgroup [ref=f733e896]:
+                - row [ref=f733e897]:
+                  - columnheader "Round 16" [ref=f733e898]
+              - rowgroup [ref=f733e899]:
+                - row [ref=f733e900]:
+                  - cell "1." [ref=f733e901]
+                  - cell [ref=f733e902]:
+                    - link "Chase Claypool" [ref=f733e903] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32719
+                  - cell "DUGASM" [ref=f733e904]
+                - row [ref=f733e905]:
+                  - cell "2." [ref=f733e906]
+                  - cell [ref=f733e907]:
+                    - link "Kenny Pickett" [ref=f733e908] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33975
+                  - cell "Vaqueros" [ref=f733e909]
+                - row [ref=f733e910]:
+                  - cell "3." [ref=f733e911]
+                  - cell [ref=f733e912]:
+                    - link "Tyler Boyd" [ref=f733e913] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29288
+                  - cell "Deepest" [ref=f733e914]
+                - row [ref=f733e915]:
+                  - cell "4." [ref=f733e916]
+                  - cell [ref=f733e917]:
+                    - link "Michael Gallup" [ref=f733e918] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31051
+                  - cell "Wet Serapas" [ref=f733e919]
+                - row [ref=f733e920]:
+                  - cell "5." [ref=f733e921]
+                  - cell [ref=f733e922]:
+                    - link "George Pickens" [ref=f733e923] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34007
+                  - cell "Dezbians" [ref=f733e924]
+                - row [ref=f733e925]:
+                  - cell "6." [ref=f733e926]
+                  - cell [ref=f733e927]:
+                    - link "Trey Lance" [ref=f733e928] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33391
+                    - text: 
+                  - cell "Good Strongs" [ref=f733e929]
+                - row [ref=f733e930]:
+                  - cell "7." [ref=f733e931]
+                  - cell [ref=f733e932]:
+                    - link "T.J. Hockenson" [ref=f733e933] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31840
+                  - cell "Bigballs" [ref=f733e934]
+                - row [ref=f733e935]:
+                  - cell "8." [ref=f733e936]
+                  - cell [ref=f733e937]:
+                    - link "Darrell Henderson Jr." [ref=f733e938] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31902
+                  - cell "FFAmuseBouche" [ref=f733e939]
+            - table [ref=f733e941]:
+              - rowgroup [ref=f733e946]:
+                - row [ref=f733e947]:
+                  - columnheader "Round 17" [ref=f733e948]
+              - rowgroup [ref=f733e949]:
+                - row [ref=f733e950]:
+                  - cell "1." [ref=f733e951]
+                  - cell [ref=f733e952]:
+                    - link "Julio Jones" [ref=f733e953] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24793
+                  - cell "FFAmuseBouche" [ref=f733e954]
+                - row [ref=f733e955]:
+                  - cell "2." [ref=f733e956]
+                  - cell [ref=f733e957]:
+                    - link "Justin Tucker" [ref=f733e958] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26534
+                  - cell "Bigballs" [ref=f733e959]
+                - row [ref=f733e960]:
+                  - cell "3." [ref=f733e961]
+                  - cell [ref=f733e962]:
+                    - link "Dawson Knox" [ref=f733e963] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31928
+                  - cell "Good Strongs" [ref=f733e964]
+                - row [ref=f733e965]:
+                  - cell "4." [ref=f733e966]
+                  - cell [ref=f733e967]:
+                    - link "Skyy Moore" [ref=f733e968] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34009
+                  - cell "Dezbians" [ref=f733e969]
+                - row [ref=f733e970]:
+                  - cell "5." [ref=f733e971]
+                  - cell [ref=f733e972]:
+                    - link "Deshaun Watson" [ref=f733e973] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30125
+                    - text: 
+                  - cell "Wet Serapas" [ref=f733e974]
+                - row [ref=f733e975]:
+                  - cell "6." [ref=f733e976]
+                  - cell [ref=f733e977]:
+                    - link "Daniel Jones" [ref=f733e978] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31838
+                  - cell "Deepest" [ref=f733e979]
+                - row [ref=f733e980]:
+                  - cell "7." [ref=f733e981]
+                  - cell [ref=f733e982]:
+                    - link "Pat Freiermuth" [ref=f733e983] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33443
+                  - cell "Vaqueros" [ref=f733e984]
+                - row [ref=f733e985]:
+                  - cell "8." [ref=f733e986]
+                  - cell [ref=f733e987]:
+                    - link "Kenny Golladay" [ref=f733e988] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30209
+                  - cell "DUGASM" [ref=f733e989]
+            - table [ref=f733e991]:
+              - rowgroup [ref=f733e996]:
+                - row [ref=f733e997]:
+                  - columnheader "Round 18" [ref=f733e998]
+              - rowgroup [ref=f733e999]:
+                - row [ref=f733e1000]:
+                  - cell "1." [ref=f733e1001]
+                  - cell [ref=f733e1002]:
+                    - link "Ryan Tannehill" [ref=f733e1003] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25718
+                  - cell "DUGASM" [ref=f733e1004]
+                - row [ref=f733e1005]:
+                  - cell "2." [ref=f733e1006]
+                  - cell [ref=f733e1007]:
+                    - link "Jared Goff" [ref=f733e1008] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29235
+                  - cell "Vaqueros" [ref=f733e1009]
+                - row [ref=f733e1010]:
+                  - cell "3." [ref=f733e1011]
+                  - cell [ref=f733e1012]:
+                    - link "Treylon Burks" [ref=f733e1013] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33973
+                  - cell "Deepest" [ref=f733e1014]
+                - row [ref=f733e1015]:
+                  - cell "4." [ref=f733e1016]
+                  - cell [ref=f733e1017]:
+                    - link "Isiah Pacheco" [ref=f733e1018] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34207
+                  - cell "Wet Serapas" [ref=f733e1019]
+                - row [ref=f733e1020]:
+                  - cell "5." [ref=f733e1021]
+                  - cell [ref=f733e1022]:
+                    - link "Cowboys" [ref=f733e1023] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/dallas/
+                  - cell "Dezbians" [ref=f733e1024]
+                - row [ref=f733e1025]:
+                  - cell "6." [ref=f733e1026]
+                  - cell [ref=f733e1027]:
+                    - link "Kenny Gainwell" [ref=f733e1028] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33538
+                  - cell "Good Strongs" [ref=f733e1029]
+                - row [ref=f733e1030]:
+                  - cell "7." [ref=f733e1031]
+                  - cell [ref=f733e1032]:
+                    - link "Zach Wilson" [ref=f733e1033] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33390
+                  - cell "Bigballs" [ref=f733e1034]
+                - row [ref=f733e1035]:
+                  - cell "8." [ref=f733e1036]
+                  - cell [ref=f733e1037]:
+                    - link "Hunter Henry" [ref=f733e1038] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29269
+                  - cell "FFAmuseBouche" [ref=f733e1039]
+          - generic [ref=f733e1040]:
+            - table [ref=f733e1042]:
+              - rowgroup [ref=f733e1047]:
+                - row [ref=f733e1048]:
+                  - columnheader "Round 19" [ref=f733e1049]
+              - rowgroup [ref=f733e1050]:
+                - row [ref=f733e1051]:
+                  - cell "1." [ref=f733e1052]
+                  - cell [ref=f733e1053]:
+                    - link "David Njoku" [ref=f733e1054] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30142
+                  - cell "FFAmuseBouche" [ref=f733e1055]
+                - row [ref=f733e1056]:
+                  - cell "2." [ref=f733e1057]
+                  - cell [ref=f733e1058]:
+                    - link "Mecole Hardman Jr." [ref=f733e1059] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31888
+                  - cell "Bigballs" [ref=f733e1060]
+                - row [ref=f733e1061]:
+                  - cell "3." [ref=f733e1062]
+                  - cell [ref=f733e1063]:
+                    - link "49ers" [ref=f733e1064] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/san-francisco/
+                  - cell "Good Strongs" [ref=f733e1065]
+                - row [ref=f733e1066]:
+                  - cell "4." [ref=f733e1067]
+                  - cell [ref=f733e1068]:
+                    - link "Irv Smith Jr." [ref=f733e1069] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31882
+                  - cell "Dezbians" [ref=f733e1070]
+                - row [ref=f733e1071]:
+                  - cell "5." [ref=f733e1072]
+                  - cell [ref=f733e1073]:
+                    - link "Cole Kmet" [ref=f733e1074] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32713
+                  - cell "Wet Serapas" [ref=f733e1075]
+                - row [ref=f733e1076]:
+                  - cell "6." [ref=f733e1077]
+                  - cell [ref=f733e1078]:
+                    - link "Buccaneers" [ref=f733e1079] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/tampa-bay/
+                  - cell "Deepest" [ref=f733e1080]
+                - row [ref=f733e1081]:
+                  - cell "7." [ref=f733e1082]
+                  - cell [ref=f733e1083]:
+                    - link "Carson Wentz" [ref=f733e1084] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29236
+                  - cell "Vaqueros" [ref=f733e1085]
+                - row [ref=f733e1086]:
+                  - cell "8." [ref=f733e1087]
+                  - cell [ref=f733e1088]:
+                    - link "Patriots" [ref=f733e1089] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/new-england/
+                  - cell "DUGASM" [ref=f733e1090]
+            - table [ref=f733e1092]:
+              - rowgroup [ref=f733e1097]:
+                - row [ref=f733e1098]:
+                  - columnheader "Round 20" [ref=f733e1099]
+              - rowgroup [ref=f733e1100]:
+                - row [ref=f733e1101]:
+                  - cell "1." [ref=f733e1102]
+                  - cell [ref=f733e1103]:
+                    - link "DeVante Parker" [ref=f733e1104] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28402
+                  - cell "DUGASM" [ref=f733e1105]
+                - row [ref=f733e1106]:
+                  - cell "2." [ref=f733e1107]
+                  - cell [ref=f733e1108]:
+                    - link "Colts" [ref=f733e1109] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/indianapolis/
+                  - cell "Vaqueros" [ref=f733e1110]
+                - row [ref=f733e1111]:
+                  - cell "3." [ref=f733e1112]
+                  - cell [ref=f733e1113]:
+                    - link "Jimmy Garoppolo" [ref=f733e1114] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27590
+                  - cell "Deepest" [ref=f733e1115]
+                - row [ref=f733e1116]:
+                  - cell "4." [ref=f733e1117]
+                  - cell [ref=f733e1118]:
+                    - link "Davis Mills" [ref=f733e1119] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33455
+                  - cell "Wet Serapas" [ref=f733e1120]
+                - row [ref=f733e1121]:
+                  - cell "5." [ref=f733e1122]
+                  - cell [ref=f733e1123]:
+                    - link "Baker Mayfield" [ref=f733e1124] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30971
+                  - cell "Dezbians" [ref=f733e1125]
+                - row [ref=f733e1126]:
+                  - cell "6." [ref=f733e1127]
+                  - cell [ref=f733e1128]:
+                    - link "Jahan Dotson" [ref=f733e1129] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33971
+                  - cell "Good Strongs" [ref=f733e1130]
+                - row [ref=f733e1131]:
+                  - cell "7." [ref=f733e1132]
+                  - cell [ref=f733e1133]:
+                    - link "Mitchell Trubisky" [ref=f733e1134] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30115
+                  - cell "Bigballs" [ref=f733e1135]
+                - row [ref=f733e1136]:
+                  - cell "8." [ref=f733e1137]
+                  - cell [ref=f733e1138]:
+                    - link "Rams" [ref=f733e1139] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/la-rams/
+                  - cell "FFAmuseBouche" [ref=f733e1140]
+            - table [ref=f733e1142]:
+              - rowgroup [ref=f733e1147]:
+                - row [ref=f733e1148]:
+                  - columnheader "Round 21" [ref=f733e1149]
+              - rowgroup [ref=f733e1150]:
+                - row [ref=f733e1151]:
+                  - cell "1." [ref=f733e1152]
+                  - cell [ref=f733e1153]:
+                    - link "Romeo Doubs" [ref=f733e1154] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34088
+                  - cell "FFAmuseBouche" [ref=f733e1155]
+                - row [ref=f733e1156]:
+                  - cell "2." [ref=f733e1157]
+                  - cell [ref=f733e1158]:
+                    - link "Jarvis Landry" [ref=f733e1159] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27591
+                  - cell "Bigballs" [ref=f733e1160]
+                - row [ref=f733e1161]:
+                  - cell "3." [ref=f733e1162]
+                  - cell [ref=f733e1163]:
+                    - link "Tyler Bass" [ref=f733e1164] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32858
+                  - cell "Good Strongs" [ref=f733e1165]
+                - row [ref=f733e1166]:
+                  - cell "4." [ref=f733e1167]
+                  - cell [ref=f733e1168]:
+                    - link "Alec Pierce" [ref=f733e1169] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34008
+                  - cell "Dezbians" [ref=f733e1170]
+                - row [ref=f733e1171]:
+                  - cell "5." [ref=f733e1172]
+                  - cell [ref=f733e1173]:
+                    - link "Broncos" [ref=f733e1174] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/denver/
+                  - cell "Wet Serapas" [ref=f733e1175]
+                - row [ref=f733e1176]:
+                  - cell "6." [ref=f733e1177]
+                  - cell [ref=f733e1178]:
+                    - link "Matt Gay" [ref=f733e1179] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31977
+                  - cell "Deepest" [ref=f733e1180]
+                - row [ref=f733e1181]:
+                  - cell "7." [ref=f733e1182]
+                  - cell [ref=f733e1183]:
+                    - link "Evan McPherson" [ref=f733e1184] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33537
+                  - cell "Vaqueros" [ref=f733e1185]
+                - row [ref=f733e1186]:
+                  - cell "8." [ref=f733e1187]
+                  - cell [ref=f733e1188]:
+                    - link "Nick Folk" [ref=f733e1189] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8432
+                  - cell "DUGASM" [ref=f733e1190]
+          - table [ref=f733e1193]:
+            - rowgroup [ref=f733e1198]:
+              - row [ref=f733e1199]:
+                - columnheader "Round 22" [ref=f733e1200]
+            - rowgroup [ref=f733e1201]:
+              - row [ref=f733e1202]:
+                - cell "1." [ref=f733e1203]
+                - cell [ref=f733e1204]:
+                  - link "Russell Gage Jr." [ref=f733e1205] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/31164
+                - cell "DUGASM" [ref=f733e1206]
+              - row [ref=f733e1207]:
+                - cell "2." [ref=f733e1208]
+                - cell [ref=f733e1209]:
+                  - link "Malik Willis" [ref=f733e1210] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/34042
+                - cell "Vaqueros" [ref=f733e1211]
+              - row [ref=f733e1212]:
+                - cell "3." [ref=f733e1213]
+                - cell [ref=f733e1214]:
+                  - link "A.J. Green" [ref=f733e1215] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/24791
+                - cell "Deepest" [ref=f733e1216]
+              - row [ref=f733e1217]:
+                - cell "4." [ref=f733e1218]
+                - cell [ref=f733e1219]:
+                  - link "Daniel Carlson" [ref=f733e1220] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/31137
+                - cell "Wet Serapas" [ref=f733e1221]
+              - row [ref=f733e1222]:
+                - cell "5." [ref=f733e1223]
+                - cell [ref=f733e1224]:
+                  - link "Harrison Butker" [ref=f733e1225] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/30346
+                - cell "Dezbians" [ref=f733e1226]
+              - row [ref=f733e1227]:
+                - cell "6." [ref=f733e1228]
+                - cell [ref=f733e1229]:
+                  - link "James Cook III" [ref=f733e1230] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/34019
+                - cell "Good Strongs" [ref=f733e1231]
+              - row [ref=f733e1232]:
+                - cell "7." [ref=f733e1233]
+                - cell [ref=f733e1234]:
+                  - link "Calvin Ridley" [ref=f733e1235] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/30996
+                - cell "Bigballs" [ref=f733e1236]
+              - row [ref=f733e1237]:
+                - cell "8." [ref=f733e1238]
+                - cell [ref=f733e1239]:
+                  - link "Robbie Gould" [ref=f733e1240] [cursor=pointer]:
+                    - /url: https://sports.yahoo.com/nfl/players/7520
+                - cell "FFAmuseBouche" [ref=f733e1241]
+    - contentinfo
