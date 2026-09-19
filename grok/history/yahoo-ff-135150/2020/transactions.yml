@@ -1,0 +1,750 @@
+- generic [ref=f12614e3]:
+  - generic [ref=f12614e6]:
+    - banner [ref=f12614e8]:
+      - generic [ref=f12614e9]:
+        - generic [ref=f12614e11]:
+          - generic [ref=f12614e12]:
+            - generic [ref=f12614e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f12614e14]
+              - link "Yahoo Sports" [ref=f12614e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f12614e20]:
+              - generic [ref=f12614e21]: Search query
+              - combobox "Search query" [ref=f12614e22]
+              - button "Search" [ref=f12614e24] [cursor=pointer]
+          - navigation [ref=f12614e28]:
+            - list [ref=f12614e29]:
+              - listitem [ref=f12614e30]:
+                - link "News" [ref=f12614e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f12614e32]:
+                - link "Finance" [ref=f12614e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f12614e34]:
+                - link "Sports" [ref=f12614e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f12614e36]:
+                - button "More" [ref=f12614e37] [cursor=pointer]
+          - toolbar [ref=f12614e41]:
+            - link "Check your mail, 3724 messages, link" [ref=f12614e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f12614e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f12614e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f12614e55]:
+          - link "Fantasy Football" [ref=f12614e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f12614e60] [cursor=pointer]:
+            - /url: /2020/f1/622076
+          - link "League" [ref=f12614e61] [cursor=pointer]:
+            - /url: /2020/f1/622076
+          - link "My Team" [ref=f12614e62] [cursor=pointer]:
+            - /url: /2020/f1/622076/8
+          - link "Matchups" [ref=f12614e63] [cursor=pointer]:
+            - /url: /2020/f1/622076/matchup
+          - link "Players" [ref=f12614e64] [cursor=pointer]:
+            - /url: /2020/f1/622076/players
+          - link "Draft Results" [ref=f12614e65] [cursor=pointer]:
+            - /url: /2020/f1/622076/draftresults
+          - list [ref=f12614e68]:
+            - listitem [ref=f12614e69]:
+              - link [ref=f12614e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f12614e79]:
+              - link [ref=f12614e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f12614e89]:
+              - link "Get Fantasy Plus" [ref=f12614e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f12614e97]: 8Deep (ID# 622076)
+  - generic [ref=f12614e101]:
+    - banner [ref=f12614e102]:
+      - generic [ref=f12614e103]:
+        - heading [level=2] [ref=f12614e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f12614e106] [cursor=pointer]:
+            - /url: /2020/f1
+        - iframe [ref=f12614e639]:
+          - iframe [ref=f12627e2]:
+            - generic [ref=f12645e3] [cursor=pointer]
+        - link [ref=f12614e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f12614e113]
+    - generic [ref=f12614e118]:
+      - heading "Transactions" [level=1] [ref=f12614e122]
+      - generic [ref=f12614e124]:
+        - generic [ref=f12614e125]:
+          - heading "Recent Transactions" [level=2] [ref=f12614e126]
+          - link "All Teams " [ref=f12614e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f12614e129]:
+              - generic [ref=f12614e130]: All Teams
+              - generic [ref=f12614e131]: 
+        - generic [ref=f12614e132]:
+          - list [ref=f12614e134]:
+            - listitem [ref=f12614e135]:
+              - link "All Transactions" [ref=f12614e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f12614e137]:
+              - link "Added Players" [ref=f12614e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f12614e139]:
+              - link "Dropped Players" [ref=f12614e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f12614e141]:
+              - link "Trades" [ref=f12614e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f12614e143]:
+              - link "Waiver Offers" [ref=f12614e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=waiver"
+          - list [ref=f12614e147]:
+            - listitem [ref=f12614e148]: Previous 25
+            - listitem [ref=f12614e149]:
+              - link "Next 25" [ref=f12614e150] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&count=25"
+          - table [ref=f12614e151]:
+            - rowgroup [ref=f12614e152]:
+              - row [ref=f12614e153]:
+                - cell " " [ref=f12614e154]:
+                  - generic "Added Player" [ref=f12614e155]: 
+                  - generic "Dropped Player" [ref=f12614e156]: 
+                - cell [ref=f12614e157]:
+                  - generic [ref=f12614e158]:
+                    - link "Neville Hewitt" [ref=f12614e159] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28935
+                    - text: NYG - LB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e160]
+                  - generic [ref=f12614e161]:
+                    - link "Bills" [ref=f12614e162] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/buffalo/
+                    - text: Buf - DEF
+                    - heading "To Waivers" [level=6] [ref=f12614e163]
+                - cell "Sunday School Dec 26, 4:51 pm logo" [ref=f12614e164]:
+                  - generic [ref=f12614e165]:
+                    - generic [ref=f12614e166]:
+                      - link "Sunday School" [ref=f12614e167] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e168]: Dec 26, 4:51 pm
+                    - link [ref=f12614e169] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e170]
+              - row [ref=f12614e171]:
+                - cell " " [ref=f12614e172]:
+                  - generic "Added Player" [ref=f12614e173]: 
+                  - generic "Dropped Player" [ref=f12614e174]: 
+                - cell [ref=f12614e175]:
+                  - generic [ref=f12614e176]:
+                    - link "Saints" [ref=f12614e177] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/new-orleans/
+                    - text: NO - DEF
+                    - heading "Free Agent" [level=6] [ref=f12614e178]
+                  - generic [ref=f12614e179]:
+                    - link "Rams" [ref=f12614e180] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/la-rams/
+                    - text: LAR - DEF
+                    - heading "To Waivers" [level=6] [ref=f12614e181]
+                - cell "Team Poon Jab Dec 25, 8:16 am logo" [ref=f12614e182]:
+                  - generic [ref=f12614e183]:
+                    - generic [ref=f12614e184]:
+                      - link "Team Poon Jab" [ref=f12614e185] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/5
+                      - generic [ref=f12614e186]: Dec 25, 8:16 am
+                    - link [ref=f12614e187] [cursor=pointer]:
+                      - /url: /2020/f1/622076/5
+                      - img "logo" [ref=f12614e188]
+              - row [ref=f12614e189]:
+                - cell " " [ref=f12614e190]:
+                  - generic "Added Player" [ref=f12614e191]: 
+                  - generic "Dropped Player" [ref=f12614e192]: 
+                - cell [ref=f12614e193]:
+                  - generic [ref=f12614e194]:
+                    - link "Danny Trevathan" [ref=f12614e195] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25898
+                    - text: Chi - LB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e196]
+                  - generic [ref=f12614e197]:
+                    - link "Travis Fulgham" [ref=f12614e198] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32016
+                    - text: GB - WR NA
+                    - heading "To Waivers" [level=6] [ref=f12614e199]
+                - cell "Team Poon Jab Dec 25, 8:15 am logo" [ref=f12614e200]:
+                  - generic [ref=f12614e201]:
+                    - generic [ref=f12614e202]:
+                      - link "Team Poon Jab" [ref=f12614e203] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/5
+                      - generic [ref=f12614e204]: Dec 25, 8:15 am
+                    - link [ref=f12614e205] [cursor=pointer]:
+                      - /url: /2020/f1/622076/5
+                      - img "logo" [ref=f12614e206]
+              - row [ref=f12614e207]:
+                - cell " " [ref=f12614e208]:
+                  - generic "Added Player" [ref=f12614e209]: 
+                  - generic "Dropped Player" [ref=f12614e210]: 
+                - cell [ref=f12614e211]:
+                  - generic [ref=f12614e212]:
+                    - link "Jaylon Smith" [ref=f12614e213] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29268
+                    - text: LV - LB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e214]
+                  - generic [ref=f12614e215]:
+                    - link "Leighton Vander Esch" [ref=f12614e216] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30989
+                    - text: Dal - LB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e217]
+                - cell "12 PACK SUNDAY Dec 24, 6:55 am logo" [ref=f12614e218]:
+                  - generic [ref=f12614e219]:
+                    - generic [ref=f12614e220]:
+                      - link "12 PACK SUNDAY" [ref=f12614e221] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/1
+                      - generic [ref=f12614e222]: Dec 24, 6:55 am
+                    - link [ref=f12614e223] [cursor=pointer]:
+                      - /url: /2020/f1/622076/1
+                      - img "logo" [ref=f12614e224]
+              - row [ref=f12614e225]:
+                - cell " " [ref=f12614e226]:
+                  - generic "Added Player" [ref=f12614e227]: 
+                  - generic "Dropped Player" [ref=f12614e228]: 
+                - cell [ref=f12614e229]:
+                  - generic [ref=f12614e230]:
+                    - link "Logan Thomas" [ref=f12614e231] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27648
+                    - text: SF - TE NA
+                    - heading "Free Agent" [level=6] [ref=f12614e232]
+                  - generic [ref=f12614e233]:
+                    - link "George Kittle" [ref=f12614e234] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30259
+                    - text: SF - TE
+                    - heading "To Waivers" [level=6] [ref=f12614e235]
+                - cell "Sunday School Dec 24, 12:34 am logo" [ref=f12614e236]:
+                  - generic [ref=f12614e237]:
+                    - generic [ref=f12614e238]:
+                      - link "Sunday School" [ref=f12614e239] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e240]: Dec 24, 12:34 am
+                    - link [ref=f12614e241] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e242]
+              - row [ref=f12614e243]:
+                - cell " " [ref=f12614e244]:
+                  - generic "Added Player" [ref=f12614e245]: 
+                  - generic "Dropped Player" [ref=f12614e246]: 
+                - cell [ref=f12614e247]:
+                  - generic [ref=f12614e248]:
+                    - link "Devin White" [ref=f12614e249] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31837
+                    - text: Det - LB
+                    - heading "Free Agent" [level=6] [ref=f12614e250]
+                  - generic [ref=f12614e251]:
+                    - link "Curtis Samuel" [ref=f12614e252] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30153
+                    - text: Buf - WR NA
+                    - heading "To Waivers" [level=6] [ref=f12614e253]
+                - cell "Sunday School Dec 24, 12:31 am logo" [ref=f12614e254]:
+                  - generic [ref=f12614e255]:
+                    - generic [ref=f12614e256]:
+                      - link "Sunday School" [ref=f12614e257] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e258]: Dec 24, 12:31 am
+                    - link [ref=f12614e259] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e260]
+              - row [ref=f12614e261]:
+                - cell " " [ref=f12614e262]:
+                  - generic "Added Player" [ref=f12614e263]: 
+                  - generic "Dropped Player" [ref=f12614e264]: 
+                - cell [ref=f12614e265]:
+                  - generic [ref=f12614e266]:
+                    - link "Ryan Succop" [ref=f12614e267] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9520
+                    - text: TB - K NA
+                    - heading "Free Agent" [level=6] [ref=f12614e268]
+                  - generic [ref=f12614e269]:
+                    - link "Rodrigo Blankenship" [ref=f12614e270] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33211
+                    - text: Ind - K NA
+                    - heading "To Waivers" [level=6] [ref=f12614e271]
+                - cell "Sunday School Dec 24, 12:24 am logo" [ref=f12614e272]:
+                  - generic [ref=f12614e273]:
+                    - generic [ref=f12614e274]:
+                      - link "Sunday School" [ref=f12614e275] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e276]: Dec 24, 12:24 am
+                    - link [ref=f12614e277] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e278]
+              - row [ref=f12614e279]:
+                - cell " " [ref=f12614e280]:
+                  - generic "Added Player" [ref=f12614e281]: 
+                  - generic "Dropped Player" [ref=f12614e282]: 
+                - cell [ref=f12614e283]:
+                  - generic [ref=f12614e284]:
+                    - link "Antonio Gibson" [ref=f12614e285] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32736
+                    - text: NE - RB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e286]
+                  - generic [ref=f12614e287]:
+                    - link "Deebo Samuel Sr." [ref=f12614e288] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31868
+                    - text: SF - WR Q
+                    - heading "To Waivers" [level=6] [ref=f12614e289]
+                - cell "Sunday School Dec 24, 12:20 am logo" [ref=f12614e290]:
+                  - generic [ref=f12614e291]:
+                    - generic [ref=f12614e292]:
+                      - link "Sunday School" [ref=f12614e293] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e294]: Dec 24, 12:20 am
+                    - link [ref=f12614e295] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e296]
+              - row [ref=f12614e297]:
+                - cell " " [ref=f12614e298]:
+                  - generic "Added Player" [ref=f12614e299]: 
+                  - generic "Dropped Player" [ref=f12614e300]: 
+                - cell [ref=f12614e301]:
+                  - generic [ref=f12614e302]:
+                    - link "Marcus Mariota" [ref=f12614e303] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28390
+                    - text: Was - QB
+                    - heading "Waiver" [level=6] [ref=f12614e304]
+                  - generic [ref=f12614e305]:
+                    - link "Taysom Hill" [ref=f12614e306] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30614
+                    - text: NO - QB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e307]
+                - cell "Nip Nip Wieners Dec 23, 2:59 am logo" [ref=f12614e308]:
+                  - generic [ref=f12614e309]:
+                    - generic [ref=f12614e310]:
+                      - link "Nip Nip Wieners" [ref=f12614e311] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                      - generic [ref=f12614e312]: Dec 23, 2:59 am
+                    - link [ref=f12614e313] [cursor=pointer]:
+                      - /url: /2020/f1/622076/3
+                      - img "logo" [ref=f12614e314]
+              - row [ref=f12614e315]:
+                - cell " " [ref=f12614e316]:
+                  - generic "Added Player" [ref=f12614e317]: 
+                  - generic "Dropped Player" [ref=f12614e318]: 
+                - cell [ref=f12614e319]:
+                  - generic [ref=f12614e320]:
+                    - link "Bears" [ref=f12614e321] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/chicago/
+                    - text: Chi - DEF
+                    - heading "Waiver" [level=6] [ref=f12614e322]
+                  - generic [ref=f12614e323]:
+                    - link "Myles Gaskin" [ref=f12614e324] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32066
+                    - text: Sea - RB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e325]
+                - cell "Sunday School Dec 23, 2:59 am logo" [ref=f12614e326]:
+                  - generic [ref=f12614e327]:
+                    - generic [ref=f12614e328]:
+                      - link "Sunday School" [ref=f12614e329] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e330]: Dec 23, 2:59 am
+                    - link [ref=f12614e331] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e332]
+              - row [ref=f12614e333]:
+                - cell " " [ref=f12614e334]:
+                  - generic "Added Player" [ref=f12614e335]: 
+                  - generic "Dropped Player" [ref=f12614e336]: 
+                - cell [ref=f12614e337]:
+                  - generic [ref=f12614e338]:
+                    - link "Texans" [ref=f12614e339] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/houston/
+                    - text: Hou - DEF
+                    - heading "Waiver" [level=6] [ref=f12614e340]
+                  - generic [ref=f12614e341]:
+                    - link "Seahawks" [ref=f12614e342] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/seattle/
+                    - text: Sea - DEF
+                    - heading "To Waivers" [level=6] [ref=f12614e343]
+                - cell "Nip Nip Wieners Dec 23, 2:59 am logo" [ref=f12614e344]:
+                  - generic [ref=f12614e345]:
+                    - generic [ref=f12614e346]:
+                      - link "Nip Nip Wieners" [ref=f12614e347] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                      - generic [ref=f12614e348]: Dec 23, 2:59 am
+                    - link [ref=f12614e349] [cursor=pointer]:
+                      - /url: /2020/f1/622076/3
+                      - img "logo" [ref=f12614e350]
+              - row [ref=f12614e351]:
+                - cell " " [ref=f12614e352]:
+                  - generic "Added Player" [ref=f12614e353]: 
+                  - generic "Dropped Player" [ref=f12614e354]: 
+                - cell [ref=f12614e355]:
+                  - generic [ref=f12614e356]:
+                    - link "Salvon Ahmed" [ref=f12614e357] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33265
+                    - text: Chi - RB NA
+                    - heading "Waiver" [level=6] [ref=f12614e358]
+                  - generic [ref=f12614e359]:
+                    - link "Tyler Boyd" [ref=f12614e360] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29288
+                    - text: Ten - WR NA
+                    - heading "To Waivers" [level=6] [ref=f12614e361]
+                - cell "Sunday School Dec 23, 2:59 am logo" [ref=f12614e362]:
+                  - generic [ref=f12614e363]:
+                    - generic [ref=f12614e364]:
+                      - link "Sunday School" [ref=f12614e365] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e366]: Dec 23, 2:59 am
+                    - link [ref=f12614e367] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e368]
+              - row [ref=f12614e369]:
+                - cell " " [ref=f12614e370]:
+                  - generic "Added Player" [ref=f12614e371]: 
+                  - generic "Dropped Player" [ref=f12614e372]: 
+                - cell [ref=f12614e373]:
+                  - generic [ref=f12614e374]:
+                    - link "Le'Veon Bell" [ref=f12614e375] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26671
+                    - text: TB - RB NA
+                    - heading "Waiver" [level=6] [ref=f12614e376]
+                  - generic [ref=f12614e377]:
+                    - link "Dallas Goedert" [ref=f12614e378] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31019
+                    - text: Phi - TE Q
+                    - heading "To Waivers" [level=6] [ref=f12614e379]
+                - cell "Nip Nip Wieners Dec 23, 2:59 am logo" [ref=f12614e380]:
+                  - generic [ref=f12614e381]:
+                    - generic [ref=f12614e382]:
+                      - link "Nip Nip Wieners" [ref=f12614e383] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                      - generic [ref=f12614e384]: Dec 23, 2:59 am
+                    - link [ref=f12614e385] [cursor=pointer]:
+                      - /url: /2020/f1/622076/3
+                      - img "logo" [ref=f12614e386]
+              - row [ref=f12614e387]:
+                - cell " " [ref=f12614e388]:
+                  - generic "Added Player" [ref=f12614e389]: 
+                  - generic "Dropped Player" [ref=f12614e390]: 
+                - cell [ref=f12614e391]:
+                  - generic [ref=f12614e392]:
+                    - link "Tony Pollard" [ref=f12614e393] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31960
+                    - text: Ten - RB
+                    - heading "Free Agent" [level=6] [ref=f12614e394]
+                  - generic [ref=f12614e395]:
+                    - link "Christian Kirk" [ref=f12614e396] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31017
+                    - text: SF - WR NA
+                    - heading "To Waivers" [level=6] [ref=f12614e397]
+                - cell "LIQUORED UP LOMBARDI Dec 20, 10:43 am logo" [ref=f12614e398]:
+                  - generic [ref=f12614e399]:
+                    - generic [ref=f12614e400]:
+                      - link "LIQUORED UP LOMBARDI" [ref=f12614e401] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/2
+                      - generic [ref=f12614e402]: Dec 20, 10:43 am
+                    - link [ref=f12614e403] [cursor=pointer]:
+                      - /url: /2020/f1/622076/2
+                      - img "logo" [ref=f12614e404]
+              - row [ref=f12614e405]:
+                - cell " " [ref=f12614e406]:
+                  - generic "Added Player" [ref=f12614e407]: 
+                  - generic "Dropped Player" [ref=f12614e408]: 
+                - cell [ref=f12614e409]:
+                  - generic [ref=f12614e410]:
+                    - link "David Johnson" [ref=f12614e411] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28474
+                    - text: NO - RB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e412]
+                  - generic [ref=f12614e413]:
+                    - link "Gus Edwards" [ref=f12614e414] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31424
+                    - text: LAC - RB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e415]
+                - cell "12 PACK SUNDAY Dec 19, 1:50 pm logo" [ref=f12614e416]:
+                  - generic [ref=f12614e417]:
+                    - generic [ref=f12614e418]:
+                      - link "12 PACK SUNDAY" [ref=f12614e419] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/1
+                      - generic [ref=f12614e420]: Dec 19, 1:50 pm
+                    - link [ref=f12614e421] [cursor=pointer]:
+                      - /url: /2020/f1/622076/1
+                      - img "logo" [ref=f12614e422]
+              - row [ref=f12614e423]:
+                - cell " " [ref=f12614e424]:
+                  - generic "Added Player" [ref=f12614e425]: 
+                  - generic "Dropped Player" [ref=f12614e426]: 
+                - cell [ref=f12614e427]:
+                  - generic [ref=f12614e428]:
+                    - link "Russell Gage Jr." [ref=f12614e429] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31164
+                    - text: SF - WR NA
+                    - heading "Free Agent" [level=6] [ref=f12614e430]
+                  - generic [ref=f12614e431]:
+                    - link "Chase Edmonds" [ref=f12614e432] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31104
+                    - text: Was - RB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e433]
+                - cell "Nip Nip Wieners Dec 18, 3:47 pm logo" [ref=f12614e434]:
+                  - generic [ref=f12614e435]:
+                    - generic [ref=f12614e436]:
+                      - link "Nip Nip Wieners" [ref=f12614e437] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                      - generic [ref=f12614e438]: Dec 18, 3:47 pm
+                    - link [ref=f12614e439] [cursor=pointer]:
+                      - /url: /2020/f1/622076/3
+                      - img "logo" [ref=f12614e440]
+              - row [ref=f12614e441]:
+                - cell " " [ref=f12614e442]:
+                  - generic "Added Player" [ref=f12614e443]: 
+                  - generic "Dropped Player" [ref=f12614e444]: 
+                - cell [ref=f12614e445]:
+                  - generic [ref=f12614e446]:
+                    - link "Mitchell Trubisky" [ref=f12614e447] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30115
+                    - text: Ten - QB
+                    - heading "Free Agent" [level=6] [ref=f12614e448]
+                  - generic [ref=f12614e449]:
+                    - link "Derek Carr" [ref=f12614e450] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27564
+                    - text: NO - QB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e451]
+                - cell "Nip Nip Wieners Dec 18, 9:51 am logo" [ref=f12614e452]:
+                  - generic [ref=f12614e453]:
+                    - generic [ref=f12614e454]:
+                      - link "Nip Nip Wieners" [ref=f12614e455] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                      - generic [ref=f12614e456]: Dec 18, 9:51 am
+                    - link [ref=f12614e457] [cursor=pointer]:
+                      - /url: /2020/f1/622076/3
+                      - img "logo" [ref=f12614e458]
+              - row [ref=f12614e459]:
+                - cell " " [ref=f12614e460]:
+                  - generic "Added Player" [ref=f12614e461]: 
+                  - generic "Dropped Player" [ref=f12614e462]: 
+                - cell [ref=f12614e463]:
+                  - generic [ref=f12614e464]:
+                    - link "George Kittle" [ref=f12614e465] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30259
+                    - text: SF - TE
+                    - heading "Free Agent" [level=6] [ref=f12614e466]
+                  - generic [ref=f12614e467]:
+                    - link "Latavius Murray" [ref=f12614e468] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26804
+                    - text: Buf - RB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e469]
+                - cell "Sunday School Dec 16, 2:24 pm logo" [ref=f12614e470]:
+                  - generic [ref=f12614e471]:
+                    - generic [ref=f12614e472]:
+                      - link "Sunday School" [ref=f12614e473] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e474]: Dec 16, 2:24 pm
+                    - link [ref=f12614e475] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e476]
+              - row [ref=f12614e477]:
+                - cell " " [ref=f12614e478]:
+                  - generic "Added Player" [ref=f12614e479]: 
+                  - generic "Dropped Player" [ref=f12614e480]: 
+                - cell [ref=f12614e481]:
+                  - generic [ref=f12614e482]:
+                    - link "Derek Carr" [ref=f12614e483] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27564
+                    - text: NO - QB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e484]
+                  - generic [ref=f12614e485]:
+                    - link "Teddy Bridgewater" [ref=f12614e486] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27560
+                    - text: TB - QB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e487]
+                - cell "Nip Nip Wieners Dec 16, 6:39 am logo" [ref=f12614e488]:
+                  - generic [ref=f12614e489]:
+                    - generic [ref=f12614e490]:
+                      - link "Nip Nip Wieners" [ref=f12614e491] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                      - generic [ref=f12614e492]: Dec 16, 6:39 am
+                    - link [ref=f12614e493] [cursor=pointer]:
+                      - /url: /2020/f1/622076/3
+                      - img "logo" [ref=f12614e494]
+              - row [ref=f12614e495]:
+                - cell " " [ref=f12614e496]:
+                  - generic "Added Player" [ref=f12614e497]: 
+                  - generic "Dropped Player" [ref=f12614e498]: 
+                - cell [ref=f12614e499]:
+                  - generic [ref=f12614e500]:
+                    - link "Rodrigo Blankenship" [ref=f12614e501] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33211
+                    - text: Ind - K NA
+                    - heading "Waiver" [level=6] [ref=f12614e502]
+                  - generic [ref=f12614e503]:
+                    - link "Ryan Succop" [ref=f12614e504] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9520
+                    - text: TB - K NA
+                    - heading "To Waivers" [level=6] [ref=f12614e505]
+                - cell "Sunday School Dec 16, 2:40 am logo" [ref=f12614e506]:
+                  - generic [ref=f12614e507]:
+                    - generic [ref=f12614e508]:
+                      - link "Sunday School" [ref=f12614e509] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e510]: Dec 16, 2:40 am
+                    - link [ref=f12614e511] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e512]
+              - row [ref=f12614e513]:
+                - cell " " [ref=f12614e514]:
+                  - generic "Added Player" [ref=f12614e515]: 
+                  - generic "Dropped Player" [ref=f12614e516]: 
+                - cell [ref=f12614e517]:
+                  - generic [ref=f12614e518]:
+                    - link "Bills" [ref=f12614e519] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/buffalo/
+                    - text: Buf - DEF
+                    - heading "Waiver" [level=6] [ref=f12614e520]
+                  - generic [ref=f12614e521]:
+                    - link "Saints" [ref=f12614e522] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/new-orleans/
+                    - text: NO - DEF
+                    - heading "To Waivers" [level=6] [ref=f12614e523]
+                - cell "Sunday School Dec 16, 2:40 am logo" [ref=f12614e524]:
+                  - generic [ref=f12614e525]:
+                    - generic [ref=f12614e526]:
+                      - link "Sunday School" [ref=f12614e527] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                      - generic [ref=f12614e528]: Dec 16, 2:40 am
+                    - link [ref=f12614e529] [cursor=pointer]:
+                      - /url: /2020/f1/622076/4
+                      - img "logo" [ref=f12614e530]
+              - row [ref=f12614e531]:
+                - cell " " [ref=f12614e532]:
+                  - generic "Added Player" [ref=f12614e533]: 
+                  - generic "Dropped Player" [ref=f12614e534]: 
+                - cell [ref=f12614e535]:
+                  - generic [ref=f12614e536]:
+                    - link "Jeff Wilson Jr." [ref=f12614e537] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31394
+                    - text: Mia - RB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e538]
+                  - generic [ref=f12614e539]:
+                    - link "Antonio Gibson" [ref=f12614e540] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32736
+                    - text: NE - RB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e541]
+                - cell "The Show Stoppers Dec 13, 2:05 pm logo" [ref=f12614e542]:
+                  - generic [ref=f12614e543]:
+                    - generic [ref=f12614e544]:
+                      - link "The Show Stoppers" [ref=f12614e545] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/6
+                      - generic [ref=f12614e546]: Dec 13, 2:05 pm
+                    - link [ref=f12614e547] [cursor=pointer]:
+                      - /url: /2020/f1/622076/6
+                      - img "logo" [ref=f12614e548]
+              - row [ref=f12614e549]:
+                - cell " " [ref=f12614e550]:
+                  - generic "Added Player" [ref=f12614e551]: 
+                  - generic "Dropped Player" [ref=f12614e552]: 
+                - cell [ref=f12614e553]:
+                  - generic [ref=f12614e554]:
+                    - link "Keke Coutee" [ref=f12614e555] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31073
+                    - text: Mia - WR NA
+                    - heading "Free Agent" [level=6] [ref=f12614e556]
+                  - generic [ref=f12614e557]:
+                    - link "Kenny Golladay" [ref=f12614e558] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30209
+                    - text: NYG - WR NA
+                    - heading "To Waivers" [level=6] [ref=f12614e559]
+                - cell "The Show Stoppers Dec 13, 11:43 am logo" [ref=f12614e560]:
+                  - generic [ref=f12614e561]:
+                    - generic [ref=f12614e562]:
+                      - link "The Show Stoppers" [ref=f12614e563] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/6
+                      - generic [ref=f12614e564]: Dec 13, 11:43 am
+                    - link [ref=f12614e565] [cursor=pointer]:
+                      - /url: /2020/f1/622076/6
+                      - img "logo" [ref=f12614e566]
+              - row [ref=f12614e567]:
+                - cell " " [ref=f12614e568]:
+                  - generic "Added Player" [ref=f12614e569]: 
+                  - generic "Dropped Player" [ref=f12614e570]: 
+                - cell [ref=f12614e571]:
+                  - generic [ref=f12614e572]:
+                    - link "Panthers" [ref=f12614e573] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/carolina/
+                    - text: Car - DEF
+                    - heading "Free Agent" [level=6] [ref=f12614e574]
+                  - generic [ref=f12614e575]:
+                    - link "A.J. Green" [ref=f12614e576] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24791
+                    - text: Ari - WR NA
+                    - heading "To Waivers" [level=6] [ref=f12614e577]
+                - cell "Vaqueros Dec 13, 11:35 am logo" [ref=f12614e578]:
+                  - generic [ref=f12614e579]:
+                    - generic [ref=f12614e580]:
+                      - link "Vaqueros" [ref=f12614e581] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/8
+                      - generic [ref=f12614e582]: Dec 13, 11:35 am
+                    - link [ref=f12614e583] [cursor=pointer]:
+                      - /url: /2020/f1/622076/8
+                      - img "logo" [ref=f12614e584]
+              - row [ref=f12614e585]:
+                - cell " " [ref=f12614e586]:
+                  - generic "Added Player" [ref=f12614e587]: 
+                  - generic "Dropped Player" [ref=f12614e588]: 
+                - cell [ref=f12614e589]:
+                  - generic [ref=f12614e590]:
+                    - link "Lavonte David" [ref=f12614e591] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25768
+                    - text: TB - LB NA
+                    - heading "Free Agent" [level=6] [ref=f12614e592]
+                  - generic [ref=f12614e593]:
+                    - link "Salvon Ahmed" [ref=f12614e594] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33265
+                    - text: Chi - RB NA
+                    - heading "To Waivers" [level=6] [ref=f12614e595]
+                - cell "Vaqueros Dec 13, 11:34 am logo" [ref=f12614e596]:
+                  - generic [ref=f12614e597]:
+                    - generic [ref=f12614e598]:
+                      - link "Vaqueros" [ref=f12614e599] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/8
+                      - generic [ref=f12614e600]: Dec 13, 11:34 am
+                    - link [ref=f12614e601] [cursor=pointer]:
+                      - /url: /2020/f1/622076/8
+                      - img "logo" [ref=f12614e602]
+          - list [ref=f12614e605]:
+            - listitem [ref=f12614e606]: Previous 25
+            - listitem [ref=f12614e607]:
+              - link "Next 25" [ref=f12614e608] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&count=25"
+    - contentinfo [ref=f12614e610]:
+      - generic [ref=f12614e617]:
+        - list [ref=f12614e618]:
+          - listitem [ref=f12614e619]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f12614e620]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f12614e621] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f12614e622]:
+            - text: "-"
+            - link "Feedback" [ref=f12614e623] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f12614e624]:
+            - text: "-"
+            - link "Terms" [ref=f12614e625] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f12614e626] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f12614e627]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f12614e628] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f12614e629]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f12614e630] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f12614e631]:
+            - text: "-"
+            - link "About Our Ads" [ref=f12614e632] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f12614e633]:
+            - text: "-"
+            - link "Help" [ref=f12614e634] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f12614e635]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f12614e636]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f12614e637]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

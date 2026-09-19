@@ -1,0 +1,735 @@
+- generic [ref=f12298e3]:
+  - generic [ref=f12298e6]:
+    - banner [ref=f12298e8]:
+      - generic [ref=f12298e9]:
+        - generic [ref=f12298e11]:
+          - generic [ref=f12298e12]:
+            - generic [ref=f12298e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f12298e14]
+              - link "Yahoo Sports" [ref=f12298e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f12298e20]:
+              - generic [ref=f12298e21]: Search query
+              - combobox "Search query" [ref=f12298e22]
+              - button "Search" [ref=f12298e24] [cursor=pointer]
+          - navigation [ref=f12298e28]:
+            - list [ref=f12298e29]:
+              - listitem [ref=f12298e30]:
+                - link "News" [ref=f12298e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f12298e32]:
+                - link "Finance" [ref=f12298e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f12298e34]:
+                - link "Sports" [ref=f12298e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f12298e36]:
+                - button "More" [ref=f12298e37] [cursor=pointer]
+          - toolbar [ref=f12298e41]:
+            - link "Check your mail, 3724 messages, link" [ref=f12298e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f12298e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f12298e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f12298e55]:
+          - link "Fantasy Football" [ref=f12298e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f12298e60] [cursor=pointer]:
+            - /url: /2020/f1/622076
+          - link "League" [ref=f12298e61] [cursor=pointer]:
+            - /url: /2020/f1/622076
+          - link "My Team" [ref=f12298e62] [cursor=pointer]:
+            - /url: /2020/f1/622076/8
+          - link "Matchups" [ref=f12298e63] [cursor=pointer]:
+            - /url: /2020/f1/622076/matchup
+          - link "Players" [ref=f12298e64] [cursor=pointer]:
+            - /url: /2020/f1/622076/players
+          - link "Draft Results" [ref=f12298e65] [cursor=pointer]:
+            - /url: /2020/f1/622076/draftresults
+          - list [ref=f12298e68]:
+            - listitem [ref=f12298e69]:
+              - link [ref=f12298e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f12298e79]:
+              - link [ref=f12298e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f12298e89]:
+              - link "Get Fantasy Plus" [ref=f12298e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f12298e97]: 8Deep (ID# 622076)
+  - generic [ref=f12298e101]:
+    - banner [ref=f12298e102]:
+      - generic [ref=f12298e103]:
+        - heading [level=2] [ref=f12298e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f12298e106] [cursor=pointer]:
+            - /url: /2020/f1
+        - iframe [ref=f12298e750]:
+          - iframe [ref=f12312e3]:
+            - generic [ref=f12313e1]:
+              - generic [ref=f12313e4]:
+                - generic:
+                  - generic [aria-hidden] [ref=f12313e5]:
+                    - link [ref=f12313e7] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dautoscooper-11-cat-litter-box-gray%3A%3Aproid%3D7540788854880%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fautoscooper-11-cat-litter-box-gray%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                    - generic [ref=f12313e9] [cursor=pointer]:
+                      - generic [ref=f12313e10]: 37%
+                      - generic [ref=f12313e13]:
+                        - generic [ref=f12313e14]: AutoScooper 12 Litter Base Pad – 2 Pack
+                        - generic [ref=f12313e16]:
+                          - generic [ref=f12313e17]:
+                            - generic [ref=f12313e18]: $ 79.99
+                            - text: $ 49.98
+                          - generic [ref=f12313e19]: Buy Now
+                    - generic [ref=f12313e23] [cursor=pointer]:
+                      - generic [ref=f12313e24]: AutoScooper 11 Cat Litter Box Support Legs – Replacement Base Stand Accessories (2 Pack)
+                      - generic [ref=f12313e26]:
+                        - generic [ref=f12313e27]: $ 18.65
+                        - generic [ref=f12313e28]: Buy Now
+                  - generic [ref=f12313e29]:
+                    - link [ref=f12313e31] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dautoscooper-11-cat-litter-box-gray%3A%3Aproid%3D7540788854880%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fautoscooper-11-cat-litter-box-gray%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                    - link "10% AutoScooper 11 Cat Litter Box $ 199.99 $ 179.00 Buy Now":
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dautoscooper-11-cat-litter-box-gray%3A%3Aproid%3D7540788854880%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fautoscooper-11-cat-litter-box-gray%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                      - generic [ref=f12313e33] [cursor=pointer]:
+                        - generic [ref=f12313e34]: 10%
+                        - generic [ref=f12313e37]:
+                          - generic [ref=f12313e38]: AutoScooper 11 Cat Litter Box
+                          - generic [ref=f12313e40]:
+                            - generic [ref=f12313e41]:
+                              - generic [ref=f12313e42]: $ 199.99
+                              - text: $ 179.00
+                            - generic [ref=f12313e43]: Buy Now
+                    - link "Power adapter for AutoScooper 11 $ 19.99 Buy Now":
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dpower-cord-cable-for-autoscooper-11-self-cleaning-cat-litter-box%3A%3Aproid%3D7510160834656%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fpower-cord-cable-for-autoscooper-11-self-cleaning-cat-litter-box%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                      - generic [ref=f12313e47] [cursor=pointer]:
+                        - generic [ref=f12313e48]: Power adapter for AutoScooper 11
+                        - generic [ref=f12313e50]:
+                          - generic [ref=f12313e51]: $ 19.99
+                          - generic [ref=f12313e52]: Buy Now
+                  - generic [aria-hidden] [ref=f12313e53]:
+                    - link [ref=f12313e55] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dautoscooper-11-cat-litter-box-gray%3A%3Aproid%3D7540788854880%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fautoscooper-11-cat-litter-box-gray%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                    - generic [ref=f12313e57] [cursor=pointer]:
+                      - generic [ref=f12313e58]: 37%
+                      - generic [ref=f12313e61]:
+                        - generic [ref=f12313e62]: AutoScooper 12 Waste Bags – 180 Count
+                        - generic [ref=f12313e64]:
+                          - generic [ref=f12313e65]:
+                            - generic [ref=f12313e66]: $ 39.99
+                            - text: $ 24.99
+                          - generic [ref=f12313e67]: Buy Now
+                    - generic [ref=f12313e68] [cursor=pointer]:
+                      - generic [ref=f12313e69]: 10%
+                      - generic [ref=f12313e72]:
+                        - generic [ref=f12313e73]: AutoScooper 11 Automatic Cat Litter Box
+                        - generic [ref=f12313e75]:
+                          - generic [ref=f12313e76]:
+                            - generic [ref=f12313e77]: $ 199.99
+                            - text: $ 179.00
+                          - generic [ref=f12313e78]: Buy Now
+                  - generic [aria-hidden] [ref=f12313e79]:
+                    - link [ref=f12313e81] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dautoscooper-11-cat-litter-box-gray%3A%3Aproid%3D7540788854880%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fautoscooper-11-cat-litter-box-gray%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                    - generic [ref=f12313e83] [cursor=pointer]:
+                      - generic [ref=f12313e84]: 37%
+                      - generic [ref=f12313e87]:
+                        - generic [ref=f12313e88]: AutoScooper 12 Litter Base Pad – 2 Pack
+                        - generic [ref=f12313e90]:
+                          - generic [ref=f12313e91]:
+                            - generic [ref=f12313e92]: $ 79.99
+                            - text: $ 49.98
+                          - generic [ref=f12313e93]: Buy Now
+                    - generic [ref=f12313e97] [cursor=pointer]:
+                      - generic [ref=f12313e98]: AutoScooper 11 Cat Litter Box Support Legs – Replacement Base Stand Accessories (2 Pack)
+                      - generic [ref=f12313e100]:
+                        - generic [ref=f12313e101]: $ 18.65
+                        - generic [ref=f12313e102]: Buy Now
+                  - generic [aria-hidden] [ref=f12313e103]:
+                    - link [ref=f12313e105] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CC9Iv2Riuav6mDIuG_9EPz-ek-QTPlantgwHns7mozAzAjbcBEAEgwYKLmgFgyZ75hoCAoBnIAQngAgCoAwHIAwKqBOgCT9Cn-XZeuWkJzdaAdu09Ppm7HOlPEPtx__z4_nYGDdEyz-htzKzk7bDJCEB0Orkh6Wf7OKFLdYwG8-OOGn9TpQSifmqoRgdX2gE49EJFWwGXwSmXOsYIvlxkdNR2UIxKIy1A7osIAPUqLfg_VBj961fI9bMdRkZ3ZkcKzMTxnhkr0RIExsuKWJ2EmBm4GN8_FNRC3Zfb0Qe1tmZUPfBoDuSeyBW4JtIJdlf-5eWKZXV5B9zgR9Svz7FMZOnN41NsUxg_p2yxk2bAQkO8Vecw5SAXZnJPHccl-xwFGd5qxXP0-91wQLQ-2P7c5aZA9Km_eoF-vx0i5jD4NIihcnFR2WKubiQnoYIk-t7zxta5w4FUNBiVSzcWOiNonGLV4GS52xx_CrPOmiyoAea3xha-4F_1t9o_Hkr1PLfujmK3CKoBCm4p3mDjn9Thn3KhpYLmIxLR9uaPan_AZdjXddSL92McgljpXHZT4AQBgAbn2bWrr6et1sYBoAYhqAeT2LECqAeU2LECqAeV2LECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICIgAKog5AQSL39wTpY6L2alfD5lgNgAPoLAggBgAwBqg0CVVPiDRMI9oKclfD5lgMVC8M_BB3PMylP6g0TCNOnnpXw-ZYDFQvDPwQdzzMpT4gO____________AdAVAYAXAbIXEBgMKgo3NDk5MDI2NTAwUAGqGBcJAAAAAACOMkESCjc0OTkwMjY1MDAYAQ&num=1&sig=AOD64_3aTFPzMuLerdgAn41XtVo-ig8FEA&client=ca-pub-2305304999188653&adurl=https://ban.petpivot.com/click?requiredParamsv1=H4sIAAAAAAAA_4VSbW_aMBD-K1GlSq3ShDu_xWafWGEb5aWwMI3yBQUIAjVNIhI6OvnH75yhqeumTZezz5fHvrfnQtmIaWvAfok7FhqJk9y7K6rUBmilMEoIbjQKDQaUxAaPoWQWQuRMaRNpDZbbscVmlbQbicztwr0xbn5RiLEtj6uAcZAchDEGtVaSW0LCLxk3KqxSUkpbFtUSE748Vi6akJZzigwALgoIFGAjHoVcaErn5o0QhgFTAZgAzc-UMaJ0jZAMpeZWRMsmTNCUBNAmpSWENkn4Rq3zv1J72-nFve500pvAbPptyeoulvd4zLkZ2Vnsb_xyc_Jrf_NMJicjnpHBpH_03WFBBwpL5vs-mYhAzTARM9KQr-t8f_ae7nbjyfCBOrTRWm-UXgXpGpJAcKrCpLgNeLJhK2aEXis3jFHxfZ9lSUuG4F3NEd95w31-PHknrZZKXHudsszSr-lqsK9b0nVSeVeDT7PR8MbL9o-p9zFdPxbX3u3uUDylLZRUuBMvTrbJYX--Yh_0Yt7HRb_s3N_lT4N51Ms_96fEhl1dl9Ul71yyD_Rti6JeJVkWbpO8TqqXqiwOdRW-JLuiCNfFE0FoYOCQSItiDCLVsKI-HFM3IWioRMosOxPmr5R63c5_DqrhpntXhZwoRlM2LTAtxxsPRFvwNkrHx9-Y0jDpTMj_1eRoGnLCalJ0-ccNwkW--AFyZZEofgMAAA;durl155=https%3A%2F%2Fban.petpivot.com%2Fclick%3Fc15%3D368925%3A%3AuniId%3D178979452204115594162672766122813275857763%3A%3Acategory%3Dautoscooper-11-cat-litter-box-gray%3A%3Aproid%3D7540788854880%3A%3Aul15%3Dhttps%253A%252F%252Fpetpivot.com%252Fproducts%252Fautoscooper-11-cat-litter-box-gray%253Fdm_net%253Dpreciso%2526dm_ad%253Dad%2526dm_cam_name%253DPetpivot_US_POS%2526dm_cam%253D66555%2526utm_source%253Dpreciso%2526utm_medium%253Dcpc
+                    - generic [ref=f12313e107] [cursor=pointer]:
+                      - generic [ref=f12313e108]: 10%
+                      - generic [ref=f12313e111]:
+                        - generic [ref=f12313e112]: AutoScooper 11 Cat Litter Box
+                        - generic [ref=f12313e114]:
+                          - generic [ref=f12313e115]:
+                            - generic [ref=f12313e116]: $ 199.99
+                            - text: $ 179.00
+                          - generic [ref=f12313e117]: Buy Now
+                    - generic [ref=f12313e121] [cursor=pointer]:
+                      - generic [ref=f12313e122]: Power adapter for AutoScooper 11
+                      - generic [ref=f12313e124]:
+                        - generic [ref=f12313e125]: $ 19.99
+                        - generic [ref=f12313e126]: Buy Now
+              - link [ref=f12313e128] [cursor=pointer]:
+                - /url: https://cdn.2trk.info/adchoice/Optout-in.aspx
+        - link [ref=f12298e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f12298e113]
+    - generic [ref=f12298e114]:
+      - heading [level=1] [ref=f12298e123]:
+        - img "team logo" [ref=f12298e126] [cursor=pointer]
+        - generic [ref=f12298e127]:
+          - generic [ref=f12298e129]:
+            - text: 8Deep
+            - button "League announcements button" [ref=f12298e130] [cursor=pointer]:
+              - generic [ref=f12298e131]: 
+              - text: League Announcements
+          - combobox [ref=f12298e134]:
+            - option "2026 Season"
+            - option "2025 Season"
+            - option "2024 Season"
+            - option "2023 Season"
+            - option "2022 Season"
+            - option "2021 Season"
+            - option "2020 Season" [selected]
+            - option "2019 Season"
+            - option "2018 Season"
+            - option "2017 Season"
+            - option "2016 Season"
+            - option "2015 Season"
+            - option "2014 Season"
+            - option "2013 Season"
+            - option "2012 Season"
+            - option "2011 Season"
+            - option "2010 Season"
+            - option "2009 Season"
+            - option "2008 Season"
+            - option "2007 Season"
+            - option "2006 Season"
+            - option "2005 Season"
+      - generic [ref=f12298e135]:
+        - generic [ref=f12298e139]:
+          - generic [ref=f12298e142]:
+            - text: Congratulations Fantasy Champion!
+            - list [ref=f12298e143]:
+              - listitem [ref=f12298e144]:
+                - list [ref=f12298e145]:
+                  - listitem [ref=f12298e146]:
+                    - generic [ref=f12298e147]:
+                      - text: 1st Place
+                      - link "Sunday School" [ref=f12298e148] [cursor=pointer]:
+                        - /url: /2020/f1/622076/4
+                  - listitem [ref=f12298e149]:
+                    - generic [ref=f12298e150]:
+                      - text: "Manager:"
+                      - link "Shane" [ref=f12298e151] [cursor=pointer]:
+                        - /url: https://profiles.sports.yahoo.com/user/TQ7MZR2LV5JHAKGKJXSOQPRJCI
+                - link [ref=f12298e153] [cursor=pointer]:
+                  - /url: /2020/f1/622076/4
+                  - img "logo" [ref=f12298e154]
+          - generic [ref=f12298e155]:
+            - generic [ref=f12298e156]:
+              - heading "Standings" [level=2] [ref=f12298e157]
+              - heading [level=2]
+            - generic [ref=f12298e158]:
+              - list [ref=f12298e160]:
+                - listitem [ref=f12298e161]:
+                  - link "Standings" [ref=f12298e162] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=stand#lhststand"
+                - listitem [ref=f12298e163]:
+                  - link "Schedule" [ref=f12298e164] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=sched#lhstsched"
+                - listitem [ref=f12298e165]:
+                  - link "Playoffs" [ref=f12298e166] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=playoff#lhstplayoff"
+                - listitem [ref=f12298e167]:
+                  - link "Ratings & Levels" [ref=f12298e168] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=felo#lhstfelo"
+                - listitem [ref=f12298e169]:
+                  - link "All Time" [ref=f12298e170] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=alltime#lhstalltime"
+              - link "Championship " [ref=f12298e172] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f12298e173]:
+                  - generic [ref=f12298e174]: Championship
+                  - generic [ref=f12298e175]: 
+              - generic [ref=f12298e177]:
+                - table [ref=f12298e178]:
+                  - rowgroup [ref=f12298e179]:
+                    - row [ref=f12298e180]:
+                      - columnheader "1st Place" [ref=f12298e181]
+                      - columnheader "2nd Place" [ref=f12298e183]
+                      - columnheader "3rd Place" [ref=f12298e185]
+                      - columnheader "Finished" [ref=f12298e187]
+                  - rowgroup [ref=f12298e188]:
+                    - row [ref=f12298e189]:
+                      - cell [ref=f12298e190] [cursor=pointer]:
+                        - generic [ref=f12298e191]:
+                          - link [ref=f12298e192]:
+                            - /url: /2020/f1/622076/4
+                            - img "logo" [ref=f12298e193]
+                          - link "Sunday School" [ref=f12298e194]:
+                            - /url: /2020/f1/622076/4
+                      - cell [ref=f12298e195] [cursor=pointer]:
+                        - generic [ref=f12298e196]:
+                          - link [ref=f12298e197]:
+                            - /url: /2020/f1/622076/5
+                            - img "logo" [ref=f12298e198]
+                          - link "Team Poon Jab" [ref=f12298e199]:
+                            - /url: /2020/f1/622076/5
+                      - cell [ref=f12298e200] [cursor=pointer]:
+                        - generic [ref=f12298e201]:
+                          - link [ref=f12298e202]:
+                            - /url: /2020/f1/622076/3
+                            - img "logo" [ref=f12298e203]
+                          - link "Nip Nip Wieners" [ref=f12298e204]:
+                            - /url: /2020/f1/622076/3
+                      - cell "5th" [ref=f12298e205]
+                - generic [ref=f12298e206]:
+                  - generic [ref=f12298e207]:
+                    - generic [ref=f12298e208]: "Week 15: Dec 15 - Dec 21"
+                    - generic [ref=f12298e209] [cursor=pointer]:
+                      - heading "Semifinal" [level=5] [ref=f12298e210]
+                      - generic [ref=f12298e211]:
+                        - generic [ref=f12298e212]: "1"
+                        - link [ref=f12298e214]:
+                          - /url: /2020/f1/622076/4
+                          - img "logo" [ref=f12298e215]
+                        - link "Sunday School" [ref=f12298e217]:
+                          - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                        - generic [ref=f12298e218]: "212.50"
+                      - generic [ref=f12298e219]:
+                        - generic [ref=f12298e220]: "4"
+                        - link [ref=f12298e222]:
+                          - /url: /2020/f1/622076/2
+                          - img "logo" [ref=f12298e223]
+                        - deletion [ref=f12298e225]:
+                          - link "LIQUORED UP LOMBARDI" [ref=f12298e226]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/2
+                        - generic [ref=f12298e227]: "192.23"
+                    - generic [ref=f12298e228] [cursor=pointer]:
+                      - heading "Semifinal" [level=5] [ref=f12298e229]
+                      - generic [ref=f12298e230]:
+                        - generic [ref=f12298e231]: "2"
+                        - link [ref=f12298e233]:
+                          - /url: /2020/f1/622076/5
+                          - img "logo" [ref=f12298e234]
+                        - link "Team Poon Jab" [ref=f12298e236]:
+                          - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/5
+                        - generic [ref=f12298e237]: "193.95"
+                      - generic [ref=f12298e238]:
+                        - generic [ref=f12298e239]: "3"
+                        - link [ref=f12298e241]:
+                          - /url: /2020/f1/622076/3
+                          - img "logo" [ref=f12298e242]
+                        - deletion [ref=f12298e244]:
+                          - link "Nip Nip Wieners" [ref=f12298e245]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                        - generic [ref=f12298e246]: "170.93"
+                  - generic [ref=f12298e247]:
+                    - generic [ref=f12298e248]: "Week 16: Dec 22 - Dec 28"
+                    - generic [ref=f12298e249] [cursor=pointer]:
+                      - heading "Final" [level=5] [ref=f12298e250]
+                      - generic [ref=f12298e251]:
+                        - generic [ref=f12298e252]: "1"
+                        - link [ref=f12298e254]:
+                          - /url: /2020/f1/622076/4
+                          - img "logo" [ref=f12298e255]
+                        - link "Sunday School" [ref=f12298e257]:
+                          - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                        - generic [ref=f12298e258]: "200.85"
+                      - generic [ref=f12298e259]:
+                        - generic [ref=f12298e260]: "2"
+                        - link [ref=f12298e262]:
+                          - /url: /2020/f1/622076/5
+                          - img "logo" [ref=f12298e263]
+                        - deletion [ref=f12298e265]:
+                          - link "Team Poon Jab" [ref=f12298e266]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/5
+                        - generic [ref=f12298e267]: "140.87"
+                    - generic [ref=f12298e268] [cursor=pointer]:
+                      - heading "3rd Place Game" [level=5] [ref=f12298e269]
+                      - generic [ref=f12298e270]:
+                        - generic [ref=f12298e271]: "4"
+                        - link [ref=f12298e273]:
+                          - /url: /2020/f1/622076/2
+                          - img "logo" [ref=f12298e274]
+                        - deletion [ref=f12298e276]:
+                          - link "LIQUORED UP LOMBARDI" [ref=f12298e277]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/2
+                        - generic [ref=f12298e278]: "163.15"
+                      - generic [ref=f12298e279]:
+                        - generic [ref=f12298e280]: "3"
+                        - link [ref=f12298e282]:
+                          - /url: /2020/f1/622076/3
+                          - img "logo" [ref=f12298e283]
+                        - link "Nip Nip Wieners" [ref=f12298e285]:
+                          - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/3
+                        - generic [ref=f12298e286]: "179.49"
+          - generic [ref=f12298e288]:
+            - generic [ref=f12298e289]:
+              - heading "Matchups" [level=2] [ref=f12298e290]
+              - generic [ref=f12298e292]:
+                - link "" [ref=f12298e293] [cursor=pointer]:
+                  - /url: "?matchup_week=15&module=matchups&lhst=matchups"
+                - link "Week 16" [ref=f12298e294] [cursor=pointer]:
+                  - /url: "#"
+                - link "" [ref=f12298e297]:
+                  - /url: ""
+            - generic [ref=f12298e299]:
+              - generic [ref=f12298e300]:
+                - generic [ref=f12298e301]:
+                  - generic [ref=f12298e302]: 
+                  - generic [ref=f12298e303]: Week 17 Matchups
+                - generic [ref=f12298e304]: Final results
+              - paragraph [ref=f12298e305]: Championship Bracket
+              - paragraph [ref=f12298e306]: TBD
+          - generic [ref=f12298e307]:
+            - generic [ref=f12298e308]:
+              - heading "Recent Transactions" [level=2] [ref=f12298e309]
+              - link "View All " [ref=f12298e310] [cursor=pointer]:
+                - /url: /2020/f1/622076/transactions
+                - generic [ref=f12298e311]: View All
+                - generic [ref=f12298e312]: 
+            - generic [ref=f12298e313]:
+              - list [ref=f12298e315]:
+                - listitem [ref=f12298e316]:
+                  - link "All Transactions" [ref=f12298e317] [cursor=pointer]:
+                    - /url: "?transactionsfilter=all&mid=8"
+                - listitem [ref=f12298e318]:
+                  - link "Added Players" [ref=f12298e319] [cursor=pointer]:
+                    - /url: "?transactionsfilter=add&mid=8"
+                - listitem [ref=f12298e320]:
+                  - link "Dropped Players" [ref=f12298e321] [cursor=pointer]:
+                    - /url: "?transactionsfilter=drop&mid=8"
+                - listitem [ref=f12298e322]:
+                  - link "Trades" [ref=f12298e323] [cursor=pointer]:
+                    - /url: "?transactionsfilter=trade&mid=8"
+                - listitem [ref=f12298e324]:
+                  - link "Waiver Offers" [ref=f12298e325] [cursor=pointer]:
+                    - /url: "?transactionsfilter=waiver"
+              - table [ref=f12298e326]:
+                - rowgroup [ref=f12298e327]:
+                  - row [ref=f12298e328]:
+                    - cell " " [ref=f12298e329]:
+                      - generic "Added Player" [ref=f12298e330]: 
+                      - generic "Dropped Player" [ref=f12298e331]: 
+                    - cell [ref=f12298e332]:
+                      - generic [ref=f12298e333]:
+                        - link "Neville Hewitt" [ref=f12298e334] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/28935
+                        - text: NYG - LB NA
+                        - heading "Free Agent" [level=6] [ref=f12298e335]
+                      - generic [ref=f12298e336]:
+                        - link "Bills" [ref=f12298e337] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/teams/buffalo/
+                        - text: Buf - DEF
+                        - heading "To Waivers" [level=6] [ref=f12298e338]
+                    - cell "Sunday School Dec 26, 4:51 pm logo" [ref=f12298e339]:
+                      - generic [ref=f12298e340]:
+                        - generic [ref=f12298e341]:
+                          - link "Sunday School" [ref=f12298e342] [cursor=pointer]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                          - generic [ref=f12298e343]: Dec 26, 4:51 pm
+                        - link [ref=f12298e344] [cursor=pointer]:
+                          - /url: /2020/f1/622076/4
+                          - img "logo" [ref=f12298e345]
+                  - row [ref=f12298e346]:
+                    - cell " " [ref=f12298e347]:
+                      - generic "Added Player" [ref=f12298e348]: 
+                      - generic "Dropped Player" [ref=f12298e349]: 
+                    - cell [ref=f12298e350]:
+                      - generic [ref=f12298e351]:
+                        - link "Saints" [ref=f12298e352] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/teams/new-orleans/
+                        - text: NO - DEF
+                        - heading "Free Agent" [level=6] [ref=f12298e353]
+                      - generic [ref=f12298e354]:
+                        - link "Rams" [ref=f12298e355] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/teams/la-rams/
+                        - text: LAR - DEF
+                        - heading "To Waivers" [level=6] [ref=f12298e356]
+                    - cell "Team Poon Jab Dec 25, 8:16 am logo" [ref=f12298e357]:
+                      - generic [ref=f12298e358]:
+                        - generic [ref=f12298e359]:
+                          - link "Team Poon Jab" [ref=f12298e360] [cursor=pointer]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/5
+                          - generic [ref=f12298e361]: Dec 25, 8:16 am
+                        - link [ref=f12298e362] [cursor=pointer]:
+                          - /url: /2020/f1/622076/5
+                          - img "logo" [ref=f12298e363]
+                  - row [ref=f12298e364]:
+                    - cell " " [ref=f12298e365]:
+                      - generic "Added Player" [ref=f12298e366]: 
+                      - generic "Dropped Player" [ref=f12298e367]: 
+                    - cell [ref=f12298e368]:
+                      - generic [ref=f12298e369]:
+                        - link "Danny Trevathan" [ref=f12298e370] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/25898
+                        - text: Chi - LB NA
+                        - heading "Free Agent" [level=6] [ref=f12298e371]
+                      - generic [ref=f12298e372]:
+                        - link "Travis Fulgham" [ref=f12298e373] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/32016
+                        - text: GB - WR NA
+                        - heading "To Waivers" [level=6] [ref=f12298e374]
+                    - cell "Team Poon Jab Dec 25, 8:15 am logo" [ref=f12298e375]:
+                      - generic [ref=f12298e376]:
+                        - generic [ref=f12298e377]:
+                          - link "Team Poon Jab" [ref=f12298e378] [cursor=pointer]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/5
+                          - generic [ref=f12298e379]: Dec 25, 8:15 am
+                        - link [ref=f12298e380] [cursor=pointer]:
+                          - /url: /2020/f1/622076/5
+                          - img "logo" [ref=f12298e381]
+                  - row [ref=f12298e382]:
+                    - cell " " [ref=f12298e383]:
+                      - generic "Added Player" [ref=f12298e384]: 
+                      - generic "Dropped Player" [ref=f12298e385]: 
+                    - cell [ref=f12298e386]:
+                      - generic [ref=f12298e387]:
+                        - link "Jaylon Smith" [ref=f12298e388] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/29268
+                        - text: LV - LB NA
+                        - heading "Free Agent" [level=6] [ref=f12298e389]
+                      - generic [ref=f12298e390]:
+                        - link "Leighton Vander Esch" [ref=f12298e391] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/30989
+                        - text: Dal - LB NA
+                        - heading "To Waivers" [level=6] [ref=f12298e392]
+                    - cell "12 PACK SUNDAY Dec 24, 6:55 am logo" [ref=f12298e393]:
+                      - generic [ref=f12298e394]:
+                        - generic [ref=f12298e395]:
+                          - link "12 PACK SUNDAY" [ref=f12298e396] [cursor=pointer]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/1
+                          - generic [ref=f12298e397]: Dec 24, 6:55 am
+                        - link [ref=f12298e398] [cursor=pointer]:
+                          - /url: /2020/f1/622076/1
+                          - img "logo" [ref=f12298e399]
+                  - row [ref=f12298e400]:
+                    - cell " " [ref=f12298e401]:
+                      - generic "Added Player" [ref=f12298e402]: 
+                      - generic "Dropped Player" [ref=f12298e403]: 
+                    - cell [ref=f12298e404]:
+                      - generic [ref=f12298e405]:
+                        - link "Logan Thomas" [ref=f12298e406] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/27648
+                        - text: SF - TE NA
+                        - heading "Free Agent" [level=6] [ref=f12298e407]
+                      - generic [ref=f12298e408]:
+                        - link "George Kittle" [ref=f12298e409] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/30259
+                        - text: SF - TE
+                        - heading "To Waivers" [level=6] [ref=f12298e410]
+                    - cell "Sunday School Dec 24, 12:34 am logo" [ref=f12298e411]:
+                      - generic [ref=f12298e412]:
+                        - generic [ref=f12298e413]:
+                          - link "Sunday School" [ref=f12298e414] [cursor=pointer]:
+                            - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/4
+                          - generic [ref=f12298e415]: Dec 24, 12:34 am
+                        - link [ref=f12298e416] [cursor=pointer]:
+                          - /url: /2020/f1/622076/4
+                          - img "logo" [ref=f12298e417]
+          - generic [ref=f12298e419]:
+            - list [ref=f12298e422]:
+              - listitem [ref=f12298e423]:
+                - link [ref=f12298e424] [cursor=pointer]:
+                  - /url: "#y_messages"
+                  - heading "Recent Messages" [level=2] [ref=f12298e425]
+            - table [ref=f12298e429]:
+              - rowgroup [ref=f12298e430]:
+                - row [ref=f12298e431]:
+                  - columnheader [ref=f12298e432]
+                  - columnheader "Topic" [ref=f12298e433]
+                  - columnheader "Last Post" [ref=f12298e434]
+              - rowgroup [ref=f12298e435]:
+                - row [ref=f12298e436]:
+                  - cell [ref=f12298e437]:
+                    - paragraph [ref=f12298e438]: There are no messages saved for this archived year.
+          - generic [ref=f12298e439]:
+            - heading "Commish Notes" [level=2] [ref=f12298e441]
+            - generic [ref=f12298e442]:
+              - generic [ref=f12298e444]:
+                - link [ref=f12298e445] [cursor=pointer]:
+                  - /url: /2020/f1/622076/1
+                  - img "logo" [ref=f12298e446]
+                - generic [ref=f12298e447]:
+                  - generic [ref=f12298e448]: Commish
+                  - link "12 PACK SUNDAY" [ref=f12298e449] [cursor=pointer]:
+                    - /url: https://football.fantasysports.yahoo.com/2020/f1/622076/1
+                  - text: (jeff)
+              - list [ref=f12298e454]:
+                - listitem [ref=f12298e455]:
+                  - paragraph [ref=f12298e456]: Welcome to Yahoo Sports Fantasy Football. There is currently no message from your commissioner.
+          - generic [ref=f12298e457]:
+            - heading "Commish Updates" [level=2] [ref=f12298e460]
+            - list [ref=f12298e464]:
+              - listitem [ref=f12298e465]:
+                - paragraph [ref=f12298e466]: There are no recent commissioner changes.
+          - generic [ref=f12298e469]:
+            - heading "Fantasy News" [level=2] [ref=f12298e470]
+            - list [ref=f12298e471]:
+              - listitem [ref=f12298e472]:
+                - 'link "Fantasy Football Rankings: 5 most polarizing players for Week 2 Fantasy football analyst Hayden Winks highlights five tricky players to rank for Week 2. Yahoo Sports • 12h ago" [ref=f12298e474] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-5-most-polarizing-players-for-week-2-164350391.html
+                  - generic [ref=f12298e480]:
+                    - 'heading "Fantasy Football Rankings: 5 most polarizing players for Week 2" [level=3] [ref=f12298e481]'
+                    - generic [ref=f12298e483]: Fantasy football analyst Hayden Winks highlights five tricky players to rank for Week 2.
+                    - list [ref=f12298e486]:
+                      - listitem [ref=f12298e487]:
+                        - generic [ref=f12298e488]: Yahoo Sports
+                      - listitem [ref=f12298e491]:
+                        - text: •
+                        - generic [ref=f12298e492]: 12h ago
+              - listitem [ref=f12298e496]:
+                - 'link "Fantasy Football Storylines: Don''t lose hope on Colston Loveland — his bounce-back should happen in Week 2 Fantasy football analyst Chris Allen highlights key storylines heading into Week 2''s Sunday action. Yahoo Sports • 13h ago" [ref=f12298e498] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-storylines-dont-lose-hope-on-colston-loveland--his-bounce-back-should-happen-in-week-2-161858370.html
+                  - generic [ref=f12298e504]:
+                    - 'heading "Fantasy Football Storylines: Don''t lose hope on Colston Loveland — his bounce-back should happen in Week 2" [level=3] [ref=f12298e505]'
+                    - generic [ref=f12298e507]: Fantasy football analyst Chris Allen highlights key storylines heading into Week 2's Sunday action.
+                    - list [ref=f12298e510]:
+                      - listitem [ref=f12298e511]:
+                        - generic [ref=f12298e512]: Yahoo Sports
+                      - listitem [ref=f12298e515]:
+                        - text: •
+                        - generic [ref=f12298e516]: 13h ago
+              - listitem [ref=f12298e520]:
+                - 'link "Fantasy Football Week 2 Matchups to Exploit: Giants are in a good spot despite what appears to be a tough draw vs. the Rams Ray Garvin goes over players who are in great positions to succeed for fantasy football in Week 2. Yahoo Sports • 13h ago" [ref=f12298e522] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-week-2-matchups-to-exploit-giants-are-in-a-good-spot-despite-what-appears-to-be-a-tough-draw-vs-the-rams-160225957.html
+                  - generic [ref=f12298e528]:
+                    - 'heading "Fantasy Football Week 2 Matchups to Exploit: Giants are in a good spot despite what appears to be a tough draw vs. the Rams" [level=3] [ref=f12298e529]'
+                    - generic [ref=f12298e531]: Ray Garvin goes over players who are in great positions to succeed for fantasy football in Week 2.
+                    - list [ref=f12298e534]:
+                      - listitem [ref=f12298e535]:
+                        - generic [ref=f12298e536]: Yahoo Sports
+                      - listitem [ref=f12298e539]:
+                        - text: •
+                        - generic [ref=f12298e540]: 13h ago
+              - listitem [ref=f12298e544]:
+                - link "Bold Fantasy Football Predictions for Week 2 It's time to get bold for fantasy football in Week 2. Yahoo Sports • 13h ago" [ref=f12298e546] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/bold-fantasy-football-predictions-for-week-2-154344970.html
+                  - generic [ref=f12298e552]:
+                    - heading "Bold Fantasy Football Predictions for Week 2" [level=3] [ref=f12298e553]
+                    - generic [ref=f12298e555]: It's time to get bold for fantasy football in Week 2.
+                    - list [ref=f12298e558]:
+                      - listitem [ref=f12298e559]:
+                        - generic [ref=f12298e560]: Yahoo Sports
+                      - listitem [ref=f12298e563]:
+                        - text: •
+                        - generic [ref=f12298e564]: 13h ago
+              - listitem [ref=f12298e568]:
+                - 'link "Fantasy Football Week 2 Fades & Busts: Top rookies likely belong on your bench Fantasy football analyst Matt Okada highlights six players worth fading in Week 2. Yahoo Sports • 14h ago" [ref=f12298e570] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-week-2-fades--busts-top-rookies-likely-belong-on-your-bench-144632385.html
+                  - generic [ref=f12298e576]:
+                    - 'heading "Fantasy Football Week 2 Fades & Busts: Top rookies likely belong on your bench" [level=3] [ref=f12298e577]'
+                    - generic [ref=f12298e579]: Fantasy football analyst Matt Okada highlights six players worth fading in Week 2.
+                    - list [ref=f12298e582]:
+                      - listitem [ref=f12298e583]:
+                        - generic [ref=f12298e584]: Yahoo Sports
+                      - listitem [ref=f12298e587]:
+                        - text: •
+                        - generic [ref=f12298e588]: 14h ago
+              - listitem [ref=f12298e592]:
+                - 'link "Fantasy Football Start/Sit Advice: What to do with Travis Etienne Jr., Quinshon Judkins, more players in Week 2 Scott Pianowski plays traffic cop for Week 2 fantasy football. Yahoo Sports • 14h ago" [ref=f12298e594] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-startsit-advice-what-to-do-with-travis-etienne-jr-quinshon-judkins-more-players-in-week-2-144130671.html
+                  - generic [ref=f12298e600]:
+                    - 'heading "Fantasy Football Start/Sit Advice: What to do with Travis Etienne Jr., Quinshon Judkins, more players in Week 2" [level=3] [ref=f12298e601]'
+                    - generic [ref=f12298e603]: Scott Pianowski plays traffic cop for Week 2 fantasy football.
+                    - list [ref=f12298e606]:
+                      - listitem [ref=f12298e607]:
+                        - generic [ref=f12298e608]: Yahoo Sports
+                      - listitem [ref=f12298e611]:
+                        - text: •
+                        - generic [ref=f12298e612]: 14h ago
+              - listitem [ref=f12298e616]:
+                - 'link "Fantasy Football Start ''Em, Sit ''Em: Week 2 lineup picks from Justin Boone Fantasy football analyst Justin Boone reveals his lineup tips for Week 2. Yahoo Sports • 15h ago" [ref=f12298e618] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-start-em-sit-em-week-2-lineup-picks-from-justin-boone-143306732.html
+                  - generic [ref=f12298e624]:
+                    - 'heading "Fantasy Football Start ''Em, Sit ''Em: Week 2 lineup picks from Justin Boone" [level=3] [ref=f12298e625]'
+                    - generic [ref=f12298e627]: Fantasy football analyst Justin Boone reveals his lineup tips for Week 2.
+                    - list [ref=f12298e630]:
+                      - listitem [ref=f12298e631]:
+                        - generic [ref=f12298e632]: Yahoo Sports
+                      - listitem [ref=f12298e635]:
+                        - text: •
+                        - generic [ref=f12298e636]: 15h ago
+              - listitem [ref=f12298e640]:
+                - link "Josh Allen on path to MVP, Dalton Kincaid looking like league winner and more fantasy football takeaways from Lions-Bills Scott Pianowski recaps the fantasy football carnival on TNF in Week 2 between Detroit and Buffalo. Yahoo Sports • 15h ago" [ref=f12298e642] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/josh-allen-on-path-to-mvp-dalton-kincaid-looking-like-league-winner-and-more-fantasy-football-takeaways-from-lions-bills-142330010.html
+                  - generic [ref=f12298e648]:
+                    - heading "Josh Allen on path to MVP, Dalton Kincaid looking like league winner and more fantasy football takeaways from Lions-Bills" [level=3] [ref=f12298e649]
+                    - generic [ref=f12298e651]: Scott Pianowski recaps the fantasy football carnival on TNF in Week 2 between Detroit and Buffalo.
+                    - list [ref=f12298e654]:
+                      - listitem [ref=f12298e655]:
+                        - generic [ref=f12298e656]: Yahoo Sports
+                      - listitem [ref=f12298e659]:
+                        - text: •
+                        - generic [ref=f12298e660]: 15h ago
+              - listitem [ref=f12298e664]:
+                - link "TNF Reax + 6 biggest fantasy questions we want answered in Week 2 Josh Norris joins Matt Harmon for our week 2 preview pod. Norris identifies the six most pressing fantasy questions we want answered in Week 2 and Harmon reveals the 3 'sicko' games he's paying attention to for fantasy. The two end the show taking your mailbag questions about bench WRs you're considering starting for injured WRs. Yahoo Sports • 1d ago" [ref=f12298e666] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/tnf-reax--6-biggest-fantasy-questions-we-want-answered-in-week-2-044658594.html
+                  - generic [ref=f12298e672]:
+                    - heading "TNF Reax + 6 biggest fantasy questions we want answered in Week 2" [level=3] [ref=f12298e673]
+                    - generic [ref=f12298e675]: Josh Norris joins Matt Harmon for our week 2 preview pod. Norris identifies the six most pressing fantasy questions we want answered in Week 2 and Harmon reveals the 3 'sicko' games he's paying attention to for fantasy. The two end the show taking your mailbag questions about bench WRs you're considering starting for injured WRs.
+                    - list [ref=f12298e678]:
+                      - listitem [ref=f12298e679]:
+                        - generic [ref=f12298e680]: Yahoo Sports
+                      - listitem [ref=f12298e683]:
+                        - text: •
+                        - generic [ref=f12298e684]: 1d ago
+              - listitem [ref=f12298e688]:
+                - link "Week 2 lineup questions? Fantasy Football Live has you covered on Sunday morning with last-minute start/sit advice Fantasy Football Live returns on Sunday morning with 2.5 hours of top-notch advice to get your lineup set for Week 2. Yahoo Sports • 1d ago" [ref=f12298e690] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/week-2-lineup-questions-fantasy-football-live-has-you-covered-on-sunday-morning-with-last-minute-startsit-advice-025741339.html
+                  - generic [ref=f12298e696]:
+                    - heading "Week 2 lineup questions? Fantasy Football Live has you covered on Sunday morning with last-minute start/sit advice" [level=3] [ref=f12298e697]
+                    - generic [ref=f12298e699]: Fantasy Football Live returns on Sunday morning with 2.5 hours of top-notch advice to get your lineup set for Week 2.
+                    - list [ref=f12298e702]:
+                      - listitem [ref=f12298e703]:
+                        - generic [ref=f12298e704]: Yahoo Sports
+                      - listitem [ref=f12298e707]:
+                        - text: •
+                        - generic [ref=f12298e708]: 1d ago
+        - generic [ref=f12298e714]:
+          - iframe [ref=f12298e752]:
+            - insertion [ref=f12311e3]:
+              - iframe [ref=f12311e4]:
+                - iframe [ref=f12314e4]
+          - iframe [ref=f12298e754]:
+            - insertion [ref=f12323e3]:
+              - iframe [ref=f12323e4]:
+                - iframe [ref=f12325e4]
+    - contentinfo [ref=f12298e721]:
+      - iframe [ref=f12298e756]:
+        - insertion [ref=f12324e3]:
+          - iframe [ref=f12324e4]:
+            - iframe [ref=f12327e4]
+      - generic [ref=f12298e728]:
+        - list [ref=f12298e729]:
+          - listitem [ref=f12298e730]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f12298e731]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f12298e732] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f12298e733]:
+            - text: "-"
+            - link "Feedback" [ref=f12298e734] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f12298e735]:
+            - text: "-"
+            - link "Terms" [ref=f12298e736] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f12298e737] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f12298e738]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f12298e739] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f12298e740]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f12298e741] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f12298e742]:
+            - text: "-"
+            - link "About Our Ads" [ref=f12298e743] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f12298e744]:
+            - text: "-"
+            - link "Help" [ref=f12298e745] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f12298e746]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f12298e747]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f12298e748]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
