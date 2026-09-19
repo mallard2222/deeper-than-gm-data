@@ -30,3 +30,9 @@ For these seasons Yahoo's supplied `/f1/<id>/schedule?week=N` path returned a pr
 - 2018, Yahoo league 16765: 64 Final records, weeks 1-16. Regular weeks 1-14; championship/consolation brackets weeks 15-16. Files: `results/matchups/2018-matchups.jsonl`, `results/identities/2018-teams.json`. Evidence: `results/evidence/2018/week1-final.png`, `results/evidence/2018/week16-final.png`.
 
 Remaining requested historical seasons not collected in this run: 2017 (league 122934), 2016 (79234), 2015 (1044), 2014 (76443), 2013 (11558).
+
+## 2017–2016 collection attempt (stopped on Yahoo rate limit)
+- 2017, Yahoo league 122934: 64 Final records, weeks 1–16. Regular weeks 1–14 (56 records), championship/consolation brackets weeks 15–16 (8 records). Files: `results/matchups/2017-matchups.jsonl`, `results/identities/2017-teams.json`. Evidence: `results/evidence/2017/week15-brackets.png`.
+- 2016, Yahoo league 79234: 60 Final records, weeks 1–15 only. Regular weeks 1–14 (56 records), championship/consolation brackets week 15 (4 records). Week 16 was not collected. Files: `results/matchups/2016-matchups.jsonl`, `results/identities/2016-teams.json`.
+- Route used: archived read-only standings Matchups UI, `/<year>/f1/<league_id>?module=standings&lhst=matchups&matchup_week=N`, which displayed `Final results`. Scores are the first displayed values on each matchup card; adjacent values are projections and were excluded.
+- Yahoo returned HTTP 999 while loading 2016 week 16 (`https://football.fantasysports.yahoo.com/2016/f1/79234?matchup_week=16&module=matchups&lhst=matchups`). Per instructions, collection stopped immediately. No Yahoo writes, lineup changes, claims, or trades were performed.
