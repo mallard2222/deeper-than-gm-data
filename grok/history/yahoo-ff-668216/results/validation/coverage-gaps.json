@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "generated_at": "2026-09-19T21:48:25Z",
+  "generated_at": "2026-09-19T21:55:45Z",
   "seasons": {
     "2025": {
       "status": "matchups_complete_weeks_1_16",
@@ -14,6 +14,21 @@
     },
     "2026": {
       "status": "pending_latest_completed_weeks"
+    },
+    "2024": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
+    },
+    "2023": {
+      "status": "partial_weeks_1_6",
+      "matchups": 24,
+      "gaps": [
+        "Yahoo HTTP 999/429 rate limit before week 7; resume after cool-down"
+      ]
+    },
+    "2013-2022": {
+      "status": "pending_schedule_scrape"
     }
   },
   "label": "PARTIAL \u2014 do not call all-time"
