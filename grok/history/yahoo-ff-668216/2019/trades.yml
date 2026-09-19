@@ -1,0 +1,270 @@
+- generic [ref=f3232e3]:
+  - generic [ref=f3232e6]:
+    - banner [ref=f3232e8]:
+      - generic [ref=f3232e9]:
+        - generic [ref=f3232e11]:
+          - generic [ref=f3232e12]:
+            - generic [ref=f3232e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f3232e14]
+              - link "Yahoo Sports" [ref=f3232e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f3232e20]:
+              - generic [ref=f3232e21]: Search query
+              - combobox "Search query" [ref=f3232e22]
+              - button "Search" [ref=f3232e24] [cursor=pointer]
+          - navigation [ref=f3232e28]:
+            - list [ref=f3232e29]:
+              - listitem [ref=f3232e30]:
+                - link "News" [ref=f3232e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f3232e32]:
+                - link "Finance" [ref=f3232e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f3232e34]:
+                - link "Sports" [ref=f3232e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f3232e36]:
+                - button "More" [ref=f3232e37] [cursor=pointer]
+          - toolbar [ref=f3232e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f3232e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f3232e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f3232e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f3232e55]:
+          - link "Fantasy Football" [ref=f3232e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f3232e60] [cursor=pointer]:
+            - /url: /2019/f1/56453
+          - link "League" [ref=f3232e61] [cursor=pointer]:
+            - /url: /2019/f1/56453
+          - link "My Team" [ref=f3232e62] [cursor=pointer]:
+            - /url: /2019/f1/56453/8
+          - link "Matchups" [ref=f3232e63] [cursor=pointer]:
+            - /url: /2019/f1/56453/matchup
+          - link "Players" [ref=f3232e64] [cursor=pointer]:
+            - /url: /2019/f1/56453/players
+          - link "Draft Results" [ref=f3232e65] [cursor=pointer]:
+            - /url: /2019/f1/56453/draftresults
+          - list [ref=f3232e68]:
+            - listitem [ref=f3232e69]:
+              - link "Fantasy" [ref=f3232e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f3232e79]:
+              - link "Network" [ref=f3232e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f3232e89]:
+              - link "Get Fantasy Plus" [ref=f3232e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f3232e97]: Deeper Than (ID# 56453)
+  - generic [ref=f3232e101]:
+    - banner [ref=f3232e102]:
+      - generic [ref=f3232e103]:
+        - heading "Yahoo Sports Fantasy Football" [level=2] [ref=f3232e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f3232e106] [cursor=pointer]:
+            - /url: /2019/f1
+        - iframe [ref=f3232e111]:
+          - iframe [ref=f3242e2]:
+            - generic [ref=f3267e3] [cursor=pointer]
+        - link "Open chat" [ref=f3232e112] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f3232e114]
+    - generic [ref=f3232e119]:
+      - heading "Transactions" [level=1] [ref=f3232e123]
+      - generic [ref=f3232e125]:
+        - generic [ref=f3232e126]:
+          - heading "Recent Transactions" [level=2] [ref=f3232e127]
+          - link "All Teams " [ref=f3232e129] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f3232e130]:
+              - generic [ref=f3232e131]: All Teams
+              - generic [ref=f3232e132]: 
+        - generic [ref=f3232e133]:
+          - list [ref=f3232e135]:
+            - listitem [ref=f3232e136]:
+              - link "All Transactions" [ref=f3232e137] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f3232e138]:
+              - link "Added Players" [ref=f3232e139] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f3232e140]:
+              - link "Dropped Players" [ref=f3232e141] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f3232e142]:
+              - link "Trades" [ref=f3232e143] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f3232e144]:
+              - link "FAB Offers" [ref=f3232e145] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f3232e146]:
+            - rowgroup [ref=f3232e147]:
+              - row " Odell Beckham Jr. NYG - WR Q Round 7 Traded to Dezbians Nov 9, 1:15 pm logo" [ref=f3232e148]:
+                - cell "" [ref=f3232e149]
+                - cell "Odell Beckham Jr. NYG - WR Q Round 7" [ref=f3232e150]:
+                  - paragraph [ref=f3232e151]:
+                    - link "Odell Beckham Jr." [ref=f3232e152] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27540
+                    - text: NYG - WR Q
+                  - paragraph [ref=f3232e153]: Round 7
+                - cell "Traded to" [ref=f3232e154]
+                - cell "Dezbians Nov 9, 1:15 pm logo" [ref=f3232e155]:
+                  - generic [ref=f3232e156]:
+                    - generic [ref=f3232e157]
+                    - link "logo" [ref=f3232e160] [cursor=pointer]:
+                      - /url: /2019/f1/56453/4
+              - row "Will Fuller V Mia - WR NA Round 2 Traded to Wet Serapas Nov 9, 1:15 pm logo" [ref=f3232e162]:
+                - cell "Will Fuller V Mia - WR NA Round 2" [ref=f3232e163]:
+                  - paragraph [ref=f3232e164]:
+                    - link "Will Fuller V" [ref=f3232e165] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29255
+                    - text: Mia - WR NA
+                  - paragraph [ref=f3232e166]: Round 2
+                - cell "Traded to" [ref=f3232e167]
+                - cell "Wet Serapas Nov 9, 1:15 pm logo" [ref=f3232e168]:
+                  - generic [ref=f3232e169]:
+                    - generic [ref=f3232e170]
+                    - link "logo" [ref=f3232e173] [cursor=pointer]:
+                      - /url: /2019/f1/56453/1
+              - row " Josh Jacobs GB - RB NA Adam Thielen Pit - WR NA Round 6 Traded to FFAmuseBouche Nov 9, 1:15 pm logo" [ref=f3232e175]:
+                - cell "" [ref=f3232e176]
+                - cell "Josh Jacobs GB - RB NA Adam Thielen Pit - WR NA Round 6" [ref=f3232e177]:
+                  - paragraph [ref=f3232e178]:
+                    - link "Josh Jacobs" [ref=f3232e179] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31856
+                    - text: GB - RB NA
+                  - paragraph [ref=f3232e180]:
+                    - link "Adam Thielen" [ref=f3232e181] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27277
+                    - text: Pit - WR NA
+                  - paragraph [ref=f3232e182]: Round 6
+                - cell "Traded to" [ref=f3232e183]
+                - cell "FFAmuseBouche Nov 9, 1:15 pm logo" [ref=f3232e184]:
+                  - generic [ref=f3232e185]:
+                    - generic [ref=f3232e186]
+                    - link "logo" [ref=f3232e189] [cursor=pointer]:
+                      - /url: /2019/f1/56453/6
+              - row "Phillip Lindsay Ind - RB NA Tom Brady TB - QB NA Round 2 Traded to Wet Serapas Nov 9, 1:15 pm logo" [ref=f3232e191]:
+                - cell "Phillip Lindsay Ind - RB NA Tom Brady TB - QB NA Round 2" [ref=f3232e192]:
+                  - paragraph [ref=f3232e193]:
+                    - link "Phillip Lindsay" [ref=f3232e194] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31379
+                    - text: Ind - RB NA
+                  - paragraph [ref=f3232e195]:
+                    - link "Tom Brady" [ref=f3232e196] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/5228
+                    - text: TB - QB NA
+                  - paragraph [ref=f3232e197]: Round 2
+                - cell "Traded to" [ref=f3232e198]
+                - cell "Wet Serapas Nov 9, 1:15 pm logo" [ref=f3232e199]:
+                  - generic [ref=f3232e200]:
+                    - generic [ref=f3232e201]
+                    - link "logo" [ref=f3232e204] [cursor=pointer]:
+                      - /url: /2019/f1/56453/1
+              - row " Evan Engram Den - TE Q Chris Thompson SF - RB NA Round 3 Traded to Deepest ( James ) Oct 8, 8:55 pm logo" [ref=f3232e206]:
+                - cell "" [ref=f3232e207]
+                - cell "Evan Engram Den - TE Q Chris Thompson SF - RB NA Round 3" [ref=f3232e208]:
+                  - paragraph [ref=f3232e209]:
+                    - link "Evan Engram" [ref=f3232e210] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30136
+                    - text: Den - TE Q
+                  - paragraph [ref=f3232e211]:
+                    - link "Chris Thompson" [ref=f3232e212] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26777
+                    - text: SF - RB NA
+                  - paragraph [ref=f3232e213]: Round 3
+                - cell "Traded to" [ref=f3232e214]
+                - cell "Deepest ( James ) Oct 8, 8:55 pm logo" [ref=f3232e215]:
+                  - generic [ref=f3232e216]:
+                    - generic [ref=f3232e217]
+                    - link "logo" [ref=f3232e223] [cursor=pointer]:
+                      - /url: /2019/f1/56453/3
+              - row "Le'Veon Bell TB - RB NA Round 6 Traded to Dezbians ( James ) Oct 8, 8:55 pm logo" [ref=f3232e225]:
+                - cell "Le'Veon Bell TB - RB NA Round 6" [ref=f3232e226]:
+                  - paragraph [ref=f3232e227]:
+                    - link "Le'Veon Bell" [ref=f3232e228] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26671
+                    - text: TB - RB NA
+                  - paragraph [ref=f3232e229]: Round 6
+                - cell "Traded to" [ref=f3232e230]
+                - cell "Dezbians ( James ) Oct 8, 8:55 pm logo" [ref=f3232e231]:
+                  - generic [ref=f3232e232]:
+                    - generic [ref=f3232e233]
+                    - link "logo" [ref=f3232e239] [cursor=pointer]:
+                      - /url: /2019/f1/56453/4
+              - row " David Johnson NO - RB NA Marquez Valdes-Scantling LAC - WR NA Traded to FFAmuseBouche ( James ) Aug 27, 11:38 am logo" [ref=f3232e241]:
+                - cell "" [ref=f3232e242]
+                - cell "David Johnson NO - RB NA Marquez Valdes-Scantling LAC - WR NA" [ref=f3232e243]:
+                  - paragraph [ref=f3232e244]:
+                    - link "David Johnson" [ref=f3232e245] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28474
+                    - text: NO - RB NA
+                  - paragraph [ref=f3232e246]:
+                    - link "Marquez Valdes-Scantling" [ref=f3232e247] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31144
+                    - text: LAC - WR NA
+                - cell "Traded to" [ref=f3232e248]
+                - cell "FFAmuseBouche ( James ) Aug 27, 11:38 am logo" [ref=f3232e249]:
+                  - generic [ref=f3232e250]:
+                    - generic [ref=f3232e251]
+                    - link "logo" [ref=f3232e257] [cursor=pointer]:
+                      - /url: /2019/f1/56453/6
+              - row "Damien Williams Ari - RB NA Cooper Kupp Sea - WR Traded to Dezbians ( James ) Aug 27, 11:38 am logo" [ref=f3232e259]:
+                - cell "Damien Williams Ari - RB NA Cooper Kupp Sea - WR" [ref=f3232e260]:
+                  - paragraph [ref=f3232e261]:
+                    - link "Damien Williams" [ref=f3232e262] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28115
+                    - text: Ari - RB NA
+                  - paragraph [ref=f3232e263]:
+                    - link "Cooper Kupp" [ref=f3232e264] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30182
+                    - text: Sea - WR
+                - cell "Traded to" [ref=f3232e265]
+                - cell "Dezbians ( James ) Aug 27, 11:38 am logo" [ref=f3232e266]:
+                  - generic [ref=f3232e267]:
+                    - generic [ref=f3232e268]
+                    - link "logo" [ref=f3232e274] [cursor=pointer]:
+                      - /url: /2019/f1/56453/4
+    - contentinfo [ref=f3232e277]:
+      - iframe [ref=f3232e282]:
+        - insertion [ref=f3257e3]:
+          - iframe [ref=f3257e4]:
+            - iframe [ref=f3261e4]
+      - generic [ref=f3232e285]:
+        - list [ref=f3232e286]:
+          - listitem [ref=f3232e287]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f3232e288]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f3232e289] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f3232e290]:
+            - text: "-"
+            - link "Feedback" [ref=f3232e291] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f3232e292]:
+            - text: "-"
+            - link "Terms" [ref=f3232e293] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f3232e294] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f3232e295]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f3232e296] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f3232e297]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f3232e298] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f3232e299]:
+            - text: "-"
+            - link "About Our Ads" [ref=f3232e300] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f3232e301]:
+            - text: "-"
+            - link "Help" [ref=f3232e302] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f3232e303]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f3232e304]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f3232e305]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

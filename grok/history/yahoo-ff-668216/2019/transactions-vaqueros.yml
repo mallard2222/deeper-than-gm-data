@@ -1,0 +1,540 @@
+- generic [ref=f3179e3]:
+  - generic [ref=f3179e6]:
+    - banner [ref=f3179e8]:
+      - generic [ref=f3179e9]:
+        - generic [ref=f3179e11]:
+          - generic [ref=f3179e12]:
+            - generic [ref=f3179e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f3179e14]
+              - link "Yahoo Sports" [ref=f3179e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f3179e20]:
+              - generic [ref=f3179e21]: Search query
+              - combobox "Search query" [ref=f3179e22]
+              - button "Search" [ref=f3179e24] [cursor=pointer]
+          - navigation [ref=f3179e28]:
+            - list [ref=f3179e29]:
+              - listitem [ref=f3179e30]:
+                - link "News" [ref=f3179e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f3179e32]:
+                - link "Finance" [ref=f3179e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f3179e34]:
+                - link "Sports" [ref=f3179e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f3179e36]:
+                - button "More" [ref=f3179e37] [cursor=pointer]
+          - toolbar [ref=f3179e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f3179e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f3179e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f3179e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f3179e55]:
+          - link "Fantasy Football" [ref=f3179e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f3179e60] [cursor=pointer]:
+            - /url: /2019/f1/56453
+          - link "League" [ref=f3179e61] [cursor=pointer]:
+            - /url: /2019/f1/56453
+          - link "My Team" [ref=f3179e62] [cursor=pointer]:
+            - /url: /2019/f1/56453/8
+          - link "Matchups" [ref=f3179e63] [cursor=pointer]:
+            - /url: /2019/f1/56453/matchup
+          - link "Players" [ref=f3179e64] [cursor=pointer]:
+            - /url: /2019/f1/56453/players
+          - link "Draft Results" [ref=f3179e65] [cursor=pointer]:
+            - /url: /2019/f1/56453/draftresults
+          - list [ref=f3179e68]:
+            - listitem [ref=f3179e69]:
+              - link "Fantasy" [ref=f3179e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f3179e79]:
+              - link "Network" [ref=f3179e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f3179e89]:
+              - link "Get Fantasy Plus" [ref=f3179e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f3179e97]: Deeper Than (ID# 56453)
+  - generic [ref=f3179e101]:
+    - banner [ref=f3179e102]:
+      - generic [ref=f3179e103]:
+        - heading "Yahoo Sports Fantasy Football" [level=2] [ref=f3179e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f3179e106] [cursor=pointer]:
+            - /url: /2019/f1
+        - link "Open chat" [ref=f3179e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f3179e113]
+    - generic [ref=f3179e118]:
+      - heading "Transactions" [level=1] [ref=f3179e122]
+      - generic [ref=f3179e124]:
+        - generic [ref=f3179e125]:
+          - heading "Recent Transactions" [level=2] [ref=f3179e126]
+          - link "Vaqueros " [ref=f3179e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f3179e129]:
+              - generic [ref=f3179e130]: Vaqueros
+              - generic [ref=f3179e131]: 
+        - generic [ref=f3179e132]:
+          - list [ref=f3179e134]:
+            - listitem [ref=f3179e135]:
+              - link "All Transactions" [ref=f3179e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&mid=8"
+            - listitem [ref=f3179e137]:
+              - link "Added Players" [ref=f3179e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add&mid=8"
+            - listitem [ref=f3179e139]:
+              - link "Dropped Players" [ref=f3179e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop&mid=8"
+            - listitem [ref=f3179e141]:
+              - link "Trades" [ref=f3179e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade&mid=8"
+            - listitem [ref=f3179e143]:
+              - link "FAB Offers" [ref=f3179e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f3179e145]:
+            - rowgroup [ref=f3179e146]:
+              - row "  Drew Lock Sea - QB Waiver Jonathan Williams Was - RB NA To Waivers Vaqueros Dec 11, 2:26 am logo" [ref=f3179e147]:
+                - cell " " [ref=f3179e148]:
+                  - generic "Added Player" [ref=f3179e149]: 
+                  - generic "Dropped Player" [ref=f3179e150]: 
+                - cell "Drew Lock Sea - QB Waiver Jonathan Williams Was - RB NA To Waivers" [ref=f3179e151]:
+                  - generic [ref=f3179e152]:
+                    - link "Drew Lock" [ref=f3179e153] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31874
+                    - text: Sea - QB
+                    - heading "Waiver" [level=6] [ref=f3179e154]
+                  - generic [ref=f3179e155]:
+                    - link "Jonathan Williams" [ref=f3179e156] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29390
+                    - text: Was - RB NA
+                    - heading "To Waivers" [level=6] [ref=f3179e157]
+                - cell "Vaqueros Dec 11, 2:26 am logo" [ref=f3179e158]:
+                  - generic [ref=f3179e159]:
+                    - generic [ref=f3179e160]
+                    - link "logo" [ref=f3179e163] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Jason Witten LV - TE NA Free Agent Eric Ebron Pit - TE NA To Waivers Vaqueros Nov 27, 4:54 pm logo" [ref=f3179e165]:
+                - cell " " [ref=f3179e166]:
+                  - generic "Added Player" [ref=f3179e167]: 
+                  - generic "Dropped Player" [ref=f3179e168]: 
+                - cell "Jason Witten LV - TE NA Free Agent Eric Ebron Pit - TE NA To Waivers" [ref=f3179e169]:
+                  - generic [ref=f3179e170]:
+                    - link "Jason Witten" [ref=f3179e171] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6405
+                    - text: LV - TE NA
+                    - heading "Free Agent" [level=6] [ref=f3179e172]
+                  - generic [ref=f3179e173]:
+                    - link "Eric Ebron" [ref=f3179e174] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27538
+                    - text: Pit - TE NA
+                    - heading "To Waivers" [level=6] [ref=f3179e175]
+                - cell "Vaqueros Nov 27, 4:54 pm logo" [ref=f3179e176]:
+                  - generic [ref=f3179e177]:
+                    - generic [ref=f3179e178]
+                    - link "logo" [ref=f3179e181] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Jonathan Williams Was - RB NA Waiver Gardner Minshew II Ari - QB To Waivers Vaqueros Nov 20, 4:18 am logo" [ref=f3179e183]:
+                - cell " " [ref=f3179e184]:
+                  - generic "Added Player" [ref=f3179e185]: 
+                  - generic "Dropped Player" [ref=f3179e186]: 
+                - cell "Jonathan Williams Was - RB NA Waiver Gardner Minshew II Ari - QB To Waivers" [ref=f3179e187]:
+                  - generic [ref=f3179e188]:
+                    - link "Jonathan Williams" [ref=f3179e189] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29390
+                    - text: Was - RB NA
+                    - heading "Waiver" [level=6] [ref=f3179e190]
+                  - generic [ref=f3179e191]:
+                    - link "Gardner Minshew II" [ref=f3179e192] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32010
+                    - text: Ari - QB
+                    - heading "To Waivers" [level=6] [ref=f3179e193]
+                - cell "Vaqueros Nov 20, 4:18 am logo" [ref=f3179e194]:
+                  - generic [ref=f3179e195]:
+                    - generic [ref=f3179e196]
+                    - link "logo" [ref=f3179e199] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Eric Ebron Pit - TE NA Free Agent Diontae Johnson Cle - WR NA To Waivers Vaqueros Nov 13, 12:25 pm logo" [ref=f3179e201]:
+                - cell " " [ref=f3179e202]:
+                  - generic "Added Player" [ref=f3179e203]: 
+                  - generic "Dropped Player" [ref=f3179e204]: 
+                - cell "Eric Ebron Pit - TE NA Free Agent Diontae Johnson Cle - WR NA To Waivers" [ref=f3179e205]:
+                  - generic [ref=f3179e206]:
+                    - link "Eric Ebron" [ref=f3179e207] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27538
+                    - text: Pit - TE NA
+                    - heading "Free Agent" [level=6] [ref=f3179e208]
+                  - generic [ref=f3179e209]:
+                    - link "Diontae Johnson" [ref=f3179e210] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31898
+                    - text: Cle - WR NA
+                    - heading "To Waivers" [level=6] [ref=f3179e211]
+                - cell "Vaqueros Nov 13, 12:25 pm logo" [ref=f3179e212]:
+                  - generic [ref=f3179e213]:
+                    - generic [ref=f3179e214]
+                    - link "logo" [ref=f3179e217] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Kyle Rudolph TB - TE NA Waiver Colts Ind - DEF To Waivers Vaqueros Nov 13, 2:18 am logo" [ref=f3179e219]:
+                - cell " " [ref=f3179e220]:
+                  - generic "Added Player" [ref=f3179e221]: 
+                  - generic "Dropped Player" [ref=f3179e222]: 
+                - cell "Kyle Rudolph TB - TE NA Waiver Colts Ind - DEF To Waivers" [ref=f3179e223]:
+                  - generic [ref=f3179e224]:
+                    - link "Kyle Rudolph" [ref=f3179e225] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24830
+                    - text: TB - TE NA
+                    - heading "Waiver" [level=6] [ref=f3179e226]
+                  - generic [ref=f3179e227]:
+                    - link "Colts" [ref=f3179e228] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/indianapolis/
+                    - text: Ind - DEF
+                    - heading "To Waivers" [level=6] [ref=f3179e229]
+                - cell "Vaqueros Nov 13, 2:18 am logo" [ref=f3179e230]:
+                  - generic [ref=f3179e231]:
+                    - generic [ref=f3179e232]
+                    - link "logo" [ref=f3179e235] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Diontae Johnson Cle - WR NA Waiver Cam Newton Car - QB NA To Waivers Vaqueros Nov 6, 2:19 am logo" [ref=f3179e237]:
+                - cell " " [ref=f3179e238]:
+                  - generic "Added Player" [ref=f3179e239]: 
+                  - generic "Dropped Player" [ref=f3179e240]: 
+                - cell "Diontae Johnson Cle - WR NA Waiver Cam Newton Car - QB NA To Waivers" [ref=f3179e241]:
+                  - generic [ref=f3179e242]:
+                    - link "Diontae Johnson" [ref=f3179e243] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31898
+                    - text: Cle - WR NA
+                    - heading "Waiver" [level=6] [ref=f3179e244]
+                  - generic [ref=f3179e245]:
+                    - link "Cam Newton" [ref=f3179e246] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24788
+                    - text: Car - QB NA
+                    - heading "To Waivers" [level=6] [ref=f3179e247]
+                - cell "Vaqueros Nov 6, 2:19 am logo" [ref=f3179e248]:
+                  - generic [ref=f3179e249]:
+                    - generic [ref=f3179e250]
+                    - link "logo" [ref=f3179e253] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Wil Lutz Den - K Waiver Josh Lambo Ten - K NA To Waivers Vaqueros Nov 6, 2:19 am logo" [ref=f3179e255]:
+                - cell " " [ref=f3179e256]:
+                  - generic "Added Player" [ref=f3179e257]: 
+                  - generic "Dropped Player" [ref=f3179e258]: 
+                - cell "Wil Lutz Den - K Waiver Josh Lambo Ten - K NA To Waivers" [ref=f3179e259]:
+                  - generic [ref=f3179e260]:
+                    - link "Wil Lutz" [ref=f3179e261] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29754
+                    - text: Den - K
+                    - heading "Waiver" [level=6] [ref=f3179e262]
+                  - generic [ref=f3179e263]:
+                    - link "Josh Lambo" [ref=f3179e264] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28685
+                    - text: Ten - K NA
+                    - heading "To Waivers" [level=6] [ref=f3179e265]
+                - cell "Vaqueros Nov 6, 2:19 am logo" [ref=f3179e266]:
+                  - generic [ref=f3179e267]:
+                    - generic [ref=f3179e268]
+                    - link "logo" [ref=f3179e271] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Colts Ind - DEF Waiver Jimmy Graham NO - TE NA To Waivers Vaqueros Nov 6, 2:19 am logo" [ref=f3179e273]:
+                - cell " " [ref=f3179e274]:
+                  - generic "Added Player" [ref=f3179e275]: 
+                  - generic "Dropped Player" [ref=f3179e276]: 
+                - cell "Colts Ind - DEF Waiver Jimmy Graham NO - TE NA To Waivers" [ref=f3179e277]:
+                  - generic [ref=f3179e278]:
+                    - link "Colts" [ref=f3179e279] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/indianapolis/
+                    - text: Ind - DEF
+                    - heading "Waiver" [level=6] [ref=f3179e280]
+                  - generic [ref=f3179e281]:
+                    - link "Jimmy Graham" [ref=f3179e282] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24070
+                    - text: NO - TE NA
+                    - heading "To Waivers" [level=6] [ref=f3179e283]
+                - cell "Vaqueros Nov 6, 2:19 am logo" [ref=f3179e284]:
+                  - generic [ref=f3179e285]:
+                    - generic [ref=f3179e286]
+                    - link "logo" [ref=f3179e289] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Jimmy Graham NO - TE NA Free Agent Tyrell Williams Det - WR NA To Waivers Vaqueros Oct 24, 6:06 pm logo" [ref=f3179e291]:
+                - cell " " [ref=f3179e292]:
+                  - generic "Added Player" [ref=f3179e293]: 
+                  - generic "Dropped Player" [ref=f3179e294]: 
+                - cell "Jimmy Graham NO - TE NA Free Agent Tyrell Williams Det - WR NA To Waivers" [ref=f3179e295]:
+                  - generic [ref=f3179e296]:
+                    - link "Jimmy Graham" [ref=f3179e297] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24070
+                    - text: NO - TE NA
+                    - heading "Free Agent" [level=6] [ref=f3179e298]
+                  - generic [ref=f3179e299]:
+                    - link "Tyrell Williams" [ref=f3179e300] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28691
+                    - text: Det - WR NA
+                    - heading "To Waivers" [level=6] [ref=f3179e301]
+                - cell "Vaqueros Oct 24, 6:06 pm logo" [ref=f3179e302]:
+                  - generic [ref=f3179e303]:
+                    - generic [ref=f3179e304]
+                    - link "logo" [ref=f3179e307] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Adrian Peterson Sea - RB NA Free Agent Darrel Williams NO - RB NA To Waivers Vaqueros Oct 10, 9:53 pm logo" [ref=f3179e309]:
+                - cell " " [ref=f3179e310]:
+                  - generic "Added Player" [ref=f3179e311]: 
+                  - generic "Dropped Player" [ref=f3179e312]: 
+                - cell "Adrian Peterson Sea - RB NA Free Agent Darrel Williams NO - RB NA To Waivers" [ref=f3179e313]:
+                  - generic [ref=f3179e314]:
+                    - link "Adrian Peterson" [ref=f3179e315] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8261
+                    - text: Sea - RB NA
+                    - heading "Free Agent" [level=6] [ref=f3179e316]
+                  - generic [ref=f3179e317]:
+                    - link "Darrel Williams" [ref=f3179e318] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31500
+                    - text: NO - RB NA
+                    - heading "To Waivers" [level=6] [ref=f3179e319]
+                - cell "Vaqueros Oct 10, 9:53 pm logo" [ref=f3179e320]:
+                  - generic [ref=f3179e321]:
+                    - generic [ref=f3179e322]
+                    - link "logo" [ref=f3179e325] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Josh Lambo Ten - K NA Free Agent Mason Crosby NYG - K NA To Waivers Vaqueros Oct 3, 5:39 pm logo" [ref=f3179e327]:
+                - cell " " [ref=f3179e328]:
+                  - generic "Added Player" [ref=f3179e329]: 
+                  - generic "Dropped Player" [ref=f3179e330]: 
+                - cell "Josh Lambo Ten - K NA Free Agent Mason Crosby NYG - K NA To Waivers" [ref=f3179e331]:
+                  - generic [ref=f3179e332]:
+                    - link "Josh Lambo" [ref=f3179e333] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28685
+                    - text: Ten - K NA
+                    - heading "Free Agent" [level=6] [ref=f3179e334]
+                  - generic [ref=f3179e335]:
+                    - link "Mason Crosby" [ref=f3179e336] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8447
+                    - text: NYG - K NA
+                    - heading "To Waivers" [level=6] [ref=f3179e337]
+                - cell "Vaqueros Oct 3, 5:39 pm logo" [ref=f3179e338]:
+                  - generic [ref=f3179e339]:
+                    - generic [ref=f3179e340]
+                    - link "logo" [ref=f3179e343] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Darrel Williams NO - RB NA $5 Waiver Case Keenum Chi - QB To Waivers Vaqueros Sep 25, 2:18 am logo" [ref=f3179e345]:
+                - cell " " [ref=f3179e346]:
+                  - generic "Added Player" [ref=f3179e347]: 
+                  - generic "Dropped Player" [ref=f3179e348]: 
+                - cell "Darrel Williams NO - RB NA $5 Waiver Case Keenum Chi - QB To Waivers" [ref=f3179e349]:
+                  - generic [ref=f3179e350]:
+                    - link "Darrel Williams" [ref=f3179e351] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31500
+                    - text: NO - RB NA
+                    - heading "$5 Waiver" [level=6] [ref=f3179e352]
+                  - generic [ref=f3179e353]:
+                    - link "Case Keenum" [ref=f3179e354] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26483
+                    - text: Chi - QB
+                    - heading "To Waivers" [level=6] [ref=f3179e355]
+                - cell "Vaqueros Sep 25, 2:18 am logo" [ref=f3179e356]:
+                  - generic [ref=f3179e357]:
+                    - generic [ref=f3179e358]
+                    - link "logo" [ref=f3179e361] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Kyle Allen Buf - QB $15 Waiver Hunter Henry NE - TE To Waivers Vaqueros Sep 25, 2:18 am logo" [ref=f3179e363]:
+                - cell " " [ref=f3179e364]:
+                  - generic "Added Player" [ref=f3179e365]: 
+                  - generic "Dropped Player" [ref=f3179e366]: 
+                - cell "Kyle Allen Buf - QB $15 Waiver Hunter Henry NE - TE To Waivers" [ref=f3179e367]:
+                  - generic [ref=f3179e368]:
+                    - link "Kyle Allen" [ref=f3179e369] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31301
+                    - text: Buf - QB
+                    - heading "$15 Waiver" [level=6] [ref=f3179e370]
+                  - generic [ref=f3179e371]:
+                    - link "Hunter Henry" [ref=f3179e372] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29269
+                    - text: NE - TE
+                    - heading "To Waivers" [level=6] [ref=f3179e373]
+                - cell "Vaqueros Sep 25, 2:18 am logo" [ref=f3179e374]:
+                  - generic [ref=f3179e375]:
+                    - generic [ref=f3179e376]
+                    - link "logo" [ref=f3179e379] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Gardner Minshew II Ari - QB Free Agent Kenny Stills NO - WR NA To Waivers Vaqueros Sep 19, 2:44 pm logo" [ref=f3179e381]:
+                - cell " " [ref=f3179e382]:
+                  - generic "Added Player" [ref=f3179e383]: 
+                  - generic "Dropped Player" [ref=f3179e384]: 
+                - cell "Gardner Minshew II Ari - QB Free Agent Kenny Stills NO - WR NA To Waivers" [ref=f3179e385]:
+                  - generic [ref=f3179e386]:
+                    - link "Gardner Minshew II" [ref=f3179e387] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32010
+                    - text: Ari - QB
+                    - heading "Free Agent" [level=6] [ref=f3179e388]
+                  - generic [ref=f3179e389]:
+                    - link "Kenny Stills" [ref=f3179e390] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26767
+                    - text: NO - WR NA
+                    - heading "To Waivers" [level=6] [ref=f3179e391]
+                - cell "Vaqueros Sep 19, 2:44 pm logo" [ref=f3179e392]:
+                  - generic [ref=f3179e393]:
+                    - generic [ref=f3179e394]
+                    - link "logo" [ref=f3179e397] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Daniel Jones Ind - QB $5 Waiver Corey Davis NYJ - WR NA To Waivers Vaqueros Sep 18, 2:20 am logo" [ref=f3179e399]:
+                - cell " " [ref=f3179e400]:
+                  - generic "Added Player" [ref=f3179e401]: 
+                  - generic "Dropped Player" [ref=f3179e402]: 
+                - cell "Daniel Jones Ind - QB $5 Waiver Corey Davis NYJ - WR NA To Waivers" [ref=f3179e403]:
+                  - generic [ref=f3179e404]:
+                    - link "Daniel Jones" [ref=f3179e405] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31838
+                    - text: Ind - QB
+                    - heading "$5 Waiver" [level=6] [ref=f3179e406]
+                  - generic [ref=f3179e407]:
+                    - link "Corey Davis" [ref=f3179e408] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30118
+                    - text: NYJ - WR NA
+                    - heading "To Waivers" [level=6] [ref=f3179e409]
+                - cell "Vaqueros Sep 18, 2:20 am logo" [ref=f3179e410]:
+                  - generic [ref=f3179e411]:
+                    - generic [ref=f3179e412]
+                    - link "logo" [ref=f3179e415] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Case Keenum Chi - QB Free Agent Dion Lewis NYG - RB NA To Waivers Vaqueros Sep 11, 7:46 am logo" [ref=f3179e417]:
+                - cell " " [ref=f3179e418]:
+                  - generic "Added Player" [ref=f3179e419]: 
+                  - generic "Dropped Player" [ref=f3179e420]: 
+                - cell "Case Keenum Chi - QB Free Agent Dion Lewis NYG - RB NA To Waivers" [ref=f3179e421]:
+                  - generic [ref=f3179e422]:
+                    - link "Case Keenum" [ref=f3179e423] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26483
+                    - text: Chi - QB
+                    - heading "Free Agent" [level=6] [ref=f3179e424]
+                  - generic [ref=f3179e425]:
+                    - link "Dion Lewis" [ref=f3179e426] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24936
+                    - text: NYG - RB NA
+                    - heading "To Waivers" [level=6] [ref=f3179e427]
+                - cell "Vaqueros Sep 11, 7:46 am logo" [ref=f3179e428]:
+                  - generic [ref=f3179e429]:
+                    - generic [ref=f3179e430]
+                    - link "logo" [ref=f3179e433] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Patriots NE - DEF $15 Waiver Vikings Min - DEF To Waivers Vaqueros Sep 11, 2:18 am logo" [ref=f3179e435]:
+                - cell " " [ref=f3179e436]:
+                  - generic "Added Player" [ref=f3179e437]: 
+                  - generic "Dropped Player" [ref=f3179e438]: 
+                - cell "Patriots NE - DEF $15 Waiver Vikings Min - DEF To Waivers" [ref=f3179e439]:
+                  - generic [ref=f3179e440]:
+                    - link "Patriots" [ref=f3179e441] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/new-england/
+                    - text: NE - DEF
+                    - heading "$15 Waiver" [level=6] [ref=f3179e442]
+                  - generic [ref=f3179e443]:
+                    - link "Vikings" [ref=f3179e444] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/minnesota/
+                    - text: Min - DEF
+                    - heading "To Waivers" [level=6] [ref=f3179e445]
+                - cell "Vaqueros Sep 11, 2:18 am logo" [ref=f3179e446]:
+                  - generic [ref=f3179e447]:
+                    - generic [ref=f3179e448]
+                    - link "logo" [ref=f3179e451] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Tyrell Williams Det - WR NA $20 Waiver Geronimo Allison Atl - WR NA To Waivers Vaqueros Sep 11, 2:18 am logo" [ref=f3179e453]:
+                - cell " " [ref=f3179e454]:
+                  - generic "Added Player" [ref=f3179e455]: 
+                  - generic "Dropped Player" [ref=f3179e456]: 
+                - cell "Tyrell Williams Det - WR NA $20 Waiver Geronimo Allison Atl - WR NA To Waivers" [ref=f3179e457]:
+                  - generic [ref=f3179e458]:
+                    - link "Tyrell Williams" [ref=f3179e459] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28691
+                    - text: Det - WR NA
+                    - heading "$20 Waiver" [level=6] [ref=f3179e460]
+                  - generic [ref=f3179e461]:
+                    - link "Geronimo Allison" [ref=f3179e462] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29719
+                    - text: Atl - WR NA
+                    - heading "To Waivers" [level=6] [ref=f3179e463]
+                - cell "Vaqueros Sep 11, 2:18 am logo" [ref=f3179e464]:
+                  - generic [ref=f3179e465]:
+                    - generic [ref=f3179e466]
+                    - link "logo" [ref=f3179e469] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Hollywood Brown Phi - WR Q $40 Waiver Devin Funchess Det - WR NA To Waivers Vaqueros Sep 11, 2:18 am logo" [ref=f3179e471]:
+                - cell " " [ref=f3179e472]:
+                  - generic "Added Player" [ref=f3179e473]: 
+                  - generic "Dropped Player" [ref=f3179e474]: 
+                - cell "Hollywood Brown Phi - WR Q $40 Waiver Devin Funchess Det - WR NA To Waivers" [ref=f3179e475]:
+                  - generic [ref=f3179e476]:
+                    - link "Hollywood Brown" [ref=f3179e477] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31857
+                    - text: Phi - WR Q
+                    - heading "$40 Waiver" [level=6] [ref=f3179e478]
+                  - generic [ref=f3179e479]:
+                    - link "Devin Funchess" [ref=f3179e480] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28429
+                    - text: Det - WR NA
+                    - heading "To Waivers" [level=6] [ref=f3179e481]
+                - cell "Vaqueros Sep 11, 2:18 am logo" [ref=f3179e482]:
+                  - generic [ref=f3179e483]:
+                    - generic [ref=f3179e484]
+                    - link "logo" [ref=f3179e487] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+              - row "  Jacoby Brissett Ari - QB Free Agent Andrew Luck Ind - QB NA To Waivers Vaqueros Aug 27, 6:36 am logo" [ref=f3179e489]:
+                - cell " " [ref=f3179e490]:
+                  - generic "Added Player" [ref=f3179e491]: 
+                  - generic "Dropped Player" [ref=f3179e492]: 
+                - cell "Jacoby Brissett Ari - QB Free Agent Andrew Luck Ind - QB NA To Waivers" [ref=f3179e493]:
+                  - generic [ref=f3179e494]:
+                    - link "Jacoby Brissett" [ref=f3179e495] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29325
+                    - text: Ari - QB
+                    - heading "Free Agent" [level=6] [ref=f3179e496]
+                  - generic [ref=f3179e497]:
+                    - link "Andrew Luck" [ref=f3179e498] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25711
+                    - text: Ind - QB NA
+                    - heading "To Waivers" [level=6] [ref=f3179e499]
+                - cell "Vaqueros Aug 27, 6:36 am logo" [ref=f3179e500]:
+                  - generic [ref=f3179e501]:
+                    - generic [ref=f3179e502]
+                    - link "logo" [ref=f3179e505] [cursor=pointer]:
+                      - /url: /2019/f1/56453/8
+    - contentinfo [ref=f3179e508]:
+      - iframe [ref=f3179e537]:
+        - insertion [ref=f3192e3]:
+          - iframe [ref=f3192e4]
+      - generic [ref=f3179e515]:
+        - list [ref=f3179e516]:
+          - listitem [ref=f3179e517]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f3179e518]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f3179e519] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f3179e520]:
+            - text: "-"
+            - link "Feedback" [ref=f3179e521] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f3179e522]:
+            - text: "-"
+            - link "Terms" [ref=f3179e523] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f3179e524] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f3179e525]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f3179e526] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f3179e527]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f3179e528] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f3179e529]:
+            - text: "-"
+            - link "About Our Ads" [ref=f3179e530] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f3179e531]:
+            - text: "-"
+            - link "Help" [ref=f3179e532] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f3179e533]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f3179e534]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f3179e535]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
