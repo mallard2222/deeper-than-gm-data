@@ -1,0 +1,199 @@
+- generic [ref=f9374e3]:
+  - generic [ref=f9374e6]:
+    - banner [ref=f9374e8]:
+      - generic [ref=f9374e9]:
+        - generic [ref=f9374e11]:
+          - generic [ref=f9374e12]:
+            - generic [ref=f9374e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f9374e14]
+              - link "Yahoo Sports" [ref=f9374e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f9374e20]:
+              - generic [ref=f9374e21]: Search query
+              - combobox "Search query" [ref=f9374e22]
+              - button "Search" [ref=f9374e24] [cursor=pointer]
+          - navigation [ref=f9374e28]:
+            - list [ref=f9374e29]:
+              - listitem [ref=f9374e30]:
+                - link "News" [ref=f9374e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f9374e32]:
+                - link "Finance" [ref=f9374e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f9374e34]:
+                - link "Sports" [ref=f9374e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f9374e36]:
+                - button "More" [ref=f9374e37] [cursor=pointer]
+          - toolbar [ref=f9374e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f9374e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f9374e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f9374e52] [cursor=pointer]':
+              - generic:
+                - generic
+        - generic [ref=f9374e55]:
+          - link "Fantasy Football" [ref=f9374e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f9374e60] [cursor=pointer]:
+            - /url: /2024/f1/196758
+          - link "League" [ref=f9374e61] [cursor=pointer]:
+            - /url: /2024/f1/196758
+          - link "My Team" [ref=f9374e62] [cursor=pointer]:
+            - /url: /2024/f1/196758/8
+          - link "Matchups" [ref=f9374e63] [cursor=pointer]:
+            - /url: /2024/f1/196758/matchup
+          - link "Players" [ref=f9374e64] [cursor=pointer]:
+            - /url: /2024/f1/196758/players
+          - link "Draft Results" [ref=f9374e65] [cursor=pointer]:
+            - /url: /2024/f1/196758/draftresults
+          - list [ref=f9374e68]:
+            - listitem [ref=f9374e69]:
+              - link "Fantasy" [ref=f9374e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f9374e79]:
+              - link "Network" [ref=f9374e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f9374e89]:
+              - link "Get Fantasy Plus" [ref=f9374e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f9374e97]: 8Deep (ID# 196758)
+  - generic [ref=f9374e101]:
+    - banner [ref=f9374e102]:
+      - generic [ref=f9374e103]:
+        - heading "Yahoo Sports Fantasy Football" [level=2] [ref=f9374e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f9374e106] [cursor=pointer]:
+            - /url: /2024/f1
+        - iframe [ref=f9374e111]:
+          - iframe [ref=f9385e2]:
+            - generic [ref=f9409e6] [cursor=pointer]
+        - link "Open chat" [ref=f9374e112] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f9374e114]
+    - generic [ref=f9374e119]:
+      - heading "Transactions" [level=1] [ref=f9374e123]
+      - generic [ref=f9374e125]:
+        - generic [ref=f9374e126]:
+          - heading "Recent Transactions" [level=2] [ref=f9374e127]
+          - link "Vaqueros " [ref=f9374e129] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f9374e130]:
+              - generic [ref=f9374e131]: Vaqueros
+              - generic [ref=f9374e132]: 
+        - generic [ref=f9374e133]:
+          - list [ref=f9374e135]:
+            - listitem [ref=f9374e136]:
+              - link "All Transactions" [ref=f9374e137] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&mid=8"
+            - listitem [ref=f9374e138]:
+              - link "Added Players" [ref=f9374e139] [cursor=pointer]:
+                - /url: "?transactionsfilter=add&mid=8"
+            - listitem [ref=f9374e140]:
+              - link "Dropped Players" [ref=f9374e141] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop&mid=8"
+            - listitem [ref=f9374e142]:
+              - link "Trades" [ref=f9374e143] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade&mid=8"
+            - listitem [ref=f9374e144]:
+              - link "Waiver Offers" [ref=f9374e145] [cursor=pointer]:
+                - /url: "?transactionsfilter=waiver"
+          - table [ref=f9374e146]:
+            - rowgroup [ref=f9374e147]:
+              - row "  Jamien Sherwood NYJ - LB Free Agent DeMarvion Overshown Dal - LB Q To Waivers Vaqueros Dec 15, 11:16 am logo" [ref=f9374e148]:
+                - cell " " [ref=f9374e149]
+                - cell "Jamien Sherwood NYJ - LB Free Agent DeMarvion Overshown Dal - LB Q To Waivers" [ref=f9374e152]
+                - cell "Vaqueros Dec 15, 11:16 am logo" [ref=f9374e159]
+              - row "  DeMarvion Overshown Dal - LB Q Free Agent Zaire Franklin GB - LB To Waivers Vaqueros Dec 8, 10:42 am logo" [ref=f9374e166]:
+                - cell " " [ref=f9374e167]
+                - cell "DeMarvion Overshown Dal - LB Q Free Agent Zaire Franklin GB - LB To Waivers" [ref=f9374e170]
+                - cell "Vaqueros Dec 8, 10:42 am logo" [ref=f9374e177]
+              - row "  Eric Kendricks SF - LB NA Free Agent Bobby Wagner Was - LB NA To Waivers Vaqueros Dec 8, 10:42 am logo" [ref=f9374e184]:
+                - cell " " [ref=f9374e185]
+                - cell "Eric Kendricks SF - LB NA Free Agent Bobby Wagner Was - LB NA To Waivers" [ref=f9374e188]
+                - cell "Vaqueros Dec 8, 10:42 am logo" [ref=f9374e195]
+              - row "  Titans Ten - DEF Free Agent Derek Carr NO - QB NA To Waivers Vaqueros Dec 8, 10:41 am logo" [ref=f9374e202]:
+                - cell " " [ref=f9374e203]
+                - cell "Titans Ten - DEF Free Agent Derek Carr NO - QB NA To Waivers" [ref=f9374e206]
+                - cell "Vaqueros Dec 8, 10:41 am logo" [ref=f9374e213]
+              - row "  Braelon Allen NYJ - RB Free Agent Andy Dalton Phi - QB To Waivers Vaqueros Dec 8, 10:40 am logo" [ref=f9374e220]:
+                - cell " " [ref=f9374e221]
+                - cell "Braelon Allen NYJ - RB Free Agent Andy Dalton Phi - QB To Waivers" [ref=f9374e224]
+                - cell "Vaqueros Dec 8, 10:40 am logo" [ref=f9374e231]
+              - row "  Will Dissly LAC - TE NA Free Agent Christian Kirk SF - WR NA To Waivers Vaqueros Dec 8, 10:40 am logo" [ref=f9374e238]:
+                - cell " " [ref=f9374e239]
+                - cell "Will Dissly LAC - TE NA Free Agent Christian Kirk SF - WR NA To Waivers" [ref=f9374e242]
+                - cell "Vaqueros Dec 8, 10:40 am logo" [ref=f9374e249]
+              - row "  Zach Charbonnet Sea - RB Free Agent Rashid Shaheed Sea - WR Q To Waivers Vaqueros Nov 24, 7:48 am logo" [ref=f9374e256]:
+                - cell " " [ref=f9374e257]
+                - cell "Zach Charbonnet Sea - RB Free Agent Rashid Shaheed Sea - WR Q To Waivers" [ref=f9374e260]
+                - cell "Vaqueros Nov 24, 7:48 am logo" [ref=f9374e267]
+              - row "  Alexander Mattison Mia - RB NA Free Agent Austin Ekeler Was - RB NA To Waivers Vaqueros Nov 1, 10:55 pm logo" [ref=f9374e274]:
+                - cell " " [ref=f9374e275]
+                - cell "Alexander Mattison Mia - RB NA Free Agent Austin Ekeler Was - RB NA To Waivers" [ref=f9374e278]
+                - cell "Vaqueros Nov 1, 10:55 pm logo" [ref=f9374e285]
+              - row "  Jakobi Meyers Jax - WR Free Agent Allen Lazard NYJ - WR NA To Waivers Vaqueros Nov 1, 10:55 pm logo" [ref=f9374e292]:
+                - cell " " [ref=f9374e293]
+                - cell "Jakobi Meyers Jax - WR Free Agent Allen Lazard NYJ - WR NA To Waivers" [ref=f9374e296]
+                - cell "Vaqueros Nov 1, 10:55 pm logo" [ref=f9374e303]
+              - row "  Allen Lazard NYJ - WR NA Waiver Jahan Dotson Atl - WR To Waivers Vaqueros Oct 16, 3:15 am logo" [ref=f9374e310]:
+                - cell " " [ref=f9374e311]
+                - cell "Allen Lazard NYJ - WR NA Waiver Jahan Dotson Atl - WR To Waivers" [ref=f9374e314]
+                - cell "Vaqueros Oct 16, 3:15 am logo" [ref=f9374e321]
+              - row "  Rashid Shaheed Sea - WR Q Waiver Isiah Pacheco Det - RB NA To Waivers Vaqueros Oct 16, 3:15 am logo" [ref=f9374e328]:
+                - cell " " [ref=f9374e329]
+                - cell "Rashid Shaheed Sea - WR Q Waiver Isiah Pacheco Det - RB NA To Waivers" [ref=f9374e332]
+                - cell "Vaqueros Oct 16, 3:15 am logo" [ref=f9374e339]
+              - row "  Andy Dalton Phi - QB Waiver Will Levis Ten - QB NA To Waivers Vaqueros Oct 16, 3:15 am logo" [ref=f9374e346]:
+                - cell " " [ref=f9374e347]
+                - cell "Andy Dalton Phi - QB Waiver Will Levis Ten - QB NA To Waivers" [ref=f9374e350]
+                - cell "Vaqueros Oct 16, 3:15 am logo" [ref=f9374e357]
+              - row "  Derek Carr NO - QB NA Free Agent Ezekiel Elliott Dal - RB NA To Waivers Vaqueros Oct 3, 6:32 pm logo" [ref=f9374e364]:
+                - cell " " [ref=f9374e365]
+                - cell "Derek Carr NO - QB NA Free Agent Ezekiel Elliott Dal - RB NA To Waivers" [ref=f9374e368]
+                - cell "Vaqueros Oct 3, 6:32 pm logo" [ref=f9374e375]
+              - row "  Jahan Dotson Atl - WR Free Agent Dallas Goedert Phi - TE To Waivers Vaqueros Sep 16, 3:05 pm logo" [ref=f9374e382]:
+                - cell " " [ref=f9374e383]
+                - cell "Jahan Dotson Atl - WR Free Agent Dallas Goedert Phi - TE To Waivers" [ref=f9374e386]
+                - cell "Vaqueros Sep 16, 3:05 pm logo" [ref=f9374e393]
+    - contentinfo [ref=f9374e401]:
+      - iframe [ref=f9374e406]:
+        - insertion [ref=f9384e3]:
+          - iframe [ref=f9384e4]:
+            - iframe [ref=f9402e4]
+      - generic [ref=f9374e409]:
+        - list [ref=f9374e410]:
+          - listitem [ref=f9374e411]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f9374e412]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f9374e413] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f9374e414]:
+            - text: "-"
+            - link "Feedback" [ref=f9374e415] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f9374e416]:
+            - text: "-"
+            - link "Terms" [ref=f9374e417] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f9374e418] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f9374e419]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f9374e420] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f9374e421]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f9374e422] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f9374e423]:
+            - text: "-"
+            - link "About Our Ads" [ref=f9374e424] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f9374e425]:
+            - text: "-"
+            - link "Help" [ref=f9374e426] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f9374e427]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f9374e428]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f9374e429]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
