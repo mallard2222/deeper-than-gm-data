@@ -1,0 +1,1841 @@
+{
+  "schema_version": "0.2.0",
+  "league_id": "yahoo-ff-668216",
+  "display_name": "Deeper Than",
+  "generated_at": "2026-09-19T21:47:22Z",
+  "status": "identity_draft_v2_from_existing_captures",
+  "notes": [
+    "Built from existing year captures only; no live Yahoo browser scrape.",
+    "Do not invent managers or team IDs \u2014 nulls preserved and flagged.",
+    "Franchise continuity is NOT assumed across seasons/name changes (continuity_flag is identity completeness, not franchise linking).",
+    "trades.yml \"Team ( James )\" patterns treated as commissioner artifact unless corroborated elsewhere.",
+    "2026 current season league ID 668216 recorded in season_league_ids; no 2026 capture folder in this history root.",
+    "identity completeness (yahoo_team_id + manager) is separate from stats completeness (record/pf/pa/rank)."
+  ],
+  "season_league_ids": {
+    "2025": 153816,
+    "2024": 181730,
+    "2023": 69639,
+    "2022": 59165,
+    "2021": 771925,
+    "2020": 26564,
+    "2019": 56453,
+    "2018": 16765,
+    "2017": 122934,
+    "2016": 79234,
+    "2015": 1044,
+    "2014": 76443,
+    "2013": 11558,
+    "2026": 668216
+  },
+  "resolution_summary": {
+    "years_processed": 13,
+    "years_fully_resolved": 0,
+    "years_partially_resolved": 13,
+    "teams_total": 102,
+    "teams_fully_resolved": 25,
+    "teams_partially_resolved": 77
+  },
+  "yahoo_scrape_gap_list": [
+    {
+      "season": 2013,
+      "season_league_id": 11558,
+      "season_status": "partial",
+      "coverage": "standings_md_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James",
+        "Jeremy"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Dezbians",
+        "FFAmuseBouche",
+        "Good Strongs",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2014,
+      "season_league_id": 76443,
+      "season_status": "partial",
+      "coverage": "standings_yml_records",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_yml_records"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "Good Strongs",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2015,
+      "season_league_id": 1044,
+      "season_status": "partial",
+      "coverage": "standings_yml_records",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_yml_records"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "Framp",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2016,
+      "season_league_id": 79234,
+      "season_status": "partial",
+      "coverage": "standings_md_points_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "points_against incomplete",
+        "points_for incomplete",
+        "coverage=standings_md_points_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "Framp",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2017,
+      "season_league_id": 122934,
+      "season_status": "partial",
+      "coverage": "standings_md_points_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "points_against incomplete",
+        "coverage=standings_md_points_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James",
+        "Tyler"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "FFAmuseBouche",
+        "Good Strongs",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2018,
+      "season_league_id": 16765,
+      "season_status": "partial",
+      "coverage": "standings_md_points_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "points_against incomplete",
+        "coverage=standings_md_points_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "Good Strongs",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2019,
+      "season_league_id": 56453,
+      "season_status": "partial",
+      "coverage": "standings_md_partial",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "points_against incomplete",
+        "points_for incomplete",
+        "coverage=standings_md_partial"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "Good Strongs",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2020,
+      "season_league_id": 26564,
+      "season_status": "partial",
+      "coverage": "standings_md_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James",
+        "Jonah"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "Good Strongs",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2021,
+      "season_league_id": 771925,
+      "season_status": "partial",
+      "coverage": "standings_md_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard"
+      ],
+      "managers_missing_teams": [
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "Good Strongs",
+        "Wet Serapas",
+        "bigballs"
+      ]
+    },
+    {
+      "season": 2022,
+      "season_league_id": 59165,
+      "season_status": "partial",
+      "coverage": "standings_md_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "Bigballs",
+        "DUGASM",
+        "Deepest",
+        "Dezbians",
+        "FFAmuseBouche",
+        "Good Strongs"
+      ]
+    },
+    {
+      "season": 2023,
+      "season_league_id": 69639,
+      "season_status": "partial",
+      "coverage": "standings_md_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James",
+        "Tyler"
+      ],
+      "managers_missing_teams": [
+        "Bigballs",
+        "DUGASM",
+        "Deepest",
+        "FFAmuseBouche",
+        "Good Strongs"
+      ]
+    },
+    {
+      "season": 2024,
+      "season_league_id": 181730,
+      "season_status": "partial",
+      "coverage": "standings_md_table",
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "Baby Arm",
+        "Big Balls",
+        "DUGASM",
+        "Deepest",
+        "FFAmuseBouche",
+        "Good Strongs"
+      ]
+    },
+    {
+      "season": 2025,
+      "season_league_id": 153816,
+      "season_status": "partial",
+      "coverage": "championship_panel+vaqueros_team+partial_ids",
+      "gaps": [
+        "only 6/8 teams partially known (2 still unnamed)",
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "standing_rank incomplete",
+        "points_against incomplete",
+        "points_for incomplete",
+        "coverage=championship_panel+vaqueros_team+partial_ids",
+        "missing unnamed teams likely include DUGASM/Dezbians/Baby Arm or successors \u2014 needs Yahoo scrape"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table",
+        "missing_team_ids_for_Deepest_BigBalls_and_unnamed"
+      ],
+      "managers_resolved": [
+        "Andrew Allard",
+        "Framp",
+        "James"
+      ],
+      "managers_missing_teams": [
+        "Big Balls",
+        "Deepest",
+        "FFAmuseBouche"
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2013,
+      "season_league_id": 11558,
+      "coverage": "standings_md_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2013/final-standings.md",
+        "2013/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 3,
+        "partially": 5,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Deepest",
+          "record": "12-2-0",
+          "points_for": 2300.56,
+          "points_against": 1935.86,
+          "yahoo_team_id": 5,
+          "manager": "Jeremy",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "DUGASM",
+          "record": "11-3-0",
+          "points_for": 2205.2,
+          "points_against": 1943.36,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "FFAmuseBouche",
+          "record": "7-7-0",
+          "points_for": 2000.18,
+          "points_against": 2053.4,
+          "yahoo_team_id": 8,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "Dezbians",
+          "record": "8-6-0",
+          "points_for": 2128.54,
+          "points_against": 1915.08,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "bigballs",
+          "record": "2-12-0",
+          "points_for": 1717.32,
+          "points_against": 2166.98,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Good Strongs",
+          "record": "5-9-0",
+          "points_for": 1886.7,
+          "points_against": 2000.4,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Vaqueros",
+          "record": "6-8-0",
+          "points_for": 1948.32,
+          "points_against": 1965.1,
+          "yahoo_team_id": 2,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2013/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "Wet Serapas",
+          "record": "5-9-0",
+          "points_for": 1880.78,
+          "points_against": 2087.42,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2013/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2014,
+      "season_league_id": 76443,
+      "coverage": "standings_yml_records",
+      "season_status": "partial",
+      "sources_used": [
+        "2014/standings-league.yml",
+        "2014/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_yml_records"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 2,
+        "partially": 6,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Wet Serapas",
+          "record": "7-7-0",
+          "points_for": 2041.12,
+          "points_against": 1923.74,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "bigballs",
+          "record": "7-7-0",
+          "points_for": 2096.58,
+          "points_against": 2050.6,
+          "yahoo_team_id": 8,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "DUGASM",
+          "record": "8-6-0",
+          "points_for": 2011.9,
+          "points_against": 1894.52,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "Good Strongs",
+          "record": "11-3-0",
+          "points_for": 2122.5,
+          "points_against": 1967.74,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Deepest",
+          "record": "7-7-0",
+          "points_for": 1863.54,
+          "points_against": 2009.66,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Vaqueros",
+          "record": "7-7-0",
+          "points_for": 2022.92,
+          "points_against": 1968.2,
+          "yahoo_team_id": 4,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "FFAmuseBouche",
+          "record": "3-11-0",
+          "points_for": 1703.24,
+          "points_against": 1966.52,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2014/standings-league.yml"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "Dezbians",
+          "record": "6-8-0",
+          "points_for": 1927.38,
+          "points_against": 2008.2,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2014/standings-league.yml"
+        }
+      ]
+    },
+    {
+      "season": 2015,
+      "season_league_id": 1044,
+      "coverage": "standings_yml_records",
+      "season_status": "partial",
+      "sources_used": [
+        "2015/standings-league.yml",
+        "2015/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_yml_records"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 3,
+        "partially": 5,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Good Strongs",
+          "record": "6-8-0",
+          "points_for": 2056.66,
+          "points_against": 2097.68,
+          "yahoo_team_id": 4,
+          "manager": "Framp",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Wet Serapas",
+          "record": "9-5-0",
+          "points_for": 1951.02,
+          "points_against": 1912.34,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Dezbians",
+          "record": "12-2-0",
+          "points_for": 2158.16,
+          "points_against": 1692.42,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "FFAmuseBouche",
+          "record": "9-5-0",
+          "points_for": 2033.0,
+          "points_against": 1869.34,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Vaqueros",
+          "record": "5-9-0",
+          "points_for": 1809.0,
+          "points_against": 1949.84,
+          "yahoo_team_id": 7,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "bigballs",
+          "record": "5-9-0",
+          "points_for": 1834.88,
+          "points_against": 2043.0,
+          "yahoo_team_id": 8,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "DUGASM",
+          "record": "5-9-0",
+          "points_for": 1706.24,
+          "points_against": 1806.16,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2015/standings-league.yml"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "Deepest",
+          "record": "5-9-0",
+          "points_for": 1833.22,
+          "points_against": 2011.4,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2015/standings-league.yml"
+        }
+      ]
+    },
+    {
+      "season": 2016,
+      "season_league_id": 79234,
+      "coverage": "standings_md_points_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2016/final-standings.md",
+        "2016/standings-league.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "points_against incomplete",
+        "points_for incomplete",
+        "coverage=standings_md_points_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "resolved_counts": {
+        "fully": 1,
+        "partially": 7,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Good Strongs",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 7,
+          "manager": "Framp",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Dezbians",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Deepest",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "FFAmuseBouche",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "bigballs",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Vaqueros",
+          "record": "6-8-0",
+          "points_for": 1945.16,
+          "points_against": null,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Wet Serapas",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2016/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "DUGASM",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2016/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2017,
+      "season_league_id": 122934,
+      "coverage": "standings_md_points_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2017/final-standings.md",
+        "2017/standings-league.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "points_against incomplete",
+        "coverage=standings_md_points_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "resolved_counts": {
+        "fully": 1,
+        "partially": 7,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Dezbians",
+          "record": null,
+          "points_for": 2013.18,
+          "points_against": null,
+          "yahoo_team_id": 4,
+          "manager": "Tyler",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Good Strongs",
+          "record": null,
+          "points_for": 1817.6,
+          "points_against": null,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "DUGASM",
+          "record": null,
+          "points_for": 2068.08,
+          "points_against": null,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "FFAmuseBouche",
+          "record": null,
+          "points_for": 1961.96,
+          "points_against": null,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Vaqueros",
+          "record": "5-9-0",
+          "points_for": 1845.88,
+          "points_against": null,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Wet Serapas",
+          "record": null,
+          "points_for": 1857.56,
+          "points_against": null,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Deepest",
+          "record": null,
+          "points_for": 1751.2,
+          "points_against": null,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2017/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "bigballs",
+          "record": null,
+          "points_for": 1728.18,
+          "points_against": null,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2017/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2018,
+      "season_league_id": 16765,
+      "coverage": "standings_md_points_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2018/final-standings.md",
+        "2018/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "points_against incomplete",
+        "coverage=standings_md_points_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "resolved_counts": {
+        "fully": 1,
+        "partially": 7,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Wet Serapas",
+          "record": null,
+          "points_for": 2295.04,
+          "points_against": null,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Dezbians",
+          "record": null,
+          "points_for": 2407.8,
+          "points_against": null,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Deepest",
+          "record": null,
+          "points_for": 2150.72,
+          "points_against": null,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "Good Strongs",
+          "record": null,
+          "points_for": 2127.14,
+          "points_against": null,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Vaqueros",
+          "record": "3-11-0",
+          "points_for": 1863.38,
+          "points_against": null,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "DUGASM",
+          "record": null,
+          "points_for": 1912.94,
+          "points_against": null,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "FFAmuseBouche",
+          "record": null,
+          "points_for": 2010.7,
+          "points_against": null,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2018/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "bigballs",
+          "record": null,
+          "points_for": 1893.28,
+          "points_against": null,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2018/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2019,
+      "season_league_id": 56453,
+      "coverage": "standings_md_partial",
+      "season_status": "partial",
+      "sources_used": [
+        "2019/final-standings.md",
+        "2019/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "points_against incomplete",
+        "points_for incomplete",
+        "coverage=standings_md_partial"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table"
+      ],
+      "resolved_counts": {
+        "fully": 2,
+        "partially": 6,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Vaqueros",
+          "record": "12-2-0",
+          "points_for": 2313.54,
+          "points_against": null,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "DUGASM",
+          "record": "9-5-0",
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "bigballs",
+          "record": "9-5-0",
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "FFAmuseBouche",
+          "record": "7-7-0",
+          "points_for": 1987.44,
+          "points_against": null,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Deepest",
+          "record": "5-9-0",
+          "points_for": 1862.96,
+          "points_against": null,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Dezbians",
+          "record": "6-8-0",
+          "points_for": 1950.9,
+          "points_against": null,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Good Strongs",
+          "record": "4-10-0",
+          "points_for": 1910.16,
+          "points_against": null,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2019/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "Wet Serapas",
+          "record": "4-10-0",
+          "points_for": 1723.5,
+          "points_against": null,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2019/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2020,
+      "season_league_id": 26564,
+      "coverage": "standings_md_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2020/final-standings.md",
+        "2020/standings-league.yml",
+        "2020/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 3,
+        "partially": 5,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "FFAmuseBouche",
+          "record": "8-6-0",
+          "points_for": 2058.48,
+          "points_against": 1859.5,
+          "yahoo_team_id": 6,
+          "manager": "Jonah",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Good Strongs",
+          "record": "7-7-0",
+          "points_for": 2020.36,
+          "points_against": 2083.6,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Wet Serapas",
+          "record": "11-3-0",
+          "points_for": 2147.02,
+          "points_against": 1965.88,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "bigballs",
+          "record": "10-4-0",
+          "points_for": 2304.54,
+          "points_against": 1928.36,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Dezbians",
+          "record": "3-11-0",
+          "points_for": 1889.26,
+          "points_against": 2241.56,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Vaqueros",
+          "record": "4-10-0",
+          "points_for": 2002.06,
+          "points_against": 2071.2,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Deepest",
+          "record": "6-8-0",
+          "points_for": 1837.82,
+          "points_against": 1966.44,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2020/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "DUGASM",
+          "record": "7-7-0",
+          "points_for": 1937.82,
+          "points_against": 2080.82,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2020/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2021,
+      "season_league_id": 771925,
+      "coverage": "standings_md_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2021/final-standings.md",
+        "2021/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 1,
+        "partially": 7,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "DUGASM",
+          "record": "11-3-0",
+          "points_for": 2193.52,
+          "points_against": 2005.82,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Vaqueros",
+          "record": "8-6-0",
+          "points_for": 2106.28,
+          "points_against": 2022.68,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Wet Serapas",
+          "record": "7-7-0",
+          "points_for": 2109.86,
+          "points_against": 2213.48,
+          "yahoo_team_id": 1,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "Deepest",
+          "record": "7-7-0",
+          "points_for": 2057.78,
+          "points_against": 1984.4,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "FFAmuseBouche",
+          "record": "5-9-0",
+          "points_for": 2037.22,
+          "points_against": 2074.84,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Dezbians",
+          "record": "7-7-0",
+          "points_for": 1917.94,
+          "points_against": 1958.44,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "bigballs",
+          "record": "6-8-0",
+          "points_for": 1930.9,
+          "points_against": 1963.2,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "Good Strongs",
+          "record": "5-9-0",
+          "points_for": 1978.78,
+          "points_against": 2109.42,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2021/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2022,
+      "season_league_id": 59165,
+      "coverage": "standings_md_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2022/final-standings.md",
+        "2022/standings-league.yml",
+        "2022/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 2,
+        "partially": 6,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Vaqueros",
+          "record": "9-5-0",
+          "points_for": 1959.46,
+          "points_against": 1859.22,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Wet Serapas",
+          "record": "8-6-0",
+          "points_for": 2131.16,
+          "points_against": 2051.18,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Dezbians",
+          "record": "8-6-0",
+          "points_for": 2003.34,
+          "points_against": 1876.38,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "FFAmuseBouche",
+          "record": "9-5-0",
+          "points_for": 1937.12,
+          "points_against": 1888.12,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Good Strongs",
+          "record": "5-9-0",
+          "points_for": 1825.3,
+          "points_against": 1924.76,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Deepest",
+          "record": "3-11-0",
+          "points_for": 1796.6,
+          "points_against": 2081.54,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Bigballs",
+          "record": "8-6-0",
+          "points_for": 1953.76,
+          "points_against": 1935.14,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2022/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "DUGASM",
+          "record": "6-8-0",
+          "points_for": 2025.34,
+          "points_against": 2015.74,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2022/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "season_league_id": 69639,
+      "coverage": "standings_md_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2023/final-standings.md",
+        "2023/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 3,
+        "partially": 5,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Dezbians",
+          "record": "8-6-0",
+          "points_for": 2093.26,
+          "points_against": 1867.86,
+          "yahoo_team_id": 4,
+          "manager": "Tyler",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Deepest",
+          "record": "7-7-0",
+          "points_for": 2084.0,
+          "points_against": 1967.5,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Wet Serapas",
+          "record": "9-5-0",
+          "points_for": 1860.82,
+          "points_against": 1844.34,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "Bigballs",
+          "record": "10-4-0",
+          "points_for": 1988.8,
+          "points_against": 1953.06,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Good Strongs",
+          "record": "7-7-0",
+          "points_for": 2052.68,
+          "points_against": 2039.1,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "FFAmuseBouche",
+          "record": "5-9-0",
+          "points_for": 1917.0,
+          "points_against": 1994.88,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Vaqueros",
+          "record": "4-10-0",
+          "points_for": 1884.64,
+          "points_against": 2080.6,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2023/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "DUGASM",
+          "record": "6-8-0",
+          "points_for": 1844.94,
+          "points_against": 1978.8,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2023/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "season_league_id": 181730,
+      "coverage": "standings_md_table",
+      "season_status": "partial",
+      "sources_used": [
+        "2024/final-standings.md",
+        "2024/final-standings.yml"
+      ],
+      "gaps": [
+        "managers missing for some/all non-verified teams",
+        "coverage=standings_md_table"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers"
+      ],
+      "resolved_counts": {
+        "fully": 2,
+        "partially": 6,
+        "total": 8
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Wet Serapas",
+          "record": "10-4-0",
+          "points_for": 2182.58,
+          "points_against": 2039.04,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "FFAmuseBouche",
+          "record": "8-6-0",
+          "points_for": 2111.68,
+          "points_against": 2114.12,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Deepest",
+          "record": "7-7-0",
+          "points_for": 2033.14,
+          "points_against": 1986.16,
+          "yahoo_team_id": 3,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 4,
+          "team_name": "Vaqueros",
+          "record": "9-5-0",
+          "points_for": 1946.94,
+          "points_against": 1842.42,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 5,
+          "team_name": "Big Balls",
+          "record": "3-11-0",
+          "points_for": 1923.28,
+          "points_against": 1960.42,
+          "yahoo_team_id": 4,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "DUGASM",
+          "record": "6-8-0",
+          "points_for": 1905.5,
+          "points_against": 1929.4,
+          "yahoo_team_id": 5,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 7,
+          "team_name": "Good Strongs",
+          "record": "7-7-0",
+          "points_for": 1964.1,
+          "points_against": 1987.8,
+          "yahoo_team_id": 7,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2024/final-standings.md"
+        },
+        {
+          "standing_rank": 8,
+          "team_name": "Baby Arm",
+          "record": "6-8-0",
+          "points_for": 1844.54,
+          "points_against": 2052.4,
+          "yahoo_team_id": 2,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2024/final-standings.md"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "season_league_id": 153816,
+      "coverage": "championship_panel+vaqueros_team+partial_ids",
+      "season_status": "partial",
+      "sources_used": [],
+      "gaps": [
+        "only 6/8 teams partially known (2 still unnamed)",
+        "managers missing for some/all non-verified teams",
+        "records incomplete",
+        "standing_rank incomplete",
+        "points_against incomplete",
+        "points_for incomplete",
+        "coverage=championship_panel+vaqueros_team+partial_ids",
+        "missing unnamed teams likely include DUGASM/Dezbians/Baby Arm or successors \u2014 needs Yahoo scrape"
+      ],
+      "needs_yahoo_scrape_for": [
+        "managers",
+        "full_standings_table",
+        "missing_team_ids_for_Deepest_BigBalls_and_unnamed"
+      ],
+      "resolved_counts": {
+        "fully": 1,
+        "partially": 5,
+        "total": 6
+      },
+      "teams": [
+        {
+          "standing_rank": 1,
+          "team_name": "Good Strongs",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 7,
+          "manager": "Framp",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2025/final-standings.yml"
+        },
+        {
+          "standing_rank": 2,
+          "team_name": "Wet Serapas",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 1,
+          "manager": "James",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2025/final-standings.yml"
+        },
+        {
+          "standing_rank": 3,
+          "team_name": "Deepest",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": null,
+          "manager": null,
+          "continuity_flag": "missing_id_and_manager",
+          "source_file": "2025/final-standings.md"
+        },
+        {
+          "standing_rank": 6,
+          "team_name": "Vaqueros",
+          "record": "6-8-0",
+          "points_for": 1904.32,
+          "points_against": null,
+          "yahoo_team_id": 8,
+          "manager": "Andrew Allard",
+          "continuity_flag": "fully_resolved",
+          "source_file": "2025/final-standings.md"
+        },
+        {
+          "standing_rank": null,
+          "team_name": "FFAmuseBouche",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": 6,
+          "manager": null,
+          "continuity_flag": "missing_manager",
+          "source_file": "2025/final-standings.yml"
+        },
+        {
+          "standing_rank": null,
+          "team_name": "Big Balls",
+          "record": null,
+          "points_for": null,
+          "points_against": null,
+          "yahoo_team_id": null,
+          "manager": null,
+          "continuity_flag": "missing_id_and_manager",
+          "source_file": "2025/final-standings.md"
+        }
+      ]
+    }
+  ]
+}
