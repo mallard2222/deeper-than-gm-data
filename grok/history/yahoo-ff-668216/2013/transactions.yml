@@ -1,0 +1,754 @@
+- generic [ref=f7966e3]:
+  - generic [ref=f7966e6]:
+    - banner [ref=f7966e8]:
+      - generic [ref=f7966e9]:
+        - generic [ref=f7966e11]:
+          - generic [ref=f7966e12]:
+            - generic [ref=f7966e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f7966e14]
+              - link "Yahoo Sports" [ref=f7966e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f7966e20]:
+              - generic [ref=f7966e21]: Search query
+              - combobox "Search query" [ref=f7966e22]
+              - button "Search" [ref=f7966e24] [cursor=pointer]
+          - navigation [ref=f7966e28]:
+            - list [ref=f7966e29]:
+              - listitem [ref=f7966e30]:
+                - link "News" [ref=f7966e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f7966e32]:
+                - link "Finance" [ref=f7966e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f7966e34]:
+                - link "Sports" [ref=f7966e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f7966e36]:
+                - button "More" [ref=f7966e37] [cursor=pointer]
+          - toolbar [ref=f7966e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f7966e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f7966e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f7966e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f7966e55]:
+          - link "Fantasy Football" [ref=f7966e56] [cursor=pointer]:
+            - /url: http://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f7966e60] [cursor=pointer]:
+            - /url: /2013/f1/11558
+          - link "League" [ref=f7966e61] [cursor=pointer]:
+            - /url: /2013/f1/11558
+          - link "My Team" [ref=f7966e62] [cursor=pointer]:
+            - /url: /2013/f1/11558/2
+          - link "Matchups" [ref=f7966e63] [cursor=pointer]:
+            - /url: /2013/f1/11558/matchup
+          - link "Players" [ref=f7966e64] [cursor=pointer]:
+            - /url: /2013/f1/11558/players
+          - link "Draft Results" [ref=f7966e65] [cursor=pointer]:
+            - /url: /2013/f1/11558/draftresults
+          - list [ref=f7966e68]:
+            - listitem [ref=f7966e69]:
+              - link "Fantasy" [ref=f7966e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f7966e79]:
+              - link "Network" [ref=f7966e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7966e89]:
+              - link "Get Fantasy Plus" [ref=f7966e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f7966e97]: Deeper Than (ID# 11558)
+  - generic [ref=f7966e101]:
+    - banner [ref=f7966e102]:
+      - generic [ref=f7966e103]:
+        - heading [level=2] [ref=f7966e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f7966e106] [cursor=pointer]:
+            - /url: /2013/f1
+        - iframe [ref=f7966e639]:
+          - iframe [ref=f7980e2]:
+            - generic [ref=f8006e3] [cursor=pointer]
+        - link [ref=f7966e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f7966e113]
+    - generic [ref=f7966e118]:
+      - heading "Transactions" [level=1] [ref=f7966e122]
+      - generic [ref=f7966e124]:
+        - generic [ref=f7966e125]:
+          - heading "Recent Transactions" [level=2] [ref=f7966e126]
+          - link "All Teams " [ref=f7966e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f7966e129]:
+              - generic [ref=f7966e130]: All Teams
+              - generic [ref=f7966e131]: 
+        - generic [ref=f7966e132]:
+          - list [ref=f7966e134]:
+            - listitem [ref=f7966e135]:
+              - link "All Transactions" [ref=f7966e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f7966e137]:
+              - link "Added Players" [ref=f7966e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f7966e139]:
+              - link "Dropped Players" [ref=f7966e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f7966e141]:
+              - link "Trades" [ref=f7966e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f7966e143]:
+              - link "Waiver Offers" [ref=f7966e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=waiver"
+          - list [ref=f7966e147]:
+            - listitem [ref=f7966e148]: Previous 25
+            - listitem [ref=f7966e149]:
+              - link "Next 25" [ref=f7966e150] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&count=25"
+          - table [ref=f7966e151]:
+            - rowgroup [ref=f7966e152]:
+              - row "  Kyle Orton Buf - QB Waiver Ravens Bal - DEF To Waivers Deepest Dec 25, 5:21 am logo" [ref=f7966e153]:
+                - cell " " [ref=f7966e154]:
+                  - generic "Added Player" [ref=f7966e155]: 
+                  - generic "Dropped Player" [ref=f7966e156]: 
+                - cell "Kyle Orton Buf - QB Waiver Ravens Bal - DEF To Waivers" [ref=f7966e157]:
+                  - generic [ref=f7966e158]:
+                    - link "Kyle Orton" [ref=f7966e159] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7282
+                    - text: Buf - QB
+                    - heading "Waiver" [level=6] [ref=f7966e160]
+                  - generic [ref=f7966e161]:
+                    - link "Ravens" [ref=f7966e162] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/baltimore/
+                    - text: Bal - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e163]
+                - cell "Deepest Dec 25, 5:21 am logo" [ref=f7966e164]:
+                  - generic [ref=f7966e165]:
+                    - generic [ref=f7966e166]:
+                      - link "Deepest" [ref=f7966e167] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/5
+                      - generic [ref=f7966e168]: Dec 25, 5:21 am
+                    - link "logo" [ref=f7966e169] [cursor=pointer]:
+                      - /url: /2013/f1/11558/5
+                      - img "logo" [ref=f7966e170]
+              - row "  Kris Durham LV - WR Free Agent Garrett Hartley Cle - K To Waivers Dezbians Dec 22, 1:11 pm logo" [ref=f7966e171]:
+                - cell " " [ref=f7966e172]:
+                  - generic "Added Player" [ref=f7966e173]: 
+                  - generic "Dropped Player" [ref=f7966e174]: 
+                - cell "Kris Durham LV - WR Free Agent Garrett Hartley Cle - K To Waivers" [ref=f7966e175]:
+                  - generic [ref=f7966e176]:
+                    - link "Kris Durham" [ref=f7966e177] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24894
+                    - text: LV - WR
+                    - heading "Free Agent" [level=6] [ref=f7966e178]
+                  - generic [ref=f7966e179]:
+                    - link "Garrett Hartley" [ref=f7966e180] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9222
+                    - text: Cle - K
+                    - heading "To Waivers" [level=6] [ref=f7966e181]
+                - cell "Dezbians Dec 22, 1:11 pm logo" [ref=f7966e182]:
+                  - generic [ref=f7966e183]:
+                    - generic [ref=f7966e184]:
+                      - link "Dezbians" [ref=f7966e185] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+                      - generic [ref=f7966e186]: Dec 22, 1:11 pm
+                    - link "logo" [ref=f7966e187] [cursor=pointer]:
+                      - /url: /2013/f1/11558/7
+                      - img "logo" [ref=f7966e188]
+              - row "  Rams LAR - DEF Free Agent Cardinals Ari - DEF To Waivers Vaqueros Dec 22, 10:36 am logo" [ref=f7966e189]:
+                - cell " " [ref=f7966e190]:
+                  - generic "Added Player" [ref=f7966e191]: 
+                  - generic "Dropped Player" [ref=f7966e192]: 
+                - cell "Rams LAR - DEF Free Agent Cardinals Ari - DEF To Waivers" [ref=f7966e193]:
+                  - generic [ref=f7966e194]:
+                    - link "Rams" [ref=f7966e195] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/la-rams/
+                    - text: LAR - DEF
+                    - heading "Free Agent" [level=6] [ref=f7966e196]
+                  - generic [ref=f7966e197]:
+                    - link "Cardinals" [ref=f7966e198] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/arizona/
+                    - text: Ari - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e199]
+                - cell "Vaqueros Dec 22, 10:36 am logo" [ref=f7966e200]:
+                  - generic [ref=f7966e201]:
+                    - generic [ref=f7966e202]:
+                      - link "Vaqueros" [ref=f7966e203] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/2
+                      - generic [ref=f7966e204]: Dec 22, 10:36 am
+                    - link "logo" [ref=f7966e205] [cursor=pointer]:
+                      - /url: /2013/f1/11558/2
+                      - img "logo" [ref=f7966e206]
+              - row "  Timothy Wright Det - WR,TE Free Agent Eagles Phi - DEF To Waivers Wet Serapas Dec 22, 5:38 am logo" [ref=f7966e207]:
+                - cell " " [ref=f7966e208]:
+                  - generic "Added Player" [ref=f7966e209]: 
+                  - generic "Dropped Player" [ref=f7966e210]: 
+                - cell "Timothy Wright Det - WR,TE Free Agent Eagles Phi - DEF To Waivers" [ref=f7966e211]:
+                  - generic [ref=f7966e212]:
+                    - link "Timothy Wright" [ref=f7966e213] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27050
+                    - text: Det - WR,TE
+                    - heading "Free Agent" [level=6] [ref=f7966e214]
+                  - generic [ref=f7966e215]:
+                    - link "Eagles" [ref=f7966e216] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/philadelphia/
+                    - text: Phi - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e217]
+                - cell "Wet Serapas Dec 22, 5:38 am logo" [ref=f7966e218]:
+                  - generic [ref=f7966e219]:
+                    - generic [ref=f7966e220]:
+                      - link "Wet Serapas" [ref=f7966e221] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+                      - generic [ref=f7966e222]: Dec 22, 5:38 am
+                    - link "logo" [ref=f7966e223] [cursor=pointer]:
+                      - /url: /2013/f1/11558/1
+                      - img "logo" [ref=f7966e224]
+              - row "  Doug Baldwin Sea - WR Free Agent Terrance Williams Dal - WR To Waivers bigballs Dec 18, 10:33 am logo" [ref=f7966e225]:
+                - cell " " [ref=f7966e226]:
+                  - generic "Added Player" [ref=f7966e227]: 
+                  - generic "Dropped Player" [ref=f7966e228]: 
+                - cell "Doug Baldwin Sea - WR Free Agent Terrance Williams Dal - WR To Waivers" [ref=f7966e229]:
+                  - generic [ref=f7966e230]:
+                    - link "Doug Baldwin" [ref=f7966e231] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25105
+                    - text: Sea - WR
+                    - heading "Free Agent" [level=6] [ref=f7966e232]
+                  - generic [ref=f7966e233]:
+                    - link "Terrance Williams" [ref=f7966e234] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26697
+                    - text: Dal - WR
+                    - heading "To Waivers" [level=6] [ref=f7966e235]
+                - cell "bigballs Dec 18, 10:33 am logo" [ref=f7966e236]:
+                  - generic [ref=f7966e237]:
+                    - generic [ref=f7966e238]:
+                      - link "bigballs" [ref=f7966e239] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/4
+                      - generic [ref=f7966e240]: Dec 18, 10:33 am
+                    - link "logo" [ref=f7966e241] [cursor=pointer]:
+                      - /url: /2013/f1/11558/4
+                      - img "logo" [ref=f7966e242]
+              - row "  Greg Jennings Mia - WR Waiver Matt Prater Buf - K To Waivers bigballs Dec 18, 4:53 am logo" [ref=f7966e243]:
+                - cell " " [ref=f7966e244]:
+                  - generic "Added Player" [ref=f7966e245]: 
+                  - generic "Dropped Player" [ref=f7966e246]: 
+                - cell "Greg Jennings Mia - WR Waiver Matt Prater Buf - K To Waivers" [ref=f7966e247]:
+                  - generic [ref=f7966e248]:
+                    - link "Greg Jennings" [ref=f7966e249] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7801
+                    - text: Mia - WR
+                    - heading "Waiver" [level=6] [ref=f7966e250]
+                  - generic [ref=f7966e251]:
+                    - link "Matt Prater" [ref=f7966e252] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8565
+                    - text: Buf - K
+                    - heading "To Waivers" [level=6] [ref=f7966e253]
+                - cell "bigballs Dec 18, 4:53 am logo" [ref=f7966e254]:
+                  - generic [ref=f7966e255]:
+                    - generic [ref=f7966e256]:
+                      - link "bigballs" [ref=f7966e257] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/4
+                      - generic [ref=f7966e258]: Dec 18, 4:53 am
+                    - link "logo" [ref=f7966e259] [cursor=pointer]:
+                      - /url: /2013/f1/11558/4
+                      - img "logo" [ref=f7966e260]
+              - row "  Marvin Jones Jr. Det - WR Waiver Josh McCown Hou - QB To Waivers bigballs Dec 18, 4:53 am logo" [ref=f7966e261]:
+                - cell " " [ref=f7966e262]:
+                  - generic "Added Player" [ref=f7966e263]: 
+                  - generic "Dropped Player" [ref=f7966e264]: 
+                - cell "Marvin Jones Jr. Det - WR Waiver Josh McCown Hou - QB To Waivers" [ref=f7966e265]:
+                  - generic [ref=f7966e266]:
+                    - link "Marvin Jones Jr." [ref=f7966e267] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25876
+                    - text: Det - WR
+                    - heading "Waiver" [level=6] [ref=f7966e268]
+                  - generic [ref=f7966e269]:
+                    - link "Josh McCown" [ref=f7966e270] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/5967
+                    - text: Hou - QB
+                    - heading "To Waivers" [level=6] [ref=f7966e271]
+                - cell "bigballs Dec 18, 4:53 am logo" [ref=f7966e272]:
+                  - generic [ref=f7966e273]:
+                    - generic [ref=f7966e274]:
+                      - link "bigballs" [ref=f7966e275] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/4
+                      - generic [ref=f7966e276]: Dec 18, 4:53 am
+                    - link "logo" [ref=f7966e277] [cursor=pointer]:
+                      - /url: /2013/f1/11558/4
+                      - img "logo" [ref=f7966e278]
+              - row "  Bernard Pierce Jax - RB Free Agent Bryce Brown Buf - RB To Waivers Good Strongs Dec 15, 10:09 pm logo" [ref=f7966e279]:
+                - cell " " [ref=f7966e280]:
+                  - generic "Added Player" [ref=f7966e281]: 
+                  - generic "Dropped Player" [ref=f7966e282]: 
+                - cell "Bernard Pierce Jax - RB Free Agent Bryce Brown Buf - RB To Waivers" [ref=f7966e283]:
+                  - generic [ref=f7966e284]:
+                    - link "Bernard Pierce" [ref=f7966e285] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25794
+                    - text: Jax - RB
+                    - heading "Free Agent" [level=6] [ref=f7966e286]
+                  - generic [ref=f7966e287]:
+                    - link "Bryce Brown" [ref=f7966e288] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25939
+                    - text: Buf - RB
+                    - heading "To Waivers" [level=6] [ref=f7966e289]
+                - cell "Good Strongs Dec 15, 10:09 pm logo" [ref=f7966e290]:
+                  - generic [ref=f7966e291]:
+                    - generic [ref=f7966e292]:
+                      - link "Good Strongs" [ref=f7966e293] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+                      - generic [ref=f7966e294]: Dec 15, 10:09 pm
+                    - link "logo" [ref=f7966e295] [cursor=pointer]:
+                      - /url: /2013/f1/11558/3
+                      - img "logo" [ref=f7966e296]
+              - row "  Brian Hartline Cle - WR Free Agent Jarrett Boykin Buf - WR To Waivers Wet Serapas Dec 15, 11:11 am logo" [ref=f7966e297]:
+                - cell " " [ref=f7966e298]:
+                  - generic "Added Player" [ref=f7966e299]: 
+                  - generic "Dropped Player" [ref=f7966e300]: 
+                - cell "Brian Hartline Cle - WR Free Agent Jarrett Boykin Buf - WR To Waivers" [ref=f7966e301]:
+                  - generic [ref=f7966e302]:
+                    - link "Brian Hartline" [ref=f7966e303] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9372
+                    - text: Cle - WR
+                    - heading "Free Agent" [level=6] [ref=f7966e304]
+                  - generic [ref=f7966e305]:
+                    - link "Jarrett Boykin" [ref=f7966e306] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26083
+                    - text: Buf - WR
+                    - heading "To Waivers" [level=6] [ref=f7966e307]
+                - cell "Wet Serapas Dec 15, 11:11 am logo" [ref=f7966e308]:
+                  - generic [ref=f7966e309]:
+                    - generic [ref=f7966e310]:
+                      - link "Wet Serapas" [ref=f7966e311] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+                      - generic [ref=f7966e312]: Dec 15, 11:11 am
+                    - link "logo" [ref=f7966e313] [cursor=pointer]:
+                      - /url: /2013/f1/11558/1
+                      - img "logo" [ref=f7966e314]
+              - row "  Delanie Walker Ten - TE Free Agent Kenbrell Thompkins NYJ - WR To Waivers Vaqueros Dec 15, 9:14 am logo" [ref=f7966e315]:
+                - cell " " [ref=f7966e316]:
+                  - generic "Added Player" [ref=f7966e317]: 
+                  - generic "Dropped Player" [ref=f7966e318]: 
+                - cell "Delanie Walker Ten - TE Free Agent Kenbrell Thompkins NYJ - WR To Waivers" [ref=f7966e319]:
+                  - generic [ref=f7966e320]:
+                    - link "Delanie Walker" [ref=f7966e321] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7924
+                    - text: Ten - TE
+                    - heading "Free Agent" [level=6] [ref=f7966e322]
+                  - generic [ref=f7966e323]:
+                    - link "Kenbrell Thompkins" [ref=f7966e324] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27235
+                    - text: NYJ - WR
+                    - heading "To Waivers" [level=6] [ref=f7966e325]
+                - cell "Vaqueros Dec 15, 9:14 am logo" [ref=f7966e326]:
+                  - generic [ref=f7966e327]:
+                    - generic [ref=f7966e328]:
+                      - link "Vaqueros" [ref=f7966e329] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/2
+                      - generic [ref=f7966e330]: Dec 15, 9:14 am
+                    - link "logo" [ref=f7966e331] [cursor=pointer]:
+                      - /url: /2013/f1/11558/2
+                      - img "logo" [ref=f7966e332]
+              - row "  Caleb Sturgis LAC - K Free Agent Nick Novak LAC - K To Waivers Vaqueros Dec 15, 9:12 am logo" [ref=f7966e333]:
+                - cell " " [ref=f7966e334]:
+                  - generic "Added Player" [ref=f7966e335]: 
+                  - generic "Dropped Player" [ref=f7966e336]: 
+                - cell "Caleb Sturgis LAC - K Free Agent Nick Novak LAC - K To Waivers" [ref=f7966e337]:
+                  - generic [ref=f7966e338]:
+                    - link "Caleb Sturgis" [ref=f7966e339] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26789
+                    - text: LAC - K
+                    - heading "Free Agent" [level=6] [ref=f7966e340]
+                  - generic [ref=f7966e341]:
+                    - link "Nick Novak" [ref=f7966e342] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7505
+                    - text: LAC - K
+                    - heading "To Waivers" [level=6] [ref=f7966e343]
+                - cell "Vaqueros Dec 15, 9:12 am logo" [ref=f7966e344]:
+                  - generic [ref=f7966e345]:
+                    - generic [ref=f7966e346]:
+                      - link "Vaqueros" [ref=f7966e347] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/2
+                      - generic [ref=f7966e348]: Dec 15, 9:12 am
+                    - link "logo" [ref=f7966e349] [cursor=pointer]:
+                      - /url: /2013/f1/11558/2
+                      - img "logo" [ref=f7966e350]
+              - row "  Lions Det - DEF Free Agent Texans Hou - DEF To Waivers Good Strongs Dec 14, 12:52 pm logo" [ref=f7966e351]:
+                - cell " " [ref=f7966e352]:
+                  - generic "Added Player" [ref=f7966e353]: 
+                  - generic "Dropped Player" [ref=f7966e354]: 
+                - cell "Lions Det - DEF Free Agent Texans Hou - DEF To Waivers" [ref=f7966e355]:
+                  - generic [ref=f7966e356]:
+                    - link "Lions" [ref=f7966e357] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/detroit/
+                    - text: Det - DEF
+                    - heading "Free Agent" [level=6] [ref=f7966e358]
+                  - generic [ref=f7966e359]:
+                    - link "Texans" [ref=f7966e360] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/houston/
+                    - text: Hou - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e361]
+                - cell "Good Strongs Dec 14, 12:52 pm logo" [ref=f7966e362]:
+                  - generic [ref=f7966e363]:
+                    - generic [ref=f7966e364]:
+                      - link "Good Strongs" [ref=f7966e365] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+                      - generic [ref=f7966e366]: Dec 14, 12:52 pm
+                    - link "logo" [ref=f7966e367] [cursor=pointer]:
+                      - /url: /2013/f1/11558/3
+                      - img "logo" [ref=f7966e368]
+              - row "  Dan Carpenter Buf - K Free Agent Dan Bailey Min - K To Waivers Good Strongs Dec 14, 12:49 pm logo" [ref=f7966e369]:
+                - cell " " [ref=f7966e370]:
+                  - generic "Added Player" [ref=f7966e371]: 
+                  - generic "Dropped Player" [ref=f7966e372]: 
+                - cell "Dan Carpenter Buf - K Free Agent Dan Bailey Min - K To Waivers" [ref=f7966e373]:
+                  - generic [ref=f7966e374]:
+                    - link "Dan Carpenter" [ref=f7966e375] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9032
+                    - text: Buf - K
+                    - heading "Free Agent" [level=6] [ref=f7966e376]
+                  - generic [ref=f7966e377]:
+                    - link "Dan Bailey" [ref=f7966e378] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25427
+                    - text: Min - K
+                    - heading "To Waivers" [level=6] [ref=f7966e379]
+                - cell "Good Strongs Dec 14, 12:49 pm logo" [ref=f7966e380]:
+                  - generic [ref=f7966e381]:
+                    - generic [ref=f7966e382]:
+                      - link "Good Strongs" [ref=f7966e383] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+                      - generic [ref=f7966e384]: Dec 14, 12:49 pm
+                    - link "logo" [ref=f7966e385] [cursor=pointer]:
+                      - /url: /2013/f1/11558/3
+                      - img "logo" [ref=f7966e386]
+              - row "  Dennis Pitta Bal - TE Free Agent Jordan Reed SF - TE To Waivers Dezbians Dec 12, 5:13 pm logo" [ref=f7966e387]:
+                - cell " " [ref=f7966e388]:
+                  - generic "Added Player" [ref=f7966e389]: 
+                  - generic "Dropped Player" [ref=f7966e390]: 
+                - cell "Dennis Pitta Bal - TE Free Agent Jordan Reed SF - TE To Waivers" [ref=f7966e391]:
+                  - generic [ref=f7966e392]:
+                    - link "Dennis Pitta" [ref=f7966e393] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24089
+                    - text: Bal - TE
+                    - heading "Free Agent" [level=6] [ref=f7966e394]
+                  - generic [ref=f7966e395]:
+                    - link "Jordan Reed" [ref=f7966e396] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26708
+                    - text: SF - TE
+                    - heading "To Waivers" [level=6] [ref=f7966e397]
+                - cell "Dezbians Dec 12, 5:13 pm logo" [ref=f7966e398]:
+                  - generic [ref=f7966e399]:
+                    - generic [ref=f7966e400]:
+                      - link "Dezbians" [ref=f7966e401] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+                      - generic [ref=f7966e402]: Dec 12, 5:13 pm
+                    - link "logo" [ref=f7966e403] [cursor=pointer]:
+                      - /url: /2013/f1/11558/7
+                      - img "logo" [ref=f7966e404]
+              - row "  Nick Novak LAC - K Free Agent Nick Folk Atl - K To Waivers Vaqueros Dec 12, 12:46 pm logo" [ref=f7966e405]:
+                - cell " " [ref=f7966e406]:
+                  - generic "Added Player" [ref=f7966e407]: 
+                  - generic "Dropped Player" [ref=f7966e408]: 
+                - cell "Nick Novak LAC - K Free Agent Nick Folk Atl - K To Waivers" [ref=f7966e409]:
+                  - generic [ref=f7966e410]:
+                    - link "Nick Novak" [ref=f7966e411] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7505
+                    - text: LAC - K
+                    - heading "Free Agent" [level=6] [ref=f7966e412]
+                  - generic [ref=f7966e413]:
+                    - link "Nick Folk" [ref=f7966e414] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8432
+                    - text: Atl - K
+                    - heading "To Waivers" [level=6] [ref=f7966e415]
+                - cell "Vaqueros Dec 12, 12:46 pm logo" [ref=f7966e416]:
+                  - generic [ref=f7966e417]:
+                    - generic [ref=f7966e418]:
+                      - link "Vaqueros" [ref=f7966e419] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/2
+                      - generic [ref=f7966e420]: Dec 12, 12:46 pm
+                    - link "logo" [ref=f7966e421] [cursor=pointer]:
+                      - /url: /2013/f1/11558/2
+                      - img "logo" [ref=f7966e422]
+              - row "  Charles Clay Ari - TE Free Agent Ladarius Green Pit - TE To Waivers Good Strongs Dec 12, 8:07 am logo" [ref=f7966e423]:
+                - cell " " [ref=f7966e424]:
+                  - generic "Added Player" [ref=f7966e425]: 
+                  - generic "Dropped Player" [ref=f7966e426]: 
+                - cell "Charles Clay Ari - TE Free Agent Ladarius Green Pit - TE To Waivers" [ref=f7966e427]:
+                  - generic [ref=f7966e428]:
+                    - link "Charles Clay" [ref=f7966e429] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24961
+                    - text: Ari - TE
+                    - heading "Free Agent" [level=6] [ref=f7966e430]
+                  - generic [ref=f7966e431]:
+                    - link "Ladarius Green" [ref=f7966e432] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25820
+                    - text: Pit - TE
+                    - heading "To Waivers" [level=6] [ref=f7966e433]
+                - cell "Good Strongs Dec 12, 8:07 am logo" [ref=f7966e434]:
+                  - generic [ref=f7966e435]:
+                    - generic [ref=f7966e436]:
+                      - link "Good Strongs" [ref=f7966e437] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+                      - generic [ref=f7966e438]: Dec 12, 8:07 am
+                    - link "logo" [ref=f7966e439] [cursor=pointer]:
+                      - /url: /2013/f1/11558/3
+                      - img "logo" [ref=f7966e440]
+              - row "  Kirk Cousins LV - QB Free Agent Doug Baldwin Sea - WR To Waivers Wet Serapas Dec 11, 8:52 am logo" [ref=f7966e441]:
+                - cell " " [ref=f7966e442]:
+                  - generic "Added Player" [ref=f7966e443]: 
+                  - generic "Dropped Player" [ref=f7966e444]: 
+                - cell "Kirk Cousins LV - QB Free Agent Doug Baldwin Sea - WR To Waivers" [ref=f7966e445]:
+                  - generic [ref=f7966e446]:
+                    - link "Kirk Cousins" [ref=f7966e447] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25812
+                    - text: LV - QB
+                    - heading "Free Agent" [level=6] [ref=f7966e448]
+                  - generic [ref=f7966e449]:
+                    - link "Doug Baldwin" [ref=f7966e450] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25105
+                    - text: Sea - WR
+                    - heading "To Waivers" [level=6] [ref=f7966e451]
+                - cell "Wet Serapas Dec 11, 8:52 am logo" [ref=f7966e452]:
+                  - generic [ref=f7966e453]:
+                    - generic [ref=f7966e454]:
+                      - link "Wet Serapas" [ref=f7966e455] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+                      - generic [ref=f7966e456]: Dec 11, 8:52 am
+                    - link "logo" [ref=f7966e457] [cursor=pointer]:
+                      - /url: /2013/f1/11558/1
+                      - img "logo" [ref=f7966e458]
+              - row "  Garrett Hartley Cle - K Free Agent Broncos Den - DEF To Waivers Dezbians Dec 11, 7:23 am logo" [ref=f7966e459]:
+                - cell " " [ref=f7966e460]:
+                  - generic "Added Player" [ref=f7966e461]: 
+                  - generic "Dropped Player" [ref=f7966e462]: 
+                - cell "Garrett Hartley Cle - K Free Agent Broncos Den - DEF To Waivers" [ref=f7966e463]:
+                  - generic [ref=f7966e464]:
+                    - link "Garrett Hartley" [ref=f7966e465] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9222
+                    - text: Cle - K
+                    - heading "Free Agent" [level=6] [ref=f7966e466]
+                  - generic [ref=f7966e467]:
+                    - link "Broncos" [ref=f7966e468] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/denver/
+                    - text: Den - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e469]
+                - cell "Dezbians Dec 11, 7:23 am logo" [ref=f7966e470]:
+                  - generic [ref=f7966e471]:
+                    - generic [ref=f7966e472]:
+                      - link "Dezbians" [ref=f7966e473] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+                      - generic [ref=f7966e474]: Dec 11, 7:23 am
+                    - link "logo" [ref=f7966e475] [cursor=pointer]:
+                      - /url: /2013/f1/11558/7
+                      - img "logo" [ref=f7966e476]
+              - row "  Eagles Phi - DEF Waiver Titans Ten - DEF To Waivers Wet Serapas Dec 11, 4:31 am logo" [ref=f7966e477]:
+                - cell " " [ref=f7966e478]:
+                  - generic "Added Player" [ref=f7966e479]: 
+                  - generic "Dropped Player" [ref=f7966e480]: 
+                - cell "Eagles Phi - DEF Waiver Titans Ten - DEF To Waivers" [ref=f7966e481]:
+                  - generic [ref=f7966e482]:
+                    - link "Eagles" [ref=f7966e483] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/philadelphia/
+                    - text: Phi - DEF
+                    - heading "Waiver" [level=6] [ref=f7966e484]
+                  - generic [ref=f7966e485]:
+                    - link "Titans" [ref=f7966e486] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/tennessee/
+                    - text: Ten - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e487]
+                - cell "Wet Serapas Dec 11, 4:31 am logo" [ref=f7966e488]:
+                  - generic [ref=f7966e489]:
+                    - generic [ref=f7966e490]:
+                      - link "Wet Serapas" [ref=f7966e491] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+                      - generic [ref=f7966e492]: Dec 11, 4:31 am
+                    - link "logo" [ref=f7966e493] [cursor=pointer]:
+                      - /url: /2013/f1/11558/1
+                      - img "logo" [ref=f7966e494]
+              - row "  Riley Cooper Phi - WR Waiver Miles Austin Phi - WR To Waivers Dezbians Dec 11, 4:31 am logo" [ref=f7966e495]:
+                - cell " " [ref=f7966e496]:
+                  - generic "Added Player" [ref=f7966e497]: 
+                  - generic "Dropped Player" [ref=f7966e498]: 
+                - cell "Riley Cooper Phi - WR Waiver Miles Austin Phi - WR To Waivers" [ref=f7966e499]:
+                  - generic [ref=f7966e500]:
+                    - link "Riley Cooper" [ref=f7966e501] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24135
+                    - text: Phi - WR
+                    - heading "Waiver" [level=6] [ref=f7966e502]
+                  - generic [ref=f7966e503]:
+                    - link "Miles Austin" [ref=f7966e504] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8021
+                    - text: Phi - WR
+                    - heading "To Waivers" [level=6] [ref=f7966e505]
+                - cell "Dezbians Dec 11, 4:31 am logo" [ref=f7966e506]:
+                  - generic [ref=f7966e507]:
+                    - generic [ref=f7966e508]:
+                      - link "Dezbians" [ref=f7966e509] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+                      - generic [ref=f7966e510]: Dec 11, 4:31 am
+                    - link "logo" [ref=f7966e511] [cursor=pointer]:
+                      - /url: /2013/f1/11558/7
+                      - img "logo" [ref=f7966e512]
+              - row "  Toby Gerhart Jax - RB Waiver Raiders LV - DEF To Waivers Wet Serapas Dec 11, 4:31 am logo" [ref=f7966e513]:
+                - cell " " [ref=f7966e514]:
+                  - generic "Added Player" [ref=f7966e515]: 
+                  - generic "Dropped Player" [ref=f7966e516]: 
+                - cell "Toby Gerhart Jax - RB Waiver Raiders LV - DEF To Waivers" [ref=f7966e517]:
+                  - generic [ref=f7966e518]:
+                    - link "Toby Gerhart" [ref=f7966e519] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24026
+                    - text: Jax - RB
+                    - heading "Waiver" [level=6] [ref=f7966e520]
+                  - generic [ref=f7966e521]:
+                    - link "Raiders" [ref=f7966e522] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/las-vegas/
+                    - text: LV - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e523]
+                - cell "Wet Serapas Dec 11, 4:31 am logo" [ref=f7966e524]:
+                  - generic [ref=f7966e525]:
+                    - generic [ref=f7966e526]:
+                      - link "Wet Serapas" [ref=f7966e527] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+                      - generic [ref=f7966e528]: Dec 11, 4:31 am
+                    - link "logo" [ref=f7966e529] [cursor=pointer]:
+                      - /url: /2013/f1/11558/1
+                      - img "logo" [ref=f7966e530]
+              - row "  Miles Austin Phi - WR Free Agent Rams LAR - DEF To Waivers Dezbians Dec 8, 2:13 pm logo" [ref=f7966e531]:
+                - cell " " [ref=f7966e532]:
+                  - generic "Added Player" [ref=f7966e533]: 
+                  - generic "Dropped Player" [ref=f7966e534]: 
+                - cell "Miles Austin Phi - WR Free Agent Rams LAR - DEF To Waivers" [ref=f7966e535]:
+                  - generic [ref=f7966e536]:
+                    - link "Miles Austin" [ref=f7966e537] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8021
+                    - text: Phi - WR
+                    - heading "Free Agent" [level=6] [ref=f7966e538]
+                  - generic [ref=f7966e539]:
+                    - link "Rams" [ref=f7966e540] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/la-rams/
+                    - text: LAR - DEF
+                    - heading "To Waivers" [level=6] [ref=f7966e541]
+                - cell "Dezbians Dec 8, 2:13 pm logo" [ref=f7966e542]:
+                  - generic [ref=f7966e543]:
+                    - generic [ref=f7966e544]:
+                      - link "Dezbians" [ref=f7966e545] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+                      - generic [ref=f7966e546]: Dec 8, 2:13 pm
+                    - link "logo" [ref=f7966e547] [cursor=pointer]:
+                      - /url: /2013/f1/11558/7
+                      - img "logo" [ref=f7966e548]
+              - row "  Chris Ogbonnaya Car - RB Free Agent Willis McGahee Cle - RB To Waivers FFAmuseBouche Dec 7, 7:53 pm logo" [ref=f7966e549]:
+                - cell " " [ref=f7966e550]:
+                  - generic "Added Player" [ref=f7966e551]: 
+                  - generic "Dropped Player" [ref=f7966e552]: 
+                - cell "Chris Ogbonnaya Car - RB Free Agent Willis McGahee Cle - RB To Waivers" [ref=f7966e553]:
+                  - generic [ref=f7966e554]:
+                    - link "Chris Ogbonnaya" [ref=f7966e555] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9475
+                    - text: Car - RB
+                    - heading "Free Agent" [level=6] [ref=f7966e556]
+                  - generic [ref=f7966e557]:
+                    - link "Willis McGahee" [ref=f7966e558] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6359
+                    - text: Cle - RB
+                    - heading "To Waivers" [level=6] [ref=f7966e559]
+                - cell "FFAmuseBouche Dec 7, 7:53 pm logo" [ref=f7966e560]:
+                  - generic [ref=f7966e561]:
+                    - generic [ref=f7966e562]:
+                      - link "FFAmuseBouche" [ref=f7966e563] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/8
+                      - generic [ref=f7966e564]: Dec 7, 7:53 pm
+                    - link "logo" [ref=f7966e565] [cursor=pointer]:
+                      - /url: /2013/f1/11558/8
+                      - img "logo" [ref=f7966e566]
+              - row "  DeAngelo Williams Pit - RB Free Agent Darren McFadden Dal - RB To Waivers FFAmuseBouche Dec 7, 7:51 pm logo" [ref=f7966e567]:
+                - cell " " [ref=f7966e568]:
+                  - generic "Added Player" [ref=f7966e569]: 
+                  - generic "Dropped Player" [ref=f7966e570]: 
+                - cell "DeAngelo Williams Pit - RB Free Agent Darren McFadden Dal - RB To Waivers" [ref=f7966e571]:
+                  - generic [ref=f7966e572]:
+                    - link "DeAngelo Williams" [ref=f7966e573] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7776
+                    - text: Pit - RB
+                    - heading "Free Agent" [level=6] [ref=f7966e574]
+                  - generic [ref=f7966e575]:
+                    - link "Darren McFadden" [ref=f7966e576] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8781
+                    - text: Dal - RB
+                    - heading "To Waivers" [level=6] [ref=f7966e577]
+                - cell "FFAmuseBouche Dec 7, 7:51 pm logo" [ref=f7966e578]:
+                  - generic [ref=f7966e579]:
+                    - generic [ref=f7966e580]:
+                      - link "FFAmuseBouche" [ref=f7966e581] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/8
+                      - generic [ref=f7966e582]: Dec 7, 7:51 pm
+                    - link "logo" [ref=f7966e583] [cursor=pointer]:
+                      - /url: /2013/f1/11558/8
+                      - img "logo" [ref=f7966e584]
+              - row "  Texans Hou - DEF Free Agent Riley Cooper Phi - WR To Waivers Good Strongs Dec 5, 6:58 pm logo" [ref=f7966e585]:
+                - cell " " [ref=f7966e586]:
+                  - generic "Added Player" [ref=f7966e587]: 
+                  - generic "Dropped Player" [ref=f7966e588]: 
+                - cell "Texans Hou - DEF Free Agent Riley Cooper Phi - WR To Waivers" [ref=f7966e589]:
+                  - generic [ref=f7966e590]:
+                    - link "Texans" [ref=f7966e591] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/houston/
+                    - text: Hou - DEF
+                    - heading "Free Agent" [level=6] [ref=f7966e592]
+                  - generic [ref=f7966e593]:
+                    - link "Riley Cooper" [ref=f7966e594] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24135
+                    - text: Phi - WR
+                    - heading "To Waivers" [level=6] [ref=f7966e595]
+                - cell "Good Strongs Dec 5, 6:58 pm logo" [ref=f7966e596]:
+                  - generic [ref=f7966e597]:
+                    - generic [ref=f7966e598]:
+                      - link "Good Strongs" [ref=f7966e599] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+                      - generic [ref=f7966e600]: Dec 5, 6:58 pm
+                    - link "logo" [ref=f7966e601] [cursor=pointer]:
+                      - /url: /2013/f1/11558/3
+                      - img "logo" [ref=f7966e602]
+          - list [ref=f7966e605]:
+            - listitem [ref=f7966e606]: Previous 25
+            - listitem [ref=f7966e607]:
+              - link "Next 25" [ref=f7966e608] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&count=25"
+    - contentinfo [ref=f7966e610]:
+      - iframe [ref=f7966e641]:
+        - insertion [ref=f7979e3]:
+          - iframe [ref=f7979e4]:
+            - iframe [ref=f7997e4]
+      - generic [ref=f7966e617]:
+        - list [ref=f7966e618]:
+          - listitem [ref=f7966e619]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f7966e620]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f7966e621] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f7966e622]:
+            - text: "-"
+            - link "Feedback" [ref=f7966e623] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f7966e624]:
+            - text: "-"
+            - link "Terms" [ref=f7966e625] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f7966e626] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f7966e627]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f7966e628] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f7966e629]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f7966e630] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f7966e631]:
+            - text: "-"
+            - link "About Our Ads" [ref=f7966e632] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f7966e633]:
+            - text: "-"
+            - link "Help" [ref=f7966e634] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f7966e635]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f7966e636]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f7966e637]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

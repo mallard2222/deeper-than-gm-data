@@ -1,0 +1,1003 @@
+- generic [ref=f8243e3]:
+  - generic [ref=f8243e6]:
+    - banner [ref=f8243e8]:
+      - generic [ref=f8243e9]:
+        - generic [ref=f8243e11]:
+          - generic [ref=f8243e12]:
+            - generic [ref=f8243e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f8243e14]
+              - link "Yahoo Sports" [ref=f8243e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f8243e20]:
+              - generic [ref=f8243e21]: Search query
+              - combobox "Search query" [ref=f8243e22]
+              - button "Search" [ref=f8243e24] [cursor=pointer]
+          - navigation [ref=f8243e28]:
+            - list [ref=f8243e29]:
+              - listitem [ref=f8243e30]:
+                - link "News" [ref=f8243e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f8243e32]:
+                - link "Finance" [ref=f8243e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f8243e34]:
+                - link "Sports" [ref=f8243e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f8243e36]:
+                - button "More" [ref=f8243e37] [cursor=pointer]
+          - toolbar [ref=f8243e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f8243e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f8243e1635]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f8243e51] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f8243e54]:
+          - link "Fantasy Football" [ref=f8243e55] [cursor=pointer]:
+            - /url: http://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f8243e59] [cursor=pointer]:
+            - /url: /2013/f1/11558
+          - link "League" [ref=f8243e60] [cursor=pointer]:
+            - /url: /2013/f1/11558
+          - link "My Team" [ref=f8243e61] [cursor=pointer]:
+            - /url: /2013/f1/11558/2
+          - link "Matchups" [ref=f8243e62] [cursor=pointer]:
+            - /url: /2013/f1/11558/matchup
+          - link "Players" [ref=f8243e63] [cursor=pointer]:
+            - /url: /2013/f1/11558/players
+          - link "Draft Results" [ref=f8243e64] [cursor=pointer]:
+            - /url: /2013/f1/11558/draftresults
+          - list [ref=f8243e67]:
+            - listitem [ref=f8243e68]:
+              - link "Fantasy" [ref=f8243e71] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f8243e78]:
+              - link "Network" [ref=f8243e81] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f8243e88]:
+              - link "Get Fantasy Plus" [ref=f8243e1636] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f8243e96]: Deeper Than (ID# 11558)
+  - generic [ref=f8243e100]:
+    - banner [ref=f8243e101]:
+      - generic [ref=f8243e102]:
+        - heading [level=2] [ref=f8243e104]:
+          - link "Yahoo Sports Fantasy Football" [ref=f8243e105] [cursor=pointer]:
+            - /url: /2013/f1
+        - iframe [ref=f8243e1638]:
+          - insertion [ref=f8256e3]:
+            - iframe [ref=f8256e4]:
+              - iframe [ref=f8257e4]
+        - link [ref=f8243e110] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f8243e112]
+    - generic [ref=f8243e117]:
+      - heading "Standings" [level=1] [ref=f8243e121]
+      - generic [ref=f8243e123]:
+        - heading "Overall Points" [level=4] [ref=f8243e124]
+        - table [ref=f8243e125]:
+          - rowgroup [ref=f8243e126]:
+            - row "Passing Rushing Receiving Ret Miscellaneous Fum Field Goals Made FG Miss PAT Tackles Turnovers TD Points Allowed" [ref=f8243e127]:
+              - columnheader [ref=f8243e128]
+              - columnheader [ref=f8243e130]
+              - columnheader "Passing" [ref=f8243e132]
+              - columnheader "Rushing" [ref=f8243e134]
+              - columnheader "Receiving" [ref=f8243e136]
+              - columnheader "Ret" [ref=f8243e138]
+              - columnheader "Miscellaneous" [ref=f8243e140]
+              - columnheader "Fum" [ref=f8243e142]
+              - columnheader "Field Goals Made" [ref=f8243e144]
+              - columnheader "FG Miss" [ref=f8243e146]
+              - columnheader "PAT" [ref=f8243e148]
+              - columnheader "Tackles" [ref=f8243e150]
+              - columnheader "Turnovers" [ref=f8243e152]
+              - columnheader "TD" [ref=f8243e154]
+              - columnheader "Points Allowed" [ref=f8243e156]
+              - columnheader [ref=f8243e158]
+            - row "Yds TD Int Yds TD Rec Yds TD TD 2PT Off Fumb TD Blk Kick Lost 0-19 20-29 30-39 40-49 50+ 0-19 20-29 Made Miss Sack Safe Int Fum Rec TD 0 Pts 1-6 Pts 7-13 Pts 14-20 Pts 21-27 Pts 28-34 Pts 35+ Pts" [ref=f8243e160]:
+              - columnheader [ref=f8243e161]
+              - columnheader [ref=f8243e162]
+              - columnheader "Yds" [ref=f8243e163]:
+                - link "Yds" [ref=f8243e165] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=4&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e166]:
+                - link "TD" [ref=f8243e168] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=5&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Int" [ref=f8243e169]:
+                - link "Int" [ref=f8243e171] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=6&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Yds" [ref=f8243e172]:
+                - link "Yds" [ref=f8243e174] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=9&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e175]:
+                - link "TD" [ref=f8243e177] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=10&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Rec" [ref=f8243e178]:
+                - link "Rec" [ref=f8243e180] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=11&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Yds" [ref=f8243e181]:
+                - link "Yds" [ref=f8243e183] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=12&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e184]:
+                - link "TD" [ref=f8243e186] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=13&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e187]:
+                - link "TD" [ref=f8243e189] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=15&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "2PT" [ref=f8243e190]:
+                - link "2PT" [ref=f8243e192] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=16&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Off Fumb TD" [ref=f8243e193]:
+                - link "Off Fumb TD" [ref=f8243e195] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=57&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Blk Kick" [ref=f8243e196]:
+                - link "Blk Kick" [ref=f8243e198] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=37&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Lost" [ref=f8243e199]:
+                - link "Lost" [ref=f8243e201] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=18&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "0-19" [ref=f8243e202]:
+                - link "0-19" [ref=f8243e204] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=19&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "20-29" [ref=f8243e205]:
+                - link "20-29" [ref=f8243e207] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=20&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "30-39" [ref=f8243e208]:
+                - link "30-39" [ref=f8243e210] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=21&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "40-49" [ref=f8243e211]:
+                - link "40-49" [ref=f8243e213] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=22&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "50+" [ref=f8243e214]:
+                - link "50+" [ref=f8243e216] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=23&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "0-19" [ref=f8243e217]:
+                - link "0-19" [ref=f8243e219] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=24&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "20-29" [ref=f8243e220]:
+                - link "20-29" [ref=f8243e222] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=25&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Made" [ref=f8243e223]:
+                - link "Made" [ref=f8243e225] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=29&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Miss" [ref=f8243e226]:
+                - link "Miss" [ref=f8243e228] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=30&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Sack" [ref=f8243e229]:
+                - link "Sack" [ref=f8243e231] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=32&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Safe" [ref=f8243e232]:
+                - link "Safe" [ref=f8243e234] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=36&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Int" [ref=f8243e235]:
+                - link "Int" [ref=f8243e237] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=33&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Fum Rec" [ref=f8243e238]:
+                - link "Fum Rec" [ref=f8243e240] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=34&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e241]:
+                - link "TD" [ref=f8243e243] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=35&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "0 Pts" [ref=f8243e244]:
+                - link "0 Pts" [ref=f8243e246] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=50&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "1-6 Pts" [ref=f8243e247]:
+                - link "1-6 Pts" [ref=f8243e249] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=51&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "7-13 Pts" [ref=f8243e250]:
+                - link "7-13 Pts" [ref=f8243e252] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=52&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "14-20 Pts" [ref=f8243e253]:
+                - link "14-20 Pts" [ref=f8243e255] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=53&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "21-27 Pts" [ref=f8243e256]:
+                - link "21-27 Pts" [ref=f8243e258] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=54&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "28-34 Pts" [ref=f8243e259]:
+                - link "28-34 Pts" [ref=f8243e261] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=55&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "35+ Pts" [ref=f8243e262]:
+                - link "35+ Pts" [ref=f8243e264] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=56&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f8243e265]
+          - rowgroup [ref=f8243e266]:
+            - row "1. Deepest U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 2300.56" [ref=f8243e267]:
+              - cell "1." [ref=f8243e268]
+              - cell "Deepest" [ref=f8243e270]:
+                - link "Deepest" [ref=f8243e272] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/5
+              - cell "U" [ref=f8243e273]
+              - cell "U" [ref=f8243e275]
+              - cell "U" [ref=f8243e277]
+              - cell "U" [ref=f8243e279]
+              - cell "U" [ref=f8243e281]
+              - cell "U" [ref=f8243e283]
+              - cell "U" [ref=f8243e285]
+              - cell "U" [ref=f8243e287]
+              - cell "U" [ref=f8243e289]
+              - cell "U" [ref=f8243e291]
+              - cell "U" [ref=f8243e293]
+              - cell "U" [ref=f8243e295]
+              - cell "U" [ref=f8243e297]
+              - cell "U" [ref=f8243e299]
+              - cell "U" [ref=f8243e301]
+              - cell "U" [ref=f8243e303]
+              - cell "U" [ref=f8243e305]
+              - cell "U" [ref=f8243e307]
+              - cell "U" [ref=f8243e309]
+              - cell "U" [ref=f8243e311]
+              - cell "U" [ref=f8243e313]
+              - cell "U" [ref=f8243e315]
+              - cell "U" [ref=f8243e317]
+              - cell "U" [ref=f8243e319]
+              - cell "U" [ref=f8243e321]
+              - cell "U" [ref=f8243e323]
+              - cell "U" [ref=f8243e325]
+              - cell "U" [ref=f8243e327]
+              - cell "U" [ref=f8243e329]
+              - cell "U" [ref=f8243e331]
+              - cell "U" [ref=f8243e333]
+              - cell "U" [ref=f8243e335]
+              - cell "U" [ref=f8243e337]
+              - cell "U" [ref=f8243e339]
+              - cell "2300.56" [ref=f8243e341]
+            - row "2. DUGASM U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 2205.20" [ref=f8243e343]:
+              - cell "2." [ref=f8243e344]
+              - cell "DUGASM" [ref=f8243e346]:
+                - link "DUGASM" [ref=f8243e348] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/6
+              - cell "U" [ref=f8243e349]
+              - cell "U" [ref=f8243e351]
+              - cell "U" [ref=f8243e353]
+              - cell "U" [ref=f8243e355]
+              - cell "U" [ref=f8243e357]
+              - cell "U" [ref=f8243e359]
+              - cell "U" [ref=f8243e361]
+              - cell "U" [ref=f8243e363]
+              - cell "U" [ref=f8243e365]
+              - cell "U" [ref=f8243e367]
+              - cell "U" [ref=f8243e369]
+              - cell "U" [ref=f8243e371]
+              - cell "U" [ref=f8243e373]
+              - cell "U" [ref=f8243e375]
+              - cell "U" [ref=f8243e377]
+              - cell "U" [ref=f8243e379]
+              - cell "U" [ref=f8243e381]
+              - cell "U" [ref=f8243e383]
+              - cell "U" [ref=f8243e385]
+              - cell "U" [ref=f8243e387]
+              - cell "U" [ref=f8243e389]
+              - cell "U" [ref=f8243e391]
+              - cell "U" [ref=f8243e393]
+              - cell "U" [ref=f8243e395]
+              - cell "U" [ref=f8243e397]
+              - cell "U" [ref=f8243e399]
+              - cell "U" [ref=f8243e401]
+              - cell "U" [ref=f8243e403]
+              - cell "U" [ref=f8243e405]
+              - cell "U" [ref=f8243e407]
+              - cell "U" [ref=f8243e409]
+              - cell "U" [ref=f8243e411]
+              - cell "U" [ref=f8243e413]
+              - cell "U" [ref=f8243e415]
+              - cell "2205.20" [ref=f8243e417]
+            - row "3. FFAmuseBouche U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 2000.18" [ref=f8243e419]:
+              - cell "3." [ref=f8243e420]
+              - cell "FFAmuseBouche" [ref=f8243e422]:
+                - link "FFAmuseBouche" [ref=f8243e424] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/8
+              - cell "U" [ref=f8243e425]
+              - cell "U" [ref=f8243e427]
+              - cell "U" [ref=f8243e429]
+              - cell "U" [ref=f8243e431]
+              - cell "U" [ref=f8243e433]
+              - cell "U" [ref=f8243e435]
+              - cell "U" [ref=f8243e437]
+              - cell "U" [ref=f8243e439]
+              - cell "U" [ref=f8243e441]
+              - cell "U" [ref=f8243e443]
+              - cell "U" [ref=f8243e445]
+              - cell "U" [ref=f8243e447]
+              - cell "U" [ref=f8243e449]
+              - cell "U" [ref=f8243e451]
+              - cell "U" [ref=f8243e453]
+              - cell "U" [ref=f8243e455]
+              - cell "U" [ref=f8243e457]
+              - cell "U" [ref=f8243e459]
+              - cell "U" [ref=f8243e461]
+              - cell "U" [ref=f8243e463]
+              - cell "U" [ref=f8243e465]
+              - cell "U" [ref=f8243e467]
+              - cell "U" [ref=f8243e469]
+              - cell "U" [ref=f8243e471]
+              - cell "U" [ref=f8243e473]
+              - cell "U" [ref=f8243e475]
+              - cell "U" [ref=f8243e477]
+              - cell "U" [ref=f8243e479]
+              - cell "U" [ref=f8243e481]
+              - cell "U" [ref=f8243e483]
+              - cell "U" [ref=f8243e485]
+              - cell "U" [ref=f8243e487]
+              - cell "U" [ref=f8243e489]
+              - cell "U" [ref=f8243e491]
+              - cell "2000.18" [ref=f8243e493]
+            - row "4. Dezbians U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 2128.54" [ref=f8243e495]:
+              - cell "4." [ref=f8243e496]
+              - cell "Dezbians" [ref=f8243e498]:
+                - link "Dezbians" [ref=f8243e500] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+              - cell "U" [ref=f8243e501]
+              - cell "U" [ref=f8243e503]
+              - cell "U" [ref=f8243e505]
+              - cell "U" [ref=f8243e507]
+              - cell "U" [ref=f8243e509]
+              - cell "U" [ref=f8243e511]
+              - cell "U" [ref=f8243e513]
+              - cell "U" [ref=f8243e515]
+              - cell "U" [ref=f8243e517]
+              - cell "U" [ref=f8243e519]
+              - cell "U" [ref=f8243e521]
+              - cell "U" [ref=f8243e523]
+              - cell "U" [ref=f8243e525]
+              - cell "U" [ref=f8243e527]
+              - cell "U" [ref=f8243e529]
+              - cell "U" [ref=f8243e531]
+              - cell "U" [ref=f8243e533]
+              - cell "U" [ref=f8243e535]
+              - cell "U" [ref=f8243e537]
+              - cell "U" [ref=f8243e539]
+              - cell "U" [ref=f8243e541]
+              - cell "U" [ref=f8243e543]
+              - cell "U" [ref=f8243e545]
+              - cell "U" [ref=f8243e547]
+              - cell "U" [ref=f8243e549]
+              - cell "U" [ref=f8243e551]
+              - cell "U" [ref=f8243e553]
+              - cell "U" [ref=f8243e555]
+              - cell "U" [ref=f8243e557]
+              - cell "U" [ref=f8243e559]
+              - cell "U" [ref=f8243e561]
+              - cell "U" [ref=f8243e563]
+              - cell "U" [ref=f8243e565]
+              - cell "U" [ref=f8243e567]
+              - cell "2128.54" [ref=f8243e569]
+            - row "5. bigballs U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 1717.32" [ref=f8243e571]:
+              - cell "5." [ref=f8243e572]
+              - cell "bigballs" [ref=f8243e574]:
+                - link "bigballs" [ref=f8243e576] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/4
+              - cell "U" [ref=f8243e577]
+              - cell "U" [ref=f8243e579]
+              - cell "U" [ref=f8243e581]
+              - cell "U" [ref=f8243e583]
+              - cell "U" [ref=f8243e585]
+              - cell "U" [ref=f8243e587]
+              - cell "U" [ref=f8243e589]
+              - cell "U" [ref=f8243e591]
+              - cell "U" [ref=f8243e593]
+              - cell "U" [ref=f8243e595]
+              - cell "U" [ref=f8243e597]
+              - cell "U" [ref=f8243e599]
+              - cell "U" [ref=f8243e601]
+              - cell "U" [ref=f8243e603]
+              - cell "U" [ref=f8243e605]
+              - cell "U" [ref=f8243e607]
+              - cell "U" [ref=f8243e609]
+              - cell "U" [ref=f8243e611]
+              - cell "U" [ref=f8243e613]
+              - cell "U" [ref=f8243e615]
+              - cell "U" [ref=f8243e617]
+              - cell "U" [ref=f8243e619]
+              - cell "U" [ref=f8243e621]
+              - cell "U" [ref=f8243e623]
+              - cell "U" [ref=f8243e625]
+              - cell "U" [ref=f8243e627]
+              - cell "U" [ref=f8243e629]
+              - cell "U" [ref=f8243e631]
+              - cell "U" [ref=f8243e633]
+              - cell "U" [ref=f8243e635]
+              - cell "U" [ref=f8243e637]
+              - cell "U" [ref=f8243e639]
+              - cell "U" [ref=f8243e641]
+              - cell "U" [ref=f8243e643]
+              - cell "1717.32" [ref=f8243e645]
+            - row "6. Good Strongs U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 1886.70" [ref=f8243e647]:
+              - cell "6." [ref=f8243e648]
+              - cell "Good Strongs" [ref=f8243e650]:
+                - link "Good Strongs" [ref=f8243e652] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+              - cell "U" [ref=f8243e653]
+              - cell "U" [ref=f8243e655]
+              - cell "U" [ref=f8243e657]
+              - cell "U" [ref=f8243e659]
+              - cell "U" [ref=f8243e661]
+              - cell "U" [ref=f8243e663]
+              - cell "U" [ref=f8243e665]
+              - cell "U" [ref=f8243e667]
+              - cell "U" [ref=f8243e669]
+              - cell "U" [ref=f8243e671]
+              - cell "U" [ref=f8243e673]
+              - cell "U" [ref=f8243e675]
+              - cell "U" [ref=f8243e677]
+              - cell "U" [ref=f8243e679]
+              - cell "U" [ref=f8243e681]
+              - cell "U" [ref=f8243e683]
+              - cell "U" [ref=f8243e685]
+              - cell "U" [ref=f8243e687]
+              - cell "U" [ref=f8243e689]
+              - cell "U" [ref=f8243e691]
+              - cell "U" [ref=f8243e693]
+              - cell "U" [ref=f8243e695]
+              - cell "U" [ref=f8243e697]
+              - cell "U" [ref=f8243e699]
+              - cell "U" [ref=f8243e701]
+              - cell "U" [ref=f8243e703]
+              - cell "U" [ref=f8243e705]
+              - cell "U" [ref=f8243e707]
+              - cell "U" [ref=f8243e709]
+              - cell "U" [ref=f8243e711]
+              - cell "U" [ref=f8243e713]
+              - cell "U" [ref=f8243e715]
+              - cell "U" [ref=f8243e717]
+              - cell "U" [ref=f8243e719]
+              - cell "1886.70" [ref=f8243e721]
+            - row "7. Vaqueros U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 1948.32" [ref=f8243e723]:
+              - cell "7." [ref=f8243e724]
+              - cell "Vaqueros" [ref=f8243e726]:
+                - link "Vaqueros" [ref=f8243e728] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/2
+              - cell "U" [ref=f8243e729]
+              - cell "U" [ref=f8243e731]
+              - cell "U" [ref=f8243e733]
+              - cell "U" [ref=f8243e735]
+              - cell "U" [ref=f8243e737]
+              - cell "U" [ref=f8243e739]
+              - cell "U" [ref=f8243e741]
+              - cell "U" [ref=f8243e743]
+              - cell "U" [ref=f8243e745]
+              - cell "U" [ref=f8243e747]
+              - cell "U" [ref=f8243e749]
+              - cell "U" [ref=f8243e751]
+              - cell "U" [ref=f8243e753]
+              - cell "U" [ref=f8243e755]
+              - cell "U" [ref=f8243e757]
+              - cell "U" [ref=f8243e759]
+              - cell "U" [ref=f8243e761]
+              - cell "U" [ref=f8243e763]
+              - cell "U" [ref=f8243e765]
+              - cell "U" [ref=f8243e767]
+              - cell "U" [ref=f8243e769]
+              - cell "U" [ref=f8243e771]
+              - cell "U" [ref=f8243e773]
+              - cell "U" [ref=f8243e775]
+              - cell "U" [ref=f8243e777]
+              - cell "U" [ref=f8243e779]
+              - cell "U" [ref=f8243e781]
+              - cell "U" [ref=f8243e783]
+              - cell "U" [ref=f8243e785]
+              - cell "U" [ref=f8243e787]
+              - cell "U" [ref=f8243e789]
+              - cell "U" [ref=f8243e791]
+              - cell "U" [ref=f8243e793]
+              - cell "U" [ref=f8243e795]
+              - cell "1948.32" [ref=f8243e797]
+            - row "8. Wet Serapas U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U 1880.78" [ref=f8243e799]:
+              - cell "8." [ref=f8243e800]
+              - cell "Wet Serapas" [ref=f8243e802]:
+                - link "Wet Serapas" [ref=f8243e804] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+              - cell "U" [ref=f8243e805]
+              - cell "U" [ref=f8243e807]
+              - cell "U" [ref=f8243e809]
+              - cell "U" [ref=f8243e811]
+              - cell "U" [ref=f8243e813]
+              - cell "U" [ref=f8243e815]
+              - cell "U" [ref=f8243e817]
+              - cell "U" [ref=f8243e819]
+              - cell "U" [ref=f8243e821]
+              - cell "U" [ref=f8243e823]
+              - cell "U" [ref=f8243e825]
+              - cell "U" [ref=f8243e827]
+              - cell "U" [ref=f8243e829]
+              - cell "U" [ref=f8243e831]
+              - cell "U" [ref=f8243e833]
+              - cell "U" [ref=f8243e835]
+              - cell "U" [ref=f8243e837]
+              - cell "U" [ref=f8243e839]
+              - cell "U" [ref=f8243e841]
+              - cell "U" [ref=f8243e843]
+              - cell "U" [ref=f8243e845]
+              - cell "U" [ref=f8243e847]
+              - cell "U" [ref=f8243e849]
+              - cell "U" [ref=f8243e851]
+              - cell "U" [ref=f8243e853]
+              - cell "U" [ref=f8243e855]
+              - cell "U" [ref=f8243e857]
+              - cell "U" [ref=f8243e859]
+              - cell "U" [ref=f8243e861]
+              - cell "U" [ref=f8243e863]
+              - cell "U" [ref=f8243e865]
+              - cell "U" [ref=f8243e867]
+              - cell "U" [ref=f8243e869]
+              - cell "U" [ref=f8243e871]
+              - cell "1880.78" [ref=f8243e873]
+        - heading "Overall Stats" [level=4] [ref=f8243e875]
+        - table [ref=f8243e876]:
+          - rowgroup [ref=f8243e877]:
+            - row "Passing Rushing Receiving Ret Miscellaneous Fum Field Goals Made FG Miss PAT Tackles Turnovers TD Points Allowed" [ref=f8243e878]:
+              - columnheader [ref=f8243e879]
+              - columnheader [ref=f8243e881]
+              - columnheader "Passing" [ref=f8243e883]
+              - columnheader "Rushing" [ref=f8243e885]
+              - columnheader "Receiving" [ref=f8243e887]
+              - columnheader "Ret" [ref=f8243e889]
+              - columnheader "Miscellaneous" [ref=f8243e891]
+              - columnheader "Fum" [ref=f8243e893]
+              - columnheader "Field Goals Made" [ref=f8243e895]
+              - columnheader "FG Miss" [ref=f8243e897]
+              - columnheader "PAT" [ref=f8243e899]
+              - columnheader "Tackles" [ref=f8243e901]
+              - columnheader "Turnovers" [ref=f8243e903]
+              - columnheader "TD" [ref=f8243e905]
+              - columnheader "Points Allowed" [ref=f8243e907]
+            - row "Yds TD Int Yds TD Rec Yds TD TD 2PT Off Fumb TD Blk Kick Lost 0-19 20-29 30-39 40-49 50+ 0-19 20-29 Made Miss Sack Safe Int Fum Rec TD 0 Pts 1-6 Pts 7-13 Pts 14-20 Pts 21-27 Pts 28-34 Pts 35+ Pts" [ref=f8243e909]:
+              - columnheader [ref=f8243e910]
+              - columnheader [ref=f8243e911]
+              - columnheader "Yds" [ref=f8243e912]:
+                - link "Yds" [ref=f8243e914] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=4&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e915]:
+                - link "TD" [ref=f8243e917] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=5&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Int" [ref=f8243e918]:
+                - link "Int" [ref=f8243e920] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=6&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Yds" [ref=f8243e921]:
+                - link "Yds" [ref=f8243e923] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=9&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e924]:
+                - link "TD" [ref=f8243e926] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=10&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Rec" [ref=f8243e927]:
+                - link "Rec" [ref=f8243e929] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=11&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Yds" [ref=f8243e930]:
+                - link "Yds" [ref=f8243e932] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=12&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e933]:
+                - link "TD" [ref=f8243e935] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=13&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e936]:
+                - link "TD" [ref=f8243e938] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=15&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "2PT" [ref=f8243e939]:
+                - link "2PT" [ref=f8243e941] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=16&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Off Fumb TD" [ref=f8243e942]:
+                - link "Off Fumb TD" [ref=f8243e944] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=57&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Blk Kick" [ref=f8243e945]:
+                - link "Blk Kick" [ref=f8243e947] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=37&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Lost" [ref=f8243e948]:
+                - link "Lost" [ref=f8243e950] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=18&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "0-19" [ref=f8243e951]:
+                - link "0-19" [ref=f8243e953] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=19&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "20-29" [ref=f8243e954]:
+                - link "20-29" [ref=f8243e956] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=20&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "30-39" [ref=f8243e957]:
+                - link "30-39" [ref=f8243e959] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=21&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "40-49" [ref=f8243e960]:
+                - link "40-49" [ref=f8243e962] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=22&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "50+" [ref=f8243e963]:
+                - link "50+" [ref=f8243e965] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=23&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "0-19" [ref=f8243e966]:
+                - link "0-19" [ref=f8243e968] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=24&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "20-29" [ref=f8243e969]:
+                - link "20-29" [ref=f8243e971] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=25&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Made" [ref=f8243e972]:
+                - link "Made" [ref=f8243e974] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=29&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Miss" [ref=f8243e975]:
+                - link "Miss" [ref=f8243e977] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=30&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Sack" [ref=f8243e978]:
+                - link "Sack" [ref=f8243e980] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=32&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Safe" [ref=f8243e981]:
+                - link "Safe" [ref=f8243e983] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=36&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Int" [ref=f8243e984]:
+                - link "Int" [ref=f8243e986] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=33&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "Fum Rec" [ref=f8243e987]:
+                - link "Fum Rec" [ref=f8243e989] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=34&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "TD" [ref=f8243e990]:
+                - link "TD" [ref=f8243e992] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=35&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "0 Pts" [ref=f8243e993]:
+                - link "0 Pts" [ref=f8243e995] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=50&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "1-6 Pts" [ref=f8243e996]:
+                - link "1-6 Pts" [ref=f8243e998] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=51&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "7-13 Pts" [ref=f8243e999]:
+                - link "7-13 Pts" [ref=f8243e1001] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=52&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "14-20 Pts" [ref=f8243e1002]:
+                - link "14-20 Pts" [ref=f8243e1004] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=53&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "21-27 Pts" [ref=f8243e1005]:
+                - link "21-27 Pts" [ref=f8243e1007] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=54&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "28-34 Pts" [ref=f8243e1008]:
+                - link "28-34 Pts" [ref=f8243e1010] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=55&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader "35+ Pts" [ref=f8243e1011]:
+                - link "35+ Pts" [ref=f8243e1013] [cursor=pointer]:
+                  - /url: /2013/f1/11558/standings?stype=season&sort=56&sdir=1&pspid=782200910&activity=players_sort_click
+          - rowgroup [ref=f8243e1014]:
+            - row "1. Deepest U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1015]:
+              - cell "1." [ref=f8243e1016]
+              - cell "Deepest" [ref=f8243e1018]:
+                - link "Deepest" [ref=f8243e1020] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/5
+              - cell "U" [ref=f8243e1021]
+              - cell "U" [ref=f8243e1023]
+              - cell "U" [ref=f8243e1025]
+              - cell "U" [ref=f8243e1027]
+              - cell "U" [ref=f8243e1029]
+              - cell "U" [ref=f8243e1031]
+              - cell "U" [ref=f8243e1033]
+              - cell "U" [ref=f8243e1035]
+              - cell "U" [ref=f8243e1037]
+              - cell "U" [ref=f8243e1039]
+              - cell "U" [ref=f8243e1041]
+              - cell "U" [ref=f8243e1043]
+              - cell "U" [ref=f8243e1045]
+              - cell "U" [ref=f8243e1047]
+              - cell "U" [ref=f8243e1049]
+              - cell "U" [ref=f8243e1051]
+              - cell "U" [ref=f8243e1053]
+              - cell "U" [ref=f8243e1055]
+              - cell "U" [ref=f8243e1057]
+              - cell "U" [ref=f8243e1059]
+              - cell "U" [ref=f8243e1061]
+              - cell "U" [ref=f8243e1063]
+              - cell "U" [ref=f8243e1065]
+              - cell "U" [ref=f8243e1067]
+              - cell "U" [ref=f8243e1069]
+              - cell "U" [ref=f8243e1071]
+              - cell "U" [ref=f8243e1073]
+              - cell "U" [ref=f8243e1075]
+              - cell "U" [ref=f8243e1077]
+              - cell "U" [ref=f8243e1079]
+              - cell "U" [ref=f8243e1081]
+              - cell "U" [ref=f8243e1083]
+              - cell "U" [ref=f8243e1085]
+              - cell "U" [ref=f8243e1087]
+            - row "2. DUGASM U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1089]:
+              - cell "2." [ref=f8243e1090]
+              - cell "DUGASM" [ref=f8243e1092]:
+                - link "DUGASM" [ref=f8243e1094] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/6
+              - cell "U" [ref=f8243e1095]
+              - cell "U" [ref=f8243e1097]
+              - cell "U" [ref=f8243e1099]
+              - cell "U" [ref=f8243e1101]
+              - cell "U" [ref=f8243e1103]
+              - cell "U" [ref=f8243e1105]
+              - cell "U" [ref=f8243e1107]
+              - cell "U" [ref=f8243e1109]
+              - cell "U" [ref=f8243e1111]
+              - cell "U" [ref=f8243e1113]
+              - cell "U" [ref=f8243e1115]
+              - cell "U" [ref=f8243e1117]
+              - cell "U" [ref=f8243e1119]
+              - cell "U" [ref=f8243e1121]
+              - cell "U" [ref=f8243e1123]
+              - cell "U" [ref=f8243e1125]
+              - cell "U" [ref=f8243e1127]
+              - cell "U" [ref=f8243e1129]
+              - cell "U" [ref=f8243e1131]
+              - cell "U" [ref=f8243e1133]
+              - cell "U" [ref=f8243e1135]
+              - cell "U" [ref=f8243e1137]
+              - cell "U" [ref=f8243e1139]
+              - cell "U" [ref=f8243e1141]
+              - cell "U" [ref=f8243e1143]
+              - cell "U" [ref=f8243e1145]
+              - cell "U" [ref=f8243e1147]
+              - cell "U" [ref=f8243e1149]
+              - cell "U" [ref=f8243e1151]
+              - cell "U" [ref=f8243e1153]
+              - cell "U" [ref=f8243e1155]
+              - cell "U" [ref=f8243e1157]
+              - cell "U" [ref=f8243e1159]
+              - cell "U" [ref=f8243e1161]
+            - row "3. FFAmuseBouche U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1163]:
+              - cell "3." [ref=f8243e1164]
+              - cell "FFAmuseBouche" [ref=f8243e1166]:
+                - link "FFAmuseBouche" [ref=f8243e1168] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/8
+              - cell "U" [ref=f8243e1169]
+              - cell "U" [ref=f8243e1171]
+              - cell "U" [ref=f8243e1173]
+              - cell "U" [ref=f8243e1175]
+              - cell "U" [ref=f8243e1177]
+              - cell "U" [ref=f8243e1179]
+              - cell "U" [ref=f8243e1181]
+              - cell "U" [ref=f8243e1183]
+              - cell "U" [ref=f8243e1185]
+              - cell "U" [ref=f8243e1187]
+              - cell "U" [ref=f8243e1189]
+              - cell "U" [ref=f8243e1191]
+              - cell "U" [ref=f8243e1193]
+              - cell "U" [ref=f8243e1195]
+              - cell "U" [ref=f8243e1197]
+              - cell "U" [ref=f8243e1199]
+              - cell "U" [ref=f8243e1201]
+              - cell "U" [ref=f8243e1203]
+              - cell "U" [ref=f8243e1205]
+              - cell "U" [ref=f8243e1207]
+              - cell "U" [ref=f8243e1209]
+              - cell "U" [ref=f8243e1211]
+              - cell "U" [ref=f8243e1213]
+              - cell "U" [ref=f8243e1215]
+              - cell "U" [ref=f8243e1217]
+              - cell "U" [ref=f8243e1219]
+              - cell "U" [ref=f8243e1221]
+              - cell "U" [ref=f8243e1223]
+              - cell "U" [ref=f8243e1225]
+              - cell "U" [ref=f8243e1227]
+              - cell "U" [ref=f8243e1229]
+              - cell "U" [ref=f8243e1231]
+              - cell "U" [ref=f8243e1233]
+              - cell "U" [ref=f8243e1235]
+            - row "4. Dezbians U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1237]:
+              - cell "4." [ref=f8243e1238]
+              - cell "Dezbians" [ref=f8243e1240]:
+                - link "Dezbians" [ref=f8243e1242] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/7
+              - cell "U" [ref=f8243e1243]
+              - cell "U" [ref=f8243e1245]
+              - cell "U" [ref=f8243e1247]
+              - cell "U" [ref=f8243e1249]
+              - cell "U" [ref=f8243e1251]
+              - cell "U" [ref=f8243e1253]
+              - cell "U" [ref=f8243e1255]
+              - cell "U" [ref=f8243e1257]
+              - cell "U" [ref=f8243e1259]
+              - cell "U" [ref=f8243e1261]
+              - cell "U" [ref=f8243e1263]
+              - cell "U" [ref=f8243e1265]
+              - cell "U" [ref=f8243e1267]
+              - cell "U" [ref=f8243e1269]
+              - cell "U" [ref=f8243e1271]
+              - cell "U" [ref=f8243e1273]
+              - cell "U" [ref=f8243e1275]
+              - cell "U" [ref=f8243e1277]
+              - cell "U" [ref=f8243e1279]
+              - cell "U" [ref=f8243e1281]
+              - cell "U" [ref=f8243e1283]
+              - cell "U" [ref=f8243e1285]
+              - cell "U" [ref=f8243e1287]
+              - cell "U" [ref=f8243e1289]
+              - cell "U" [ref=f8243e1291]
+              - cell "U" [ref=f8243e1293]
+              - cell "U" [ref=f8243e1295]
+              - cell "U" [ref=f8243e1297]
+              - cell "U" [ref=f8243e1299]
+              - cell "U" [ref=f8243e1301]
+              - cell "U" [ref=f8243e1303]
+              - cell "U" [ref=f8243e1305]
+              - cell "U" [ref=f8243e1307]
+              - cell "U" [ref=f8243e1309]
+            - row "5. bigballs U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1311]:
+              - cell "5." [ref=f8243e1312]
+              - cell "bigballs" [ref=f8243e1314]:
+                - link "bigballs" [ref=f8243e1316] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/4
+              - cell "U" [ref=f8243e1317]
+              - cell "U" [ref=f8243e1319]
+              - cell "U" [ref=f8243e1321]
+              - cell "U" [ref=f8243e1323]
+              - cell "U" [ref=f8243e1325]
+              - cell "U" [ref=f8243e1327]
+              - cell "U" [ref=f8243e1329]
+              - cell "U" [ref=f8243e1331]
+              - cell "U" [ref=f8243e1333]
+              - cell "U" [ref=f8243e1335]
+              - cell "U" [ref=f8243e1337]
+              - cell "U" [ref=f8243e1339]
+              - cell "U" [ref=f8243e1341]
+              - cell "U" [ref=f8243e1343]
+              - cell "U" [ref=f8243e1345]
+              - cell "U" [ref=f8243e1347]
+              - cell "U" [ref=f8243e1349]
+              - cell "U" [ref=f8243e1351]
+              - cell "U" [ref=f8243e1353]
+              - cell "U" [ref=f8243e1355]
+              - cell "U" [ref=f8243e1357]
+              - cell "U" [ref=f8243e1359]
+              - cell "U" [ref=f8243e1361]
+              - cell "U" [ref=f8243e1363]
+              - cell "U" [ref=f8243e1365]
+              - cell "U" [ref=f8243e1367]
+              - cell "U" [ref=f8243e1369]
+              - cell "U" [ref=f8243e1371]
+              - cell "U" [ref=f8243e1373]
+              - cell "U" [ref=f8243e1375]
+              - cell "U" [ref=f8243e1377]
+              - cell "U" [ref=f8243e1379]
+              - cell "U" [ref=f8243e1381]
+              - cell "U" [ref=f8243e1383]
+            - row "6. Good Strongs U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1385]:
+              - cell "6." [ref=f8243e1386]
+              - cell "Good Strongs" [ref=f8243e1388]:
+                - link "Good Strongs" [ref=f8243e1390] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/3
+              - cell "U" [ref=f8243e1391]
+              - cell "U" [ref=f8243e1393]
+              - cell "U" [ref=f8243e1395]
+              - cell "U" [ref=f8243e1397]
+              - cell "U" [ref=f8243e1399]
+              - cell "U" [ref=f8243e1401]
+              - cell "U" [ref=f8243e1403]
+              - cell "U" [ref=f8243e1405]
+              - cell "U" [ref=f8243e1407]
+              - cell "U" [ref=f8243e1409]
+              - cell "U" [ref=f8243e1411]
+              - cell "U" [ref=f8243e1413]
+              - cell "U" [ref=f8243e1415]
+              - cell "U" [ref=f8243e1417]
+              - cell "U" [ref=f8243e1419]
+              - cell "U" [ref=f8243e1421]
+              - cell "U" [ref=f8243e1423]
+              - cell "U" [ref=f8243e1425]
+              - cell "U" [ref=f8243e1427]
+              - cell "U" [ref=f8243e1429]
+              - cell "U" [ref=f8243e1431]
+              - cell "U" [ref=f8243e1433]
+              - cell "U" [ref=f8243e1435]
+              - cell "U" [ref=f8243e1437]
+              - cell "U" [ref=f8243e1439]
+              - cell "U" [ref=f8243e1441]
+              - cell "U" [ref=f8243e1443]
+              - cell "U" [ref=f8243e1445]
+              - cell "U" [ref=f8243e1447]
+              - cell "U" [ref=f8243e1449]
+              - cell "U" [ref=f8243e1451]
+              - cell "U" [ref=f8243e1453]
+              - cell "U" [ref=f8243e1455]
+              - cell "U" [ref=f8243e1457]
+            - row "7. Vaqueros U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1459]:
+              - cell "7." [ref=f8243e1460]
+              - cell "Vaqueros" [ref=f8243e1462]:
+                - link "Vaqueros" [ref=f8243e1464] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/2
+              - cell "U" [ref=f8243e1465]
+              - cell "U" [ref=f8243e1467]
+              - cell "U" [ref=f8243e1469]
+              - cell "U" [ref=f8243e1471]
+              - cell "U" [ref=f8243e1473]
+              - cell "U" [ref=f8243e1475]
+              - cell "U" [ref=f8243e1477]
+              - cell "U" [ref=f8243e1479]
+              - cell "U" [ref=f8243e1481]
+              - cell "U" [ref=f8243e1483]
+              - cell "U" [ref=f8243e1485]
+              - cell "U" [ref=f8243e1487]
+              - cell "U" [ref=f8243e1489]
+              - cell "U" [ref=f8243e1491]
+              - cell "U" [ref=f8243e1493]
+              - cell "U" [ref=f8243e1495]
+              - cell "U" [ref=f8243e1497]
+              - cell "U" [ref=f8243e1499]
+              - cell "U" [ref=f8243e1501]
+              - cell "U" [ref=f8243e1503]
+              - cell "U" [ref=f8243e1505]
+              - cell "U" [ref=f8243e1507]
+              - cell "U" [ref=f8243e1509]
+              - cell "U" [ref=f8243e1511]
+              - cell "U" [ref=f8243e1513]
+              - cell "U" [ref=f8243e1515]
+              - cell "U" [ref=f8243e1517]
+              - cell "U" [ref=f8243e1519]
+              - cell "U" [ref=f8243e1521]
+              - cell "U" [ref=f8243e1523]
+              - cell "U" [ref=f8243e1525]
+              - cell "U" [ref=f8243e1527]
+              - cell "U" [ref=f8243e1529]
+              - cell "U" [ref=f8243e1531]
+            - row "8. Wet Serapas U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U" [ref=f8243e1533]:
+              - cell "8." [ref=f8243e1534]
+              - cell "Wet Serapas" [ref=f8243e1536]:
+                - link "Wet Serapas" [ref=f8243e1538] [cursor=pointer]:
+                  - /url: http://football.fantasysports.yahoo.com/2013/f1/11558/1
+              - cell "U" [ref=f8243e1539]
+              - cell "U" [ref=f8243e1541]
+              - cell "U" [ref=f8243e1543]
+              - cell "U" [ref=f8243e1545]
+              - cell "U" [ref=f8243e1547]
+              - cell "U" [ref=f8243e1549]
+              - cell "U" [ref=f8243e1551]
+              - cell "U" [ref=f8243e1553]
+              - cell "U" [ref=f8243e1555]
+              - cell "U" [ref=f8243e1557]
+              - cell "U" [ref=f8243e1559]
+              - cell "U" [ref=f8243e1561]
+              - cell "U" [ref=f8243e1563]
+              - cell "U" [ref=f8243e1565]
+              - cell "U" [ref=f8243e1567]
+              - cell "U" [ref=f8243e1569]
+              - cell "U" [ref=f8243e1571]
+              - cell "U" [ref=f8243e1573]
+              - cell "U" [ref=f8243e1575]
+              - cell "U" [ref=f8243e1577]
+              - cell "U" [ref=f8243e1579]
+              - cell "U" [ref=f8243e1581]
+              - cell "U" [ref=f8243e1583]
+              - cell "U" [ref=f8243e1585]
+              - cell "U" [ref=f8243e1587]
+              - cell "U" [ref=f8243e1589]
+              - cell "U" [ref=f8243e1591]
+              - cell "U" [ref=f8243e1593]
+              - cell "U" [ref=f8243e1595]
+              - cell "U" [ref=f8243e1597]
+              - cell "U" [ref=f8243e1599]
+              - cell "U" [ref=f8243e1601]
+              - cell "U" [ref=f8243e1603]
+              - cell "U" [ref=f8243e1605]
+    - contentinfo [ref=f8243e1607]:
+      - iframe [ref=f8243e1640]:
+        - generic:
+          - generic:
+            - insertion
+      - generic [ref=f8243e1614]:
+        - list [ref=f8243e1615]:
+          - listitem [ref=f8243e1616]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f8243e1617]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f8243e1618] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f8243e1619]:
+            - text: "-"
+            - link "Feedback" [ref=f8243e1620] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f8243e1621]:
+            - text: "-"
+            - link "Terms" [ref=f8243e1622] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f8243e1623] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f8243e1624]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f8243e1625] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f8243e1626]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f8243e1627] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f8243e1628]:
+            - text: "-"
+            - link "About Our Ads" [ref=f8243e1629] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f8243e1630]:
+            - text: "-"
+            - link "Help" [ref=f8243e1631] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f8243e1632]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f8243e1633]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f8243e1634]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
