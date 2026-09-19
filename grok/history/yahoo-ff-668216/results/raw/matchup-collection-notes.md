@@ -36,3 +36,10 @@ Remaining requested historical seasons not collected in this run: 2017 (league 1
 - 2016, Yahoo league 79234: 60 Final records, weeks 1–15 only. Regular weeks 1–14 (56 records), championship/consolation brackets week 15 (4 records). Week 16 was not collected. Files: `results/matchups/2016-matchups.jsonl`, `results/identities/2016-teams.json`.
 - Route used: archived read-only standings Matchups UI, `/<year>/f1/<league_id>?module=standings&lhst=matchups&matchup_week=N`, which displayed `Final results`. Scores are the first displayed values on each matchup card; adjacent values are projections and were excluded.
 - Yahoo returned HTTP 999 while loading 2016 week 16 (`https://football.fantasysports.yahoo.com/2016/f1/79234?matchup_week=16&module=matchups&lhst=matchups`). Per instructions, collection stopped immediately. No Yahoo writes, lineup changes, claims, or trades were performed.
+
+## 2016–2013 continuation attempt (stopped on Yahoo rate limit)
+- Cool-down was honored before retrying 2016 week 16 via the archived read-only standings Matchups route.
+- Yahoo returned HTTP 999 immediately for `https://football.fantasysports.yahoo.com/2016/f1/79234?module=standings&lhst=matchups&matchup_week=16`.
+- Per instructions, stopped immediately; no retries, no Yahoo writes, lineup changes, claims, or trades.
+- No new matchup or identity files were created for 2016 week 16, 2015 (league 1044), 2014 (league 76443), or 2013 (league 11558). Existing 2016 file remains 60 records for weeks 1–15, with no duplicates.
+- Evidence screenshots were not captured for this blocked attempt.

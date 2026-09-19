@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "generated_at": "2026-09-19T22:34:05Z",
+  "generated_at": "2026-09-19T22:37:57Z",
   "seasons": {
     "2025": {
       "status": "matchups_complete_weeks_1_16",
@@ -14,10 +14,7 @@
     },
     "2026": {
       "status": "partial_week_1_only",
-      "matchups": 4,
-      "gaps": [
-        "Week 2+ In progress / not Final"
-      ]
+      "matchups": 4
     },
     "2024": {
       "status": "matchups_complete_weeks_1_16",
@@ -73,12 +70,23 @@
       "status": "partial_weeks_1_15",
       "matchups": 60,
       "gaps": [
-        "Week 16 blocked by Yahoo HTTP 999; resume after cool-down"
+        "Week 16 HTTP 999 on retry after cool-down"
       ]
     },
     "2013-2015": {
-      "status": "pending_after_rate_limit"
+      "status": "pending_yahoo_rate_limit"
     }
   },
-  "label": "PARTIAL \u2014 do not call all-time"
+  "label": "PARTIAL \u2014 do not call all-time",
+  "rate_limit": {
+    "status": "active_http_999",
+    "last_hit_at_local": "2026-09-19 ~17:37 America/Chicago",
+    "blocked": [
+      "2016 week 16",
+      "2015",
+      "2014",
+      "2013"
+    ],
+    "plan": "cool-down then resume; do not hammer Yahoo"
+  }
 }
