@@ -64,107 +64,13 @@
         }
       ],
       "sample_season_collected": 2025,
-      "notes": "2012 and earlier on /league/deeperthan resolve to 8Deep lineage \u2014 not counted as Deeper Than."
-    },
-    "yahoo-ff-135150": {
-      "display_name": "8Deep",
-      "current_season_id": 135150,
-      "custom_route": "/league/8deepleague",
-      "prior_seasons_accessible": [
-        {
-          "year": 2025,
-          "season_league_id": 117956
-        },
-        {
-          "year": 2024,
-          "season_league_id": 196758
-        },
-        {
-          "year": 2023,
-          "season_league_id": 509502
-        },
-        {
-          "year": 2022,
-          "season_league_id": 154513
-        },
-        {
-          "year": 2021,
-          "season_league_id": 411801
-        },
-        {
-          "year": 2020,
-          "season_league_id": 622076
-        },
-        {
-          "year": 2019,
-          "season_league_id": 139225
-        },
-        {
-          "year": 2018,
-          "season_league_id": 179114
-        },
-        {
-          "year": 2017,
-          "season_league_id": 495408
-        },
-        {
-          "year": 2016,
-          "season_league_id": 313399
-        },
-        {
-          "year": 2015,
-          "season_league_id": 380652
-        },
-        {
-          "year": 2014,
-          "season_league_id": 216876
-        },
-        {
-          "year": 2013,
-          "season_league_id": 473916
-        },
-        {
-          "year": 2012,
-          "season_league_id": 12800
-        },
-        {
-          "year": 2011,
-          "season_league_id": 74556
-        },
-        {
-          "year": 2010,
-          "season_league_id": 10591
-        },
-        {
-          "year": 2009,
-          "season_league_id": 45991
-        },
-        {
-          "year": 2008,
-          "season_league_id": 20603
-        },
-        {
-          "year": 2007,
-          "season_league_id": 4694
-        },
-        {
-          "year": 2006,
-          "season_league_id": 51271
-        },
-        {
-          "year": 2005,
-          "season_league_id": 188407
-        }
-      ],
-      "sample_season_collected": null,
-      "notes": "Inventory of accessible season IDs only; full content not yet backfilled."
+      "notes": "2012 and earlier on /league/deeperthan resolve to a different Yahoo league lineage \u2014 not counted as Deeper Than."
     }
   },
   "gaps": [
     "Standings table rendering incomplete in 2025 sample capture",
     "Transactions paginated \u2014 not all pages captured",
-    "Older Deeper Than years (2013-2024) inventory-only, not full downloads",
-    "8Deep full season content not yet collected"
+    "Older Deeper Than years (2013-2024) inventory-only, not full downloads"
   ],
   "updated_at": "2026-09-19T05:12:20Z",
   "backfill_progress": {
@@ -184,20 +90,7 @@
         2024,
         2025
       ],
-      "status": "complete_for_deeper_than_prior_seasons",
-      "next": null
-    },
-    "yahoo-ff-135150": {
-      "collected_seasons": [
-        2025,
-        2024,
-        2023,
-        2022,
-        2021,
-        2020
-      ],
-      "next": 2019,
-      "status": "backfill_in_progress"
+      "status": "complete_for_deeper_than_prior_seasons"
     }
   },
   "team_id_notes": {

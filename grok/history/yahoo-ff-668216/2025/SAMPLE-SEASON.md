@@ -19,6 +19,5 @@
 
 - Yahoo's standings-tab table exposed empty rowgroups to the accessibility capture; the complete 1–8 final standings table could not be transcribed. The championship panel and Andrew's team finish are captured.
 - All-transactions is paginated; only the first page was captured. Trades shown by the visible trade filter were transcribed, but no total-count claim is made.
-- No separate 2025 8Deep sample folder was created because the requested sample is for Deeper Than.
 
 No lineup, drop, claim, trade, or save action was performed.

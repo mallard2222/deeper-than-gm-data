@@ -61,7 +61,6 @@
 | Display name | Stable id | Yahoo league id | Team | Role |
 |--------------|-----------|-----------------|------|------|
 | Deeper Than | `yahoo-ff-668216` | 668216 | Vaqueros (team path `/f1/668216/8`) | **Main / priority** |
-| 8Deep | `yahoo-ff-135150` | 135150 | VAQUEROS | Secondary — out of scope for main recommendations |
 | Castle Hills FFL | unknown | unknown | — | Renewal card seen; not managed |
 
 ### Verified / observed for `yahoo-ff-668216` (as of 2026-09-18 evening CT scout — **not** a full settings pull yet)
@@ -69,7 +68,7 @@
 - 8 teams; Week 2 of 2026 season
 - Vaqueros 0-1-0, 7th; PF 141.20; waiver budget shown **$100** remaining (implies FAAB — exact rules TBD from settings)
 - Matchup vs Big Balls (Brad / “4th”); live proj ~131.14 vs ~170.29 at scout time; Big Balls already had Allen + Amon-Ra scores
-- Starting structure observed on roster: **2 QB**, RB, RB, WR, WR, TE, **W/T**, **W/R**, K, DEF — **no IDP slots observed** on this roster (contrast 8Deep)
+- Starting structure observed on roster: **2 QB**, RB, RB, WR, WR, TE, **W/T**, **W/R**, K, DEF — **no IDP slots observed** on this roster
 - User-stated format assumptions (await settings confirm): 8 teams, 2QB, full PPR, 6 pt all TDs, 4 playoff teams
 
 **Analytical (not league-of-record):**
@@ -87,10 +86,6 @@
 - Transaction history export
 - Current FA list freshness after lineup change
 
-### Secondary league `yahoo-ff-135150` (8Deep)
-Partial scout only; IDP (LB) + 2QB observed. Kept separate. Not part of Deeper Than GM Work app scope unless Andrew expands.
-
----
 
 ## 4. Integration capabilities (verified vs possible)
 
@@ -139,7 +134,6 @@ Gap note: full FA waiver board + complete settings not yet in this file; setting
 ```
 GM BOOTSTRAP HANDOFF — Grok Bot → Deeper Than GM
 League main: yahoo-ff-668216 (Yahoo Deeper Than / Vaqueros)
-Secondary (do not mix): yahoo-ff-135150 (8Deep)
 Work app URL: https://deeper-than-gm.ogdru22.chatgpt.site → probed 401 anonymous (not production-connected)
 Yahoo access: browser session on Grok Bot computer; last success ~2026-09-18 20:58 CT (Golden start / Collins bench saved)
 No Yahoo MCP; no 1Password vault connected
