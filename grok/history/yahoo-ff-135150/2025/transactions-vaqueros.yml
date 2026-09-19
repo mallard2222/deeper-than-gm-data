@@ -1,0 +1,528 @@
+- generic [ref=f8821e3]:
+  - generic [ref=f8821e6]:
+    - banner [ref=f8821e8]:
+      - generic [ref=f8821e9]:
+        - generic [ref=f8821e11]:
+          - generic [ref=f8821e12]:
+            - generic [ref=f8821e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f8821e14]
+              - link "Yahoo Sports" [ref=f8821e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f8821e20]:
+              - generic [ref=f8821e21]: Search query
+              - combobox "Search query" [ref=f8821e22]
+              - button "Search" [ref=f8821e24] [cursor=pointer]
+          - navigation [ref=f8821e28]:
+            - list [ref=f8821e29]:
+              - listitem [ref=f8821e30]:
+                - link "News" [ref=f8821e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f8821e32]:
+                - link "Finance" [ref=f8821e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f8821e34]:
+                - link "Sports" [ref=f8821e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f8821e36]:
+                - button "More" [ref=f8821e37] [cursor=pointer]
+          - toolbar [ref=f8821e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f8821e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f8821e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f8821e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f8821e55]:
+          - link "Fantasy Football" [ref=f8821e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f8821e60] [cursor=pointer]:
+            - /url: /2025/f1/117956
+          - link "League" [ref=f8821e61] [cursor=pointer]:
+            - /url: /2025/f1/117956
+          - link "My Team" [ref=f8821e62] [cursor=pointer]:
+            - /url: /2025/f1/117956/8
+          - link "Matchups" [ref=f8821e63] [cursor=pointer]:
+            - /url: /2025/f1/117956/matchup
+          - link "Players" [ref=f8821e64] [cursor=pointer]:
+            - /url: /2025/f1/117956/players
+          - link "Draft Results" [ref=f8821e65] [cursor=pointer]:
+            - /url: /2025/f1/117956/draftresults
+          - list [ref=f8821e68]:
+            - listitem [ref=f8821e69]:
+              - link [ref=f8821e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f8821e79]:
+              - link [ref=f8821e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f8821e89]:
+              - link "Get Fantasy Plus" [ref=f8821e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f8821e97]: 8Deep (ID# 117956)
+  - generic [ref=f8821e101]:
+    - banner [ref=f8821e102]:
+      - generic [ref=f8821e103]:
+        - heading [level=2] [ref=f8821e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f8821e106] [cursor=pointer]:
+            - /url: /2025/f1
+        - iframe [ref=f8821e465]:
+          - iframe [ref=f8834e2]:
+            - generic [ref=f8853e3] [cursor=pointer]
+        - link [ref=f8821e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f8821e113]
+    - generic [ref=f8821e118]:
+      - heading "Transactions" [level=1] [ref=f8821e122]
+      - generic [ref=f8821e124]:
+        - generic [ref=f8821e125]:
+          - heading "Recent Transactions" [level=2] [ref=f8821e126]
+          - link "Vaqueros " [ref=f8821e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f8821e129]:
+              - generic [ref=f8821e130]: Vaqueros
+              - generic [ref=f8821e131]: 
+        - generic [ref=f8821e132]:
+          - list [ref=f8821e134]:
+            - listitem [ref=f8821e135]:
+              - link "All Transactions" [ref=f8821e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&mid=8"
+            - listitem [ref=f8821e137]:
+              - link "Added Players" [ref=f8821e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add&mid=8"
+            - listitem [ref=f8821e139]:
+              - link "Dropped Players" [ref=f8821e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop&mid=8"
+            - listitem [ref=f8821e141]:
+              - link "Trades" [ref=f8821e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade&mid=8"
+            - listitem [ref=f8821e143]:
+              - link "Waiver Offers" [ref=f8821e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=waiver"
+          - table [ref=f8821e145]:
+            - rowgroup [ref=f8821e146]:
+              - row [ref=f8821e147]:
+                - cell " " [ref=f8821e148]:
+                  - generic "Added Player" [ref=f8821e149]: 
+                  - generic "Dropped Player" [ref=f8821e150]: 
+                - cell [ref=f8821e151]:
+                  - generic [ref=f8821e152]:
+                    - link "Steelers" [ref=f8821e153] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/pittsburgh/
+                    - text: Pit - DEF
+                    - heading "Free Agent" [level=6] [ref=f8821e154]
+                  - generic [ref=f8821e155]:
+                    - link "Colts" [ref=f8821e156] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/indianapolis/
+                    - text: Ind - DEF
+                    - heading "To Waivers" [level=6] [ref=f8821e157]
+                - cell "Vaqueros Dec 14, 10:07 am logo" [ref=f8821e158]:
+                  - generic [ref=f8821e159]:
+                    - generic [ref=f8821e160]:
+                      - link "Vaqueros" [ref=f8821e161] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e162]: Dec 14, 10:07 am
+                    - link [ref=f8821e163] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e164]
+              - row [ref=f8821e165]:
+                - cell " " [ref=f8821e166]:
+                  - generic "Added Player" [ref=f8821e167]: 
+                  - generic "Dropped Player" [ref=f8821e168]: 
+                - cell [ref=f8821e169]:
+                  - generic [ref=f8821e170]:
+                    - link "Kyle Pitts Sr." [ref=f8821e171] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33392
+                    - text: Atl - TE
+                    - heading "Free Agent" [level=6] [ref=f8821e172]
+                  - generic [ref=f8821e173]:
+                    - link "Hunter Henry" [ref=f8821e174] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29269
+                    - text: NE - TE
+                    - heading "To Waivers" [level=6] [ref=f8821e175]
+                - cell "Vaqueros Dec 7, 11:23 am logo" [ref=f8821e176]:
+                  - generic [ref=f8821e177]:
+                    - generic [ref=f8821e178]:
+                      - link "Vaqueros" [ref=f8821e179] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e180]: Dec 7, 11:23 am
+                    - link [ref=f8821e181] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e182]
+              - row [ref=f8821e183]:
+                - cell " " [ref=f8821e184]:
+                  - generic "Added Player" [ref=f8821e185]: 
+                  - generic "Dropped Player" [ref=f8821e186]: 
+                - cell [ref=f8821e187]:
+                  - generic [ref=f8821e188]:
+                    - link "Cowboys" [ref=f8821e189] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/dallas/
+                    - text: Dal - DEF
+                    - heading "Free Agent" [level=6] [ref=f8821e190]
+                  - generic [ref=f8821e191]:
+                    - link "Ka'imi Fairbairn" [ref=f8821e192] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29792
+                    - text: Hou - K
+                    - heading "To Waivers" [level=6] [ref=f8821e193]
+                - cell "Vaqueros Nov 13, 7:22 pm logo" [ref=f8821e194]:
+                  - generic [ref=f8821e195]:
+                    - generic [ref=f8821e196]:
+                      - link "Vaqueros" [ref=f8821e197] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e198]: Nov 13, 7:22 pm
+                    - link [ref=f8821e199] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e200]
+              - row [ref=f8821e201]:
+                - cell " " [ref=f8821e202]:
+                  - generic "Added Player" [ref=f8821e203]: 
+                  - generic "Dropped Player" [ref=f8821e204]: 
+                - cell [ref=f8821e205]:
+                  - generic [ref=f8821e206]:
+                    - link "Devin White" [ref=f8821e207] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31837
+                    - text: Det - LB
+                    - heading "Free Agent" [level=6] [ref=f8821e208]
+                  - generic [ref=f8821e209]:
+                    - link "Brian Burns" [ref=f8821e210] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31848
+                    - text: NYG - LB,DE
+                    - heading "To Waivers" [level=6] [ref=f8821e211]
+                - cell "Vaqueros Nov 6, 2:23 pm logo" [ref=f8821e212]:
+                  - generic [ref=f8821e213]:
+                    - generic [ref=f8821e214]:
+                      - link "Vaqueros" [ref=f8821e215] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e216]: Nov 6, 2:23 pm
+                    - link [ref=f8821e217] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e218]
+              - row [ref=f8821e219]:
+                - cell " " [ref=f8821e220]:
+                  - generic "Added Player" [ref=f8821e221]: 
+                  - generic "Dropped Player" [ref=f8821e222]: 
+                - cell [ref=f8821e223]:
+                  - generic [ref=f8821e224]:
+                    - link "Tyler Loop" [ref=f8821e225] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41988
+                    - text: Bal - K
+                    - heading "Free Agent" [level=6] [ref=f8821e226]
+                  - generic [ref=f8821e227]:
+                    - link "Cam Skattebo" [ref=f8821e228] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41922
+                    - text: NYG - RB Q
+                    - heading "To Waivers" [level=6] [ref=f8821e229]
+                - cell "Vaqueros Nov 6, 2:21 pm logo" [ref=f8821e230]:
+                  - generic [ref=f8821e231]:
+                    - generic [ref=f8821e232]:
+                      - link "Vaqueros" [ref=f8821e233] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e234]: Nov 6, 2:21 pm
+                    - link [ref=f8821e235] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e236]
+              - row [ref=f8821e237]:
+                - cell " " [ref=f8821e238]:
+                  - generic "Added Player" [ref=f8821e239]: 
+                  - generic "Dropped Player" [ref=f8821e240]: 
+                - cell [ref=f8821e241]:
+                  - generic [ref=f8821e242]:
+                    - link "Wan'Dale Robinson" [ref=f8821e243] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33998
+                    - text: Ten - WR Q
+                    - heading "Free Agent" [level=6] [ref=f8821e244]
+                  - generic [ref=f8821e245]:
+                    - link "Mac Jones" [ref=f8821e246] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33403
+                    - text: SF - QB Q
+                    - heading "To Waivers" [level=6] [ref=f8821e247]
+                - cell "Vaqueros Oct 30, 7:03 pm logo" [ref=f8821e248]:
+                  - generic [ref=f8821e249]:
+                    - generic [ref=f8821e250]:
+                      - link "Vaqueros" [ref=f8821e251] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e252]: Oct 30, 7:03 pm
+                    - link [ref=f8821e253] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e254]
+              - row [ref=f8821e255]:
+                - cell " " [ref=f8821e256]:
+                  - generic "Added Player" [ref=f8821e257]: 
+                  - generic "Dropped Player" [ref=f8821e258]: 
+                - cell [ref=f8821e259]:
+                  - generic [ref=f8821e260]:
+                    - link "Jack Campbell" [ref=f8821e261] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40036
+                    - text: Det - LB
+                    - heading "Free Agent" [level=6] [ref=f8821e262]
+                  - generic [ref=f8821e263]:
+                    - link "Zack Baun" [ref=f8821e264] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32744
+                    - text: Phi - LB
+                    - heading "To Waivers" [level=6] [ref=f8821e265]
+                - cell "Vaqueros Oct 30, 7:01 pm logo" [ref=f8821e266]:
+                  - generic [ref=f8821e267]:
+                    - generic [ref=f8821e268]:
+                      - link "Vaqueros" [ref=f8821e269] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e270]: Oct 30, 7:01 pm
+                    - link [ref=f8821e271] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e272]
+              - row [ref=f8821e273]:
+                - cell " " [ref=f8821e274]:
+                  - generic "Added Player" [ref=f8821e275]: 
+                  - generic "Dropped Player" [ref=f8821e276]: 
+                - cell [ref=f8821e277]:
+                  - generic [ref=f8821e278]:
+                    - link "Hunter Henry" [ref=f8821e279] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29269
+                    - text: NE - TE
+                    - heading "Free Agent" [level=6] [ref=f8821e280]
+                  - generic [ref=f8821e281]:
+                    - link "Cade Otton" [ref=f8821e282] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34062
+                    - text: TB - TE
+                    - heading "To Waivers" [level=6] [ref=f8821e283]
+                - cell "Vaqueros Oct 30, 7:00 pm logo" [ref=f8821e284]:
+                  - generic [ref=f8821e285]:
+                    - generic [ref=f8821e286]:
+                      - link "Vaqueros" [ref=f8821e287] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e288]: Oct 30, 7:00 pm
+                    - link [ref=f8821e289] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e290]
+              - row [ref=f8821e291]:
+                - cell " " [ref=f8821e292]:
+                  - generic "Added Player" [ref=f8821e293]: 
+                  - generic "Dropped Player" [ref=f8821e294]: 
+                - cell [ref=f8821e295]:
+                  - generic [ref=f8821e296]:
+                    - link "Ka'imi Fairbairn" [ref=f8821e297] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29792
+                    - text: Hou - K
+                    - heading "Free Agent" [level=6] [ref=f8821e298]
+                  - generic [ref=f8821e299]:
+                    - link "Matt Gay" [ref=f8821e300] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31977
+                    - text: LV - K
+                    - heading "To Waivers" [level=6] [ref=f8821e301]
+                - cell "Vaqueros Oct 30, 6:56 pm logo" [ref=f8821e302]:
+                  - generic [ref=f8821e303]:
+                    - generic [ref=f8821e304]:
+                      - link "Vaqueros" [ref=f8821e305] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e306]: Oct 30, 6:56 pm
+                    - link [ref=f8821e307] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e308]
+              - row [ref=f8821e309]:
+                - cell " " [ref=f8821e310]:
+                  - generic "Added Player" [ref=f8821e311]: 
+                  - generic "Dropped Player" [ref=f8821e312]: 
+                - cell [ref=f8821e313]:
+                  - generic [ref=f8821e314]:
+                    - link "Brian Burns" [ref=f8821e315] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31848
+                    - text: NYG - LB,DE
+                    - heading "Free Agent" [level=6] [ref=f8821e316]
+                  - generic [ref=f8821e317]:
+                    - link "Maxx Crosby" [ref=f8821e318] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31938
+                    - text: LV - DE Q
+                    - heading "To Waivers" [level=6] [ref=f8821e319]
+                - cell "Vaqueros Oct 23, 5:36 pm logo" [ref=f8821e320]:
+                  - generic [ref=f8821e321]:
+                    - generic [ref=f8821e322]:
+                      - link "Vaqueros" [ref=f8821e323] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e324]: Oct 23, 5:36 pm
+                    - link [ref=f8821e325] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e326]
+              - row [ref=f8821e327]:
+                - cell " " [ref=f8821e328]:
+                  - generic "Added Player" [ref=f8821e329]: 
+                  - generic "Dropped Player" [ref=f8821e330]: 
+                - cell [ref=f8821e331]:
+                  - generic [ref=f8821e332]:
+                    - link "Cade Otton" [ref=f8821e333] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34062
+                    - text: TB - TE
+                    - heading "Free Agent" [level=6] [ref=f8821e334]
+                  - generic [ref=f8821e335]:
+                    - link "Sam LaPorta" [ref=f8821e336] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40064
+                    - text: Det - TE Q
+                    - heading "To Waivers" [level=6] [ref=f8821e337]
+                - cell "Vaqueros Oct 23, 5:35 pm logo" [ref=f8821e338]:
+                  - generic [ref=f8821e339]:
+                    - generic [ref=f8821e340]:
+                      - link "Vaqueros" [ref=f8821e341] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e342]: Oct 23, 5:35 pm
+                    - link [ref=f8821e343] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e344]
+              - row [ref=f8821e345]:
+                - cell " " [ref=f8821e346]:
+                  - generic "Added Player" [ref=f8821e347]: 
+                  - generic "Dropped Player" [ref=f8821e348]: 
+                - cell [ref=f8821e349]:
+                  - generic [ref=f8821e350]:
+                    - link "Mac Jones" [ref=f8821e351] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33403
+                    - text: SF - QB Q
+                    - heading "Free Agent" [level=6] [ref=f8821e352]
+                  - generic [ref=f8821e353]:
+                    - link "Dylan Sampson" [ref=f8821e354] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41907
+                    - text: Cle - RB NA
+                    - heading "To Waivers" [level=6] [ref=f8821e355]
+                - cell "Vaqueros Oct 19, 12:21 pm logo" [ref=f8821e356]:
+                  - generic [ref=f8821e357]:
+                    - generic [ref=f8821e358]:
+                      - link "Vaqueros" [ref=f8821e359] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e360]: Oct 19, 12:21 pm
+                    - link [ref=f8821e361] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e362]
+              - row [ref=f8821e363]:
+                - cell " " [ref=f8821e364]:
+                  - generic "Added Player" [ref=f8821e365]: 
+                  - generic "Dropped Player" [ref=f8821e366]: 
+                - cell [ref=f8821e367]:
+                  - generic [ref=f8821e368]:
+                    - link "Rashid Shaheed" [ref=f8821e369] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34659
+                    - text: Sea - WR
+                    - heading "Free Agent" [level=6] [ref=f8821e370]
+                  - generic [ref=f8821e371]:
+                    - link "Kaleb Johnson" [ref=f8821e372] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41881
+                    - text: GB - RB
+                    - heading "To Waivers" [level=6] [ref=f8821e373]
+                - cell "Vaqueros Oct 9, 9:30 pm logo" [ref=f8821e374]:
+                  - generic [ref=f8821e375]:
+                    - generic [ref=f8821e376]:
+                      - link "Vaqueros" [ref=f8821e377] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e378]: Oct 9, 9:30 pm
+                    - link [ref=f8821e379] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e380]
+              - row [ref=f8821e381]:
+                - cell " " [ref=f8821e382]:
+                  - generic "Added Player" [ref=f8821e383]: 
+                  - generic "Dropped Player" [ref=f8821e384]: 
+                - cell [ref=f8821e385]:
+                  - generic [ref=f8821e386]:
+                    - link "Matt Gay" [ref=f8821e387] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31977
+                    - text: LV - K
+                    - heading "Free Agent" [level=6] [ref=f8821e388]
+                  - generic [ref=f8821e389]:
+                    - link "Ka'imi Fairbairn" [ref=f8821e390] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29792
+                    - text: Hou - K
+                    - heading "To Waivers" [level=6] [ref=f8821e391]
+                - cell "Vaqueros Oct 9, 9:29 pm logo" [ref=f8821e392]:
+                  - generic [ref=f8821e393]:
+                    - generic [ref=f8821e394]:
+                      - link "Vaqueros" [ref=f8821e395] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e396]: Oct 9, 9:29 pm
+                    - link [ref=f8821e397] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e398]
+              - row [ref=f8821e399]:
+                - cell " " [ref=f8821e400]:
+                  - generic "Added Player" [ref=f8821e401]: 
+                  - generic "Dropped Player" [ref=f8821e402]: 
+                - cell [ref=f8821e403]:
+                  - generic [ref=f8821e404]:
+                    - link "Colts" [ref=f8821e405] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/indianapolis/
+                    - text: Ind - DEF
+                    - heading "Free Agent" [level=6] [ref=f8821e406]
+                  - generic [ref=f8821e407]:
+                    - link "Steelers" [ref=f8821e408] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/pittsburgh/
+                    - text: Pit - DEF
+                    - heading "To Waivers" [level=6] [ref=f8821e409]
+                - cell "Vaqueros Oct 2, 6:30 pm logo" [ref=f8821e410]:
+                  - generic [ref=f8821e411]:
+                    - generic [ref=f8821e412]:
+                      - link "Vaqueros" [ref=f8821e413] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e414]: Oct 2, 6:30 pm
+                    - link [ref=f8821e415] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e416]
+              - row [ref=f8821e417]:
+                - cell " " [ref=f8821e418]:
+                  - generic "Added Player" [ref=f8821e419]: 
+                  - generic "Dropped Player" [ref=f8821e420]: 
+                - cell [ref=f8821e421]:
+                  - generic [ref=f8821e422]:
+                    - link "Dylan Sampson" [ref=f8821e423] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41907
+                    - text: Cle - RB NA
+                    - heading "Free Agent" [level=6] [ref=f8821e424]
+                  - generic [ref=f8821e425]:
+                    - link "Tank Bigsby" [ref=f8821e426] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40095
+                    - text: Phi - RB
+                    - heading "To Waivers" [level=6] [ref=f8821e427]
+                - cell "Vaqueros Sep 20, 10:12 pm logo" [ref=f8821e428]:
+                  - generic [ref=f8821e429]:
+                    - generic [ref=f8821e430]:
+                      - link "Vaqueros" [ref=f8821e431] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2025/f1/117956/8
+                      - generic [ref=f8821e432]: Sep 20, 10:12 pm
+                    - link [ref=f8821e433] [cursor=pointer]:
+                      - /url: /2025/f1/117956/8
+                      - img "logo" [ref=f8821e434]
+    - contentinfo [ref=f8821e436]:
+      - iframe [ref=f8821e467]:
+        - insertion [ref=f8838e3]:
+          - iframe [ref=f8838e4]:
+            - iframe [ref=f8854e4]
+      - generic [ref=f8821e443]:
+        - list [ref=f8821e444]:
+          - listitem [ref=f8821e445]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f8821e446]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f8821e447] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f8821e448]:
+            - text: "-"
+            - link "Feedback" [ref=f8821e449] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f8821e450]:
+            - text: "-"
+            - link "Terms" [ref=f8821e451] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f8821e452] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f8821e453]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f8821e454] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f8821e455]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f8821e456] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f8821e457]:
+            - text: "-"
+            - link "About Our Ads" [ref=f8821e458] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f8821e459]:
+            - text: "-"
+            - link "Help" [ref=f8821e460] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f8821e461]: Certain Data by Sportradar, Rotowire, FTN, BAKER Engine and THE BLITZ
+        - paragraph [ref=f8821e462]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f8821e463]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

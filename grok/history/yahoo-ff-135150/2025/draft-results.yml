@@ -1,0 +1,1157 @@
+- generic [ref=f8699e3]:
+  - generic [ref=f8699e6]:
+    - banner [ref=f8699e8]:
+      - generic [ref=f8699e9]:
+        - generic [ref=f8699e11]:
+          - generic [ref=f8699e12]:
+            - generic [ref=f8699e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f8699e14]
+              - link "Yahoo Sports" [ref=f8699e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f8699e20]:
+              - generic [ref=f8699e21]: Search query
+              - combobox "Search query" [ref=f8699e22]
+              - button "Search" [ref=f8699e24] [cursor=pointer]
+          - navigation [ref=f8699e28]:
+            - list [ref=f8699e29]:
+              - listitem [ref=f8699e30]:
+                - link "News" [ref=f8699e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f8699e32]:
+                - link "Finance" [ref=f8699e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f8699e34]:
+                - link "Sports" [ref=f8699e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f8699e36]:
+                - button "More" [ref=f8699e37] [cursor=pointer]
+          - toolbar [ref=f8699e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f8699e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f8699e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f8699e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f8699e55]:
+          - link "Fantasy Football" [ref=f8699e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f8699e60] [cursor=pointer]:
+            - /url: /2025/f1/117956
+          - link "League" [ref=f8699e61] [cursor=pointer]:
+            - /url: /2025/f1/117956
+          - link "My Team" [ref=f8699e62] [cursor=pointer]:
+            - /url: /2025/f1/117956/8
+          - link "Matchups" [ref=f8699e63] [cursor=pointer]:
+            - /url: /2025/f1/117956/matchup
+          - link "Players" [ref=f8699e64] [cursor=pointer]:
+            - /url: /2025/f1/117956/players
+          - link "Draft Results" [ref=f8699e65] [cursor=pointer]:
+            - /url: /2025/f1/117956/draftresults
+          - list [ref=f8699e68]:
+            - listitem [ref=f8699e69]:
+              - link [ref=f8699e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f8699e79]:
+              - link [ref=f8699e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f8699e89]:
+              - link "Get Fantasy Plus" [ref=f8699e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f8699e97]: 8Deep (ID# 117956)
+  - generic [ref=f8699e101]:
+    - banner [ref=f8699e102]:
+      - generic [ref=f8699e103]:
+        - heading [level=2] [ref=f8699e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f8699e106] [cursor=pointer]:
+            - /url: /2025/f1
+        - iframe [ref=f8699e1142]:
+          - insertion [ref=f8712e3]:
+            - iframe [ref=f8712e4]:
+              - iframe [ref=f8713e4]
+        - link [ref=f8699e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f8699e113]
+    - generic [ref=f8699e118]:
+      - heading "Draft Results" [level=1] [ref=f8699e122]
+      - generic [ref=f8699e124]:
+        - generic [ref=f8699e125]:
+          - combobox [ref=f8699e126]:
+            - option "2025 draft order" [selected]
+            - option "2024 season draft results"
+          - list [ref=f8699e128]:
+            - listitem [ref=f8699e129]:
+              - link "Round" [ref=f8699e130] [cursor=pointer]:
+                - /url: /2025/f1/117956/draftresults?drafttab=round&draft_results_period=current
+            - listitem [ref=f8699e131]:
+              - link "Team" [ref=f8699e132] [cursor=pointer]:
+                - /url: /2025/f1/117956/draftresults?drafttab=team&draft_results_period=current
+        - generic [ref=f8699e133]:
+          - generic [ref=f8699e134]:
+            - table [ref=f8699e136]:
+              - rowgroup [ref=f8699e141]:
+                - row [ref=f8699e142]:
+                  - columnheader "Round 1" [ref=f8699e143]
+              - rowgroup [ref=f8699e144]:
+                - row [ref=f8699e145]:
+                  - cell "1." [ref=f8699e146]
+                  - cell [ref=f8699e147]:
+                    - link "Christian McCaffrey" [ref=f8699e148] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30121
+                  - cell "12 PACK SUNDAY" [ref=f8699e149]
+                - row [ref=f8699e150]:
+                  - cell "2." [ref=f8699e151]
+                  - cell [ref=f8699e152]:
+                    - link "Saquon Barkley" [ref=f8699e153] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30972
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e154]
+                - row [ref=f8699e155]:
+                  - cell "3." [ref=f8699e156]
+                  - cell [ref=f8699e157]:
+                    - link "Ja'Marr Chase" [ref=f8699e158] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33393
+                  - cell "Koo Fighters" [ref=f8699e159]
+                - row [ref=f8699e160]:
+                  - cell "4." [ref=f8699e161]
+                  - cell [ref=f8699e162]:
+                    - link "Lamar Jackson" [ref=f8699e163] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31002
+                  - cell "Sunday School" [ref=f8699e164]
+                - row [ref=f8699e165]:
+                  - cell "5." [ref=f8699e166]
+                  - cell [ref=f8699e167]:
+                    - link "Bijan Robinson" [ref=f8699e168] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40055
+                  - cell "Built for Speed" [ref=f8699e169]
+                - row [ref=f8699e170]:
+                  - cell "6." [ref=f8699e171]
+                  - cell [ref=f8699e172]:
+                    - link "Jahmyr Gibbs" [ref=f8699e173] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40059
+                  - cell "The Show Stoppers" [ref=f8699e174]
+                - row [ref=f8699e175]:
+                  - cell "7." [ref=f8699e176]
+                  - cell [ref=f8699e177]:
+                    - link "Bo Nix" [ref=f8699e178] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40875
+                  - cell "Trophy Kid" [ref=f8699e179]
+                - row [ref=f8699e180]:
+                  - cell "8." [ref=f8699e181]
+                  - cell [ref=f8699e182]:
+                    - link "Josh Allen" [ref=f8699e183] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30977
+                  - cell "Vaqueros" [ref=f8699e184]
+            - table [ref=f8699e186]:
+              - rowgroup [ref=f8699e191]:
+                - row [ref=f8699e192]:
+                  - columnheader "Round 2" [ref=f8699e193]
+              - rowgroup [ref=f8699e194]:
+                - row [ref=f8699e195]:
+                  - cell "1." [ref=f8699e196]
+                  - cell [ref=f8699e197]:
+                    - link "Derrick Henry" [ref=f8699e198] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29279
+                  - cell "Vaqueros" [ref=f8699e199]
+                - row [ref=f8699e200]:
+                  - cell "2." [ref=f8699e201]
+                  - cell [ref=f8699e202]:
+                    - link "Baker Mayfield" [ref=f8699e203] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30971
+                  - cell "Trophy Kid" [ref=f8699e204]
+                - row [ref=f8699e205]:
+                  - cell "3." [ref=f8699e206]
+                  - cell [ref=f8699e207]:
+                    - link "Malik Nabers" [ref=f8699e208] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40899
+                  - cell "The Show Stoppers" [ref=f8699e209]
+                - row [ref=f8699e210]:
+                  - cell "4." [ref=f8699e211]
+                  - cell [ref=f8699e212]:
+                    - link "De'Von Achane" [ref=f8699e213] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40118
+                  - cell "Built for Speed" [ref=f8699e214]
+                - row [ref=f8699e215]:
+                  - cell "5." [ref=f8699e216]
+                  - cell [ref=f8699e217]:
+                    - link "Jalen Hurts" [ref=f8699e218] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32723
+                  - cell "Sunday School" [ref=f8699e219]
+                - row [ref=f8699e220]:
+                  - cell "6." [ref=f8699e221]
+                  - cell [ref=f8699e222]:
+                    - link "Jayden Daniels" [ref=f8699e223] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40896
+                  - cell "Koo Fighters" [ref=f8699e224]
+                - row [ref=f8699e225]:
+                  - cell "7." [ref=f8699e226]
+                  - cell [ref=f8699e227]:
+                    - link "Nico Collins" [ref=f8699e228] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33477
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e229]
+                - row [ref=f8699e230]:
+                  - cell "8." [ref=f8699e231]
+                  - cell [ref=f8699e232]:
+                    - link "Ashton Jeanty" [ref=f8699e233] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41791
+                  - cell "12 PACK SUNDAY" [ref=f8699e234]
+            - table [ref=f8699e236]:
+              - rowgroup [ref=f8699e241]:
+                - row [ref=f8699e242]:
+                  - columnheader "Round 3" [ref=f8699e243]
+              - rowgroup [ref=f8699e244]:
+                - row [ref=f8699e245]:
+                  - cell "1." [ref=f8699e246]
+                  - cell [ref=f8699e247]:
+                    - link "Travis Hunter" [ref=f8699e248] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41787
+                  - cell "12 PACK SUNDAY" [ref=f8699e249]
+                - row [ref=f8699e250]:
+                  - cell "2." [ref=f8699e251]
+                  - cell [ref=f8699e252]:
+                    - link "Brian Thomas Jr." [ref=f8699e253] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40883
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e254]
+                - row [ref=f8699e255]:
+                  - cell "3." [ref=f8699e256]
+                  - cell [ref=f8699e257]:
+                    - link "Joe Burrow" [ref=f8699e258] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32671
+                  - cell "Koo Fighters" [ref=f8699e259]
+                - row [ref=f8699e260]:
+                  - cell "4." [ref=f8699e261]
+                  - cell [ref=f8699e262]:
+                    - link "Chase Brown" [ref=f8699e263] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40196
+                  - cell "Sunday School" [ref=f8699e264]
+                - row [ref=f8699e265]:
+                  - cell "5." [ref=f8699e266]
+                  - cell [ref=f8699e267]:
+                    - link "Amon-Ra St. Brown" [ref=f8699e268] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33500
+                  - cell "Built for Speed" [ref=f8699e269]
+                - row [ref=f8699e270]:
+                  - cell "6." [ref=f8699e271]
+                  - cell [ref=f8699e272]:
+                    - link "Drake London" [ref=f8699e273] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33963
+                  - cell "The Show Stoppers" [ref=f8699e274]
+                - row [ref=f8699e275]:
+                  - cell "7." [ref=f8699e276]
+                  - cell [ref=f8699e277]:
+                    - link "Alvin Kamara" [ref=f8699e278] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30180
+                  - cell "Trophy Kid" [ref=f8699e279]
+                - row [ref=f8699e280]:
+                  - cell "8." [ref=f8699e281]
+                  - cell [ref=f8699e282]:
+                    - link "Patrick Mahomes" [ref=f8699e283] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30123
+                  - cell "Vaqueros" [ref=f8699e284]
+          - generic [ref=f8699e285]:
+            - table [ref=f8699e287]:
+              - rowgroup [ref=f8699e292]:
+                - row [ref=f8699e293]:
+                  - columnheader "Round 4" [ref=f8699e294]
+              - rowgroup [ref=f8699e295]:
+                - row [ref=f8699e296]:
+                  - cell "1." [ref=f8699e297]
+                  - cell [ref=f8699e298]:
+                    - link "A.J. Brown" [ref=f8699e299] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31883
+                  - cell "Vaqueros" [ref=f8699e300]
+                - row [ref=f8699e301]:
+                  - cell "2." [ref=f8699e302]
+                  - cell [ref=f8699e303]:
+                    - link "Kenneth Walker III" [ref=f8699e304] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33996
+                  - cell "Trophy Kid" [ref=f8699e305]
+                - row [ref=f8699e306]:
+                  - cell "3." [ref=f8699e307]
+                  - cell [ref=f8699e308]:
+                    - link "Ladd McConkey" [ref=f8699e309] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40908
+                  - cell "The Show Stoppers" [ref=f8699e310]
+                - row [ref=f8699e311]:
+                  - cell "4." [ref=f8699e312]
+                  - cell [ref=f8699e313]:
+                    - link "Brock Bowers" [ref=f8699e314] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40878
+                  - cell "Built for Speed" [ref=f8699e315]
+                - row [ref=f8699e316]:
+                  - cell "5." [ref=f8699e317]
+                  - cell [ref=f8699e318]:
+                    - link "TreVeyon Henderson" [ref=f8699e319] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41823
+                  - cell "Sunday School" [ref=f8699e320]
+                - row [ref=f8699e321]:
+                  - cell "6." [ref=f8699e322]
+                  - cell [ref=f8699e323]:
+                    - link "Josh Jacobs" [ref=f8699e324] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31856
+                  - cell "Koo Fighters" [ref=f8699e325]
+                - row [ref=f8699e326]:
+                  - cell "7." [ref=f8699e327]
+                  - cell [ref=f8699e328]:
+                    - link "Jonathan Taylor" [ref=f8699e329] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32711
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e330]
+                - row [ref=f8699e331]:
+                  - cell "8." [ref=f8699e332]
+                  - cell [ref=f8699e333]:
+                    - link "Tyreek Hill" [ref=f8699e334] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29399
+                  - cell "12 PACK SUNDAY" [ref=f8699e335]
+            - table [ref=f8699e337]:
+              - rowgroup [ref=f8699e342]:
+                - row [ref=f8699e343]:
+                  - columnheader "Round 5" [ref=f8699e344]
+              - rowgroup [ref=f8699e345]:
+                - row [ref=f8699e346]:
+                  - cell "1." [ref=f8699e347]
+                  - cell [ref=f8699e348]:
+                    - link "Mike Evans" [ref=f8699e349] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27535
+                  - cell "12 PACK SUNDAY" [ref=f8699e350]
+                - row [ref=f8699e351]:
+                  - cell "2." [ref=f8699e352]
+                  - cell [ref=f8699e353]:
+                    - link "George Kittle" [ref=f8699e354] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30259
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e355]
+                - row [ref=f8699e356]:
+                  - cell "3." [ref=f8699e357]
+                  - cell [ref=f8699e358]:
+                    - link "Bucky Irving" [ref=f8699e359] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40993
+                  - cell "Koo Fighters" [ref=f8699e360]
+                - row [ref=f8699e361]:
+                  - cell "4." [ref=f8699e362]
+                  - cell [ref=f8699e363]:
+                    - link "Justin Jefferson" [ref=f8699e364] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32692
+                  - cell "Sunday School" [ref=f8699e365]
+                - row [ref=f8699e366]:
+                  - cell "5." [ref=f8699e367]
+                  - cell [ref=f8699e368]:
+                    - link "Jaxon Smith-Njigba" [ref=f8699e369] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40041
+                  - cell "Built for Speed" [ref=f8699e370]
+                - row [ref=f8699e371]:
+                  - cell "6." [ref=f8699e372]
+                  - cell [ref=f8699e373]:
+                    - link "Kyren Williams" [ref=f8699e374] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34120
+                  - cell "The Show Stoppers" [ref=f8699e375]
+                - row [ref=f8699e376]:
+                  - cell "7." [ref=f8699e377]
+                  - cell [ref=f8699e378]:
+                    - link "CeeDee Lamb" [ref=f8699e379] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32687
+                  - cell "Trophy Kid" [ref=f8699e380]
+                - row [ref=f8699e381]:
+                  - cell "8." [ref=f8699e382]
+                  - cell [ref=f8699e383]:
+                    - link "Omarion Hampton" [ref=f8699e384] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41807
+                  - cell "Vaqueros" [ref=f8699e385]
+            - table [ref=f8699e387]:
+              - rowgroup [ref=f8699e392]:
+                - row [ref=f8699e393]:
+                  - columnheader "Round 6" [ref=f8699e394]
+              - rowgroup [ref=f8699e395]:
+                - row [ref=f8699e396]:
+                  - cell "1." [ref=f8699e397]
+                  - cell [ref=f8699e398]:
+                    - link "DJ Moore" [ref=f8699e399] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30994
+                  - cell "Vaqueros" [ref=f8699e400]
+                - row [ref=f8699e401]:
+                  - cell "2." [ref=f8699e402]
+                  - cell [ref=f8699e403]:
+                    - link "Puka Nacua" [ref=f8699e404] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40168
+                  - cell "Trophy Kid" [ref=f8699e405]
+                - row [ref=f8699e406]:
+                  - cell "3." [ref=f8699e407]
+                  - cell [ref=f8699e408]:
+                    - link "Justin Herbert" [ref=f8699e409] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32676
+                  - cell "The Show Stoppers" [ref=f8699e410]
+                - row [ref=f8699e411]:
+                  - cell "4." [ref=f8699e412]
+                  - cell [ref=f8699e413]:
+                    - link "Breece Hall" [ref=f8699e414] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33991
+                  - cell "Built for Speed" [ref=f8699e415]
+                - row [ref=f8699e416]:
+                  - cell "5." [ref=f8699e417]
+                  - cell [ref=f8699e418]:
+                    - link "DeVonta Smith" [ref=f8699e419] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33398
+                  - cell "Sunday School" [ref=f8699e420]
+                - row [ref=f8699e421]:
+                  - cell "6." [ref=f8699e422]
+                  - cell [ref=f8699e423]:
+                    - link "Garrett Wilson" [ref=f8699e424] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33965
+                  - cell "Koo Fighters" [ref=f8699e425]
+                - row [ref=f8699e426]:
+                  - cell "7." [ref=f8699e427]
+                  - cell [ref=f8699e428]:
+                    - link "Tee Higgins" [ref=f8699e429] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32703
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e430]
+                - row [ref=f8699e431]:
+                  - cell "8." [ref=f8699e432]
+                  - cell [ref=f8699e433]:
+                    - link "James Cook III" [ref=f8699e434] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34019
+                  - cell "12 PACK SUNDAY" [ref=f8699e435]
+          - generic [ref=f8699e436]:
+            - table [ref=f8699e438]:
+              - rowgroup [ref=f8699e443]:
+                - row [ref=f8699e444]:
+                  - columnheader "Round 7" [ref=f8699e445]
+              - rowgroup [ref=f8699e446]:
+                - row [ref=f8699e447]:
+                  - cell "1." [ref=f8699e448]
+                  - cell [ref=f8699e449]:
+                    - link "Marvin Harrison Jr." [ref=f8699e450] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40893
+                  - cell "12 PACK SUNDAY" [ref=f8699e451]
+                - row [ref=f8699e452]:
+                  - cell "2." [ref=f8699e453]
+                  - cell [ref=f8699e454]:
+                    - link "Dak Prescott" [ref=f8699e455] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29369
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e456]
+                - row [ref=f8699e457]:
+                  - cell "3." [ref=f8699e458]
+                  - cell [ref=f8699e459]:
+                    - link "James Conner" [ref=f8699e460] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30218
+                  - cell "Koo Fighters" [ref=f8699e461]
+                - row [ref=f8699e462]:
+                  - cell "4." [ref=f8699e463]
+                  - cell [ref=f8699e464]:
+                    - link "Trey McBride" [ref=f8699e465] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34010
+                  - cell "Sunday School" [ref=f8699e466]
+                - row [ref=f8699e467]:
+                  - cell "5." [ref=f8699e468]
+                  - cell [ref=f8699e469]:
+                    - link "Kyler Murray" [ref=f8699e470] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31833
+                  - cell "Built for Speed" [ref=f8699e471]
+                - row [ref=f8699e472]:
+                  - cell "6." [ref=f8699e473]
+                  - cell [ref=f8699e474]:
+                    - link "Calvin Ridley" [ref=f8699e475] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30996
+                  - cell "The Show Stoppers" [ref=f8699e476]
+                - row [ref=f8699e477]:
+                  - cell "7." [ref=f8699e478]
+                  - cell [ref=f8699e479]:
+                    - link "Mark Andrews" [ref=f8699e480] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31056
+                  - cell "Trophy Kid" [ref=f8699e481]
+                - row [ref=f8699e482]:
+                  - cell "8." [ref=f8699e483]
+                  - cell [ref=f8699e484]:
+                    - link "Tetairoa McMillan" [ref=f8699e485] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41793
+                  - cell "Vaqueros" [ref=f8699e486]
+            - table [ref=f8699e488]:
+              - rowgroup [ref=f8699e493]:
+                - row [ref=f8699e494]:
+                  - columnheader "Round 8" [ref=f8699e495]
+              - rowgroup [ref=f8699e496]:
+                - row [ref=f8699e497]:
+                  - cell "1." [ref=f8699e498]
+                  - cell [ref=f8699e499]:
+                    - link "D'Andre Swift" [ref=f8699e500] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32705
+                  - cell "Vaqueros" [ref=f8699e501]
+                - row [ref=f8699e502]:
+                  - cell "2." [ref=f8699e503]
+                  - cell [ref=f8699e504]:
+                    - link "DK Metcalf" [ref=f8699e505] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31896
+                  - cell "Trophy Kid" [ref=f8699e506]
+                - row [ref=f8699e507]:
+                  - cell "3." [ref=f8699e508]
+                  - cell [ref=f8699e509]:
+                    - link "Tony Pollard" [ref=f8699e510] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31960
+                  - cell "The Show Stoppers" [ref=f8699e511]
+                - row [ref=f8699e512]:
+                  - cell "4." [ref=f8699e513]
+                  - cell [ref=f8699e514]:
+                    - link "Terry McLaurin" [ref=f8699e515] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31908
+                  - cell "Built for Speed" [ref=f8699e516]
+                - row [ref=f8699e517]:
+                  - cell "5." [ref=f8699e518]
+                  - cell [ref=f8699e519]:
+                    - link "Xavier Worthy" [ref=f8699e520] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40877
+                  - cell "Sunday School" [ref=f8699e521]
+                - row [ref=f8699e522]:
+                  - cell "6." [ref=f8699e523]
+                  - cell [ref=f8699e524]:
+                    - link "Davante Adams" [ref=f8699e525] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27581
+                  - cell "Koo Fighters" [ref=f8699e526]
+                - row [ref=f8699e527]:
+                  - cell "7." [ref=f8699e528]
+                  - cell [ref=f8699e529]:
+                    - link "Justin Fields" [ref=f8699e530] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33399
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e531]
+                - row [ref=f8699e532]:
+                  - cell "8." [ref=f8699e533]
+                  - cell [ref=f8699e534]:
+                    - link "Aaron Jones Sr." [ref=f8699e535] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30295
+                  - cell "12 PACK SUNDAY" [ref=f8699e536]
+            - table [ref=f8699e538]:
+              - rowgroup [ref=f8699e543]:
+                - row [ref=f8699e544]:
+                  - columnheader "Round 9" [ref=f8699e545]
+              - rowgroup [ref=f8699e546]:
+                - row [ref=f8699e547]:
+                  - cell "1." [ref=f8699e548]
+                  - cell [ref=f8699e549]:
+                    - link "Zay Flowers" [ref=f8699e550] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40039
+                  - cell "12 PACK SUNDAY" [ref=f8699e551]
+                - row [ref=f8699e552]:
+                  - cell "2." [ref=f8699e553]
+                  - cell [ref=f8699e554]:
+                    - link "Isiah Pacheco" [ref=f8699e555] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34207
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e556]
+                - row [ref=f8699e557]:
+                  - cell "3." [ref=f8699e558]
+                  - cell [ref=f8699e559]:
+                    - link "Courtland Sutton" [ref=f8699e560] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31010
+                  - cell "Koo Fighters" [ref=f8699e561]
+                - row [ref=f8699e562]:
+                  - cell "4." [ref=f8699e563]
+                  - cell [ref=f8699e564]:
+                    - link "RJ Harvey" [ref=f8699e565] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41845
+                  - cell "Sunday School" [ref=f8699e566]
+                - row [ref=f8699e567]:
+                  - cell "5." [ref=f8699e568]
+                  - cell [ref=f8699e569]:
+                    - link "Jared Goff" [ref=f8699e570] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29235
+                  - cell "Built for Speed" [ref=f8699e571]
+                - row [ref=f8699e572]:
+                  - cell "6." [ref=f8699e573]
+                  - cell [ref=f8699e574]:
+                    - link "Cam Ward" [ref=f8699e575] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41786
+                  - cell "The Show Stoppers" [ref=f8699e576]
+                - row [ref=f8699e577]:
+                  - cell "7." [ref=f8699e578]
+                  - cell [ref=f8699e579]:
+                    - link "Chuba Hubbard" [ref=f8699e580] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33514
+                  - cell "Trophy Kid" [ref=f8699e581]
+                - row [ref=f8699e582]:
+                  - cell "8." [ref=f8699e583]
+                  - cell [ref=f8699e584]:
+                    - link "Kaleb Johnson" [ref=f8699e585] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41881
+                  - cell "Vaqueros" [ref=f8699e586]
+          - generic [ref=f8699e587]:
+            - table [ref=f8699e589]:
+              - rowgroup [ref=f8699e594]:
+                - row [ref=f8699e595]:
+                  - columnheader "Round 10" [ref=f8699e596]
+              - rowgroup [ref=f8699e597]:
+                - row [ref=f8699e598]:
+                  - cell "1." [ref=f8699e599]
+                  - cell [ref=f8699e600]:
+                    - link "Sam LaPorta" [ref=f8699e601] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40064
+                  - cell "Vaqueros" [ref=f8699e602]
+                - row [ref=f8699e603]:
+                  - cell "2." [ref=f8699e604]
+                  - cell [ref=f8699e605]:
+                    - link "Brandon Aubrey" [ref=f8699e606] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40819
+                  - cell "Trophy Kid" [ref=f8699e607]
+                - row [ref=f8699e608]:
+                  - cell "3." [ref=f8699e609]
+                  - cell [ref=f8699e610]:
+                    - link "C.J. Stroud" [ref=f8699e611] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40030
+                  - cell "The Show Stoppers" [ref=f8699e612]
+                - row [ref=f8699e613]:
+                  - cell "4." [ref=f8699e614]
+                  - cell [ref=f8699e615]:
+                    - link "Jerry Jeudy" [ref=f8699e616] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32685
+                  - cell "Built for Speed" [ref=f8699e617]
+                - row [ref=f8699e618]:
+                  - cell "5." [ref=f8699e619]
+                  - cell [ref=f8699e620]:
+                    - link "Harrison Butker" [ref=f8699e621] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30346
+                  - cell "Sunday School" [ref=f8699e622]
+                - row [ref=f8699e623]:
+                  - cell "6." [ref=f8699e624]
+                  - cell [ref=f8699e625]:
+                    - link "Ricky Pearsall" [ref=f8699e626] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40892
+                  - cell "Koo Fighters" [ref=f8699e627]
+                - row [ref=f8699e628]:
+                  - cell "7." [ref=f8699e629]
+                  - cell [ref=f8699e630]:
+                    - link "Jameson Williams" [ref=f8699e631] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33967
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e632]
+                - row [ref=f8699e633]:
+                  - cell "8." [ref=f8699e634]
+                  - cell [ref=f8699e635]:
+                    - link "Joe Mixon" [ref=f8699e636] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30161
+                  - cell "12 PACK SUNDAY" [ref=f8699e637]
+            - table [ref=f8699e639]:
+              - rowgroup [ref=f8699e644]:
+                - row [ref=f8699e645]:
+                  - columnheader "Round 11" [ref=f8699e646]
+              - rowgroup [ref=f8699e647]:
+                - row [ref=f8699e648]:
+                  - cell "1." [ref=f8699e649]
+                  - cell [ref=f8699e650]:
+                    - link "Brock Purdy" [ref=f8699e651] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34218
+                  - cell "12 PACK SUNDAY" [ref=f8699e652]
+                - row [ref=f8699e653]:
+                  - cell "2." [ref=f8699e654]
+                  - cell [ref=f8699e655]:
+                    - link "Chris Olave" [ref=f8699e656] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33966
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e657]
+                - row [ref=f8699e658]:
+                  - cell "3." [ref=f8699e659]
+                  - cell [ref=f8699e660]:
+                    - link "Emeka Egbuka" [ref=f8699e661] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41804
+                  - cell "Koo Fighters" [ref=f8699e662]
+                - row [ref=f8699e663]:
+                  - cell "4." [ref=f8699e664]
+                  - cell [ref=f8699e665]:
+                    - link "Ravens" [ref=f8699e666] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/baltimore/
+                  - cell "Sunday School" [ref=f8699e667]
+                - row [ref=f8699e668]:
+                  - cell "5." [ref=f8699e669]
+                  - cell [ref=f8699e670]:
+                    - link "Jaylen Warren" [ref=f8699e671] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34447
+                  - cell "Built for Speed" [ref=f8699e672]
+                - row [ref=f8699e673]:
+                  - cell "6." [ref=f8699e674]
+                  - cell [ref=f8699e675]:
+                    - link "Jake Ferguson" [ref=f8699e676] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34085
+                  - cell "The Show Stoppers" [ref=f8699e677]
+                - row [ref=f8699e678]:
+                  - cell "7." [ref=f8699e679]
+                  - cell [ref=f8699e680]:
+                    - link "Bears" [ref=f8699e681] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/chicago/
+                  - cell "Trophy Kid" [ref=f8699e682]
+                - row [ref=f8699e683]:
+                  - cell "8." [ref=f8699e684]
+                  - cell [ref=f8699e685]:
+                    - link "Rashee Rice" [ref=f8699e686] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40084
+                  - cell "Vaqueros" [ref=f8699e687]
+            - table [ref=f8699e689]:
+              - rowgroup [ref=f8699e694]:
+                - row [ref=f8699e695]:
+                  - columnheader "Round 12" [ref=f8699e696]
+              - rowgroup [ref=f8699e697]:
+                - row [ref=f8699e698]:
+                  - cell "1." [ref=f8699e699]
+                  - cell [ref=f8699e700]:
+                    - link "Tank Bigsby" [ref=f8699e701] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40095
+                  - cell "Vaqueros" [ref=f8699e702]
+                - row [ref=f8699e703]:
+                  - cell "2." [ref=f8699e704]
+                  - cell [ref=f8699e705]:
+                    - link "T.J. Edwards" [ref=f8699e706] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32403
+                  - cell "Trophy Kid" [ref=f8699e707]
+                - row [ref=f8699e708]:
+                  - cell "3." [ref=f8699e709]
+                  - cell [ref=f8699e710]:
+                    - link "Matthew Golden" [ref=f8699e711] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41808
+                  - cell "The Show Stoppers" [ref=f8699e712]
+                - row [ref=f8699e713]:
+                  - cell "4." [ref=f8699e714]
+                  - cell [ref=f8699e715]:
+                    - link "Jordan Addison" [ref=f8699e716] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40042
+                  - cell "Built for Speed" [ref=f8699e717]
+                - row [ref=f8699e718]:
+                  - cell "5." [ref=f8699e719]
+                  - cell [ref=f8699e720]:
+                    - link "Fred Warner" [ref=f8699e721] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31040
+                  - cell "Sunday School" [ref=f8699e722]
+                - row [ref=f8699e723]:
+                  - cell "6." [ref=f8699e724]
+                  - cell [ref=f8699e725]:
+                    - link "Tyrone Tracy Jr." [ref=f8699e726] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41048
+                  - cell "Koo Fighters" [ref=f8699e727]
+                - row [ref=f8699e728]:
+                  - cell "7." [ref=f8699e729]
+                  - cell [ref=f8699e730]:
+                    - link "Deebo Samuel Sr." [ref=f8699e731] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31868
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e732]
+                - row [ref=f8699e733]:
+                  - cell "8." [ref=f8699e734]
+                  - cell [ref=f8699e735]:
+                    - link "Jordan Love" [ref=f8699e736] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32696
+                  - cell "12 PACK SUNDAY" [ref=f8699e737]
+          - generic [ref=f8699e738]:
+            - table [ref=f8699e740]:
+              - rowgroup [ref=f8699e745]:
+                - row [ref=f8699e746]:
+                  - columnheader "Round 13" [ref=f8699e747]
+              - rowgroup [ref=f8699e748]:
+                - row [ref=f8699e749]:
+                  - cell "1." [ref=f8699e750]
+                  - cell [ref=f8699e751]:
+                    - link "Matthew Stafford" [ref=f8699e752] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9265
+                  - cell "12 PACK SUNDAY" [ref=f8699e753]
+                - row [ref=f8699e754]:
+                  - cell "2." [ref=f8699e755]
+                  - cell [ref=f8699e756]:
+                    - link "Cameron Dicker" [ref=f8699e757] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34344
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e758]
+                - row [ref=f8699e759]:
+                  - cell "3." [ref=f8699e760]
+                  - cell [ref=f8699e761]:
+                    - link "Travis Kelce" [ref=f8699e762] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26686
+                  - cell "Koo Fighters" [ref=f8699e763]
+                - row [ref=f8699e764]:
+                  - cell "4." [ref=f8699e765]
+                  - cell [ref=f8699e766]:
+                    - link "Foyesade Oluokun" [ref=f8699e767] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31170
+                  - cell "Sunday School" [ref=f8699e768]
+                - row [ref=f8699e769]:
+                  - cell "5." [ref=f8699e770]
+                  - cell [ref=f8699e771]:
+                    - link "J.J. McCarthy" [ref=f8699e772] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40905
+                  - cell "Built for Speed" [ref=f8699e773]
+                - row [ref=f8699e774]:
+                  - cell "6." [ref=f8699e775]
+                  - cell [ref=f8699e776]:
+                    - link "Javonte Williams" [ref=f8699e777] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33423
+                  - cell "The Show Stoppers" [ref=f8699e778]
+                - row [ref=f8699e779]:
+                  - cell "7." [ref=f8699e780]
+                  - cell [ref=f8699e781]:
+                    - link "Ernest Jones IV" [ref=f8699e782] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33491
+                  - cell "Trophy Kid" [ref=f8699e783]
+                - row [ref=f8699e784]:
+                  - cell "8." [ref=f8699e785]
+                  - cell [ref=f8699e786]:
+                    - link "Caleb Williams" [ref=f8699e787] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40900
+                  - cell "Vaqueros" [ref=f8699e788]
+            - table [ref=f8699e790]:
+              - rowgroup [ref=f8699e795]:
+                - row [ref=f8699e796]:
+                  - columnheader "Round 14" [ref=f8699e797]
+              - rowgroup [ref=f8699e798]:
+                - row [ref=f8699e799]:
+                  - cell "1." [ref=f8699e800]
+                  - cell [ref=f8699e801]:
+                    - link "Jakobi Meyers" [ref=f8699e802] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32231
+                  - cell "Vaqueros" [ref=f8699e803]
+                - row [ref=f8699e804]:
+                  - cell "2." [ref=f8699e805]
+                  - cell [ref=f8699e806]:
+                    - link "George Pickens" [ref=f8699e807] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34007
+                  - cell "Trophy Kid" [ref=f8699e808]
+                - row [ref=f8699e809]:
+                  - cell "3." [ref=f8699e810]
+                  - cell [ref=f8699e811]:
+                    - link "Jacory Croskey-Merritt" [ref=f8699e812] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/42010
+                  - cell "The Show Stoppers" [ref=f8699e813]
+                - row [ref=f8699e814]:
+                  - cell "4." [ref=f8699e815]
+                  - cell [ref=f8699e816]:
+                    - link "Jake Bates" [ref=f8699e817] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40835
+                  - cell "Built for Speed" [ref=f8699e818]
+                - row [ref=f8699e819]:
+                  - cell "5." [ref=f8699e820]
+                  - cell [ref=f8699e821]:
+                    - link "Jaylen Waddle" [ref=f8699e822] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33394
+                  - cell "Sunday School" [ref=f8699e823]
+                - row [ref=f8699e824]:
+                  - cell "6." [ref=f8699e825]
+                  - cell [ref=f8699e826]:
+                    - link "Drake Maye" [ref=f8699e827] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40881
+                  - cell "Koo Fighters" [ref=f8699e828]
+                - row [ref=f8699e829]:
+                  - cell "7." [ref=f8699e830]
+                  - cell [ref=f8699e831]:
+                    - link "Rhamondre Stevenson" [ref=f8699e832] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33508
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e833]
+                - row [ref=f8699e834]:
+                  - cell "8." [ref=f8699e835]
+                  - cell [ref=f8699e836]:
+                    - link "Tyler Warren" [ref=f8699e837] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41799
+                  - cell "12 PACK SUNDAY" [ref=f8699e838]
+            - table [ref=f8699e840]:
+              - rowgroup [ref=f8699e845]:
+                - row [ref=f8699e846]:
+                  - columnheader "Round 15" [ref=f8699e847]
+              - rowgroup [ref=f8699e848]:
+                - row [ref=f8699e849]:
+                  - cell "1." [ref=f8699e850]
+                  - cell [ref=f8699e851]:
+                    - link "Stefon Diggs" [ref=f8699e852] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28534
+                  - cell "12 PACK SUNDAY" [ref=f8699e853]
+                - row [ref=f8699e854]:
+                  - cell "2." [ref=f8699e855]
+                  - cell [ref=f8699e856]:
+                    - link "Bills" [ref=f8699e857] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/buffalo/
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e858]
+                - row [ref=f8699e859]:
+                  - cell "3." [ref=f8699e860]
+                  - cell [ref=f8699e861]:
+                    - link "Broncos" [ref=f8699e862] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/denver/
+                  - cell "Koo Fighters" [ref=f8699e863]
+                - row [ref=f8699e864]:
+                  - cell "4." [ref=f8699e865]
+                  - cell [ref=f8699e866]:
+                    - link "Jordan Mason" [ref=f8699e867] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34320
+                  - cell "Sunday School" [ref=f8699e868]
+                - row [ref=f8699e869]:
+                  - cell "5." [ref=f8699e870]
+                  - cell [ref=f8699e871]:
+                    - link "David Njoku" [ref=f8699e872] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30142
+                  - cell "Built for Speed" [ref=f8699e873]
+                - row [ref=f8699e874]:
+                  - cell "6." [ref=f8699e875]
+                  - cell [ref=f8699e876]:
+                    - link "Michael Pittman Jr." [ref=f8699e877] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32704
+                  - cell "The Show Stoppers" [ref=f8699e878]
+                - row [ref=f8699e879]:
+                  - cell "7." [ref=f8699e880]
+                  - cell [ref=f8699e881]:
+                    - link "Sam Darnold" [ref=f8699e882] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30973
+                  - cell "Trophy Kid" [ref=f8699e883]
+                - row [ref=f8699e884]:
+                  - cell "8." [ref=f8699e885]
+                  - cell [ref=f8699e886]:
+                    - link "Cam Skattebo" [ref=f8699e887] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41922
+                  - cell "Vaqueros" [ref=f8699e888]
+          - generic [ref=f8699e889]:
+            - table [ref=f8699e891]:
+              - rowgroup [ref=f8699e896]:
+                - row [ref=f8699e897]:
+                  - columnheader "Round 16" [ref=f8699e898]
+              - rowgroup [ref=f8699e899]:
+                - row [ref=f8699e900]:
+                  - cell "1." [ref=f8699e901]
+                  - cell [ref=f8699e902]:
+                    - link "Zach Charbonnet" [ref=f8699e903] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40075
+                  - cell "Vaqueros" [ref=f8699e904]
+                - row [ref=f8699e905]:
+                  - cell "2." [ref=f8699e906]
+                  - cell [ref=f8699e907]:
+                    - link "Brandon Aiyuk" [ref=f8699e908] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32695
+                  - cell "Trophy Kid" [ref=f8699e909]
+                - row [ref=f8699e910]:
+                  - cell "3." [ref=f8699e911]
+                  - cell [ref=f8699e912]:
+                    - link "Eagles" [ref=f8699e913] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/philadelphia/
+                  - cell "The Show Stoppers" [ref=f8699e914]
+                - row [ref=f8699e915]:
+                  - cell "4." [ref=f8699e916]
+                  - cell [ref=f8699e917]:
+                    - link "Vikings" [ref=f8699e918] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/minnesota/
+                  - cell "Built for Speed" [ref=f8699e919]
+                - row [ref=f8699e920]:
+                  - cell "5." [ref=f8699e921]
+                  - cell [ref=f8699e922]:
+                    - link "Rome Odunze" [ref=f8699e923] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40901
+                  - cell "Sunday School" [ref=f8699e924]
+                - row [ref=f8699e925]:
+                  - cell "6." [ref=f8699e926]
+                  - cell [ref=f8699e927]:
+                    - link "Zaire Franklin" [ref=f8699e928] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31205
+                  - cell "Koo Fighters" [ref=f8699e929]
+                - row [ref=f8699e930]:
+                  - cell "7." [ref=f8699e931]
+                  - cell [ref=f8699e932]:
+                    - link "Tucker Kraft" [ref=f8699e933] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40102
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e934]
+                - row [ref=f8699e935]:
+                  - cell "8." [ref=f8699e936]
+                  - cell [ref=f8699e937]:
+                    - link "Dalton Kincaid" [ref=f8699e938] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40048
+                  - cell "12 PACK SUNDAY" [ref=f8699e939]
+            - table [ref=f8699e941]:
+              - rowgroup [ref=f8699e946]:
+                - row [ref=f8699e947]:
+                  - columnheader "Round 17" [ref=f8699e948]
+              - rowgroup [ref=f8699e949]:
+                - row [ref=f8699e950]:
+                  - cell "1." [ref=f8699e951]
+                  - cell [ref=f8699e952]:
+                    - link "Jason Sanders" [ref=f8699e953] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31199
+                  - cell "12 PACK SUNDAY" [ref=f8699e954]
+                - row [ref=f8699e955]:
+                  - cell "2." [ref=f8699e956]
+                  - cell [ref=f8699e957]:
+                    - link "Khalil Shakir" [ref=f8699e958] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34104
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e959]
+                - row [ref=f8699e960]:
+                  - cell "3." [ref=f8699e961]
+                  - cell [ref=f8699e962]:
+                    - link "Wil Lutz" [ref=f8699e963] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29754
+                  - cell "Koo Fighters" [ref=f8699e964]
+                - row [ref=f8699e965]:
+                  - cell "4." [ref=f8699e966]
+                  - cell [ref=f8699e967]:
+                    - link "Josh Downs" [ref=f8699e968] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40126
+                  - cell "Sunday School" [ref=f8699e969]
+                - row [ref=f8699e970]:
+                  - cell "5." [ref=f8699e971]
+                  - cell [ref=f8699e972]:
+                    - link "Jauan Jennings" [ref=f8699e973] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32887
+                  - cell "Built for Speed" [ref=f8699e974]
+                - row [ref=f8699e975]:
+                  - cell "6." [ref=f8699e976]
+                  - cell [ref=f8699e977]:
+                    - link "Chase McLaughlin" [ref=f8699e978] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32417
+                  - cell "The Show Stoppers" [ref=f8699e979]
+                - row [ref=f8699e980]:
+                  - cell "7." [ref=f8699e981]
+                  - cell [ref=f8699e982]:
+                    - link "Noah Brown" [ref=f8699e983] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30352
+                  - cell "Trophy Kid" [ref=f8699e984]
+                - row [ref=f8699e985]:
+                  - cell "8." [ref=f8699e986]
+                  - cell [ref=f8699e987]:
+                    - link "Steelers" [ref=f8699e988] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/pittsburgh/
+                  - cell "Vaqueros" [ref=f8699e989]
+            - table [ref=f8699e991]:
+              - rowgroup [ref=f8699e996]:
+                - row [ref=f8699e997]:
+                  - columnheader "Round 18" [ref=f8699e998]
+              - rowgroup [ref=f8699e999]:
+                - row [ref=f8699e1000]:
+                  - cell "1." [ref=f8699e1001]
+                  - cell [ref=f8699e1002]:
+                    - link "Zack Baun" [ref=f8699e1003] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32744
+                  - cell "Vaqueros" [ref=f8699e1004]
+                - row [ref=f8699e1005]:
+                  - cell "2." [ref=f8699e1006]
+                  - cell [ref=f8699e1007]:
+                    - link "T.J. Hockenson" [ref=f8699e1008] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31840
+                  - cell "Trophy Kid" [ref=f8699e1009]
+                - row [ref=f8699e1010]:
+                  - cell "3." [ref=f8699e1011]
+                  - cell [ref=f8699e1012]:
+                    - link "Josh Hines-Allen" [ref=f8699e1013] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31839
+                  - cell "The Show Stoppers" [ref=f8699e1014]
+                - row [ref=f8699e1015]:
+                  - cell "4." [ref=f8699e1016]
+                  - cell [ref=f8699e1017]:
+                    - link "Myles Garrett" [ref=f8699e1018] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30114
+                  - cell "Built for Speed" [ref=f8699e1019]
+                - row [ref=f8699e1020]:
+                  - cell "5." [ref=f8699e1021]
+                  - cell [ref=f8699e1022]:
+                    - link "Trevor Lawrence" [ref=f8699e1023] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33389
+                  - cell "Sunday School" [ref=f8699e1024]
+                - row [ref=f8699e1025]:
+                  - cell "6." [ref=f8699e1026]
+                  - cell [ref=f8699e1027]:
+                    - link "Austin Ekeler" [ref=f8699e1028] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30423
+                  - cell "Koo Fighters" [ref=f8699e1029]
+                - row [ref=f8699e1030]:
+                  - cell "7." [ref=f8699e1031]
+                  - cell [ref=f8699e1032]:
+                    - link "Bryce Young" [ref=f8699e1033] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40029
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e1034]
+                - row [ref=f8699e1035]:
+                  - cell "8." [ref=f8699e1036]
+                  - cell [ref=f8699e1037]:
+                    - link "Roquan Smith" [ref=f8699e1038] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30978
+                  - cell "12 PACK SUNDAY" [ref=f8699e1039]
+          - generic [ref=f8699e1040]:
+            - table [ref=f8699e1042]:
+              - rowgroup [ref=f8699e1047]:
+                - row [ref=f8699e1048]:
+                  - columnheader "Round 19" [ref=f8699e1049]
+              - rowgroup [ref=f8699e1050]:
+                - row [ref=f8699e1051]:
+                  - cell "1." [ref=f8699e1052]
+                  - cell [ref=f8699e1053]:
+                    - link "Dolphins" [ref=f8699e1054] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/miami/
+                  - cell "12 PACK SUNDAY" [ref=f8699e1055]
+                - row [ref=f8699e1056]:
+                  - cell "2." [ref=f8699e1057]
+                  - cell [ref=f8699e1058]:
+                    - link "Jayden Reed" [ref=f8699e1059] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40063
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e1060]
+                - row [ref=f8699e1061]:
+                  - cell "3." [ref=f8699e1062]
+                  - cell [ref=f8699e1063]:
+                    - link "Alex Singleton" [ref=f8699e1064] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28716
+                  - cell "Koo Fighters" [ref=f8699e1065]
+                - row [ref=f8699e1066]:
+                  - cell "4." [ref=f8699e1067]
+                  - cell [ref=f8699e1068]:
+                    - link "Evan Engram" [ref=f8699e1069] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30136
+                  - cell "Sunday School" [ref=f8699e1070]
+                - row [ref=f8699e1071]:
+                  - cell "5." [ref=f8699e1072]
+                  - cell [ref=f8699e1073]:
+                    - link "Aidan Hutchinson" [ref=f8699e1074] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33957
+                  - cell "Built for Speed" [ref=f8699e1075]
+                - row [ref=f8699e1076]:
+                  - cell "6." [ref=f8699e1077]
+                  - cell [ref=f8699e1078]:
+                    - link "Nick Bosa" [ref=f8699e1079] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31834
+                  - cell "The Show Stoppers" [ref=f8699e1080]
+                - row [ref=f8699e1081]:
+                  - cell "7." [ref=f8699e1082]
+                  - cell [ref=f8699e1083]:
+                    - link "Tua Tagovailoa" [ref=f8699e1084] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32675
+                  - cell "Trophy Kid" [ref=f8699e1085]
+                - row [ref=f8699e1086]:
+                  - cell "8." [ref=f8699e1087]
+                  - cell [ref=f8699e1088]:
+                    - link "Maxx Crosby" [ref=f8699e1089] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31938
+                  - cell "Vaqueros" [ref=f8699e1090]
+            - table [ref=f8699e1092]:
+              - rowgroup [ref=f8699e1097]:
+                - row [ref=f8699e1098]:
+                  - columnheader "Round 20" [ref=f8699e1099]
+              - rowgroup [ref=f8699e1100]:
+                - row [ref=f8699e1101]:
+                  - cell "1." [ref=f8699e1102]
+                  - cell [ref=f8699e1103]:
+                    - link "Ka'imi Fairbairn" [ref=f8699e1104] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/29792
+                  - cell "Vaqueros" [ref=f8699e1105]
+                - row [ref=f8699e1106]:
+                  - cell "2." [ref=f8699e1107]
+                  - cell [ref=f8699e1108]:
+                    - link "David Montgomery" [ref=f8699e1109] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31905
+                  - cell "Trophy Kid" [ref=f8699e1110]
+                - row [ref=f8699e1111]:
+                  - cell "3." [ref=f8699e1112]
+                  - cell [ref=f8699e1113]:
+                    - link "J.K. Dobbins" [ref=f8699e1114] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32725
+                  - cell "The Show Stoppers" [ref=f8699e1115]
+                - row [ref=f8699e1116]:
+                  - cell "4." [ref=f8699e1117]
+                  - cell [ref=f8699e1118]:
+                    - link "Cooper Kupp" [ref=f8699e1119] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30182
+                  - cell "Built for Speed" [ref=f8699e1120]
+                - row [ref=f8699e1121]:
+                  - cell "5." [ref=f8699e1122]
+                  - cell [ref=f8699e1123]:
+                    - link "Travis Etienne Jr." [ref=f8699e1124] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33413
+                  - cell "Sunday School" [ref=f8699e1125]
+                - row [ref=f8699e1126]:
+                  - cell "6." [ref=f8699e1127]
+                  - cell [ref=f8699e1128]:
+                    - link "Michael Penix Jr." [ref=f8699e1129] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40889
+                  - cell "Koo Fighters" [ref=f8699e1130]
+                - row [ref=f8699e1131]:
+                  - cell "7." [ref=f8699e1132]
+                  - cell [ref=f8699e1133]:
+                    - link "Quinshon Judkins" [ref=f8699e1134] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/41821
+                  - cell "LIQUORED UP LOMBARDI" [ref=f8699e1135]
+                - row [ref=f8699e1136]:
+                  - cell "8." [ref=f8699e1137]
+                  - cell [ref=f8699e1138]:
+                    - link "Aaron Rodgers" [ref=f8699e1139] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7200
+                  - cell "12 PACK SUNDAY" [ref=f8699e1140]
+    - contentinfo
