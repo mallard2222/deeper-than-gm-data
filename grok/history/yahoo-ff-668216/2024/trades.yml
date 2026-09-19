@@ -1,0 +1,305 @@
+- generic [ref=f5475e3]:
+  - generic [ref=f5475e6]:
+    - banner [ref=f5475e8]:
+      - generic [ref=f5475e9]:
+        - generic [ref=f5475e11]:
+          - generic [ref=f5475e12]:
+            - generic [ref=f5475e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f5475e14]
+              - link "Yahoo Sports" [ref=f5475e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f5475e20]:
+              - generic [ref=f5475e21]: Search query
+              - combobox "Search query" [ref=f5475e22]
+              - button "Search" [ref=f5475e24] [cursor=pointer]
+          - navigation [ref=f5475e28]:
+            - list [ref=f5475e29]:
+              - listitem [ref=f5475e30]:
+                - link "News" [ref=f5475e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f5475e32]:
+                - link "Finance" [ref=f5475e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f5475e34]:
+                - link "Sports" [ref=f5475e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f5475e36]:
+                - button "More" [ref=f5475e37] [cursor=pointer]
+          - toolbar [ref=f5475e41]:
+            - link "Check your mail, 3721 messages, link" [ref=f5475e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f5475e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f5475e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f5475e55]:
+          - link "Fantasy Football" [ref=f5475e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f5475e60] [cursor=pointer]:
+            - /url: /2024/f1/181730
+          - link "League" [ref=f5475e61] [cursor=pointer]:
+            - /url: /2024/f1/181730
+          - link "My Team" [ref=f5475e62] [cursor=pointer]:
+            - /url: /2024/f1/181730/8
+          - link "Matchups" [ref=f5475e63] [cursor=pointer]:
+            - /url: /2024/f1/181730/matchup
+          - link "Players" [ref=f5475e64] [cursor=pointer]:
+            - /url: /2024/f1/181730/players
+          - link "Draft Results" [ref=f5475e65] [cursor=pointer]:
+            - /url: /2024/f1/181730/draftresults
+          - list [ref=f5475e68]:
+            - listitem [ref=f5475e69]:
+              - link "Fantasy" [ref=f5475e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f5475e79]:
+              - link "Network" [ref=f5475e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5475e89]:
+              - link "Get Fantasy Plus" [ref=f5475e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f5475e97]: Deeper Than (ID# 181730)
+  - generic [ref=f5475e101]:
+    - banner [ref=f5475e102]:
+      - generic [ref=f5475e103]:
+        - heading [level=2] [ref=f5475e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f5475e106] [cursor=pointer]:
+            - /url: /2024/f1
+        - iframe [ref=f5475e278]:
+          - iframe [ref=f5487e2]:
+            - generic [ref=f5490e5]:
+              - generic [ref=f5490e8] [cursor=pointer]:
+                - iframe [ref=f5490e9]:
+                  - insertion [ref=f5493e3]:
+                    - link "Advertisement" [ref=f5493e6] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvwUJhzFnJ_eqQ7G4gBxv0RgvDkBtThHcswO9aTCfGES9ORwAWLqNbsVSSG7mn4YU6TDbixtqf60WH8BTSn1pcdYHMjitExJB57AT6XBWAQHwT-9m676BsfnIwVbUCbs60zMY9ikHHr308nwE8bTdCEh7WYWitI7V02a-wehP45EIyl7hHyaULmFZeYNxpwSd-Nh4x27b6uGcg1mhUWwBZjfGhawengZAzjW8QCXzDwPHAB4N1JLjN6Vm7y3pby0IR7RHCkFP5spk3pPfbTtDXKl-a0XKaLRMoUI6g0XgLtvrZpGlaX5YheLhOSXwFABz7VC0F9JD0s7vEKf2IAth_QrJh9W3HzkQpSvFBJO0J44xWfyumXL4-34G4rOm8u8ehXOjPaL01rCgUOPLrTLMF5hNcBYTz1pH0KP-oIvFm-EWiONhnZsJ8GzcIIROx3rHNcXHPAW8lDdIwA-RAHwZjgoJgWvAS_bmfJ55-wolEOmAdss2G173VblAM5LXhaT8xZEhJZ7Fj4wx2i9KHVFAOzBoIrrdRctCjl4s1A8fJGAOsQiiSQvgWwjMPOAd06Qhhm&sai=AMfl-YS1gTyL8CQPe30NYeflQrOWendIkMMQolGr17RaylrijagnZzFkkPQlubyeOTlQ4ue1mmKc51QtyaNoFIsmOOfWaXKsSfav3g2yqL1a4DaG6LXUZkApne9uENryoAiZn1bgLQHv7f-CAgEyHC-Fv1cqe0mAKYZ93u1FeyOe-h4H3-AnD6q4_ippQXCwsqg5ygi9dHNMxfYnDacY8ChDYizqKw6G4X2LblUfY6K4iQxZEvHYsBY1IMj5m7CNBh-n5V_C1CStZy-AryGj62elYp31WBFelVdfA4ceH4UvUrmV3lwfX7ZbrvwhHd-cN7qBrvl3wN9YwCsvn-v3SCkZeCoDccR6aQ&sig=Cg0ArKJSzEQW5nwCmj9N&cry=1&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://trc.taboola.com/yahoosports-headerbidding/log/3/click%3Fpi%3D%252Fsafeframe%252F1-0-45%252Fhtml%252Fcontainer.html%26ri%3D1d51c573452d3b45bc3267ea245f2a71%26sd%3Dv2_ebc33559b08f676cb7e00880d1874b0b_us-9b9edfda-1292-4ee5-9ff0-23cc5cd6e382-tuct11a768fe_1789790481_1789790481_CNawjgYQuOtjGNb_nNrh07iv0wEgASgEMOEBOJGkDkCLsA5I89jYA1CnBlgAYOEbaPut88L5svmd1QFwAYABAIgBAJABAA%26ui%3Dus-9b9edfda-1292-4ee5-9ff0-23cc5cd6e382-tuct11a768fe%26ii%3D~~V1~~-981886265218636614~~kJN_gEQ7i7mP5Na3MPBvx4F--fmHowMoDJOOyGFhw4c77fhoKaZcDn68Pza2RJnypg5uSRy8FprIhM9X_AotoarRI8XmKerMNQ2H8zxaG8xIIF5oLDSCAwC2EaD0C7F5RPktHzqn-aJa6fLOtKVWSikbLA1nEFbR_gTz6t6fW7FLkd0vdWoO7wqD47Aq3YDURAnU_RKvPZU1_DCCzUIHXJkQAlrOD0X_8Ej1MhHFyhtSBbeL5IAdGtLfl2tRi9LbTz2gOplcHwajnnvFNvymAKq2mg2z7_5hH7_YkAoWE2MK0d2wZvP8Bn5CgFWR3RUOmdbmgRLEzawJE8TzSiifQs5_yVRWS0AJqrsAGhNn04mD9fb22r1aoaLor9DVCUSYyWDhLwlZNwIewNDVegKMH5_28jJNF4BK7fvDU3f2kziot-NhLkScaaXCXJ7ykoh1BLU7eM_xdJ6dYXt4K_wyCw%26it%3Dtext%26pt%3Dtext%26li%3Drbox-t2m%26sig%3Da5bd20b33b5f775d6a09ee8aa10c3ed8be79ab0e3776%26st%3Dh%26rap%3Dtblci%253Dtbl2H_IYgAGcCiCbyFnMRs8kosDGI8de7zYd_Joi3vu5cHSVA33Yc5lonhC462MYwb2z_KPZ4LA5IOjYzb6LNCiHsnwwo7DBFzi6ybv-zfTor_IBQAQ%2523tblcitbl2H_IYgAGcCiCbyFnMRs8kosDGI8de7zYd_Joi3vu5cHSVA33Yc5lonhC462MYwb2z_KPZ4LA5IOjYzb6LNCiHsnwwo7DBFzi6ybv-zfTor_IBQAQ%26vi%3D1789790482769%26p%3Dy-adv-d-197059%26lti%3Dscod%26r%3D601%26tvi48%3D19329%26tvi50%3D32901%26ppb%3DCPoCGMH4BCCCzwYqcWZvb3RiYWxsLmZhbnRhc3lzcG9ydHMueWFob28uY29tX1AxNjM1NzY4X1MxNjM1NzY4X1RZYWhvbyBTcG9ydHMgLSBGYW50YXN5IC0gRGVza3RvcCAtIFRvcF9DZW50ZXJfVzk3MF9IMjUwX04xX1RC%26cpb%3DGAEgnP__________ASoZY2gudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjODAyMjU4gOj6wAZAkaQOSIuwDlDz2NgDWKcGYwjXFhC67wEYI2RjCMicARDS4AEYQ2RjCIGqARDi3wEYRWRjCNIDEOAGGAhkYwjcFRCK6gEYCWRjCNO8ARCB8gEYSWRjCKGlARCl0QEYC2RjCLL__________wEQsv__________ARhOZGMIhUIQqVcYD2RjCO51EIGXARgwZGMIwMcBEOKAAhhRZGMI3scBEIWBAhgyZGMI_hYQiiAYE2RjCOz__________wEQ7P__________ARgUZGMIlhQQmBwYGGRjCKiFARDuqAEYOmRjCPQUEJ4dGB9kag0zMmM5NzFhOTk0ZjRmeAGAAZojiAH16gGQARaYAejYzb6LNKIBBFNDT0SqAQlUYWJvb2xhSEKyAQlUYWJvb2xhSEK6AQR0ZXh0wAHt7APKAQJjaNABANsBCjh5LWM2ZWJJUFpHMnVJck1JY1EzZW56YVUxaEdvUkw5RkJqMDMzb3JJakZIZUw2SW90UDR3LS0tQRAB3AE%26cv%3D20260917-4-RELEASE%26route%3DCH%253ACH%253AV%26redir%3Dhttps://www.direxion.com/anthropic-2x-etfs%253Fdclid%253D%2525edclid!%2526gad_source%253D7%2526gad_campaignid%253D23782319980%2523pre-prospectus%253Futm_campaign%253Dproduct_92026_li_clau-clad_all_us%2526utm_source%253Ddirect_digital%2526utm_source_platform%253Dyahoo_finance%2526utm_medium%253Ddisplay%2526utm_marketing_tactic%253Dincubate%2526utm_content%253D
+                      - img "Advertisement" [ref=f5493e7]
+                - generic [ref=f5490e10]:
+                  - 'link "Sponsored: learn about this recommendation (opens dialog)" [ref=f5490e11]':
+                    - /url: "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoosports-headerbidding&utm_medium=referral&utm_content=Viper_970x250_1x1_Stream:football.fantasysports.yahoo.com_P1635768_S1635768_TYahoo Sports - Fantasy - Desktop - Top_Center_W970_H250_N1_TB:"
+                  - 'link "Sponsored: learn about this recommendation (opens dialog)" [ref=f5490e12]':
+                    - /url: "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoosports-headerbidding&utm_medium=referral&utm_content=Viper_970x250_1x1_Stream:football.fantasysports.yahoo.com_P1635768_S1635768_TYahoo Sports - Fantasy - Desktop - Top_Center_W970_H250_N1_TB:"
+              - generic:
+                - link "|U.S. Privacy" [ref=f5490e14] [cursor=pointer]:
+                  - /url: https://ccparequest.taboola.com
+                - link "AdChoices information (opens dialog)" [ref=f5490e16] [cursor=pointer]:
+                  - /url: "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoosports-headerbidding&utm_medium=referral&utm_content=Viper_970x250_1x1_Stream:football.fantasysports.yahoo.com_P1635768_S1635768_TYahoo Sports - Fantasy - Desktop - Top_Center_W970_H250_N1_TB:"
+        - link [ref=f5475e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f5475e113]
+    - generic [ref=f5475e118]:
+      - heading "Transactions" [level=1] [ref=f5475e122]
+      - generic [ref=f5475e124]:
+        - generic [ref=f5475e125]:
+          - heading "Recent Transactions" [level=2] [ref=f5475e126]
+          - link "All Teams " [ref=f5475e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f5475e129]:
+              - generic [ref=f5475e130]: All Teams
+              - generic [ref=f5475e131]: 
+        - generic [ref=f5475e132]:
+          - list [ref=f5475e134]:
+            - listitem [ref=f5475e135]:
+              - link "All Transactions" [ref=f5475e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f5475e137]:
+              - link "Added Players" [ref=f5475e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f5475e139]:
+              - link "Dropped Players" [ref=f5475e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f5475e141]:
+              - link "Trades" [ref=f5475e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f5475e143]:
+              - link "FAB Offers" [ref=f5475e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f5475e145]:
+            - rowgroup [ref=f5475e146]:
+              - row " Kyle Pitts Sr. Atl - TE Jaylen Waddle Den - WR Traded to Baby Arm ( James ) Oct 22, 6:42 pm logo" [ref=f5475e147]:
+                - cell "" [ref=f5475e148]
+                - cell "Kyle Pitts Sr. Atl - TE Jaylen Waddle Den - WR" [ref=f5475e149]:
+                  - paragraph [ref=f5475e150]:
+                    - link "Kyle Pitts Sr." [ref=f5475e151] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33392
+                    - text: Atl - TE
+                  - paragraph [ref=f5475e152]:
+                    - link "Jaylen Waddle" [ref=f5475e153] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33394
+                    - text: Den - WR
+                - cell "Traded to" [ref=f5475e154]
+                - cell "Baby Arm ( James ) Oct 22, 6:42 pm logo" [ref=f5475e155]:
+                  - generic [ref=f5475e156]:
+                    - generic [ref=f5475e157]:
+                      - link "Baby Arm" [ref=f5475e158] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2024/f1/181730/2
+                      - generic [ref=f5475e159]:
+                        - text: (
+                        - link "James" [ref=f5475e161] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5475e162]: Oct 22, 6:42 pm
+                    - link "logo" [ref=f5475e163] [cursor=pointer]:
+                      - /url: /2024/f1/181730/2
+                      - img "logo" [ref=f5475e164]
+              - row "Romeo Doubs NE - WR Q David Njoku LAC - TE Q Traded to Good Strongs ( James ) Oct 22, 6:42 pm logo" [ref=f5475e165]:
+                - cell "Romeo Doubs NE - WR Q David Njoku LAC - TE Q" [ref=f5475e166]:
+                  - paragraph [ref=f5475e167]:
+                    - link "Romeo Doubs" [ref=f5475e168] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34088
+                    - text: NE - WR Q
+                  - paragraph [ref=f5475e169]:
+                    - link "David Njoku" [ref=f5475e170] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30142
+                    - text: LAC - TE Q
+                - cell "Traded to" [ref=f5475e171]
+                - cell "Good Strongs ( James ) Oct 22, 6:42 pm logo" [ref=f5475e172]:
+                  - generic [ref=f5475e173]:
+                    - generic [ref=f5475e174]:
+                      - link "Good Strongs" [ref=f5475e175] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2024/f1/181730/7
+                      - generic [ref=f5475e176]:
+                        - text: (
+                        - link "James" [ref=f5475e178] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5475e179]: Oct 22, 6:42 pm
+                    - link "logo" [ref=f5475e180] [cursor=pointer]:
+                      - /url: /2024/f1/181730/7
+                      - img "logo" [ref=f5475e181]
+              - row " Zach Charbonnet Sea - RB Traded to DUGASM ( James ) Oct 1, 7:40 pm logo" [ref=f5475e182]:
+                - cell "" [ref=f5475e183]
+                - cell "Zach Charbonnet Sea - RB" [ref=f5475e184]:
+                  - paragraph [ref=f5475e185]:
+                    - link "Zach Charbonnet" [ref=f5475e186] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40075
+                    - text: Sea - RB
+                - cell "Traded to" [ref=f5475e187]
+                - cell "DUGASM ( James ) Oct 1, 7:40 pm logo" [ref=f5475e188]:
+                  - generic [ref=f5475e189]:
+                    - generic [ref=f5475e190]:
+                      - link "DUGASM" [ref=f5475e191] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2024/f1/181730/5
+                      - generic [ref=f5475e192]:
+                        - text: (
+                        - link "James" [ref=f5475e194] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5475e195]: Oct 1, 7:40 pm
+                    - link "logo" [ref=f5475e196] [cursor=pointer]:
+                      - /url: /2024/f1/181730/5
+                      - img "logo" [ref=f5475e197]
+              - row "Jake Ferguson Dal - TE Traded to Baby Arm ( James ) Oct 1, 7:40 pm logo" [ref=f5475e198]:
+                - cell "Jake Ferguson Dal - TE" [ref=f5475e199]:
+                  - paragraph [ref=f5475e200]:
+                    - link "Jake Ferguson" [ref=f5475e201] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34085
+                    - text: Dal - TE
+                - cell "Traded to" [ref=f5475e202]
+                - cell "Baby Arm ( James ) Oct 1, 7:40 pm logo" [ref=f5475e203]:
+                  - generic [ref=f5475e204]:
+                    - generic [ref=f5475e205]:
+                      - link "Baby Arm" [ref=f5475e206] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2024/f1/181730/2
+                      - generic [ref=f5475e207]:
+                        - text: (
+                        - link "James" [ref=f5475e209] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5475e210]: Oct 1, 7:40 pm
+                    - link "logo" [ref=f5475e211] [cursor=pointer]:
+                      - /url: /2024/f1/181730/2
+                      - img "logo" [ref=f5475e212]
+              - row " Xavier Worthy KC - WR Brian Thomas Jr. Jax - WR Traded to Good Strongs ( James ) Sep 22, 2:09 pm logo" [ref=f5475e213]:
+                - cell "" [ref=f5475e214]
+                - cell "Xavier Worthy KC - WR Brian Thomas Jr. Jax - WR" [ref=f5475e215]:
+                  - paragraph [ref=f5475e216]:
+                    - link "Xavier Worthy" [ref=f5475e217] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40877
+                    - text: KC - WR
+                  - paragraph [ref=f5475e218]:
+                    - link "Brian Thomas Jr." [ref=f5475e219] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/40883
+                    - text: Jax - WR
+                - cell "Traded to" [ref=f5475e220]
+                - cell "Good Strongs ( James ) Sep 22, 2:09 pm logo" [ref=f5475e221]:
+                  - generic [ref=f5475e222]:
+                    - generic [ref=f5475e223]:
+                      - link "Good Strongs" [ref=f5475e224] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2024/f1/181730/7
+                      - generic [ref=f5475e225]:
+                        - text: (
+                        - link "James" [ref=f5475e227] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5475e228]: Sep 22, 2:09 pm
+                    - link "logo" [ref=f5475e229] [cursor=pointer]:
+                      - /url: /2024/f1/181730/7
+                      - img "logo" [ref=f5475e230]
+              - row "J.K. Dobbins Den - RB Tony Pollard Ten - RB Traded to Big Balls ( James ) Sep 22, 2:09 pm logo" [ref=f5475e231]:
+                - cell "J.K. Dobbins Den - RB Tony Pollard Ten - RB" [ref=f5475e232]:
+                  - paragraph [ref=f5475e233]:
+                    - link "J.K. Dobbins" [ref=f5475e234] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32725
+                    - text: Den - RB
+                  - paragraph [ref=f5475e235]:
+                    - link "Tony Pollard" [ref=f5475e236] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/31960
+                    - text: Ten - RB
+                - cell "Traded to" [ref=f5475e237]
+                - cell "Big Balls ( James ) Sep 22, 2:09 pm logo" [ref=f5475e238]:
+                  - generic [ref=f5475e239]:
+                    - generic [ref=f5475e240]:
+                      - link "Big Balls" [ref=f5475e241] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2024/f1/181730/4
+                      - generic [ref=f5475e242]:
+                        - text: (
+                        - link "James" [ref=f5475e244] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f5475e245]: Sep 22, 2:09 pm
+                    - link "logo" [ref=f5475e246] [cursor=pointer]:
+                      - /url: /2024/f1/181730/4
+                      - img "logo" [ref=f5475e247]
+    - contentinfo [ref=f5475e249]:
+      - iframe [ref=f5475e280]:
+        - insertion [ref=f5488e3]:
+          - iframe [ref=f5488e4]:
+            - iframe [ref=f5491e4]
+      - generic [ref=f5475e256]:
+        - list [ref=f5475e257]:
+          - listitem [ref=f5475e258]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f5475e259]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f5475e260] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f5475e261]:
+            - text: "-"
+            - link "Feedback" [ref=f5475e262] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f5475e263]:
+            - text: "-"
+            - link "Terms" [ref=f5475e264] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f5475e265] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f5475e266]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f5475e267] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f5475e268]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f5475e269] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f5475e270]:
+            - text: "-"
+            - link "About Our Ads" [ref=f5475e271] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f5475e272]:
+            - text: "-"
+            - link "Help" [ref=f5475e273] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f5475e274]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f5475e275]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f5475e276]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
