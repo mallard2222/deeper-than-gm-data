@@ -1,0 +1,395 @@
+- generic [ref=f4176e3]:
+  - generic [ref=f4176e6]:
+    - banner [ref=f4176e8]:
+      - generic [ref=f4176e9]:
+        - generic [ref=f4176e11]:
+          - generic [ref=f4176e12]:
+            - generic [ref=f4176e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f4176e14]
+              - link "Yahoo Sports" [ref=f4176e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f4176e20]:
+              - generic [ref=f4176e21]: Search query
+              - combobox "Search query" [ref=f4176e22]
+              - button "Search" [ref=f4176e24] [cursor=pointer]
+          - navigation [ref=f4176e28]:
+            - list [ref=f4176e29]:
+              - listitem [ref=f4176e30]:
+                - link "News" [ref=f4176e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f4176e32]:
+                - link "Finance" [ref=f4176e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f4176e34]:
+                - link "Sports" [ref=f4176e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f4176e36]:
+                - button "More" [ref=f4176e37] [cursor=pointer]
+          - toolbar [ref=f4176e41]:
+            - link "Check your mail, 3721 messages, link" [ref=f4176e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f4176e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f4176e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f4176e55]:
+          - link "Fantasy Football" [ref=f4176e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f4176e60] [cursor=pointer]:
+            - /url: /2025/f1/153816
+          - link "League" [ref=f4176e61] [cursor=pointer]:
+            - /url: /2025/f1/153816
+          - link "My Team" [ref=f4176e62] [cursor=pointer]:
+            - /url: /2025/f1/153816/8
+          - link "Matchups" [ref=f4176e63] [cursor=pointer]:
+            - /url: /2025/f1/153816/matchup
+          - link "Players" [ref=f4176e64] [cursor=pointer]:
+            - /url: /2025/f1/153816/players
+          - link "Draft Results" [ref=f4176e65] [cursor=pointer]:
+            - /url: /2025/f1/153816/draftresults
+          - list [ref=f4176e68]:
+            - listitem [ref=f4176e69]:
+              - link "Fantasy" [ref=f4176e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f4176e79]:
+              - link "Network" [ref=f4176e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4176e89]:
+              - link "Get Fantasy Plus" [ref=f4176e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f4176e97]: Deeper Than (ID# 153816)
+  - generic [ref=f4176e101]:
+    - banner [ref=f4176e102]:
+      - generic [ref=f4176e103]:
+        - heading "Yahoo Sports Fantasy Football" [level=2] [ref=f4176e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f4176e106] [cursor=pointer]:
+            - /url: /2025/f1
+        - iframe [ref=f4176e821]:
+          - iframe [ref=f4187e2]:
+            - generic [ref=f4226e6] [cursor=pointer]
+        - link "Open chat" [ref=f4176e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f4176e113]
+    - generic [ref=f4176e114]:
+      - heading "team logo Deeper Than League announcements button 2025 Season" [level=1] [ref=f4176e123]:
+        - img "team logo" [ref=f4176e126] [cursor=pointer]
+        - generic [ref=f4176e127]:
+          - generic [ref=f4176e129]:
+            - text: Deeper Than
+            - button "League announcements button" [ref=f4176e130] [cursor=pointer]:
+              - generic [ref=f4176e131]: 
+              - text: League Announcements
+          - combobox [ref=f4176e134]:
+            - option "2026 Season"
+            - option "2025 Season" [selected]
+            - option "2024 Season"
+            - option "2023 Season"
+            - option "2022 Season"
+            - option "2021 Season"
+            - option "2020 Season"
+            - option "2019 Season"
+            - option "2018 Season"
+            - option "2017 Season"
+            - option "2016 Season"
+            - option "2015 Season"
+            - option "2014 Season"
+            - option "2013 Season"
+            - option "2012 Season"
+            - option "2011 Season"
+            - option "2010 Season"
+            - option "2009 Season"
+            - option "2008 Season"
+            - option "2007 Season"
+            - option "2006 Season"
+            - option "2005 Season"
+      - generic [ref=f4176e135]:
+        - generic [ref=f4176e139]:
+          - generic [ref=f4176e142]:
+            - text: Congratulations Fantasy Champion!
+            - list [ref=f4176e143]:
+              - listitem [ref=f4176e144]:
+                - list [ref=f4176e145]:
+                  - listitem [ref=f4176e146]:
+                    - generic [ref=f4176e147]
+                  - listitem [ref=f4176e149]:
+                    - generic [ref=f4176e150]
+                - link "logo" [ref=f4176e153] [cursor=pointer]:
+                  - /url: /2025/f1/153816/7
+                  - img "logo" [ref=f4176e154]
+          - generic [ref=f4176e155]:
+            - generic [ref=f4176e156]:
+              - heading "Standings" [level=2] [ref=f4176e157]
+              - heading [level=2]
+            - generic [ref=f4176e158]:
+              - list [ref=f4176e160]:
+                - listitem [ref=f4176e161]:
+                  - link "Standings" [ref=f4176e162] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=stand#lhststand"
+                - listitem [ref=f4176e163]:
+                  - link "Schedule" [ref=f4176e164] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=sched#lhstsched"
+                - listitem [ref=f4176e165]:
+                  - link "Playoffs" [ref=f4176e166] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=playoff#lhstplayoff"
+                - listitem [ref=f4176e167]:
+                  - link "Ratings & Levels" [ref=f4176e168] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=felo#lhstfelo"
+                - listitem [ref=f4176e169]:
+                  - link "All Time" [ref=f4176e170] [cursor=pointer]:
+                    - /url: "?module=standings&lhst=alltime#lhstalltime"
+              - link "Current Standings " [ref=f4176e172] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f4176e173]:
+                  - generic [ref=f4176e174]: Current Standings
+                  - generic [ref=f4176e175]: 
+              - generic [ref=f4176e177]:
+                - generic [ref=f4176e178]:
+                  - table [ref=f4176e179]:
+                    - rowgroup [ref=f4176e180]
+                    - rowgroup [ref=f4176e189]
+                  - table [ref=f4176e207]:
+                    - rowgroup [ref=f4176e208]
+                    - rowgroup [ref=f4176e219]
+                - generic [ref=f4176e324]:
+                  - generic [ref=f4176e325]: "Last standings update: Thu Jan 08 01:53am CST"
+                  - list [ref=f4176e326]:
+                    - listitem [ref=f4176e327]
+          - generic [ref=f4176e329]:
+            - generic [ref=f4176e330]:
+              - heading "Matchups" [level=2] [ref=f4176e331]
+              - generic [ref=f4176e333]:
+                - link "" [ref=f4176e334] [cursor=pointer]:
+                  - /url: "?matchup_week=15&module=matchups&lhst=matchups"
+                - link "Week 16" [ref=f4176e335] [cursor=pointer]:
+                  - /url: "#"
+                - link "" [ref=f4176e338]:
+                  - /url: ""
+            - generic [ref=f4176e340]:
+              - generic [ref=f4176e341]:
+                - generic [ref=f4176e342]:
+                  - generic [ref=f4176e343]: 
+                  - generic [ref=f4176e344]: Week 18 Matchups
+                - generic [ref=f4176e345]: Final results
+              - paragraph [ref=f4176e346]: Championship Bracket
+              - paragraph [ref=f4176e347]: TBD
+          - generic [ref=f4176e348]:
+            - generic [ref=f4176e349]:
+              - heading "Recent Transactions" [level=2] [ref=f4176e350]
+              - link "View All " [ref=f4176e351] [cursor=pointer]:
+                - /url: /2025/f1/153816/transactions
+                - generic [ref=f4176e352]: View All
+                - generic [ref=f4176e353]: 
+            - generic [ref=f4176e354]:
+              - list [ref=f4176e356]:
+                - listitem [ref=f4176e357]:
+                  - link "All Transactions" [ref=f4176e358] [cursor=pointer]:
+                    - /url: "?transactionsfilter=all&mid=8"
+                - listitem [ref=f4176e359]:
+                  - link "Added Players" [ref=f4176e360] [cursor=pointer]:
+                    - /url: "?transactionsfilter=add&mid=8"
+                - listitem [ref=f4176e361]:
+                  - link "Dropped Players" [ref=f4176e362] [cursor=pointer]:
+                    - /url: "?transactionsfilter=drop&mid=8"
+                - listitem [ref=f4176e363]:
+                  - link "Trades" [ref=f4176e364] [cursor=pointer]:
+                    - /url: "?transactionsfilter=trade&mid=8"
+                - listitem [ref=f4176e365]:
+                  - link "FAB Offers" [ref=f4176e366] [cursor=pointer]:
+                    - /url: "?transactionsfilter=faab"
+              - table [ref=f4176e367]:
+                - rowgroup [ref=f4176e368]:
+                  - row "  MarShawn Lloyd GB - RB Q Waiver Justin Jefferson Min - WR To Waivers Wet Serapas Dec 24, 3:29 am logo" [ref=f4176e369]:
+                    - cell " " [ref=f4176e370]
+                    - cell "MarShawn Lloyd GB - RB Q Waiver Justin Jefferson Min - WR To Waivers" [ref=f4176e373]
+                    - cell "Wet Serapas Dec 24, 3:29 am logo" [ref=f4176e380]
+                  - row "  Jonathon Brooks Car - RB Q Free Agent Broncos Den - DEF To Waivers Wet Serapas Dec 21, 11:16 am logo" [ref=f4176e387]:
+                    - cell " " [ref=f4176e388]
+                    - cell "Jonathon Brooks Car - RB Q Free Agent Broncos Den - DEF To Waivers" [ref=f4176e391]
+                    - cell "Wet Serapas Dec 21, 11:16 am logo" [ref=f4176e398]
+                  - row "  Adonai Mitchell NYJ - WR Free Agent Jaguars Jax - DEF To Waivers Wet Serapas Dec 21, 11:14 am logo" [ref=f4176e405]:
+                    - cell " " [ref=f4176e406]
+                    - cell "Adonai Mitchell NYJ - WR Free Agent Jaguars Jax - DEF To Waivers" [ref=f4176e409]
+                    - cell "Wet Serapas Dec 21, 11:14 am logo" [ref=f4176e416]
+                  - row "  Tyler Shough NO - QB Free Agent Shedeur Sanders Cle - QB To Waivers Baby Arm Dec 21, 10:49 am logo" [ref=f4176e423]:
+                    - cell " " [ref=f4176e424]
+                    - cell "Tyler Shough NO - QB Free Agent Shedeur Sanders Cle - QB To Waivers" [ref=f4176e427]
+                    - cell "Baby Arm Dec 21, 10:49 am logo" [ref=f4176e434]
+                  - row "  Harold Fannin Jr. Cle - TE Q Waiver 49ers SF - DEF To Waivers Good Strongs Dec 19, 2:48 am logo" [ref=f4176e441]:
+                    - cell " " [ref=f4176e442]
+                    - cell "Harold Fannin Jr. Cle - TE Q Waiver 49ers SF - DEF To Waivers" [ref=f4176e445]
+                    - cell "Good Strongs Dec 19, 2:48 am logo" [ref=f4176e452]
+          - generic [ref=f4176e460]:
+            - heading "Commish Notes" [level=2] [ref=f4176e462]
+            - generic [ref=f4176e463]:
+              - generic [ref=f4176e465]:
+                - link "logo" [ref=f4176e466] [cursor=pointer]:
+                  - /url: /2025/f1/153816/1
+                  - img "logo" [ref=f4176e467]
+                - generic [ref=f4176e468]:
+                  - generic [ref=f4176e469]: Commish
+                  - link "Wet Serapas" [ref=f4176e470] [cursor=pointer]:
+                    - /url: https://football.fantasysports.yahoo.com/2025/f1/153816/1
+                  - text: (James)
+              - list [ref=f4176e475]:
+                - listitem [ref=f4176e476]:
+                  - paragraph [ref=f4176e477]: Welcome to Yahoo Sports Fantasy Football. There is currently no message from your commissioner.
+          - generic [ref=f4176e478]:
+            - heading "Commish Updates" [level=2] [ref=f4176e481]
+            - list [ref=f4176e485]:
+              - listitem [ref=f4176e486]:
+                - generic [ref=f4176e487]:
+                  - generic [ref=f4176e489]:
+                    - figure [ref=f4176e490]
+                    - generic [ref=f4176e493]
+                  - generic [ref=f4176e497]:
+                    - paragraph [ref=f4176e498]: Draft Type changed from 'Autopick' to 'Offline'
+                    - blockquote
+              - listitem [ref=f4176e499]:
+                - generic [ref=f4176e500]:
+                  - generic [ref=f4176e502]:
+                    - figure [ref=f4176e503]
+                    - generic [ref=f4176e506]
+                  - generic [ref=f4176e510]:
+                    - paragraph [ref=f4176e511]: Draft Type changed from 'Offline' to 'Autopick'
+                    - blockquote
+              - listitem [ref=f4176e512]:
+                - generic [ref=f4176e513]:
+                  - generic [ref=f4176e515]:
+                    - figure [ref=f4176e516]
+                    - generic [ref=f4176e519]
+                  - generic [ref=f4176e523]:
+                    - paragraph [ref=f4176e524]: Max Roster Size changed from '22' to '20'
+                    - blockquote
+              - listitem [ref=f4176e525]:
+                - generic [ref=f4176e526]:
+                  - generic [ref=f4176e528]:
+                    - figure [ref=f4176e529]
+                    - generic [ref=f4176e532]
+                  - generic [ref=f4176e536]:
+                    - paragraph [ref=f4176e537]: IR changed from '5' to '1'
+                    - blockquote
+          - generic [ref=f4176e540]:
+            - heading "Fantasy News" [level=2] [ref=f4176e541]
+            - list [ref=f4176e542]:
+              - listitem [ref=f4176e543]:
+                - 'link "Fantasy Football Rankings: 5 most polarizing players for Week 2 Fantasy football analyst Hayden Winks highlights five tricky players to rank for Week 2. Yahoo Sports • 11h ago" [ref=f4176e545] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-5-most-polarizing-players-for-week-2-164350391.html
+                  - generic [ref=f4176e551]:
+                    - 'heading "Fantasy Football Rankings: 5 most polarizing players for Week 2" [level=3] [ref=f4176e552]'
+                    - generic [ref=f4176e554]: Fantasy football analyst Hayden Winks highlights five tricky players to rank for Week 2.
+                    - list [ref=f4176e557]
+              - listitem [ref=f4176e567]:
+                - 'link "Fantasy Football Storylines: Don''t lose hope on Colston Loveland — his bounce-back should happen in Week 2 Fantasy football analyst Chris Allen highlights key storylines heading into Week 2''s Sunday action. Yahoo Sports • 12h ago" [ref=f4176e569] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-storylines-dont-lose-hope-on-colston-loveland--his-bounce-back-should-happen-in-week-2-161858370.html
+                  - generic [ref=f4176e575]:
+                    - 'heading "Fantasy Football Storylines: Don''t lose hope on Colston Loveland — his bounce-back should happen in Week 2" [level=3] [ref=f4176e576]'
+                    - generic [ref=f4176e578]: Fantasy football analyst Chris Allen highlights key storylines heading into Week 2's Sunday action.
+                    - list [ref=f4176e581]
+              - listitem [ref=f4176e591]:
+                - 'link "Fantasy Football Week 2 Matchups to Exploit: Giants are in a good spot despite what appears to be a tough draw vs. the Rams Ray Garvin goes over players who are in great positions to succeed for fantasy football in Week 2. Yahoo Sports • 12h ago" [ref=f4176e593] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-week-2-matchups-to-exploit-giants-are-in-a-good-spot-despite-what-appears-to-be-a-tough-draw-vs-the-rams-160225957.html
+                  - generic [ref=f4176e599]:
+                    - 'heading "Fantasy Football Week 2 Matchups to Exploit: Giants are in a good spot despite what appears to be a tough draw vs. the Rams" [level=3] [ref=f4176e600]'
+                    - generic [ref=f4176e602]: Ray Garvin goes over players who are in great positions to succeed for fantasy football in Week 2.
+                    - list [ref=f4176e605]
+              - listitem [ref=f4176e615]:
+                - link "Bold Fantasy Football Predictions for Week 2 It's time to get bold for fantasy football in Week 2. Yahoo Sports • 12h ago" [ref=f4176e617] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/bold-fantasy-football-predictions-for-week-2-154344970.html
+                  - generic [ref=f4176e623]:
+                    - heading "Bold Fantasy Football Predictions for Week 2" [level=3] [ref=f4176e624]
+                    - generic [ref=f4176e626]: It's time to get bold for fantasy football in Week 2.
+                    - list [ref=f4176e629]
+              - listitem [ref=f4176e639]:
+                - 'link "Fantasy Football Week 2 Fades & Busts: Top rookies likely belong on your bench Fantasy football analyst Matt Okada highlights six players worth fading in Week 2. Yahoo Sports • 13h ago" [ref=f4176e641] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-week-2-fades--busts-top-rookies-likely-belong-on-your-bench-144632385.html
+                  - generic [ref=f4176e647]:
+                    - 'heading "Fantasy Football Week 2 Fades & Busts: Top rookies likely belong on your bench" [level=3] [ref=f4176e648]'
+                    - generic [ref=f4176e650]: Fantasy football analyst Matt Okada highlights six players worth fading in Week 2.
+                    - list [ref=f4176e653]
+              - listitem [ref=f4176e663]:
+                - 'link "Fantasy Football Start/Sit Advice: What to do with Travis Etienne Jr., Quinshon Judkins, more players in Week 2 Scott Pianowski plays traffic cop for Week 2 fantasy football. Yahoo Sports • 13h ago" [ref=f4176e665] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-startsit-advice-what-to-do-with-travis-etienne-jr-quinshon-judkins-more-players-in-week-2-144130671.html
+                  - generic [ref=f4176e671]:
+                    - 'heading "Fantasy Football Start/Sit Advice: What to do with Travis Etienne Jr., Quinshon Judkins, more players in Week 2" [level=3] [ref=f4176e672]'
+                    - generic [ref=f4176e674]: Scott Pianowski plays traffic cop for Week 2 fantasy football.
+                    - list [ref=f4176e677]
+              - listitem [ref=f4176e687]:
+                - 'link "Fantasy Football Start ''Em, Sit ''Em: Week 2 lineup picks from Justin Boone Fantasy football analyst Justin Boone reveals his lineup tips for Week 2. Yahoo Sports • 13h ago" [ref=f4176e689] [cursor=pointer]':
+                  - /url: https://sports.yahoo.com/fantasy/article/fantasy-football-start-em-sit-em-week-2-lineup-picks-from-justin-boone-143306732.html
+                  - generic [ref=f4176e695]:
+                    - 'heading "Fantasy Football Start ''Em, Sit ''Em: Week 2 lineup picks from Justin Boone" [level=3] [ref=f4176e696]'
+                    - generic [ref=f4176e698]: Fantasy football analyst Justin Boone reveals his lineup tips for Week 2.
+                    - list [ref=f4176e701]
+              - listitem [ref=f4176e711]:
+                - link "Josh Allen on path to MVP, Dalton Kincaid looking like league winner and more fantasy football takeaways from Lions-Bills Scott Pianowski recaps the fantasy football carnival on TNF in Week 2 between Detroit and Buffalo. Yahoo Sports • 14h ago" [ref=f4176e713] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/josh-allen-on-path-to-mvp-dalton-kincaid-looking-like-league-winner-and-more-fantasy-football-takeaways-from-lions-bills-142330010.html
+                  - generic [ref=f4176e719]:
+                    - heading "Josh Allen on path to MVP, Dalton Kincaid looking like league winner and more fantasy football takeaways from Lions-Bills" [level=3] [ref=f4176e720]
+                    - generic [ref=f4176e722]: Scott Pianowski recaps the fantasy football carnival on TNF in Week 2 between Detroit and Buffalo.
+                    - list [ref=f4176e725]
+              - listitem [ref=f4176e735]:
+                - link "TNF Reax + 6 biggest fantasy questions we want answered in Week 2 Josh Norris joins Matt Harmon for our week 2 preview pod. Norris identifies the six most pressing fantasy questions we want answered in Week 2 and Harmon reveals the 3 'sicko' games he's paying attention to for fantasy. The two end the show taking your mailbag questions about bench WRs you're considering starting for injured WRs. Yahoo Sports • 1d ago" [ref=f4176e737] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/tnf-reax--6-biggest-fantasy-questions-we-want-answered-in-week-2-044658594.html
+                  - generic [ref=f4176e743]:
+                    - heading "TNF Reax + 6 biggest fantasy questions we want answered in Week 2" [level=3] [ref=f4176e744]
+                    - generic [ref=f4176e746]: Josh Norris joins Matt Harmon for our week 2 preview pod. Norris identifies the six most pressing fantasy questions we want answered in Week 2 and Harmon reveals the 3 'sicko' games he's paying attention to for fantasy. The two end the show taking your mailbag questions about bench WRs you're considering starting for injured WRs.
+                    - list [ref=f4176e749]
+              - listitem [ref=f4176e759]:
+                - link "Week 2 lineup questions? Fantasy Football Live has you covered on Sunday morning with last-minute start/sit advice Fantasy Football Live returns on Sunday morning with 2.5 hours of top-notch advice to get your lineup set for Week 2. Yahoo Sports • 1d ago" [ref=f4176e761] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/fantasy/article/week-2-lineup-questions-fantasy-football-live-has-you-covered-on-sunday-morning-with-last-minute-startsit-advice-025741339.html
+                  - generic [ref=f4176e767]:
+                    - heading "Week 2 lineup questions? Fantasy Football Live has you covered on Sunday morning with last-minute start/sit advice" [level=3] [ref=f4176e768]
+                    - generic [ref=f4176e770]: Fantasy Football Live returns on Sunday morning with 2.5 hours of top-notch advice to get your lineup set for Week 2.
+                    - list [ref=f4176e773]
+        - generic [ref=f4176e785]:
+          - iframe [ref=f4176e823]:
+            - insertion [ref=f4186e3]:
+              - iframe [ref=f4186e4]:
+                - iframe [ref=f4209e4]
+          - iframe [ref=f4176e825]:
+            - insertion [ref=f4192e3]:
+              - iframe [ref=f4192e4]:
+                - iframe [ref=f4216e4]
+    - contentinfo [ref=f4176e792]:
+      - iframe [ref=f4176e827]:
+        - insertion [ref=f4196e3]:
+          - iframe [ref=f4196e4]:
+            - iframe [ref=f4219e4]
+      - generic [ref=f4176e799]:
+        - list [ref=f4176e800]:
+          - listitem [ref=f4176e801]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f4176e802]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f4176e803] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f4176e804]:
+            - text: "-"
+            - link "Feedback" [ref=f4176e805] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f4176e806]:
+            - text: "-"
+            - link "Terms" [ref=f4176e807] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f4176e808] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f4176e809]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f4176e810] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f4176e811]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f4176e812] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f4176e813]:
+            - text: "-"
+            - link "About Our Ads" [ref=f4176e814] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f4176e815]:
+            - text: "-"
+            - link "Help" [ref=f4176e816] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f4176e817]: Certain Data by Sportradar, Rotowire, FTN, BAKER Engine and THE BLITZ
+        - paragraph [ref=f4176e818]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f4176e819]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

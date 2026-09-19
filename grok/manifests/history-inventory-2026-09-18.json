@@ -1,0 +1,169 @@
+{
+  "schema_version": "0.1.0-proposed",
+  "manifest_id": "manifest_history_inventory_20260919",
+  "generated_at": "2026-09-19T04:00:10Z",
+  "retrieved_at_local": "2026-09-18T22:59:00-05:00",
+  "source": "Yahoo Fantasy authenticated browser (read-only)",
+  "leagues": {
+    "yahoo-ff-668216": {
+      "display_name": "Deeper Than",
+      "current_season_id": 668216,
+      "custom_route": "/league/deeperthan",
+      "prior_seasons_accessible": [
+        {
+          "year": 2025,
+          "season_league_id": 153816
+        },
+        {
+          "year": 2024,
+          "season_league_id": 181730
+        },
+        {
+          "year": 2023,
+          "season_league_id": 69639
+        },
+        {
+          "year": 2022,
+          "season_league_id": 59165
+        },
+        {
+          "year": 2021,
+          "season_league_id": 771925
+        },
+        {
+          "year": 2020,
+          "season_league_id": 26564
+        },
+        {
+          "year": 2019,
+          "season_league_id": 56453
+        },
+        {
+          "year": 2018,
+          "season_league_id": 16765
+        },
+        {
+          "year": 2017,
+          "season_league_id": 122934
+        },
+        {
+          "year": 2016,
+          "season_league_id": 79234
+        },
+        {
+          "year": 2015,
+          "season_league_id": 1044
+        },
+        {
+          "year": 2014,
+          "season_league_id": 76443
+        },
+        {
+          "year": 2013,
+          "season_league_id": 11558
+        }
+      ],
+      "sample_season_collected": 2025,
+      "notes": "2012 and earlier on /league/deeperthan resolve to 8Deep lineage \u2014 not counted as Deeper Than."
+    },
+    "yahoo-ff-135150": {
+      "display_name": "8Deep",
+      "current_season_id": 135150,
+      "custom_route": "/league/8deepleague",
+      "prior_seasons_accessible": [
+        {
+          "year": 2025,
+          "season_league_id": 117956
+        },
+        {
+          "year": 2024,
+          "season_league_id": 196758
+        },
+        {
+          "year": 2023,
+          "season_league_id": 509502
+        },
+        {
+          "year": 2022,
+          "season_league_id": 154513
+        },
+        {
+          "year": 2021,
+          "season_league_id": 411801
+        },
+        {
+          "year": 2020,
+          "season_league_id": 622076
+        },
+        {
+          "year": 2019,
+          "season_league_id": 139225
+        },
+        {
+          "year": 2018,
+          "season_league_id": 179114
+        },
+        {
+          "year": 2017,
+          "season_league_id": 495408
+        },
+        {
+          "year": 2016,
+          "season_league_id": 313399
+        },
+        {
+          "year": 2015,
+          "season_league_id": 380652
+        },
+        {
+          "year": 2014,
+          "season_league_id": 216876
+        },
+        {
+          "year": 2013,
+          "season_league_id": 473916
+        },
+        {
+          "year": 2012,
+          "season_league_id": 12800
+        },
+        {
+          "year": 2011,
+          "season_league_id": 74556
+        },
+        {
+          "year": 2010,
+          "season_league_id": 10591
+        },
+        {
+          "year": 2009,
+          "season_league_id": 45991
+        },
+        {
+          "year": 2008,
+          "season_league_id": 20603
+        },
+        {
+          "year": 2007,
+          "season_league_id": 4694
+        },
+        {
+          "year": 2006,
+          "season_league_id": 51271
+        },
+        {
+          "year": 2005,
+          "season_league_id": 188407
+        }
+      ],
+      "sample_season_collected": null,
+      "notes": "Inventory of accessible season IDs only; full content not yet backfilled."
+    }
+  },
+  "gaps": [
+    "Standings table rendering incomplete in 2025 sample capture",
+    "Transactions paginated \u2014 not all pages captured",
+    "Older Deeper Than years (2013-2024) inventory-only, not full downloads",
+    "8Deep full season content not yet collected"
+  ]
+}
