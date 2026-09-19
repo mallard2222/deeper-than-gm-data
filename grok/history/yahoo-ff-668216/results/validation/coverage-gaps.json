@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "generated_at": "2026-09-19T22:08:34Z",
+  "generated_at": "2026-09-19T22:29:28Z",
   "seasons": {
     "2025": {
       "status": "matchups_complete_weeks_1_16",
@@ -40,6 +40,29 @@
     "2013-2021": {
       "status": "pending_schedule_scrape",
       "note": "league IDs identified; not fetched yet"
+    },
+    "2021": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
+    },
+    "2020": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
+    },
+    "2019": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
+    },
+    "2018": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
+    },
+    "2013-2017": {
+      "status": "pending_schedule_scrape"
     }
   },
   "label": "PARTIAL \u2014 do not call all-time"

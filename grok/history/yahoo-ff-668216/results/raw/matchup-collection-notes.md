@@ -8,7 +8,7 @@ Collection date: 2026-09-19 (UTC-5)
 - 2026, Yahoo league 668216: 4 Final records, week 1 only. Week 2 was visibly marked “In progress” and was not captured.
 
 ## Not yet collected
-Historical league IDs found in the prior inventory: 2021=771925, 2020=26564, 2019=56453, 2018=16765, 2017=122934, 2016=79234, 2015=1044, 2014=76443, 2013=11558. Those seasons were not fetched in this run; no placeholder matchup records were created.
+Remaining requested seasons after the historical collection below: 2017=122934, 2016=79234, 2015=1044, 2014=76443, 2013=11558. No placeholder matchup records were created.
 
 ## Rate limits / safety
 No HTTP 999/429 block was encountered during this run. Pages were loaded slowly with several-second waits. No Yahoo writes, lineup changes, claims, or trades were performed.
@@ -19,3 +19,14 @@ No HTTP 999/429 block was encountered during this run. Pages were loaded slowly 
 - 2026: `results/evidence/2026/week1-final.png`
 
 Scores are the first displayed values on Yahoo matchup cards; adjacent displayed values are projections and were excluded.
+
+## Historical collection completed (this run)
+- 2021, Yahoo league 771925: 64 Final records, weeks 1-16. Regular weeks 1-14; championship/consolation brackets weeks 15-16. Files: `results/matchups/2021-matchups.jsonl`, `results/identities/2021-teams.json`. Evidence: `results/evidence/2021/week1-final.png`, `results/evidence/2021/week16-final.png`.
+- 2020, Yahoo league 26564: 64 Final records, weeks 1-16. Regular weeks 1-14; championship/consolation brackets weeks 15-16. Files: `results/matchups/2020-matchups.jsonl`, `results/identities/2020-teams.json`. Evidence: `results/evidence/2020/week1-final.png`, `results/evidence/2020/week16-final.png`.
+- 2019, Yahoo league 56453: 64 Final records, weeks 1-16. Regular weeks 1-14; championship/consolation brackets weeks 15-16. Files: `results/matchups/2019-matchups.jsonl`, `results/identities/2019-teams.json`. Evidence: `results/evidence/2019/week1-final.png`, `results/evidence/2019/week16-final.png`.
+
+For these seasons Yahoo's supplied `/f1/<id>/schedule?week=N` path returned a problem/404, so the equivalent read-only archived league standings Matchups route was used: `/<year>/f1/<id>?module=standings&lhst=matchups&matchup_week=N`. No Yahoo writes, lineup changes, claims, or trades were performed. No HTTP 999/429 encountered. Matchup scores are the first displayed final values; adjacent projection values were excluded.
+
+- 2018, Yahoo league 16765: 64 Final records, weeks 1-16. Regular weeks 1-14; championship/consolation brackets weeks 15-16. Files: `results/matchups/2018-matchups.jsonl`, `results/identities/2018-teams.json`. Evidence: `results/evidence/2018/week1-final.png`, `results/evidence/2018/week16-final.png`.
+
+Remaining requested historical seasons not collected in this run: 2017 (league 122934), 2016 (79234), 2015 (1044), 2014 (76443), 2013 (11558).
