@@ -1,0 +1,250 @@
+- generic [ref=f329e3]:
+  - generic [ref=f329e6]:
+    - banner [ref=f329e8]:
+      - generic [ref=f329e9]:
+        - generic [ref=f329e11]:
+          - generic [ref=f329e12]:
+            - generic [ref=f329e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f329e14]
+              - link "Yahoo Sports" [ref=f329e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f329e20]:
+              - generic [ref=f329e21]: Search query
+              - combobox "Search query" [ref=f329e22]
+              - button "Search" [ref=f329e24] [cursor=pointer]
+          - navigation [ref=f329e28]:
+            - list [ref=f329e29]:
+              - listitem [ref=f329e30]:
+                - link "News" [ref=f329e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f329e32]:
+                - link "Finance" [ref=f329e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f329e34]:
+                - link "Sports" [ref=f329e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f329e36]:
+                - button "More" [ref=f329e37] [cursor=pointer]
+          - toolbar [ref=f329e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f329e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f329e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f329e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f329e55]:
+          - link "Fantasy Football" [ref=f329e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f329e60] [cursor=pointer]:
+            - /url: /2023/f1/69639
+          - link "League" [ref=f329e61] [cursor=pointer]:
+            - /url: /2023/f1/69639
+          - link "My Team" [ref=f329e62] [cursor=pointer]:
+            - /url: /2023/f1/69639/8
+          - link "Matchups" [ref=f329e63] [cursor=pointer]:
+            - /url: /2023/f1/69639/matchup
+          - link "Players" [ref=f329e64] [cursor=pointer]:
+            - /url: /2023/f1/69639/players
+          - link "Draft Results" [ref=f329e65] [cursor=pointer]:
+            - /url: /2023/f1/69639/draftresults
+          - list [ref=f329e68]:
+            - listitem [ref=f329e69]:
+              - link "Fantasy" [ref=f329e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f329e79]:
+              - link "Network" [ref=f329e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f329e89]:
+              - link "Get Fantasy Plus" [ref=f329e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f329e97]: Deeper Than (ID# 69639)
+  - generic [ref=f329e101]:
+    - banner [ref=f329e102]:
+      - generic [ref=f329e103]:
+        - heading [level=2] [ref=f329e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f329e106] [cursor=pointer]:
+            - /url: /2023/f1
+        - iframe [ref=f329e111]:
+          - iframe [ref=f339e2]:
+            - generic [ref=f364e3] [cursor=pointer]
+        - link [ref=f329e112] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f329e114]
+    - generic [ref=f329e119]:
+      - heading "Transactions" [level=1] [ref=f329e123]
+      - generic [ref=f329e125]:
+        - generic [ref=f329e126]:
+          - heading "Recent Transactions" [level=2] [ref=f329e127]
+          - link "All Teams " [ref=f329e129] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f329e130]:
+              - generic [ref=f329e131]: All Teams
+              - generic [ref=f329e132]: 
+        - generic [ref=f329e133]:
+          - list [ref=f329e135]:
+            - listitem [ref=f329e136]:
+              - link "All Transactions" [ref=f329e137] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f329e138]:
+              - link "Added Players" [ref=f329e139] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f329e140]:
+              - link "Dropped Players" [ref=f329e141] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f329e142]:
+              - link "Trades" [ref=f329e143] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f329e144]:
+              - link "FAB Offers" [ref=f329e145] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f329e146]:
+            - rowgroup [ref=f329e147]:
+              - row " Jets NYJ - DEF Patrick Mahomes KC - QB Stefon Diggs Was - WR Round 21 Round 22 Traded to Bigballs ( James ) Nov 15, 7:52 pm logo" [ref=f329e148]:
+                - cell "" [ref=f329e149]
+                - cell "Jets NYJ - DEF Patrick Mahomes KC - QB Stefon Diggs Was - WR Round 21 Round 22" [ref=f329e150]:
+                  - paragraph [ref=f329e151]:
+                    - link "Jets" [ref=f329e152] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/ny-jets/
+                    - text: NYJ - DEF
+                  - paragraph [ref=f329e153]:
+                    - link "Patrick Mahomes" [ref=f329e154] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30123
+                    - text: KC - QB
+                  - paragraph [ref=f329e155]:
+                    - link "Stefon Diggs" [ref=f329e156] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/28534
+                    - text: Was - WR
+                  - paragraph [ref=f329e157]: Round 21
+                  - paragraph [ref=f329e158]: Round 22
+                - cell "Traded to" [ref=f329e159]
+                - cell "Bigballs ( James ) Nov 15, 7:52 pm logo" [ref=f329e160]:
+                  - generic [ref=f329e161]:
+                    - generic [ref=f329e162]:
+                      - link "Bigballs" [ref=f329e163] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2023/f1/69639/2
+                      - generic [ref=f329e164]:
+                        - text: (
+                        - link "James" [ref=f329e166] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f329e167]: Nov 15, 7:52 pm
+                    - link "logo" [ref=f329e168] [cursor=pointer]:
+                      - /url: /2023/f1/69639/2
+                      - img "logo" [ref=f329e169]
+              - row "Steelers Pit - DEF Noah Brown LV - WR NA Sam Howell Dal - QB Round 1 Round 2 Traded to FFAmuseBouche ( James ) Nov 15, 7:52 pm logo" [ref=f329e170]:
+                - cell "Steelers Pit - DEF Noah Brown LV - WR NA Sam Howell Dal - QB Round 1 Round 2" [ref=f329e171]:
+                  - paragraph [ref=f329e172]:
+                    - link "Steelers" [ref=f329e173] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/teams/pittsburgh/
+                    - text: Pit - DEF
+                  - paragraph [ref=f329e174]:
+                    - link "Noah Brown" [ref=f329e175] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/30352
+                    - text: LV - WR NA
+                  - paragraph [ref=f329e176]:
+                    - link "Sam Howell" [ref=f329e177] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/34100
+                    - text: Dal - QB
+                  - paragraph [ref=f329e178]: Round 1
+                  - paragraph [ref=f329e179]: Round 2
+                - cell "Traded to" [ref=f329e180]
+                - cell "FFAmuseBouche ( James ) Nov 15, 7:52 pm logo" [ref=f329e181]:
+                  - generic [ref=f329e182]:
+                    - generic [ref=f329e183]:
+                      - link "FFAmuseBouche" [ref=f329e184] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2023/f1/69639/6
+                      - generic [ref=f329e185]:
+                        - text: (
+                        - link "James" [ref=f329e187] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f329e188]: Nov 15, 7:52 pm
+                    - link "logo" [ref=f329e189] [cursor=pointer]:
+                      - /url: /2023/f1/69639/6
+                      - img "logo" [ref=f329e190]
+              - row " Kenneth Walker III KC - RB Traded to DUGASM ( James ) Sep 13, 6:32 am logo" [ref=f329e191]:
+                - cell "" [ref=f329e192]
+                - cell "Kenneth Walker III KC - RB" [ref=f329e193]:
+                  - paragraph [ref=f329e194]:
+                    - link "Kenneth Walker III" [ref=f329e195] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/33996
+                    - text: KC - RB
+                - cell "Traded to" [ref=f329e196]
+                - cell "DUGASM ( James ) Sep 13, 6:32 am logo" [ref=f329e197]:
+                  - generic [ref=f329e198]:
+                    - generic [ref=f329e199]:
+                      - link "DUGASM" [ref=f329e200] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2023/f1/69639/5
+                      - generic [ref=f329e201]:
+                        - text: (
+                        - link "James" [ref=f329e203] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f329e204]: Sep 13, 6:32 am
+                    - link "logo" [ref=f329e205] [cursor=pointer]:
+                      - /url: /2023/f1/69639/5
+                      - img "logo" [ref=f329e206]
+              - row "Jordan Love GB - QB Traded to Deepest ( James ) Sep 13, 6:32 am logo" [ref=f329e207]:
+                - cell "Jordan Love GB - QB" [ref=f329e208]:
+                  - paragraph [ref=f329e209]:
+                    - link "Jordan Love" [ref=f329e210] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/32696
+                    - text: GB - QB
+                - cell "Traded to" [ref=f329e211]
+                - cell "Deepest ( James ) Sep 13, 6:32 am logo" [ref=f329e212]:
+                  - generic [ref=f329e213]:
+                    - generic [ref=f329e214]:
+                      - link "Deepest" [ref=f329e215] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/2023/f1/69639/3
+                      - generic [ref=f329e216]:
+                        - text: (
+                        - link "James" [ref=f329e218] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f329e219]: Sep 13, 6:32 am
+                    - link "logo" [ref=f329e220] [cursor=pointer]:
+                      - /url: /2023/f1/69639/3
+                      - img "logo" [ref=f329e221]
+    - contentinfo [ref=f329e223]:
+      - iframe [ref=f329e228]:
+        - insertion [ref=f340e3]:
+          - iframe [ref=f340e4]:
+            - iframe [ref=f357e4]
+      - generic [ref=f329e231]:
+        - list [ref=f329e232]:
+          - listitem [ref=f329e233]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f329e234]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f329e235] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f329e236]:
+            - text: "-"
+            - link "Feedback" [ref=f329e237] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f329e238]:
+            - text: "-"
+            - link "Terms" [ref=f329e239] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f329e240] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f329e241]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f329e242] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f329e243]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f329e244] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f329e245]:
+            - text: "-"
+            - link "About Our Ads" [ref=f329e246] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f329e247]:
+            - text: "-"
+            - link "Help" [ref=f329e248] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f329e249]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f329e250]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f329e251]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
