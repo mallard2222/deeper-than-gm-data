@@ -1,0 +1,1021 @@
+- generic [ref=f4230e3]:
+  - generic [ref=f4230e6]:
+    - banner [ref=f4230e8]:
+      - generic [ref=f4230e9]:
+        - generic [ref=f4230e11]:
+          - generic [ref=f4230e12]:
+            - generic [ref=f4230e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f4230e14]
+              - link "Yahoo Sports" [ref=f4230e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f4230e20]:
+              - generic [ref=f4230e21]: Search query
+              - combobox "Search query" [ref=f4230e22]
+              - button "Search" [ref=f4230e24] [cursor=pointer]
+          - navigation [ref=f4230e28]:
+            - list [ref=f4230e29]:
+              - listitem [ref=f4230e30]:
+                - link "News" [ref=f4230e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f4230e32]:
+                - link "Finance" [ref=f4230e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f4230e34]:
+                - link "Sports" [ref=f4230e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f4230e36]:
+                - button "More" [ref=f4230e37] [cursor=pointer]
+          - toolbar [ref=f4230e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f4230e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f4230e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f4230e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f4230e55]:
+          - link "Fantasy Football" [ref=f4230e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f4230e60] [cursor=pointer]:
+            - /url: /2017/f1/122934
+          - link "League" [ref=f4230e61] [cursor=pointer]:
+            - /url: /2017/f1/122934
+          - link "My Team" [ref=f4230e62] [cursor=pointer]:
+            - /url: /2017/f1/122934/8
+          - link "Matchups" [ref=f4230e63] [cursor=pointer]:
+            - /url: /2017/f1/122934/matchup
+          - link "Players" [ref=f4230e64] [cursor=pointer]:
+            - /url: /2017/f1/122934/players
+          - link "Draft Results" [ref=f4230e65] [cursor=pointer]:
+            - /url: /2017/f1/122934/draftresults
+          - list [ref=f4230e68]:
+            - listitem [ref=f4230e69]:
+              - link [ref=f4230e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f4230e79]:
+              - link [ref=f4230e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4230e89]:
+              - link "Get Fantasy Plus" [ref=f4230e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f4230e97]: Deeper Than (ID# 122934)
+  - generic [ref=f4230e101]:
+    - banner [ref=f4230e102]:
+      - generic [ref=f4230e103]:
+        - heading [level=2] [ref=f4230e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f4230e106] [cursor=pointer]:
+            - /url: /2017/f1
+        - link [ref=f4230e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f4230e113]
+    - generic [ref=f4230e118]:
+      - heading "Standings" [level=1] [ref=f4230e122]
+      - generic [ref=f4230e124]:
+        - heading "Overall Points" [level=4] [ref=f4230e125]
+        - table [ref=f4230e126]:
+          - rowgroup [ref=f4230e127]:
+            - row "Passing Rushing Receiving Ret Miscellaneous Fum Field Goals Made FG Miss PAT Tackles Turnovers TD Points Allowed" [ref=f4230e128]:
+              - columnheader [ref=f4230e129]
+              - columnheader [ref=f4230e131]
+              - columnheader "Passing" [ref=f4230e133]
+              - columnheader "Rushing" [ref=f4230e135]
+              - columnheader "Receiving" [ref=f4230e137]
+              - columnheader "Ret" [ref=f4230e139]
+              - columnheader "Miscellaneous" [ref=f4230e141]
+              - columnheader "Fum" [ref=f4230e143]
+              - columnheader "Field Goals Made" [ref=f4230e145]
+              - columnheader "FG Miss" [ref=f4230e147]
+              - columnheader "PAT" [ref=f4230e149]
+              - columnheader "Tackles" [ref=f4230e151]
+              - columnheader "Turnovers" [ref=f4230e153]
+              - columnheader "TD" [ref=f4230e155]
+              - columnheader "Points Allowed" [ref=f4230e157]
+              - columnheader [ref=f4230e159]
+            - row [ref=f4230e161]:
+              - columnheader [ref=f4230e162]
+              - columnheader [ref=f4230e163]
+              - columnheader [ref=f4230e164]:
+                - link "Yds" [ref=f4230e166] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=4&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e167]:
+                - link "TD" [ref=f4230e169] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=5&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e170]:
+                - link "Int" [ref=f4230e172] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=6&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e173]:
+                - link "Yds" [ref=f4230e175] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=9&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e176]:
+                - link "TD" [ref=f4230e178] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=10&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e179]:
+                - link "Rec" [ref=f4230e181] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=11&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e182]:
+                - link "Yds" [ref=f4230e184] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=12&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e185]:
+                - link "TD" [ref=f4230e187] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=13&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e188]:
+                - link "TD" [ref=f4230e190] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=15&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e191]:
+                - link "2PT" [ref=f4230e193] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=16&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e194]:
+                - link "Off Fumb TD" [ref=f4230e196] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=57&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e197]:
+                - link "Blk Kick" [ref=f4230e199] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=37&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e200]:
+                - link "XPR" [ref=f4230e202] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=82&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e203]:
+                - link "Lost" [ref=f4230e205] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=18&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e206]:
+                - link "0-19" [ref=f4230e208] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=19&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e209]:
+                - link "20-29" [ref=f4230e211] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=20&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e212]:
+                - link "30-39" [ref=f4230e214] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=21&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e215]:
+                - link "40-49" [ref=f4230e217] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=22&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e218]:
+                - link "50+" [ref=f4230e220] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=23&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e221]:
+                - link "0-19" [ref=f4230e223] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=24&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e224]:
+                - link "20-29" [ref=f4230e226] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=25&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e227]:
+                - link "Made" [ref=f4230e229] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=29&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e230]:
+                - link "Miss" [ref=f4230e232] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=30&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e233]:
+                - link "Sack" [ref=f4230e235] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=32&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e236]:
+                - link "Safe" [ref=f4230e238] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=36&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e239]:
+                - link "Int" [ref=f4230e241] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=33&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e242]:
+                - link "Fum Rec" [ref=f4230e244] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=34&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e245]:
+                - link "TD" [ref=f4230e247] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=35&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e248]:
+                - link "0 Pts" [ref=f4230e250] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=50&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e251]:
+                - link "1-6 Pts" [ref=f4230e253] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=51&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e254]:
+                - link "7-13 Pts" [ref=f4230e256] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=52&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e257]:
+                - link "14-20 Pts" [ref=f4230e259] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=53&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e260]:
+                - link "21-27 Pts" [ref=f4230e262] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=54&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e263]:
+                - link "28-34 Pts" [ref=f4230e265] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=55&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e266]:
+                - link "35+ Pts" [ref=f4230e268] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=56&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e269]
+          - rowgroup [ref=f4230e270]:
+            - row [ref=f4230e271]:
+              - cell "1." [ref=f4230e272]
+              - cell [ref=f4230e274]:
+                - link "Dezbians" [ref=f4230e276] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/4
+              - cell "U" [ref=f4230e277]
+              - cell "U" [ref=f4230e279]
+              - cell "U" [ref=f4230e281]
+              - cell "U" [ref=f4230e283]
+              - cell "U" [ref=f4230e285]
+              - cell "U" [ref=f4230e287]
+              - cell "U" [ref=f4230e289]
+              - cell "U" [ref=f4230e291]
+              - cell "U" [ref=f4230e293]
+              - cell "U" [ref=f4230e295]
+              - cell "U" [ref=f4230e297]
+              - cell "U" [ref=f4230e299]
+              - cell "U" [ref=f4230e301]
+              - cell "U" [ref=f4230e303]
+              - cell "U" [ref=f4230e305]
+              - cell "U" [ref=f4230e307]
+              - cell "U" [ref=f4230e309]
+              - cell "U" [ref=f4230e311]
+              - cell "U" [ref=f4230e313]
+              - cell "U" [ref=f4230e315]
+              - cell "U" [ref=f4230e317]
+              - cell "U" [ref=f4230e319]
+              - cell "U" [ref=f4230e321]
+              - cell "U" [ref=f4230e323]
+              - cell "U" [ref=f4230e325]
+              - cell "U" [ref=f4230e327]
+              - cell "U" [ref=f4230e329]
+              - cell "U" [ref=f4230e331]
+              - cell "U" [ref=f4230e333]
+              - cell "U" [ref=f4230e335]
+              - cell "U" [ref=f4230e337]
+              - cell "U" [ref=f4230e339]
+              - cell "U" [ref=f4230e341]
+              - cell "U" [ref=f4230e343]
+              - cell "U" [ref=f4230e345]
+              - cell "2013.18" [ref=f4230e347]
+            - row [ref=f4230e349]:
+              - cell "2." [ref=f4230e350]
+              - cell [ref=f4230e352]:
+                - link "Good Strongs" [ref=f4230e354] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/7
+              - cell "U" [ref=f4230e355]
+              - cell "U" [ref=f4230e357]
+              - cell "U" [ref=f4230e359]
+              - cell "U" [ref=f4230e361]
+              - cell "U" [ref=f4230e363]
+              - cell "U" [ref=f4230e365]
+              - cell "U" [ref=f4230e367]
+              - cell "U" [ref=f4230e369]
+              - cell "U" [ref=f4230e371]
+              - cell "U" [ref=f4230e373]
+              - cell "U" [ref=f4230e375]
+              - cell "U" [ref=f4230e377]
+              - cell "U" [ref=f4230e379]
+              - cell "U" [ref=f4230e381]
+              - cell "U" [ref=f4230e383]
+              - cell "U" [ref=f4230e385]
+              - cell "U" [ref=f4230e387]
+              - cell "U" [ref=f4230e389]
+              - cell "U" [ref=f4230e391]
+              - cell "U" [ref=f4230e393]
+              - cell "U" [ref=f4230e395]
+              - cell "U" [ref=f4230e397]
+              - cell "U" [ref=f4230e399]
+              - cell "U" [ref=f4230e401]
+              - cell "U" [ref=f4230e403]
+              - cell "U" [ref=f4230e405]
+              - cell "U" [ref=f4230e407]
+              - cell "U" [ref=f4230e409]
+              - cell "U" [ref=f4230e411]
+              - cell "U" [ref=f4230e413]
+              - cell "U" [ref=f4230e415]
+              - cell "U" [ref=f4230e417]
+              - cell "U" [ref=f4230e419]
+              - cell "U" [ref=f4230e421]
+              - cell "U" [ref=f4230e423]
+              - cell "1817.60" [ref=f4230e425]
+            - row [ref=f4230e427]:
+              - cell "3." [ref=f4230e428]
+              - cell [ref=f4230e430]:
+                - link "DUGASM" [ref=f4230e432] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/5
+              - cell "U" [ref=f4230e433]
+              - cell "U" [ref=f4230e435]
+              - cell "U" [ref=f4230e437]
+              - cell "U" [ref=f4230e439]
+              - cell "U" [ref=f4230e441]
+              - cell "U" [ref=f4230e443]
+              - cell "U" [ref=f4230e445]
+              - cell "U" [ref=f4230e447]
+              - cell "U" [ref=f4230e449]
+              - cell "U" [ref=f4230e451]
+              - cell "U" [ref=f4230e453]
+              - cell "U" [ref=f4230e455]
+              - cell "U" [ref=f4230e457]
+              - cell "U" [ref=f4230e459]
+              - cell "U" [ref=f4230e461]
+              - cell "U" [ref=f4230e463]
+              - cell "U" [ref=f4230e465]
+              - cell "U" [ref=f4230e467]
+              - cell "U" [ref=f4230e469]
+              - cell "U" [ref=f4230e471]
+              - cell "U" [ref=f4230e473]
+              - cell "U" [ref=f4230e475]
+              - cell "U" [ref=f4230e477]
+              - cell "U" [ref=f4230e479]
+              - cell "U" [ref=f4230e481]
+              - cell "U" [ref=f4230e483]
+              - cell "U" [ref=f4230e485]
+              - cell "U" [ref=f4230e487]
+              - cell "U" [ref=f4230e489]
+              - cell "U" [ref=f4230e491]
+              - cell "U" [ref=f4230e493]
+              - cell "U" [ref=f4230e495]
+              - cell "U" [ref=f4230e497]
+              - cell "U" [ref=f4230e499]
+              - cell "U" [ref=f4230e501]
+              - cell "2068.08" [ref=f4230e503]
+            - row [ref=f4230e505]:
+              - cell "4." [ref=f4230e506]
+              - cell [ref=f4230e508]:
+                - link "FFAmuseBouche" [ref=f4230e510] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/6
+              - cell "U" [ref=f4230e511]
+              - cell "U" [ref=f4230e513]
+              - cell "U" [ref=f4230e515]
+              - cell "U" [ref=f4230e517]
+              - cell "U" [ref=f4230e519]
+              - cell "U" [ref=f4230e521]
+              - cell "U" [ref=f4230e523]
+              - cell "U" [ref=f4230e525]
+              - cell "U" [ref=f4230e527]
+              - cell "U" [ref=f4230e529]
+              - cell "U" [ref=f4230e531]
+              - cell "U" [ref=f4230e533]
+              - cell "U" [ref=f4230e535]
+              - cell "U" [ref=f4230e537]
+              - cell "U" [ref=f4230e539]
+              - cell "U" [ref=f4230e541]
+              - cell "U" [ref=f4230e543]
+              - cell "U" [ref=f4230e545]
+              - cell "U" [ref=f4230e547]
+              - cell "U" [ref=f4230e549]
+              - cell "U" [ref=f4230e551]
+              - cell "U" [ref=f4230e553]
+              - cell "U" [ref=f4230e555]
+              - cell "U" [ref=f4230e557]
+              - cell "U" [ref=f4230e559]
+              - cell "U" [ref=f4230e561]
+              - cell "U" [ref=f4230e563]
+              - cell "U" [ref=f4230e565]
+              - cell "U" [ref=f4230e567]
+              - cell "U" [ref=f4230e569]
+              - cell "U" [ref=f4230e571]
+              - cell "U" [ref=f4230e573]
+              - cell "U" [ref=f4230e575]
+              - cell "U" [ref=f4230e577]
+              - cell "U" [ref=f4230e579]
+              - cell "1961.96" [ref=f4230e581]
+            - row [ref=f4230e583]:
+              - cell "5." [ref=f4230e584]
+              - cell [ref=f4230e586]:
+                - link "Vaqueros" [ref=f4230e588] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8
+              - cell "U" [ref=f4230e589]
+              - cell "U" [ref=f4230e591]
+              - cell "U" [ref=f4230e593]
+              - cell "U" [ref=f4230e595]
+              - cell "U" [ref=f4230e597]
+              - cell "U" [ref=f4230e599]
+              - cell "U" [ref=f4230e601]
+              - cell "U" [ref=f4230e603]
+              - cell "U" [ref=f4230e605]
+              - cell "U" [ref=f4230e607]
+              - cell "U" [ref=f4230e609]
+              - cell "U" [ref=f4230e611]
+              - cell "U" [ref=f4230e613]
+              - cell "U" [ref=f4230e615]
+              - cell "U" [ref=f4230e617]
+              - cell "U" [ref=f4230e619]
+              - cell "U" [ref=f4230e621]
+              - cell "U" [ref=f4230e623]
+              - cell "U" [ref=f4230e625]
+              - cell "U" [ref=f4230e627]
+              - cell "U" [ref=f4230e629]
+              - cell "U" [ref=f4230e631]
+              - cell "U" [ref=f4230e633]
+              - cell "U" [ref=f4230e635]
+              - cell "U" [ref=f4230e637]
+              - cell "U" [ref=f4230e639]
+              - cell "U" [ref=f4230e641]
+              - cell "U" [ref=f4230e643]
+              - cell "U" [ref=f4230e645]
+              - cell "U" [ref=f4230e647]
+              - cell "U" [ref=f4230e649]
+              - cell "U" [ref=f4230e651]
+              - cell "U" [ref=f4230e653]
+              - cell "U" [ref=f4230e655]
+              - cell "U" [ref=f4230e657]
+              - cell "1845.88" [ref=f4230e659]
+            - row [ref=f4230e661]:
+              - cell "6." [ref=f4230e662]
+              - cell [ref=f4230e664]:
+                - link "Wet Serapas" [ref=f4230e666] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/1
+              - cell "U" [ref=f4230e667]
+              - cell "U" [ref=f4230e669]
+              - cell "U" [ref=f4230e671]
+              - cell "U" [ref=f4230e673]
+              - cell "U" [ref=f4230e675]
+              - cell "U" [ref=f4230e677]
+              - cell "U" [ref=f4230e679]
+              - cell "U" [ref=f4230e681]
+              - cell "U" [ref=f4230e683]
+              - cell "U" [ref=f4230e685]
+              - cell "U" [ref=f4230e687]
+              - cell "U" [ref=f4230e689]
+              - cell "U" [ref=f4230e691]
+              - cell "U" [ref=f4230e693]
+              - cell "U" [ref=f4230e695]
+              - cell "U" [ref=f4230e697]
+              - cell "U" [ref=f4230e699]
+              - cell "U" [ref=f4230e701]
+              - cell "U" [ref=f4230e703]
+              - cell "U" [ref=f4230e705]
+              - cell "U" [ref=f4230e707]
+              - cell "U" [ref=f4230e709]
+              - cell "U" [ref=f4230e711]
+              - cell "U" [ref=f4230e713]
+              - cell "U" [ref=f4230e715]
+              - cell "U" [ref=f4230e717]
+              - cell "U" [ref=f4230e719]
+              - cell "U" [ref=f4230e721]
+              - cell "U" [ref=f4230e723]
+              - cell "U" [ref=f4230e725]
+              - cell "U" [ref=f4230e727]
+              - cell "U" [ref=f4230e729]
+              - cell "U" [ref=f4230e731]
+              - cell "U" [ref=f4230e733]
+              - cell "U" [ref=f4230e735]
+              - cell "1857.56" [ref=f4230e737]
+            - row [ref=f4230e739]:
+              - cell "7." [ref=f4230e740]
+              - cell [ref=f4230e742]:
+                - link "Deepest" [ref=f4230e744] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/3
+              - cell "U" [ref=f4230e745]
+              - cell "U" [ref=f4230e747]
+              - cell "U" [ref=f4230e749]
+              - cell "U" [ref=f4230e751]
+              - cell "U" [ref=f4230e753]
+              - cell "U" [ref=f4230e755]
+              - cell "U" [ref=f4230e757]
+              - cell "U" [ref=f4230e759]
+              - cell "U" [ref=f4230e761]
+              - cell "U" [ref=f4230e763]
+              - cell "U" [ref=f4230e765]
+              - cell "U" [ref=f4230e767]
+              - cell "U" [ref=f4230e769]
+              - cell "U" [ref=f4230e771]
+              - cell "U" [ref=f4230e773]
+              - cell "U" [ref=f4230e775]
+              - cell "U" [ref=f4230e777]
+              - cell "U" [ref=f4230e779]
+              - cell "U" [ref=f4230e781]
+              - cell "U" [ref=f4230e783]
+              - cell "U" [ref=f4230e785]
+              - cell "U" [ref=f4230e787]
+              - cell "U" [ref=f4230e789]
+              - cell "U" [ref=f4230e791]
+              - cell "U" [ref=f4230e793]
+              - cell "U" [ref=f4230e795]
+              - cell "U" [ref=f4230e797]
+              - cell "U" [ref=f4230e799]
+              - cell "U" [ref=f4230e801]
+              - cell "U" [ref=f4230e803]
+              - cell "U" [ref=f4230e805]
+              - cell "U" [ref=f4230e807]
+              - cell "U" [ref=f4230e809]
+              - cell "U" [ref=f4230e811]
+              - cell "U" [ref=f4230e813]
+              - cell "1751.20" [ref=f4230e815]
+            - row [ref=f4230e817]:
+              - cell "8." [ref=f4230e818]
+              - cell [ref=f4230e820]:
+                - link "bigballs" [ref=f4230e822] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/2
+              - cell "U" [ref=f4230e823]
+              - cell "U" [ref=f4230e825]
+              - cell "U" [ref=f4230e827]
+              - cell "U" [ref=f4230e829]
+              - cell "U" [ref=f4230e831]
+              - cell "U" [ref=f4230e833]
+              - cell "U" [ref=f4230e835]
+              - cell "U" [ref=f4230e837]
+              - cell "U" [ref=f4230e839]
+              - cell "U" [ref=f4230e841]
+              - cell "U" [ref=f4230e843]
+              - cell "U" [ref=f4230e845]
+              - cell "U" [ref=f4230e847]
+              - cell "U" [ref=f4230e849]
+              - cell "U" [ref=f4230e851]
+              - cell "U" [ref=f4230e853]
+              - cell "U" [ref=f4230e855]
+              - cell "U" [ref=f4230e857]
+              - cell "U" [ref=f4230e859]
+              - cell "U" [ref=f4230e861]
+              - cell "U" [ref=f4230e863]
+              - cell "U" [ref=f4230e865]
+              - cell "U" [ref=f4230e867]
+              - cell "U" [ref=f4230e869]
+              - cell "U" [ref=f4230e871]
+              - cell "U" [ref=f4230e873]
+              - cell "U" [ref=f4230e875]
+              - cell "U" [ref=f4230e877]
+              - cell "U" [ref=f4230e879]
+              - cell "U" [ref=f4230e881]
+              - cell "U" [ref=f4230e883]
+              - cell "U" [ref=f4230e885]
+              - cell "U" [ref=f4230e887]
+              - cell "U" [ref=f4230e889]
+              - cell "U" [ref=f4230e891]
+              - cell "1728.18" [ref=f4230e893]
+        - heading "Overall Stats" [level=4] [ref=f4230e895]
+        - table [ref=f4230e896]:
+          - rowgroup [ref=f4230e897]:
+            - row "Passing Rushing Receiving Ret Miscellaneous Fum Field Goals Made FG Miss PAT Tackles Turnovers TD Points Allowed" [ref=f4230e898]:
+              - columnheader [ref=f4230e899]
+              - columnheader [ref=f4230e901]
+              - columnheader "Passing" [ref=f4230e903]
+              - columnheader "Rushing" [ref=f4230e905]
+              - columnheader "Receiving" [ref=f4230e907]
+              - columnheader "Ret" [ref=f4230e909]
+              - columnheader "Miscellaneous" [ref=f4230e911]
+              - columnheader "Fum" [ref=f4230e913]
+              - columnheader "Field Goals Made" [ref=f4230e915]
+              - columnheader "FG Miss" [ref=f4230e917]
+              - columnheader "PAT" [ref=f4230e919]
+              - columnheader "Tackles" [ref=f4230e921]
+              - columnheader "Turnovers" [ref=f4230e923]
+              - columnheader "TD" [ref=f4230e925]
+              - columnheader "Points Allowed" [ref=f4230e927]
+            - row [ref=f4230e929]:
+              - columnheader [ref=f4230e930]
+              - columnheader [ref=f4230e931]
+              - columnheader [ref=f4230e932]:
+                - link "Yds" [ref=f4230e934] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=4&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e935]:
+                - link "TD" [ref=f4230e937] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=5&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e938]:
+                - link "Int" [ref=f4230e940] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=6&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e941]:
+                - link "Yds" [ref=f4230e943] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=9&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e944]:
+                - link "TD" [ref=f4230e946] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=10&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e947]:
+                - link "Rec" [ref=f4230e949] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=11&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e950]:
+                - link "Yds" [ref=f4230e952] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=12&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e953]:
+                - link "TD" [ref=f4230e955] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=13&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e956]:
+                - link "TD" [ref=f4230e958] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=15&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e959]:
+                - link "2PT" [ref=f4230e961] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=16&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e962]:
+                - link "Off Fumb TD" [ref=f4230e964] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=57&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e965]:
+                - link "Blk Kick" [ref=f4230e967] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=37&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e968]:
+                - link "XPR" [ref=f4230e970] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=82&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e971]:
+                - link "Lost" [ref=f4230e973] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=18&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e974]:
+                - link "0-19" [ref=f4230e976] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=19&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e977]:
+                - link "20-29" [ref=f4230e979] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=20&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e980]:
+                - link "30-39" [ref=f4230e982] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=21&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e983]:
+                - link "40-49" [ref=f4230e985] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=22&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e986]:
+                - link "50+" [ref=f4230e988] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=23&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e989]:
+                - link "0-19" [ref=f4230e991] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=24&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e992]:
+                - link "20-29" [ref=f4230e994] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=25&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e995]:
+                - link "Made" [ref=f4230e997] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=29&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e998]:
+                - link "Miss" [ref=f4230e1000] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=30&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1001]:
+                - link "Sack" [ref=f4230e1003] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=32&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1004]:
+                - link "Safe" [ref=f4230e1006] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=36&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1007]:
+                - link "Int" [ref=f4230e1009] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=33&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1010]:
+                - link "Fum Rec" [ref=f4230e1012] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=34&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1013]:
+                - link "TD" [ref=f4230e1015] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=35&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1016]:
+                - link "0 Pts" [ref=f4230e1018] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=50&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1019]:
+                - link "1-6 Pts" [ref=f4230e1021] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=51&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1022]:
+                - link "7-13 Pts" [ref=f4230e1024] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=52&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1025]:
+                - link "14-20 Pts" [ref=f4230e1027] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=53&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1028]:
+                - link "21-27 Pts" [ref=f4230e1030] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=54&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1031]:
+                - link "28-34 Pts" [ref=f4230e1033] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=55&sdir=1&pspid=782200910&activity=players_sort_click
+              - columnheader [ref=f4230e1034]:
+                - link "35+ Pts" [ref=f4230e1036] [cursor=pointer]:
+                  - /url: /2017/f1/122934/standings?stype=season&sort=56&sdir=1&pspid=782200910&activity=players_sort_click
+          - rowgroup [ref=f4230e1037]:
+            - row [ref=f4230e1038]:
+              - cell "1." [ref=f4230e1039]
+              - cell [ref=f4230e1041]:
+                - link "Dezbians" [ref=f4230e1043] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/4
+              - cell "U" [ref=f4230e1044]
+              - cell "U" [ref=f4230e1046]
+              - cell "U" [ref=f4230e1048]
+              - cell "U" [ref=f4230e1050]
+              - cell "U" [ref=f4230e1052]
+              - cell "U" [ref=f4230e1054]
+              - cell "U" [ref=f4230e1056]
+              - cell "U" [ref=f4230e1058]
+              - cell "U" [ref=f4230e1060]
+              - cell "U" [ref=f4230e1062]
+              - cell "U" [ref=f4230e1064]
+              - cell "U" [ref=f4230e1066]
+              - cell "U" [ref=f4230e1068]
+              - cell "U" [ref=f4230e1070]
+              - cell "U" [ref=f4230e1072]
+              - cell "U" [ref=f4230e1074]
+              - cell "U" [ref=f4230e1076]
+              - cell "U" [ref=f4230e1078]
+              - cell "U" [ref=f4230e1080]
+              - cell "U" [ref=f4230e1082]
+              - cell "U" [ref=f4230e1084]
+              - cell "U" [ref=f4230e1086]
+              - cell "U" [ref=f4230e1088]
+              - cell "U" [ref=f4230e1090]
+              - cell "U" [ref=f4230e1092]
+              - cell "U" [ref=f4230e1094]
+              - cell "U" [ref=f4230e1096]
+              - cell "U" [ref=f4230e1098]
+              - cell "U" [ref=f4230e1100]
+              - cell "U" [ref=f4230e1102]
+              - cell "U" [ref=f4230e1104]
+              - cell "U" [ref=f4230e1106]
+              - cell "U" [ref=f4230e1108]
+              - cell "U" [ref=f4230e1110]
+              - cell "U" [ref=f4230e1112]
+            - row [ref=f4230e1114]:
+              - cell "2." [ref=f4230e1115]
+              - cell [ref=f4230e1117]:
+                - link "Good Strongs" [ref=f4230e1119] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/7
+              - cell "U" [ref=f4230e1120]
+              - cell "U" [ref=f4230e1122]
+              - cell "U" [ref=f4230e1124]
+              - cell "U" [ref=f4230e1126]
+              - cell "U" [ref=f4230e1128]
+              - cell "U" [ref=f4230e1130]
+              - cell "U" [ref=f4230e1132]
+              - cell "U" [ref=f4230e1134]
+              - cell "U" [ref=f4230e1136]
+              - cell "U" [ref=f4230e1138]
+              - cell "U" [ref=f4230e1140]
+              - cell "U" [ref=f4230e1142]
+              - cell "U" [ref=f4230e1144]
+              - cell "U" [ref=f4230e1146]
+              - cell "U" [ref=f4230e1148]
+              - cell "U" [ref=f4230e1150]
+              - cell "U" [ref=f4230e1152]
+              - cell "U" [ref=f4230e1154]
+              - cell "U" [ref=f4230e1156]
+              - cell "U" [ref=f4230e1158]
+              - cell "U" [ref=f4230e1160]
+              - cell "U" [ref=f4230e1162]
+              - cell "U" [ref=f4230e1164]
+              - cell "U" [ref=f4230e1166]
+              - cell "U" [ref=f4230e1168]
+              - cell "U" [ref=f4230e1170]
+              - cell "U" [ref=f4230e1172]
+              - cell "U" [ref=f4230e1174]
+              - cell "U" [ref=f4230e1176]
+              - cell "U" [ref=f4230e1178]
+              - cell "U" [ref=f4230e1180]
+              - cell "U" [ref=f4230e1182]
+              - cell "U" [ref=f4230e1184]
+              - cell "U" [ref=f4230e1186]
+              - cell "U" [ref=f4230e1188]
+            - row [ref=f4230e1190]:
+              - cell "3." [ref=f4230e1191]
+              - cell [ref=f4230e1193]:
+                - link "DUGASM" [ref=f4230e1195] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/5
+              - cell "U" [ref=f4230e1196]
+              - cell "U" [ref=f4230e1198]
+              - cell "U" [ref=f4230e1200]
+              - cell "U" [ref=f4230e1202]
+              - cell "U" [ref=f4230e1204]
+              - cell "U" [ref=f4230e1206]
+              - cell "U" [ref=f4230e1208]
+              - cell "U" [ref=f4230e1210]
+              - cell "U" [ref=f4230e1212]
+              - cell "U" [ref=f4230e1214]
+              - cell "U" [ref=f4230e1216]
+              - cell "U" [ref=f4230e1218]
+              - cell "U" [ref=f4230e1220]
+              - cell "U" [ref=f4230e1222]
+              - cell "U" [ref=f4230e1224]
+              - cell "U" [ref=f4230e1226]
+              - cell "U" [ref=f4230e1228]
+              - cell "U" [ref=f4230e1230]
+              - cell "U" [ref=f4230e1232]
+              - cell "U" [ref=f4230e1234]
+              - cell "U" [ref=f4230e1236]
+              - cell "U" [ref=f4230e1238]
+              - cell "U" [ref=f4230e1240]
+              - cell "U" [ref=f4230e1242]
+              - cell "U" [ref=f4230e1244]
+              - cell "U" [ref=f4230e1246]
+              - cell "U" [ref=f4230e1248]
+              - cell "U" [ref=f4230e1250]
+              - cell "U" [ref=f4230e1252]
+              - cell "U" [ref=f4230e1254]
+              - cell "U" [ref=f4230e1256]
+              - cell "U" [ref=f4230e1258]
+              - cell "U" [ref=f4230e1260]
+              - cell "U" [ref=f4230e1262]
+              - cell "U" [ref=f4230e1264]
+            - row [ref=f4230e1266]:
+              - cell "4." [ref=f4230e1267]
+              - cell [ref=f4230e1269]:
+                - link "FFAmuseBouche" [ref=f4230e1271] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/6
+              - cell "U" [ref=f4230e1272]
+              - cell "U" [ref=f4230e1274]
+              - cell "U" [ref=f4230e1276]
+              - cell "U" [ref=f4230e1278]
+              - cell "U" [ref=f4230e1280]
+              - cell "U" [ref=f4230e1282]
+              - cell "U" [ref=f4230e1284]
+              - cell "U" [ref=f4230e1286]
+              - cell "U" [ref=f4230e1288]
+              - cell "U" [ref=f4230e1290]
+              - cell "U" [ref=f4230e1292]
+              - cell "U" [ref=f4230e1294]
+              - cell "U" [ref=f4230e1296]
+              - cell "U" [ref=f4230e1298]
+              - cell "U" [ref=f4230e1300]
+              - cell "U" [ref=f4230e1302]
+              - cell "U" [ref=f4230e1304]
+              - cell "U" [ref=f4230e1306]
+              - cell "U" [ref=f4230e1308]
+              - cell "U" [ref=f4230e1310]
+              - cell "U" [ref=f4230e1312]
+              - cell "U" [ref=f4230e1314]
+              - cell "U" [ref=f4230e1316]
+              - cell "U" [ref=f4230e1318]
+              - cell "U" [ref=f4230e1320]
+              - cell "U" [ref=f4230e1322]
+              - cell "U" [ref=f4230e1324]
+              - cell "U" [ref=f4230e1326]
+              - cell "U" [ref=f4230e1328]
+              - cell "U" [ref=f4230e1330]
+              - cell "U" [ref=f4230e1332]
+              - cell "U" [ref=f4230e1334]
+              - cell "U" [ref=f4230e1336]
+              - cell "U" [ref=f4230e1338]
+              - cell "U" [ref=f4230e1340]
+            - row [ref=f4230e1342]:
+              - cell "5." [ref=f4230e1343]
+              - cell [ref=f4230e1345]:
+                - link "Vaqueros" [ref=f4230e1347] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8
+              - cell "U" [ref=f4230e1348]
+              - cell "U" [ref=f4230e1350]
+              - cell "U" [ref=f4230e1352]
+              - cell "U" [ref=f4230e1354]
+              - cell "U" [ref=f4230e1356]
+              - cell "U" [ref=f4230e1358]
+              - cell "U" [ref=f4230e1360]
+              - cell "U" [ref=f4230e1362]
+              - cell "U" [ref=f4230e1364]
+              - cell "U" [ref=f4230e1366]
+              - cell "U" [ref=f4230e1368]
+              - cell "U" [ref=f4230e1370]
+              - cell "U" [ref=f4230e1372]
+              - cell "U" [ref=f4230e1374]
+              - cell "U" [ref=f4230e1376]
+              - cell "U" [ref=f4230e1378]
+              - cell "U" [ref=f4230e1380]
+              - cell "U" [ref=f4230e1382]
+              - cell "U" [ref=f4230e1384]
+              - cell "U" [ref=f4230e1386]
+              - cell "U" [ref=f4230e1388]
+              - cell "U" [ref=f4230e1390]
+              - cell "U" [ref=f4230e1392]
+              - cell "U" [ref=f4230e1394]
+              - cell "U" [ref=f4230e1396]
+              - cell "U" [ref=f4230e1398]
+              - cell "U" [ref=f4230e1400]
+              - cell "U" [ref=f4230e1402]
+              - cell "U" [ref=f4230e1404]
+              - cell "U" [ref=f4230e1406]
+              - cell "U" [ref=f4230e1408]
+              - cell "U" [ref=f4230e1410]
+              - cell "U" [ref=f4230e1412]
+              - cell "U" [ref=f4230e1414]
+              - cell "U" [ref=f4230e1416]
+            - row [ref=f4230e1418]:
+              - cell "6." [ref=f4230e1419]
+              - cell [ref=f4230e1421]:
+                - link "Wet Serapas" [ref=f4230e1423] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/1
+              - cell "U" [ref=f4230e1424]
+              - cell "U" [ref=f4230e1426]
+              - cell "U" [ref=f4230e1428]
+              - cell "U" [ref=f4230e1430]
+              - cell "U" [ref=f4230e1432]
+              - cell "U" [ref=f4230e1434]
+              - cell "U" [ref=f4230e1436]
+              - cell "U" [ref=f4230e1438]
+              - cell "U" [ref=f4230e1440]
+              - cell "U" [ref=f4230e1442]
+              - cell "U" [ref=f4230e1444]
+              - cell "U" [ref=f4230e1446]
+              - cell "U" [ref=f4230e1448]
+              - cell "U" [ref=f4230e1450]
+              - cell "U" [ref=f4230e1452]
+              - cell "U" [ref=f4230e1454]
+              - cell "U" [ref=f4230e1456]
+              - cell "U" [ref=f4230e1458]
+              - cell "U" [ref=f4230e1460]
+              - cell "U" [ref=f4230e1462]
+              - cell "U" [ref=f4230e1464]
+              - cell "U" [ref=f4230e1466]
+              - cell "U" [ref=f4230e1468]
+              - cell "U" [ref=f4230e1470]
+              - cell "U" [ref=f4230e1472]
+              - cell "U" [ref=f4230e1474]
+              - cell "U" [ref=f4230e1476]
+              - cell "U" [ref=f4230e1478]
+              - cell "U" [ref=f4230e1480]
+              - cell "U" [ref=f4230e1482]
+              - cell "U" [ref=f4230e1484]
+              - cell "U" [ref=f4230e1486]
+              - cell "U" [ref=f4230e1488]
+              - cell "U" [ref=f4230e1490]
+              - cell "U" [ref=f4230e1492]
+            - row [ref=f4230e1494]:
+              - cell "7." [ref=f4230e1495]
+              - cell [ref=f4230e1497]:
+                - link "Deepest" [ref=f4230e1499] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/3
+              - cell "U" [ref=f4230e1500]
+              - cell "U" [ref=f4230e1502]
+              - cell "U" [ref=f4230e1504]
+              - cell "U" [ref=f4230e1506]
+              - cell "U" [ref=f4230e1508]
+              - cell "U" [ref=f4230e1510]
+              - cell "U" [ref=f4230e1512]
+              - cell "U" [ref=f4230e1514]
+              - cell "U" [ref=f4230e1516]
+              - cell "U" [ref=f4230e1518]
+              - cell "U" [ref=f4230e1520]
+              - cell "U" [ref=f4230e1522]
+              - cell "U" [ref=f4230e1524]
+              - cell "U" [ref=f4230e1526]
+              - cell "U" [ref=f4230e1528]
+              - cell "U" [ref=f4230e1530]
+              - cell "U" [ref=f4230e1532]
+              - cell "U" [ref=f4230e1534]
+              - cell "U" [ref=f4230e1536]
+              - cell "U" [ref=f4230e1538]
+              - cell "U" [ref=f4230e1540]
+              - cell "U" [ref=f4230e1542]
+              - cell "U" [ref=f4230e1544]
+              - cell "U" [ref=f4230e1546]
+              - cell "U" [ref=f4230e1548]
+              - cell "U" [ref=f4230e1550]
+              - cell "U" [ref=f4230e1552]
+              - cell "U" [ref=f4230e1554]
+              - cell "U" [ref=f4230e1556]
+              - cell "U" [ref=f4230e1558]
+              - cell "U" [ref=f4230e1560]
+              - cell "U" [ref=f4230e1562]
+              - cell "U" [ref=f4230e1564]
+              - cell "U" [ref=f4230e1566]
+              - cell "U" [ref=f4230e1568]
+            - row [ref=f4230e1570]:
+              - cell "8." [ref=f4230e1571]
+              - cell [ref=f4230e1573]:
+                - link "bigballs" [ref=f4230e1575] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/2
+              - cell "U" [ref=f4230e1576]
+              - cell "U" [ref=f4230e1578]
+              - cell "U" [ref=f4230e1580]
+              - cell "U" [ref=f4230e1582]
+              - cell "U" [ref=f4230e1584]
+              - cell "U" [ref=f4230e1586]
+              - cell "U" [ref=f4230e1588]
+              - cell "U" [ref=f4230e1590]
+              - cell "U" [ref=f4230e1592]
+              - cell "U" [ref=f4230e1594]
+              - cell "U" [ref=f4230e1596]
+              - cell "U" [ref=f4230e1598]
+              - cell "U" [ref=f4230e1600]
+              - cell "U" [ref=f4230e1602]
+              - cell "U" [ref=f4230e1604]
+              - cell "U" [ref=f4230e1606]
+              - cell "U" [ref=f4230e1608]
+              - cell "U" [ref=f4230e1610]
+              - cell "U" [ref=f4230e1612]
+              - cell "U" [ref=f4230e1614]
+              - cell "U" [ref=f4230e1616]
+              - cell "U" [ref=f4230e1618]
+              - cell "U" [ref=f4230e1620]
+              - cell "U" [ref=f4230e1622]
+              - cell "U" [ref=f4230e1624]
+              - cell "U" [ref=f4230e1626]
+              - cell "U" [ref=f4230e1628]
+              - cell "U" [ref=f4230e1630]
+              - cell "U" [ref=f4230e1632]
+              - cell "U" [ref=f4230e1634]
+              - cell "U" [ref=f4230e1636]
+              - cell "U" [ref=f4230e1638]
+              - cell "U" [ref=f4230e1640]
+              - cell "U" [ref=f4230e1642]
+              - cell "U" [ref=f4230e1644]
+    - contentinfo [ref=f4230e1646]:
+      - iframe [ref=f4230e1675]:
+        - insertion [ref=f4243e3]:
+          - iframe [ref=f4243e4]:
+            - iframe [ref=f4244e4]
+      - generic [ref=f4230e1653]:
+        - list [ref=f4230e1654]:
+          - listitem [ref=f4230e1655]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f4230e1656]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f4230e1657] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f4230e1658]:
+            - text: "-"
+            - link "Feedback" [ref=f4230e1659] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f4230e1660]:
+            - text: "-"
+            - link "Terms" [ref=f4230e1661] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f4230e1662] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f4230e1663]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f4230e1664] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f4230e1665]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f4230e1666] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f4230e1667]:
+            - text: "-"
+            - link "About Our Ads" [ref=f4230e1668] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f4230e1669]:
+            - text: "-"
+            - link "Help" [ref=f4230e1670] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f4230e1671]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f4230e1672]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f4230e1673]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

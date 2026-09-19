@@ -1,0 +1,998 @@
+- generic [ref=f4618e3]:
+  - generic [ref=f4618e6]:
+    - banner [ref=f4618e8]:
+      - generic [ref=f4618e9]:
+        - generic [ref=f4618e11]:
+          - generic [ref=f4618e12]:
+            - generic [ref=f4618e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f4618e14]
+              - link "Yahoo Sports" [ref=f4618e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f4618e20]:
+              - generic [ref=f4618e21]: Search query
+              - combobox "Search query" [ref=f4618e22]
+              - button "Search" [ref=f4618e24] [cursor=pointer]
+          - navigation [ref=f4618e28]:
+            - list [ref=f4618e29]:
+              - listitem [ref=f4618e30]:
+                - link "News" [ref=f4618e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f4618e32]:
+                - link "Finance" [ref=f4618e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f4618e34]:
+                - link "Sports" [ref=f4618e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f4618e36]:
+                - button "More" [ref=f4618e37] [cursor=pointer]
+          - toolbar [ref=f4618e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f4618e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f4618e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f4618e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f4618e55]:
+          - link "Fantasy Football" [ref=f4618e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f4618e60] [cursor=pointer]:
+            - /url: /2017/f1/122934
+          - link "League" [ref=f4618e61] [cursor=pointer]:
+            - /url: /2017/f1/122934
+          - link "My Team" [ref=f4618e62] [cursor=pointer]:
+            - /url: /2017/f1/122934/8
+          - link "Matchups" [ref=f4618e63] [cursor=pointer]:
+            - /url: /2017/f1/122934/matchup
+          - link "Players" [ref=f4618e64] [cursor=pointer]:
+            - /url: /2017/f1/122934/players
+          - link "Draft Results" [ref=f4618e65] [cursor=pointer]:
+            - /url: /2017/f1/122934/draftresults
+          - list [ref=f4618e68]:
+            - listitem [ref=f4618e69]:
+              - link [ref=f4618e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f4618e79]:
+              - link [ref=f4618e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4618e89]:
+              - link "Get Fantasy Plus" [ref=f4618e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f4618e97]: Deeper Than (ID# 122934)
+  - generic [ref=f4618e101]:
+    - banner [ref=f4618e102]:
+      - generic [ref=f4618e103]:
+        - heading [level=2] [ref=f4618e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f4618e106] [cursor=pointer]:
+            - /url: /2017/f1
+        - iframe [ref=f4618e1621]:
+          - insertion [ref=f4628e3]:
+            - iframe [ref=f4628e4]:
+              - iframe [ref=f4631e4]
+        - link [ref=f4618e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f4618e113]
+    - generic [ref=f4618e118]:
+      - generic [ref=f4618e127]:
+        - generic [ref=f4618e129]:
+          - link "Team logo" [ref=f4618e131] [cursor=pointer]:
+            - /url: /2017/f1/122934/8/editteaminfo
+            - img "Team logo" [ref=f4618e133]
+          - generic [ref=f4618e134]:
+            - list [ref=f4618e137]:
+              - listitem [ref=f4618e138]:
+                - generic [ref=f4618e139]: Vaqueros
+            - list [ref=f4618e141]:
+              - listitem [ref=f4618e142]:
+                - link "Andrew Allard" [ref=f4618e143] [cursor=pointer]:
+                  - /url: https://profiles.sports.yahoo.com/user/G4Y6BBVM4ZQ5DAHJQZEHLAX2DA?sport=football
+                - text: (Since '05)
+              - listitem [ref=f4618e144]:
+                - link "Gold 753" [ref=f4618e145] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=f4618e146]:
+          - generic [ref=f4618e147]:
+            - generic [ref=f4618e148]:
+              - text: 5-9-0
+              - emphasis [ref=f4618e149]:
+                - text: "5"
+                - superscript [ref=f4618e150]: th
+                - text: Place
+            - generic [ref=f4618e151]:
+              - text: 1,845.88
+              - emphasis [ref=f4618e152]:
+                - text: Total Points (5
+                - superscript [ref=f4618e153]: th
+                - text: )
+          - generic [ref=f4618e155]:
+            - generic [ref=f4618e156]:
+              - text: Week 16 vs
+              - link "Wet Serapas" [ref=f4618e157] [cursor=pointer]:
+                - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/1
+              - text: • 6
+              - superscript [ref=f4618e158]: th
+            - list [ref=f4618e159]:
+              - listitem [ref=f4618e160] [cursor=pointer]:
+                - generic [ref=f4618e161]:
+                  - generic [ref=f4618e163]:
+                    - link "logo" [ref=f4618e167]:
+                      - /url: /2017/f1/122934/8
+                      - img "logo" [ref=f4618e168]
+                    - generic [ref=f4618e170]:
+                      - generic [ref=f4618e171]: "131.86"
+                      - generic [ref=f4618e172]: "135.66"
+                  - generic [ref=f4618e173]: vs
+                  - generic [ref=f4618e176]:
+                    - generic [ref=f4618e178]:
+                      - generic [ref=f4618e179]: "107.56"
+                      - generic [ref=f4618e180]: "140.55"
+                    - link "logo" [ref=f4618e184]:
+                      - /url: /2017/f1/122934/1
+                      - img "logo" [ref=f4618e185]
+      - generic [ref=f4618e186]:
+        - generic [ref=f4618e187]:
+          - generic [ref=f4618e189]:
+            - generic "Week 16" [ref=f4618e192]:
+              - link "" [ref=f4618e193] [cursor=pointer]:
+                - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8/team?&week=15
+              - link "Week 16" [ref=f4618e194] [cursor=pointer]:
+                - /url: "#"
+              - link "" [ref=f4618e197]:
+                - /url: ""
+            - list [ref=f4618e199]:
+              - listitem [ref=f4618e200]:
+                - link "Stats" [ref=f4618e201] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=S
+              - listitem [ref=f4618e202]:
+                - link "Projected Stats" [ref=f4618e203] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=P&ssort=W
+              - listitem [ref=f4618e204]:
+                - link "Game Day Decision" [ref=f4618e205] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=GDD&ssort=W
+              - listitem [ref=f4618e206]:
+                - link "Split Stats" [ref=f4618e207] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=SPS&ssort=W
+              - listitem [ref=f4618e208]:
+                - link "Ranks" [ref=f4618e209] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=K&ssort=W
+              - listitem [ref=f4618e210]:
+                - link "Opponents" [ref=f4618e211] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=O&ssort=W
+              - listitem [ref=f4618e212]:
+                - link "Research" [ref=f4618e213] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=R&ssort=W
+              - listitem [ref=f4618e214]:
+                - link [ref=f4618e215] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=ADVST
+                  - text: Advanced Stats
+                  - img "Yahoo Fantasy Plus Icon" [ref=f4618e216]: 
+            - list [ref=f4618e219]:
+              - listitem [ref=f4618e220]:
+                - link "Current Week" [ref=f4618e221] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=S&stat2=W
+              - listitem [ref=f4618e222]:
+                - link "Last 4 Weeks" [ref=f4618e223] [cursor=pointer]:
+                  - /url: https://football.fantasysports.yahoo.com/2017/f1/122934/8?stat1=S&stat2=L4W
+          - generic [ref=f4618e226]:
+            - table "Vaqueros's Offense roster for week 16." [ref=f4618e228]:
+              - caption:
+                - generic [ref=f4618e229]: Vaqueros's Offense roster for week 16.
+              - rowgroup [ref=f4618e230]:
+                - row "Fantasy Passing Rushing Receiving Ret Misc Fum" [ref=f4618e231]:
+                  - columnheader [ref=f4618e232]
+                  - columnheader [ref=f4618e234]
+                  - columnheader "Bye" [ref=f4618e236]
+                  - columnheader "Fantasy" [ref=f4618e238]
+                  - columnheader "Passing" [ref=f4618e240]
+                  - columnheader "Rushing" [ref=f4618e242]
+                  - columnheader "Receiving" [ref=f4618e244]
+                  - columnheader "Ret" [ref=f4618e246]
+                  - columnheader "Misc" [ref=f4618e248]
+                  - columnheader "Fum" [ref=f4618e250]
+                  - columnheader [ref=f4618e252]
+                - row [ref=f4618e253]:
+                  - columnheader "Pos" [ref=f4618e254]
+                  - columnheader "Offense" [ref=f4618e256]
+                  - columnheader "Bye" [ref=f4618e258]
+                  - columnheader "Fan Pts" [ref=f4618e260]
+                  - columnheader "Proj Pts" [ref=f4618e262]
+                  - columnheader "Yds" [ref=f4618e264]
+                  - columnheader "TD" [ref=f4618e266]
+                  - columnheader "Int" [ref=f4618e268]
+                  - columnheader "Att*" [ref=f4618e270]
+                  - columnheader "Yds" [ref=f4618e272]
+                  - columnheader "TD" [ref=f4618e274]
+                  - columnheader "Rec" [ref=f4618e276]
+                  - columnheader "Yds" [ref=f4618e278]
+                  - columnheader "TD" [ref=f4618e280]
+                  - columnheader "Tgt*" [ref=f4618e282]
+                  - columnheader "TD" [ref=f4618e284]
+                  - columnheader "2PT" [ref=f4618e286]
+                  - columnheader "Lost" [ref=f4618e288]
+                  - columnheader [ref=f4618e290]
+              - rowgroup [ref=f4618e291]:
+                - row [ref=f4618e292]:
+                  - cell "QB" [ref=f4618e293]
+                  - cell "Alex Smith Alex Smith" [ref=f4618e296]:
+                    - generic [ref=f4618e298]:
+                      - img "Alex Smith" [ref=f4618e300]
+                      - link "Alex Smith" [ref=f4618e305] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/7177
+                  - cell "5" [ref=f4618e306]
+                  - cell "17.46" [ref=f4618e308]:
+                    - link "17.46" [ref=f4618e310] [cursor=pointer]:
+                      - /url: "#pps-7177"
+                  - cell "16.57" [ref=f4618e311]
+                  - cell "-" [ref=f4618e313]
+                  - cell "-" [ref=f4618e315]
+                  - cell "-" [ref=f4618e317]
+                  - cell "-" [ref=f4618e319]
+                  - cell "-" [ref=f4618e321]
+                  - cell "-" [ref=f4618e323]
+                  - cell "-" [ref=f4618e325]
+                  - cell "-" [ref=f4618e327]
+                  - cell "-" [ref=f4618e329]
+                  - cell "-" [ref=f4618e331]
+                  - cell "-" [ref=f4618e333]
+                  - cell "-" [ref=f4618e335]
+                  - cell "-" [ref=f4618e337]
+                  - cell [ref=f4618e339]
+                - row [ref=f4618e340]:
+                  - cell "QB" [ref=f4618e341]
+                  - cell "Derek Carr Derek Carr " [ref=f4618e344]:
+                    - generic [ref=f4618e346]:
+                      - img "Derek Carr" [ref=f4618e348]
+                      - generic [ref=f4618e352]:
+                        - link "Derek Carr" [ref=f4618e353] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/27564
+                        - generic [ref=f4618e354]: 
+                  - cell "5" [ref=f4618e355]
+                  - cell "5.90" [ref=f4618e357]:
+                    - link "5.90" [ref=f4618e359] [cursor=pointer]:
+                      - /url: "#pps-27564"
+                  - cell "14.67" [ref=f4618e360]
+                  - cell "-" [ref=f4618e362]
+                  - cell "-" [ref=f4618e364]
+                  - cell "-" [ref=f4618e366]
+                  - cell "-" [ref=f4618e368]
+                  - cell "-" [ref=f4618e370]
+                  - cell "-" [ref=f4618e372]
+                  - cell "-" [ref=f4618e374]
+                  - cell "-" [ref=f4618e376]
+                  - cell "-" [ref=f4618e378]
+                  - cell "-" [ref=f4618e380]
+                  - cell "-" [ref=f4618e382]
+                  - cell "-" [ref=f4618e384]
+                  - cell "-" [ref=f4618e386]
+                  - cell [ref=f4618e388]
+                - row [ref=f4618e389]:
+                  - cell "WR" [ref=f4618e390]
+                  - cell "Julio Jones Julio Jones" [ref=f4618e393]:
+                    - generic [ref=f4618e395]:
+                      - img "Julio Jones" [ref=f4618e397]
+                      - link "Julio Jones" [ref=f4618e402] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/24793
+                  - cell "10" [ref=f4618e403]
+                  - cell "18.40" [ref=f4618e405]:
+                    - link "18.40" [ref=f4618e407] [cursor=pointer]:
+                      - /url: "#pps-24793"
+                  - cell "13.70" [ref=f4618e408]
+                  - cell "-" [ref=f4618e410]
+                  - cell "-" [ref=f4618e412]
+                  - cell "-" [ref=f4618e414]
+                  - cell "-" [ref=f4618e416]
+                  - cell "-" [ref=f4618e418]
+                  - cell "-" [ref=f4618e420]
+                  - cell "-" [ref=f4618e422]
+                  - cell "-" [ref=f4618e424]
+                  - cell "-" [ref=f4618e426]
+                  - cell "-" [ref=f4618e428]
+                  - cell "-" [ref=f4618e430]
+                  - cell "-" [ref=f4618e432]
+                  - cell "-" [ref=f4618e434]
+                  - cell [ref=f4618e436]
+                - row [ref=f4618e437]:
+                  - cell "WR" [ref=f4618e438]
+                  - cell "JuJu Smith-Schuster JuJu Smith-Schuster" [ref=f4618e441]:
+                    - generic [ref=f4618e443]:
+                      - img "JuJu Smith-Schuster" [ref=f4618e445]
+                      - link "JuJu Smith-Schuster" [ref=f4618e450] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30175
+                  - cell "8" [ref=f4618e451]
+                  - cell "16.50" [ref=f4618e453]:
+                    - link "16.50" [ref=f4618e455] [cursor=pointer]:
+                      - /url: "#pps-30175"
+                  - cell "12.06" [ref=f4618e456]
+                  - cell "-" [ref=f4618e458]
+                  - cell "-" [ref=f4618e460]
+                  - cell "-" [ref=f4618e462]
+                  - cell "-" [ref=f4618e464]
+                  - cell "-" [ref=f4618e466]
+                  - cell "-" [ref=f4618e468]
+                  - cell "-" [ref=f4618e470]
+                  - cell "-" [ref=f4618e472]
+                  - cell "-" [ref=f4618e474]
+                  - cell "-" [ref=f4618e476]
+                  - cell "-" [ref=f4618e478]
+                  - cell "-" [ref=f4618e480]
+                  - cell "-" [ref=f4618e482]
+                  - cell [ref=f4618e484]
+                - row [ref=f4618e485]:
+                  - cell "RB" [ref=f4618e486]
+                  - cell "Alvin Kamara Alvin Kamara" [ref=f4618e489]:
+                    - generic [ref=f4618e491]:
+                      - img "Alvin Kamara" [ref=f4618e493]
+                      - link "Alvin Kamara" [ref=f4618e498] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30180
+                  - cell "5" [ref=f4618e499]
+                  - cell "12.50" [ref=f4618e501]:
+                    - link "12.50" [ref=f4618e503] [cursor=pointer]:
+                      - /url: "#pps-30180"
+                  - cell "19.75" [ref=f4618e504]
+                  - cell "-" [ref=f4618e506]
+                  - cell "-" [ref=f4618e508]
+                  - cell "-" [ref=f4618e510]
+                  - cell "-" [ref=f4618e512]
+                  - cell "-" [ref=f4618e514]
+                  - cell "-" [ref=f4618e516]
+                  - cell "-" [ref=f4618e518]
+                  - cell "-" [ref=f4618e520]
+                  - cell "-" [ref=f4618e522]
+                  - cell "-" [ref=f4618e524]
+                  - cell "-" [ref=f4618e526]
+                  - cell "-" [ref=f4618e528]
+                  - cell "-" [ref=f4618e530]
+                  - cell [ref=f4618e532]
+                - row [ref=f4618e533]:
+                  - cell "RB" [ref=f4618e534]
+                  - cell "Leonard Fournette Leonard Fournette" [ref=f4618e537]:
+                    - generic [ref=f4618e539]:
+                      - img "Leonard Fournette" [ref=f4618e541]
+                      - link "Leonard Fournette" [ref=f4618e546] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30117
+                  - cell "6" [ref=f4618e547]
+                  - cell "14.50" [ref=f4618e549]:
+                    - link "14.50" [ref=f4618e551] [cursor=pointer]:
+                      - /url: "#pps-30117"
+                  - cell "14.56" [ref=f4618e552]
+                  - cell "-" [ref=f4618e554]
+                  - cell "-" [ref=f4618e556]
+                  - cell "-" [ref=f4618e558]
+                  - cell "-" [ref=f4618e560]
+                  - cell "-" [ref=f4618e562]
+                  - cell "-" [ref=f4618e564]
+                  - cell "-" [ref=f4618e566]
+                  - cell "-" [ref=f4618e568]
+                  - cell "-" [ref=f4618e570]
+                  - cell "-" [ref=f4618e572]
+                  - cell "-" [ref=f4618e574]
+                  - cell "-" [ref=f4618e576]
+                  - cell "-" [ref=f4618e578]
+                  - cell [ref=f4618e580]
+                - row [ref=f4618e581]:
+                  - cell "TE" [ref=f4618e582]
+                  - cell "Kyle Rudolph Kyle Rudolph" [ref=f4618e585]:
+                    - generic [ref=f4618e587]:
+                      - img "Kyle Rudolph" [ref=f4618e589]
+                      - link "Kyle Rudolph" [ref=f4618e594] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/24830
+                  - cell [ref=f4618e595]
+                  - cell "1.10" [ref=f4618e596]:
+                    - link "1.10" [ref=f4618e598] [cursor=pointer]:
+                      - /url: "#pps-24830"
+                  - cell "9.64" [ref=f4618e599]
+                  - cell "-" [ref=f4618e601]
+                  - cell "-" [ref=f4618e603]
+                  - cell "-" [ref=f4618e605]
+                  - cell "-" [ref=f4618e607]
+                  - cell "-" [ref=f4618e609]
+                  - cell "-" [ref=f4618e611]
+                  - cell "-" [ref=f4618e613]
+                  - cell "-" [ref=f4618e615]
+                  - cell "-" [ref=f4618e617]
+                  - cell "-" [ref=f4618e619]
+                  - cell "-" [ref=f4618e621]
+                  - cell "-" [ref=f4618e623]
+                  - cell "-" [ref=f4618e625]
+                  - cell [ref=f4618e627]
+                - row [ref=f4618e628]:
+                  - cell "W/T" [ref=f4618e629]
+                  - cell "Cooper Kupp Cooper Kupp" [ref=f4618e632]:
+                    - generic [ref=f4618e634]:
+                      - img "Cooper Kupp" [ref=f4618e636]
+                      - link "Cooper Kupp" [ref=f4618e641] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30182
+                  - cell "6" [ref=f4618e642]
+                  - cell "14.50" [ref=f4618e644]:
+                    - link "14.50" [ref=f4618e646] [cursor=pointer]:
+                      - /url: "#pps-30182"
+                  - cell "9.14" [ref=f4618e647]
+                  - cell "-" [ref=f4618e649]
+                  - cell "-" [ref=f4618e651]
+                  - cell "-" [ref=f4618e653]
+                  - cell "-" [ref=f4618e655]
+                  - cell "-" [ref=f4618e657]
+                  - cell "-" [ref=f4618e659]
+                  - cell "-" [ref=f4618e661]
+                  - cell "-" [ref=f4618e663]
+                  - cell "-" [ref=f4618e665]
+                  - cell "-" [ref=f4618e667]
+                  - cell "-" [ref=f4618e669]
+                  - cell "-" [ref=f4618e671]
+                  - cell "-" [ref=f4618e673]
+                  - cell [ref=f4618e675]
+                - row [ref=f4618e676]:
+                  - cell "W/R" [ref=f4618e677]
+                  - cell "Lamar Miller Lamar Miller" [ref=f4618e680]:
+                    - generic [ref=f4618e682]:
+                      - img "Lamar Miller" [ref=f4618e684]
+                      - link "Lamar Miller" [ref=f4618e689] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/25807
+                  - cell "5" [ref=f4618e690]
+                  - cell "7.00" [ref=f4618e692]:
+                    - link "7.00" [ref=f4618e694] [cursor=pointer]:
+                      - /url: "#pps-25807"
+                  - cell "10.11" [ref=f4618e695]
+                  - cell "-" [ref=f4618e697]
+                  - cell "-" [ref=f4618e699]
+                  - cell "-" [ref=f4618e701]
+                  - cell "-" [ref=f4618e703]
+                  - cell "-" [ref=f4618e705]
+                  - cell "-" [ref=f4618e707]
+                  - cell "-" [ref=f4618e709]
+                  - cell "-" [ref=f4618e711]
+                  - cell "-" [ref=f4618e713]
+                  - cell "-" [ref=f4618e715]
+                  - cell "-" [ref=f4618e717]
+                  - cell "-" [ref=f4618e719]
+                  - cell "-" [ref=f4618e721]
+                  - cell [ref=f4618e723]
+                - row [ref=f4618e724]:
+                  - cell "BN" [ref=f4618e725]
+                  - cell "Jordy Nelson Jordy Nelson " [ref=f4618e728]:
+                    - generic [ref=f4618e730]:
+                      - img "Jordy Nelson" [ref=f4618e732]
+                      - generic [ref=f4618e736]:
+                        - link "Jordy Nelson" [ref=f4618e737] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/players/8813
+                        - generic [ref=f4618e738]: 
+                  - cell "10" [ref=f4618e739]
+                  - cell "2.60" [ref=f4618e741]:
+                    - link "2.60" [ref=f4618e743] [cursor=pointer]:
+                      - /url: "#pps-8813"
+                  - cell "9.00" [ref=f4618e744]
+                  - cell "-" [ref=f4618e746]
+                  - cell "-" [ref=f4618e748]
+                  - cell "-" [ref=f4618e750]
+                  - cell "-" [ref=f4618e752]
+                  - cell "-" [ref=f4618e754]
+                  - cell "-" [ref=f4618e756]
+                  - cell "-" [ref=f4618e758]
+                  - cell "-" [ref=f4618e760]
+                  - cell "-" [ref=f4618e762]
+                  - cell "-" [ref=f4618e764]
+                  - cell "-" [ref=f4618e766]
+                  - cell "-" [ref=f4618e768]
+                  - cell "-" [ref=f4618e770]
+                  - cell [ref=f4618e772]
+                - row [ref=f4618e773]:
+                  - cell "BN" [ref=f4618e774]
+                  - cell "Samaje Perine Samaje Perine" [ref=f4618e777]:
+                    - generic [ref=f4618e779]:
+                      - img "Samaje Perine" [ref=f4618e781]
+                      - link "Samaje Perine" [ref=f4618e786] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30227
+                  - cell "6" [ref=f4618e787]
+                  - cell "6.90" [ref=f4618e789]:
+                    - link "6.90" [ref=f4618e791] [cursor=pointer]:
+                      - /url: "#pps-30227"
+                  - cell "6.79" [ref=f4618e792]
+                  - cell "-" [ref=f4618e794]
+                  - cell "-" [ref=f4618e796]
+                  - cell "-" [ref=f4618e798]
+                  - cell "-" [ref=f4618e800]
+                  - cell "-" [ref=f4618e802]
+                  - cell "-" [ref=f4618e804]
+                  - cell "-" [ref=f4618e806]
+                  - cell "-" [ref=f4618e808]
+                  - cell "-" [ref=f4618e810]
+                  - cell "-" [ref=f4618e812]
+                  - cell "-" [ref=f4618e814]
+                  - cell "-" [ref=f4618e816]
+                  - cell "-" [ref=f4618e818]
+                  - cell [ref=f4618e820]
+                - row [ref=f4618e821]:
+                  - cell "BN" [ref=f4618e822]
+                  - cell "Josh Doctson Josh Doctson" [ref=f4618e825]:
+                    - generic [ref=f4618e827]:
+                      - img "Josh Doctson" [ref=f4618e829]
+                      - link "Josh Doctson" [ref=f4618e834] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/29256
+                  - cell "8" [ref=f4618e835]
+                  - cell "13.10" [ref=f4618e837]:
+                    - link "13.10" [ref=f4618e839] [cursor=pointer]:
+                      - /url: "#pps-29256"
+                  - cell "7.39" [ref=f4618e840]
+                  - cell "-" [ref=f4618e842]
+                  - cell "-" [ref=f4618e844]
+                  - cell "-" [ref=f4618e846]
+                  - cell "-" [ref=f4618e848]
+                  - cell "-" [ref=f4618e850]
+                  - cell "-" [ref=f4618e852]
+                  - cell "-" [ref=f4618e854]
+                  - cell "-" [ref=f4618e856]
+                  - cell "-" [ref=f4618e858]
+                  - cell "-" [ref=f4618e860]
+                  - cell "-" [ref=f4618e862]
+                  - cell "-" [ref=f4618e864]
+                  - cell "-" [ref=f4618e866]
+                  - cell [ref=f4618e868]
+                - row [ref=f4618e869]:
+                  - cell "BN" [ref=f4618e870]
+                  - cell "Nelson Agholor Nelson Agholor" [ref=f4618e873]:
+                    - generic [ref=f4618e875]:
+                      - img "Nelson Agholor" [ref=f4618e877]
+                      - link "Nelson Agholor" [ref=f4618e882] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/28408
+                  - cell "10" [ref=f4618e883]
+                  - cell "5.50" [ref=f4618e885]:
+                    - link "5.50" [ref=f4618e887] [cursor=pointer]:
+                      - /url: "#pps-28408"
+                  - cell "9.73" [ref=f4618e888]
+                  - cell "-" [ref=f4618e890]
+                  - cell "-" [ref=f4618e892]
+                  - cell "-" [ref=f4618e894]
+                  - cell "-" [ref=f4618e896]
+                  - cell "-" [ref=f4618e898]
+                  - cell "-" [ref=f4618e900]
+                  - cell "-" [ref=f4618e902]
+                  - cell "-" [ref=f4618e904]
+                  - cell "-" [ref=f4618e906]
+                  - cell "-" [ref=f4618e908]
+                  - cell "-" [ref=f4618e910]
+                  - cell "-" [ref=f4618e912]
+                  - cell "-" [ref=f4618e914]
+                  - cell [ref=f4618e916]
+                - row [ref=f4618e917]:
+                  - cell "BN" [ref=f4618e918]
+                  - cell "Dede Westbrook Dede Westbrook" [ref=f4618e921]:
+                    - generic [ref=f4618e923]:
+                      - img "Dede Westbrook" [ref=f4618e925]
+                      - link "Dede Westbrook" [ref=f4618e930] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30223
+                  - cell "8" [ref=f4618e931]
+                  - cell "9.40" [ref=f4618e933]:
+                    - link "9.40" [ref=f4618e935] [cursor=pointer]:
+                      - /url: "#pps-30223"
+                  - cell "9.02" [ref=f4618e936]
+                  - cell "-" [ref=f4618e938]
+                  - cell "-" [ref=f4618e940]
+                  - cell "-" [ref=f4618e942]
+                  - cell "-" [ref=f4618e944]
+                  - cell "-" [ref=f4618e946]
+                  - cell "-" [ref=f4618e948]
+                  - cell "-" [ref=f4618e950]
+                  - cell "-" [ref=f4618e952]
+                  - cell "-" [ref=f4618e954]
+                  - cell "-" [ref=f4618e956]
+                  - cell "-" [ref=f4618e958]
+                  - cell "-" [ref=f4618e960]
+                  - cell "-" [ref=f4618e962]
+                  - cell [ref=f4618e964]
+                - row [ref=f4618e965]:
+                  - cell "BN" [ref=f4618e966]
+                  - cell "Andy Dalton Andy Dalton" [ref=f4618e969]:
+                    - generic [ref=f4618e971]:
+                      - img "Andy Dalton" [ref=f4618e973]
+                      - link "Andy Dalton" [ref=f4618e978] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/24822
+                  - cell "10" [ref=f4618e979]
+                  - cell "11.42" [ref=f4618e981]:
+                    - link "11.42" [ref=f4618e983] [cursor=pointer]:
+                      - /url: "#pps-24822"
+                  - cell "14.21" [ref=f4618e984]
+                  - cell "-" [ref=f4618e986]
+                  - cell "-" [ref=f4618e988]
+                  - cell "-" [ref=f4618e990]
+                  - cell "-" [ref=f4618e992]
+                  - cell "-" [ref=f4618e994]
+                  - cell "-" [ref=f4618e996]
+                  - cell "-" [ref=f4618e998]
+                  - cell "-" [ref=f4618e1000]
+                  - cell "-" [ref=f4618e1002]
+                  - cell "-" [ref=f4618e1004]
+                  - cell "-" [ref=f4618e1006]
+                  - cell "-" [ref=f4618e1008]
+                  - cell "-" [ref=f4618e1010]
+                  - cell [ref=f4618e1012]
+                - row [ref=f4618e1013]:
+                  - cell "BN" [ref=f4618e1014]
+                  - cell "Ameer Abdullah Ameer Abdullah" [ref=f4618e1017]:
+                    - generic [ref=f4618e1019]:
+                      - img "Ameer Abdullah" [ref=f4618e1021]
+                      - link "Ameer Abdullah" [ref=f4618e1026] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/28442
+                  - cell "8" [ref=f4618e1027]
+                  - cell "3.10" [ref=f4618e1029]:
+                    - link "3.10" [ref=f4618e1031] [cursor=pointer]:
+                      - /url: "#pps-28442"
+                  - cell "2.35" [ref=f4618e1032]
+                  - cell "-" [ref=f4618e1034]
+                  - cell "-" [ref=f4618e1036]
+                  - cell "-" [ref=f4618e1038]
+                  - cell "-" [ref=f4618e1040]
+                  - cell "-" [ref=f4618e1042]
+                  - cell "-" [ref=f4618e1044]
+                  - cell "-" [ref=f4618e1046]
+                  - cell "-" [ref=f4618e1048]
+                  - cell "-" [ref=f4618e1050]
+                  - cell "-" [ref=f4618e1052]
+                  - cell "-" [ref=f4618e1054]
+                  - cell "-" [ref=f4618e1056]
+                  - cell "-" [ref=f4618e1058]
+                  - cell [ref=f4618e1060]
+                - row [ref=f4618e1061]:
+                  - cell "BN" [ref=f4618e1062]
+                  - cell "Frank Gore Frank Gore" [ref=f4618e1065]:
+                    - generic [ref=f4618e1067]:
+                      - img "Frank Gore" [ref=f4618e1069]
+                      - link "Frank Gore" [ref=f4618e1074] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/7241
+                  - cell "11" [ref=f4618e1075]
+                  - cell "15.60" [ref=f4618e1077]:
+                    - link "15.60" [ref=f4618e1079] [cursor=pointer]:
+                      - /url: "#pps-7241"
+                  - cell "8.79" [ref=f4618e1080]
+                  - cell "-" [ref=f4618e1082]
+                  - cell "-" [ref=f4618e1084]
+                  - cell "-" [ref=f4618e1086]
+                  - cell "-" [ref=f4618e1088]
+                  - cell "-" [ref=f4618e1090]
+                  - cell "-" [ref=f4618e1092]
+                  - cell "-" [ref=f4618e1094]
+                  - cell "-" [ref=f4618e1096]
+                  - cell "-" [ref=f4618e1098]
+                  - cell "-" [ref=f4618e1100]
+                  - cell "-" [ref=f4618e1102]
+                  - cell "-" [ref=f4618e1104]
+                  - cell "-" [ref=f4618e1106]
+                  - cell [ref=f4618e1108]
+                - row [ref=f4618e1109]:
+                  - cell "BN" [ref=f4618e1110]
+                  - cell "Sammy Watkins Sammy Watkins" [ref=f4618e1113]:
+                    - generic [ref=f4618e1115]:
+                      - img "Sammy Watkins" [ref=f4618e1117]
+                      - link "Sammy Watkins" [ref=f4618e1122] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/27532
+                  - cell "10" [ref=f4618e1123]
+                  - cell "10.50" [ref=f4618e1125]:
+                    - link "10.50" [ref=f4618e1127] [cursor=pointer]:
+                      - /url: "#pps-27532"
+                  - cell "7.80" [ref=f4618e1128]
+                  - cell "-" [ref=f4618e1130]
+                  - cell "-" [ref=f4618e1132]
+                  - cell "-" [ref=f4618e1134]
+                  - cell "-" [ref=f4618e1136]
+                  - cell "-" [ref=f4618e1138]
+                  - cell "-" [ref=f4618e1140]
+                  - cell "-" [ref=f4618e1142]
+                  - cell "-" [ref=f4618e1144]
+                  - cell "-" [ref=f4618e1146]
+                  - cell "-" [ref=f4618e1148]
+                  - cell "-" [ref=f4618e1150]
+                  - cell "-" [ref=f4618e1152]
+                  - cell "-" [ref=f4618e1154]
+                  - cell [ref=f4618e1156]
+                - row [ref=f4618e1157]:
+                  - cell "BN" [ref=f4618e1158]
+                  - cell "Marlon Mack Marlon Mack" [ref=f4618e1161]:
+                    - generic [ref=f4618e1163]:
+                      - img "Marlon Mack" [ref=f4618e1165]
+                      - link "Marlon Mack" [ref=f4618e1170] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/30256
+                  - cell "8" [ref=f4618e1171]
+                  - cell "6.40" [ref=f4618e1173]:
+                    - link "6.40" [ref=f4618e1175] [cursor=pointer]:
+                      - /url: "#pps-30256"
+                  - cell "5.93" [ref=f4618e1176]
+                  - cell "-" [ref=f4618e1178]
+                  - cell "-" [ref=f4618e1180]
+                  - cell "-" [ref=f4618e1182]
+                  - cell "-" [ref=f4618e1184]
+                  - cell "-" [ref=f4618e1186]
+                  - cell "-" [ref=f4618e1188]
+                  - cell "-" [ref=f4618e1190]
+                  - cell "-" [ref=f4618e1192]
+                  - cell "-" [ref=f4618e1194]
+                  - cell "-" [ref=f4618e1196]
+                  - cell "-" [ref=f4618e1198]
+                  - cell "-" [ref=f4618e1200]
+                  - cell "-" [ref=f4618e1202]
+                  - cell [ref=f4618e1204]
+                - row [ref=f4618e1205]:
+                  - cell "BN" [ref=f4618e1206]
+                  - cell "Tyler Kroft Tyler Kroft" [ref=f4618e1209]:
+                    - generic [ref=f4618e1211]:
+                      - img "Tyler Kroft" [ref=f4618e1213]
+                      - link "Tyler Kroft" [ref=f4618e1218] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/28473
+                  - cell [ref=f4618e1219]
+                  - cell "0.80" [ref=f4618e1220]:
+                    - link "0.80" [ref=f4618e1222] [cursor=pointer]:
+                      - /url: "#pps-28473"
+                  - cell "5.32" [ref=f4618e1223]
+                  - cell "-" [ref=f4618e1225]
+                  - cell "-" [ref=f4618e1227]
+                  - cell "-" [ref=f4618e1229]
+                  - cell "-" [ref=f4618e1231]
+                  - cell "-" [ref=f4618e1233]
+                  - cell "-" [ref=f4618e1235]
+                  - cell "-" [ref=f4618e1237]
+                  - cell "-" [ref=f4618e1239]
+                  - cell "-" [ref=f4618e1241]
+                  - cell "-" [ref=f4618e1243]
+                  - cell "-" [ref=f4618e1245]
+                  - cell "-" [ref=f4618e1247]
+                  - cell "-" [ref=f4618e1249]
+                  - cell [ref=f4618e1251]
+            - table "Vaqueros's Kickers roster for week 16." [ref=f4618e1253]:
+              - caption:
+                - generic [ref=f4618e1254]: Vaqueros's Kickers roster for week 16.
+              - rowgroup [ref=f4618e1255]:
+                - row "Fantasy Field Goals Made FG Miss PAT" [ref=f4618e1256]:
+                  - columnheader [ref=f4618e1257]
+                  - columnheader [ref=f4618e1259]
+                  - columnheader "Bye" [ref=f4618e1261]
+                  - columnheader "Fantasy" [ref=f4618e1263]
+                  - columnheader "Field Goals Made" [ref=f4618e1265]
+                  - columnheader "FG Miss" [ref=f4618e1267]
+                  - columnheader "PAT" [ref=f4618e1269]
+                  - columnheader [ref=f4618e1271]
+                - row [ref=f4618e1272]:
+                  - columnheader "Pos" [ref=f4618e1273]
+                  - columnheader "Kickers" [ref=f4618e1275]
+                  - columnheader "Bye" [ref=f4618e1277]
+                  - columnheader "Fan Pts" [ref=f4618e1279]
+                  - columnheader "Proj Pts" [ref=f4618e1281]
+                  - columnheader "0‑19" [ref=f4618e1283]
+                  - columnheader "20‑29" [ref=f4618e1285]
+                  - columnheader "30‑39" [ref=f4618e1287]
+                  - columnheader "40‑49" [ref=f4618e1289]
+                  - columnheader "50+" [ref=f4618e1291]
+                  - columnheader "0‑19" [ref=f4618e1293]
+                  - columnheader "20‑29" [ref=f4618e1295]
+                  - columnheader "Made" [ref=f4618e1297]
+                  - columnheader "Miss" [ref=f4618e1299]
+                  - columnheader [ref=f4618e1301]
+              - rowgroup [ref=f4618e1302]:
+                - row [ref=f4618e1303]:
+                  - cell "K" [ref=f4618e1304]
+                  - cell "Wil Lutz Wil Lutz" [ref=f4618e1307]:
+                    - generic [ref=f4618e1309]:
+                      - img "Wil Lutz" [ref=f4618e1311]
+                      - link "Wil Lutz" [ref=f4618e1316] [cursor=pointer]:
+                        - /url: https://sports.yahoo.com/nfl/players/29754
+                  - cell "5" [ref=f4618e1317]
+                  - cell "13.00" [ref=f4618e1319]:
+                    - link "13.00" [ref=f4618e1321] [cursor=pointer]:
+                      - /url: "#pps-29754"
+                  - cell "10.44" [ref=f4618e1322]
+                  - cell "-" [ref=f4618e1324]
+                  - cell "-" [ref=f4618e1326]
+                  - cell "-" [ref=f4618e1328]
+                  - cell "-" [ref=f4618e1330]
+                  - cell "-" [ref=f4618e1332]
+                  - cell "-" [ref=f4618e1334]
+                  - cell "-" [ref=f4618e1336]
+                  - cell "-" [ref=f4618e1338]
+                  - cell "-" [ref=f4618e1340]
+                  - cell [ref=f4618e1342]
+            - table "Vaqueros's Defense/Special Teams roster for week 16." [ref=f4618e1344]:
+              - caption:
+                - generic [ref=f4618e1345]: Vaqueros's Defense/Special Teams roster for week 16.
+              - rowgroup [ref=f4618e1346]:
+                - row "Fantasy Tackles Turnovers TD Misc" [ref=f4618e1347]:
+                  - columnheader [ref=f4618e1348]
+                  - columnheader [ref=f4618e1350]
+                  - columnheader "Bye" [ref=f4618e1352]
+                  - columnheader "Fantasy" [ref=f4618e1354]
+                  - columnheader [ref=f4618e1356]
+                  - columnheader "Tackles" [ref=f4618e1358]
+                  - columnheader "Turnovers" [ref=f4618e1360]
+                  - columnheader "TD" [ref=f4618e1362]
+                  - columnheader "Misc" [ref=f4618e1364]
+                  - columnheader [ref=f4618e1366]
+                - row [ref=f4618e1367]:
+                  - columnheader "Pos" [ref=f4618e1368]
+                  - columnheader "Defense/Special Teams" [ref=f4618e1370]
+                  - columnheader "Bye" [ref=f4618e1372]
+                  - columnheader "Fan Pts" [ref=f4618e1374]
+                  - columnheader "Proj Pts" [ref=f4618e1376]
+                  - columnheader "Pts vs.*" [ref=f4618e1378]
+                  - columnheader "Sack" [ref=f4618e1380]
+                  - columnheader "Safe" [ref=f4618e1382]
+                  - columnheader "Int" [ref=f4618e1384]
+                  - columnheader "Fum Rec" [ref=f4618e1386]
+                  - columnheader "TD" [ref=f4618e1388]
+                  - columnheader "Blk Kick" [ref=f4618e1390]
+                  - columnheader [ref=f4618e1392]
+              - rowgroup [ref=f4618e1393]:
+                - row [ref=f4618e1394]:
+                  - cell "DEF" [ref=f4618e1395]
+                  - cell "Browns Browns - DEF" [ref=f4618e1398]:
+                    - generic [ref=f4618e1400]:
+                      - img "Browns" [ref=f4618e1402]
+                      - generic [ref=f4618e1406]:
+                        - link "Browns" [ref=f4618e1407] [cursor=pointer]:
+                          - /url: https://sports.yahoo.com/nfl/teams/cleveland/
+                        - generic [ref=f4618e1408]: "- DEF"
+                  - cell "9" [ref=f4618e1409]
+                  - cell "11.00" [ref=f4618e1411]:
+                    - link "11.00" [ref=f4618e1413] [cursor=pointer]:
+                      - /url: "#pps-100005"
+                  - cell "5.02" [ref=f4618e1414]
+                  - cell "-" [ref=f4618e1416]
+                  - cell "-" [ref=f4618e1418]
+                  - cell "-" [ref=f4618e1420]
+                  - cell "-" [ref=f4618e1422]
+                  - cell "-" [ref=f4618e1424]
+                  - cell "-" [ref=f4618e1426]
+                  - cell "-" [ref=f4618e1428]
+                  - cell [ref=f4618e1430]
+        - generic [ref=f4618e1432]:
+          - generic [ref=f4618e1433]:
+            - generic [ref=f4618e1434]:
+              - heading "Legends and Glossaries" [level=3] [ref=f4618e1435]
+              - list [ref=f4618e1436]:
+                - listitem [ref=f4618e1437]:
+                  - link "Legend " [ref=f4618e1438] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f4618e1439]: Legend
+                    - generic [ref=f4618e1440]: 
+                - listitem [ref=f4618e1441]:
+                  - link "Stats " [ref=f4618e1442] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f4618e1443]: Stats
+                    - generic [ref=f4618e1444]: 
+                - listitem [ref=f4618e1445]:
+                  - link "Positions " [ref=f4618e1446] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f4618e1447]: Positions
+                    - generic [ref=f4618e1448]: 
+                - listitem [ref=f4618e1449]:
+                  - link "Advanced Stats Glossary " [ref=f4618e1450] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f4618e1451]: Advanced Stats Glossary
+                    - generic [ref=f4618e1452]: 
+            - generic [ref=f4618e1453]:
+              - heading "The Fine Print" [level=3] [ref=f4618e1454]
+              - generic [ref=f4618e1455]:
+                - text: Projections Powered by
+                - link "Rotowire." [ref=f4618e1456] [cursor=pointer]:
+                  - /url: http://www.rotowire.com/
+                - generic [ref=f4618e1457]:
+                  - text: Week 16 stats may change if
+                  - link "Stat corrections" [ref=f4618e1458] [cursor=pointer]:
+                    - /url: /2017/f1/122934/statcorrections
+                  - text: are applied by Sunday, Dec 31. All game times are shown in CDT.
+                - text: Asterisks (*) denote non-scoring stats.
+          - iframe [ref=f4618e1623]:
+            - insertion [ref=f4640e3]:
+              - iframe [ref=f4640e4]:
+                - iframe [ref=f4642e4]
+        - table [ref=f4618e1464]:
+          - rowgroup [ref=f4618e1465]:
+            - row [ref=f4618e1466]:
+              - columnheader "Team analysis Find the best moves for your team | Hide" [ref=f4618e1467]:
+                - generic [ref=f4618e1468]:
+                  - generic [ref=f4618e1469]: Team analysis
+                  - generic [ref=f4618e1473]:
+                    - generic [ref=f4618e1474]: Find the best moves for your team
+                    - generic [ref=f4618e1475]: "|"
+                    - button "Hide" [ref=f4618e1476] [cursor=pointer]
+          - rowgroup [ref=f4618e1477]:
+            - row [ref=f4618e1478]:
+              - cell "Vaqueros logo Vaqueros 5-9-0 | 5th Place | Andrew Allard Strengths Neutral Weaknesses Unlock your team's positional strengths and more! Subscribe now Research Assistant | Trade Hub Sit/start suggestions Add/drop suggestions Trade suggestions Start Player Sit Player Compare Start Player Sit Player Compare Start Player Sit Player Compare There are no sit/start suggestions available right now. Check back later!" [ref=f4618e1479]:
+                - generic [ref=f4618e1480]:
+                  - generic [ref=f4618e1482]:
+                    - img "Vaqueros logo" [ref=f4618e1484]
+                    - generic [ref=f4618e1485]:
+                      - generic [ref=f4618e1486]: Vaqueros
+                      - generic [ref=f4618e1487]:
+                        - text: 5-9-0
+                        - generic [ref=f4618e1488]: "|"
+                        - generic [ref=f4618e1489]: 5th Place
+                        - generic [ref=f4618e1490]: "|"
+                        - link "Andrew Allard" [ref=f4618e1492] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/G4Y6BBVM4ZQ5DAHJQZEHLAX2DA/?sport=football
+                  - generic [ref=f4618e1493]:
+                    - generic [ref=f4618e1494]:
+                      - generic [ref=f4618e1495]:
+                        - generic [ref=f4618e1496]: Strengths
+                        - link [ref=f4618e1499] [cursor=pointer]:
+                          - /url: https://fantasysports.yahoo.com/lp/plus?ncid=dcm_315761015_464742004_0_suggest-nfl&done=https%3A%2F%2Ffootball.fantasysports.yahoo.com%2F2017%2Ff1%2F122934%2F8%3F&leagueId=122934&clientUpsellID=tradeSuggestions&analyticsSuffix=nfl
+                      - generic [ref=f4618e1502]:
+                        - generic [ref=f4618e1503]: Neutral
+                        - link [ref=f4618e1506] [cursor=pointer]:
+                          - /url: https://fantasysports.yahoo.com/lp/plus?ncid=dcm_315761015_464742004_0_suggest-nfl&done=https%3A%2F%2Ffootball.fantasysports.yahoo.com%2F2017%2Ff1%2F122934%2F8%3F&leagueId=122934&clientUpsellID=tradeSuggestions&analyticsSuffix=nfl
+                      - generic [ref=f4618e1509]:
+                        - generic [ref=f4618e1510]: Weaknesses
+                        - link [ref=f4618e1513] [cursor=pointer]:
+                          - /url: https://fantasysports.yahoo.com/lp/plus?ncid=dcm_315761015_464742004_0_suggest-nfl&done=https%3A%2F%2Ffootball.fantasysports.yahoo.com%2F2017%2Ff1%2F122934%2F8%3F&leagueId=122934&clientUpsellID=tradeSuggestions&analyticsSuffix=nfl
+                    - generic [ref=f4618e1517]:
+                      - generic [ref=f4618e1518]: Unlock your team's positional strengths and more!
+                      - link "Subscribe now" [ref=f4618e1520] [cursor=pointer]:
+                        - /url: https://fantasysports.yahoo.com/lp/plus?ncid=dcm_315761015_464742004_0_suggest-nfl&done=https%3A%2F%2Ffootball.fantasysports.yahoo.com%2F2017%2Ff1%2F122934%2F8%3F&leagueId=122934&clientUpsellID=tradeSuggestions&analyticsSuffix=nfl
+                  - generic [ref=f4618e1524]:
+                    - generic [ref=f4618e1525]:
+                      - link "Research Assistant" [ref=f4618e1526] [cursor=pointer]:
+                        - /url: https://football.fantasysports.yahoo.com/f1/122934/research_assistant
+                      - text: "|"
+                    - link "Trade Hub" [ref=f4618e1528] [cursor=pointer]:
+                      - /url: https://football.fantasysports.yahoo.com/f1/122934/trade_hub
+                - generic [ref=f4618e1529]:
+                  - generic [ref=f4618e1531]:
+                    - button "Sit/start suggestions" [ref=f4618e1532] [cursor=pointer]
+                    - button "Add/drop suggestions" [ref=f4618e1533] [cursor=pointer]
+                    - button "Trade suggestions" [ref=f4618e1534] [cursor=pointer]
+                  - generic [ref=f4618e1535]:
+                    - generic [ref=f4618e1538]:
+                      - generic [ref=f4618e1539]:
+                        - generic [ref=f4618e1540]: Start Player
+                        - generic [ref=f4618e1546]: Sit Player
+                      - generic [ref=f4618e1552]: Compare
+                    - generic [ref=f4618e1556]:
+                      - generic [ref=f4618e1557]:
+                        - generic [ref=f4618e1558]: Start Player
+                        - generic [ref=f4618e1564]: Sit Player
+                      - generic [ref=f4618e1570]: Compare
+                    - generic [ref=f4618e1574]:
+                      - generic [ref=f4618e1575]:
+                        - generic [ref=f4618e1576]: Start Player
+                        - generic [ref=f4618e1582]: Sit Player
+                      - generic [ref=f4618e1588]: Compare
+                    - generic [ref=f4618e1590]: There are no sit/start suggestions available right now. Check back later!
+    - contentinfo [ref=f4618e1592]:
+      - iframe [ref=f4618e1625]:
+        - generic [ref=f4641e1]:
+          - link [ref=f4641e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsu_c-mpcGo8oio824MTFA8cHOqDAlA8lDjlEV849Wzx5WOBOpq4KjXQ8canGC5ZgSOR2gAKMe1pj7238o0yqo9aGLF_TEYB_MIS8mVgaxL3Lkm23d2CE3EmVUrCcFh1d_4M-d_gP5a_s2y-Jw4Cm-wnvQ1gBrP-OGuKsuK4zYjXIaMI831zaxDjP1draSQE7h21wArgqzIobZ3mdoFDA9_O3R576yxK1o42tL7nUqgair84PYyEZ33jr8RGVNBTZUF_MPthQ4z50j1lv3zdYRTUhto7tjayzUGHxFC68T6_mTwcrq2T72TAN1244jpokPRHD5nSuu1_Xmw3BGPtidxSKC2l_KRUY5KaJ_0dh3xLEjgZUbuL1RKZiTJN6tW0kMsEmNYqvInd4eajHrBwuWZduYSvf_p72s3ebgOL1z4kaBgY6-qc-qNK3ofupNCRAEhXfHaM7Ft1EUNLxaQGNqdG2kYzXeCVFqujAVUA6XrD8CPaRPg&sai=AMfl-YQPSfRMFzSoYt6wNIaLeqFmvT1Xjku5n6O-x7gmrrMhSWjBS2hCrGutRduE92hsHtPTA5mbW4u1odDSVpDJcqk6k9ovAW03JoazcuvwbNKYu-bUN0u72hKtSCM3UG4cX7vGJPdj02iODMlopNPliSBsIcRV8EGjxf7oH1fXdTA8Nw4IXV9cfgqE_eUuorl3y1YLzbGoDPXvePiqvhHFo7Z7ieVOh7alumzgaAXcqeH3U-qoSU5Q7nNyKvLkSbzM7kk2BFARLdFguz3ARoOxqtH38hxmLuc_BnEdNk-v2qMdvQocu03B6sDe-pxUhwhr671blfPlktetss_RQxU56Zxp5pa-0ARrqnmw6PqZxbPZ2CnsTcNCucoNq14bnrhqi36ocdupm-ECP7NN5qlDkyQrUaeGjdiVfd85T7zbKt295gQ1S1X1PQ3P_cnwQh4p9vzZDLz3W3nI&sig=Cg0ArKJSzDxyVq5p4gz1&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://ad.doubleclick.net/ddm/trackclk/N2678703.282706YAHOO/B35331478.442539182%3Bdc_trk_aid%3D648300006%3Bdc_trk_cid%3D261941068%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D0%3Bgdpr_consent%3D%3Bltd%3D%3Bdc_tdv%3D1
+          - generic [ref=f4641e3] [cursor=pointer]
+          - button [ref=f4641e10] [cursor=pointer]
+      - generic [ref=f4618e1599]:
+        - list [ref=f4618e1600]:
+          - listitem [ref=f4618e1601]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f4618e1602]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f4618e1603] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f4618e1604]:
+            - text: "-"
+            - link "Feedback" [ref=f4618e1605] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f4618e1606]:
+            - text: "-"
+            - link "Terms" [ref=f4618e1607] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f4618e1608] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f4618e1609]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f4618e1610] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f4618e1611]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f4618e1612] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f4618e1613]:
+            - text: "-"
+            - link "About Our Ads" [ref=f4618e1614] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f4618e1615]:
+            - text: "-"
+            - link "Help" [ref=f4618e1616] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f4618e1617]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f4618e1618]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f4618e1619]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
