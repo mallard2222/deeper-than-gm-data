@@ -1,0 +1,385 @@
+- generic [ref=f1352e3]:
+  - generic [ref=f1352e6]:
+    - banner [ref=f1352e8]:
+      - generic [ref=f1352e9]:
+        - generic [ref=f1352e11]:
+          - generic [ref=f1352e12]:
+            - generic [ref=f1352e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f1352e14]
+              - link "Yahoo Sports" [ref=f1352e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f1352e20]:
+              - generic [ref=f1352e21]: Search query
+              - combobox "Search query" [ref=f1352e22]
+              - button "Search" [ref=f1352e24] [cursor=pointer]
+          - navigation [ref=f1352e28]:
+            - list [ref=f1352e29]:
+              - listitem [ref=f1352e30]:
+                - link "News" [ref=f1352e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f1352e32]:
+                - link "Finance" [ref=f1352e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f1352e34]:
+                - link "Sports" [ref=f1352e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f1352e36]:
+                - button "More" [ref=f1352e37] [cursor=pointer]
+          - toolbar [ref=f1352e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f1352e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f1352e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f1352e52] [cursor=pointer]':
+              - generic:
+                - generic
+        - generic [ref=f1352e55]:
+          - link "Fantasy Football" [ref=f1352e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f1352e60] [cursor=pointer]:
+            - /url: /2021/f1/771925
+          - link "League" [ref=f1352e61] [cursor=pointer]:
+            - /url: /2021/f1/771925
+          - link "My Team" [ref=f1352e62] [cursor=pointer]:
+            - /url: /2021/f1/771925/8
+          - link "Matchups" [ref=f1352e63] [cursor=pointer]:
+            - /url: /2021/f1/771925/matchup
+          - link "Players" [ref=f1352e64] [cursor=pointer]:
+            - /url: /2021/f1/771925/players
+          - link "Draft Results" [ref=f1352e65] [cursor=pointer]:
+            - /url: /2021/f1/771925/draftresults
+          - list [ref=f1352e68]:
+            - listitem [ref=f1352e69]:
+              - link "Fantasy" [ref=f1352e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f1352e79]:
+              - link "Network" [ref=f1352e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f1352e89]:
+              - link "Get Fantasy Plus" [ref=f1352e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f1352e97]: Deeper Than (ID# 771925)
+  - generic [ref=f1352e101]:
+    - banner [ref=f1352e102]:
+      - generic [ref=f1352e103]:
+        - heading "Yahoo Sports Fantasy Football" [level=2] [ref=f1352e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f1352e106] [cursor=pointer]:
+            - /url: /2021/f1
+        - iframe [ref=f1352e1243]:
+          - insertion [ref=f1365e3]:
+            - iframe [ref=f1365e4]:
+              - iframe [ref=f1366e4]
+        - link "Open chat" [ref=f1352e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f1352e113]
+    - generic [ref=f1352e118]:
+      - heading "Draft Results" [level=1] [ref=f1352e122]
+      - generic [ref=f1352e124]:
+        - generic [ref=f1352e125]:
+          - combobox [ref=f1352e126]:
+            - option "2021 draft order" [selected]
+            - option "2020 season draft results"
+          - list [ref=f1352e128]:
+            - listitem [ref=f1352e129]:
+              - link "Round" [ref=f1352e130] [cursor=pointer]:
+                - /url: /2021/f1/771925/draftresults?drafttab=round&draft_results_period=current
+            - listitem [ref=f1352e131]:
+              - link "Team" [ref=f1352e132] [cursor=pointer]:
+                - /url: /2021/f1/771925/draftresults?drafttab=team&draft_results_period=current
+        - generic [ref=f1352e133]:
+          - generic [ref=f1352e134]:
+            - table [ref=f1352e136]:
+              - rowgroup [ref=f1352e141]:
+                - row "Round 1" [ref=f1352e142]
+              - rowgroup [ref=f1352e144]:
+                - row "1. Christian McCaffrey Wet Serapas" [ref=f1352e145]
+                - row "2. Ezekiel Elliott Vaqueros" [ref=f1352e150]
+                - row "3. Dalvin Cook FFAmuseBouche" [ref=f1352e155]
+                - row "4. Alvin Kamara Deepest" [ref=f1352e160]
+                - row "5. Travis Kelce Good Strongs" [ref=f1352e165]
+                - row "6. Patrick Mahomes Dezbians" [ref=f1352e170]
+                - row "7. Nick Chubb DUGASM" [ref=f1352e175]
+                - row "8. Derrick Henry  bigballs" [ref=f1352e180]
+            - table [ref=f1352e186]:
+              - rowgroup [ref=f1352e191]:
+                - row "Round 2" [ref=f1352e192]
+              - rowgroup [ref=f1352e194]:
+                - row "1. Aaron Jones Sr. bigballs" [ref=f1352e195]
+                - row "2. Saquon Barkley Deepest" [ref=f1352e200]
+                - row "3. Tyreek Hill Dezbians" [ref=f1352e205]
+                - row "4. Najee Harris Good Strongs" [ref=f1352e210]
+                - row "5. Davante Adams Deepest" [ref=f1352e215]
+                - row "6. DK Metcalf FFAmuseBouche" [ref=f1352e220]
+                - row "7. DeAndre Hopkins Vaqueros" [ref=f1352e225]
+                - row "8. Antonio Gibson Wet Serapas" [ref=f1352e230]
+            - table [ref=f1352e236]:
+              - rowgroup [ref=f1352e241]:
+                - row "Round 3" [ref=f1352e242]
+              - rowgroup [ref=f1352e244]:
+                - row "1. Joe Mixon Wet Serapas" [ref=f1352e245]
+                - row "2. A.J. Brown bigballs" [ref=f1352e250]
+                - row "3. George Kittle FFAmuseBouche" [ref=f1352e255]
+                - row "4. Clyde Edwards-Helaire Vaqueros" [ref=f1352e260]
+                - row "5. Dak Prescott Good Strongs" [ref=f1352e265]
+                - row "6. James Robinson Dezbians" [ref=f1352e270]
+                - row "7. Jonathan Taylor  DUGASM" [ref=f1352e275]
+                - row "8. Chris Carson Good Strongs" [ref=f1352e280]
+          - generic [ref=f1352e285]:
+            - table [ref=f1352e287]:
+              - rowgroup [ref=f1352e292]:
+                - row "Round 4" [ref=f1352e293]
+              - rowgroup [ref=f1352e295]:
+                - row "1. Russell Wilson Deepest" [ref=f1352e296]
+                - row "2. Justin Herbert DUGASM" [ref=f1352e301]
+                - row "3. Chris Godwin Jr. Wet Serapas" [ref=f1352e306]
+                - row "4. Darren Waller bigballs" [ref=f1352e311]
+                - row "5. Aaron Rodgers Vaqueros" [ref=f1352e316]
+                - row "6. Robert Woods Wet Serapas" [ref=f1352e321]
+                - row "7. Kyler Murray  Deepest" [ref=f1352e326]
+                - row "8. Amari Cooper Good Strongs" [ref=f1352e331]
+            - table [ref=f1352e337]:
+              - rowgroup [ref=f1352e342]:
+                - row "Round 5" [ref=f1352e343]
+              - rowgroup [ref=f1352e345]:
+                - row "1. Mike Evans DUGASM" [ref=f1352e346]
+                - row "2. Miles Sanders bigballs" [ref=f1352e351]
+                - row "3. Lamar Jackson  FFAmuseBouche" [ref=f1352e356]
+                - row "4. Josh Jacobs Vaqueros" [ref=f1352e361]
+                - row "5. Adam Thielen Deepest" [ref=f1352e366]
+                - row "6. Calvin Ridley  Dezbians" [ref=f1352e371]
+                - row "7. D'Andre Swift  Dezbians" [ref=f1352e376]
+                - row "8. Stefon Diggs  FFAmuseBouche" [ref=f1352e381]
+            - table [ref=f1352e387]:
+              - rowgroup [ref=f1352e392]:
+                - row "Round 6" [ref=f1352e393]
+              - rowgroup [ref=f1352e395]:
+                - row "1. Trey Sermon FFAmuseBouche" [ref=f1352e396]
+                - row "2. Matthew Stafford Wet Serapas" [ref=f1352e401]
+                - row "3. Tyler Lockett Dezbians" [ref=f1352e406]
+                - row "4. Cooper Kupp Deepest" [ref=f1352e411]
+                - row "5. DJ Moore Vaqueros" [ref=f1352e416]
+                - row "6. Jalen Hurts FFAmuseBouche" [ref=f1352e421]
+                - row "7. Tee Higgins bigballs" [ref=f1352e426]
+                - row "8. Keenan Allen  Good Strongs" [ref=f1352e431]
+          - generic [ref=f1352e436]:
+            - table [ref=f1352e438]:
+              - rowgroup [ref=f1352e443]:
+                - row "Round 7" [ref=f1352e444]
+              - rowgroup [ref=f1352e446]:
+                - row "1. Kyle Pitts Sr. DUGASM" [ref=f1352e447]
+                - row "2. Trevor Lawrence bigballs" [ref=f1352e452]
+                - row "3. Kirk Cousins Dezbians" [ref=f1352e457]
+                - row "4. Mark Andrews Vaqueros" [ref=f1352e462]
+                - row "5. Javonte Williams DUGASM" [ref=f1352e467]
+                - row "6. Courtland Sutton  Dezbians" [ref=f1352e472]
+                - row "7. Allen Robinson  Good Strongs" [ref=f1352e477]
+                - row "8. J.K. Dobbins  Good Strongs" [ref=f1352e482]
+            - table [ref=f1352e488]:
+              - rowgroup [ref=f1352e493]:
+                - row "Round 8" [ref=f1352e494]
+              - rowgroup [ref=f1352e496]:
+                - row "1. Deebo Samuel Sr. DUGASM" [ref=f1352e497]
+                - row "2. Matt Ryan DUGASM" [ref=f1352e502]
+                - row "3. Ja'Marr Chase Dezbians" [ref=f1352e507]
+                - row "4. T.J. Hockenson Deepest" [ref=f1352e512]
+                - row "5. Julio Jones Vaqueros" [ref=f1352e517]
+                - row "6. Kareem Hunt FFAmuseBouche" [ref=f1352e522]
+                - row "7. Mike Davis bigballs" [ref=f1352e527]
+                - row "8. Tom Brady  Wet Serapas" [ref=f1352e532]
+            - table [ref=f1352e538]:
+              - rowgroup [ref=f1352e543]:
+                - row "Round 9" [ref=f1352e544]
+              - rowgroup [ref=f1352e546]:
+                - row "1. Myles Gaskin Wet Serapas" [ref=f1352e547]
+                - row "2. Damien Harris Vaqueros" [ref=f1352e552]
+                - row "3. Chase Claypool FFAmuseBouche" [ref=f1352e557]
+                - row "4. Austin Ekeler  bigballs" [ref=f1352e562]
+                - row "5. David Montgomery  Deepest" [ref=f1352e567]
+                - row "6. Kenny Golladay Wet Serapas" [ref=f1352e572]
+                - row "7. JuJu Smith-Schuster DUGASM" [ref=f1352e577]
+                - row "8. Chase Edmonds Good Strongs" [ref=f1352e582]
+          - generic [ref=f1352e587]:
+            - table [ref=f1352e589]:
+              - rowgroup [ref=f1352e594]:
+                - row "Round 10" [ref=f1352e595]
+              - rowgroup [ref=f1352e597]:
+                - row "1. Odell Beckham Jr. bigballs" [ref=f1352e598]
+                - row "2. Robbie Chosen Wet Serapas" [ref=f1352e603]
+                - row "3. Melvin Gordon III Dezbians" [ref=f1352e608]
+                - row "4. Brandin Cooks Deepest" [ref=f1352e613]
+                - row "5. CeeDee Lamb  Vaqueros" [ref=f1352e618]
+                - row "6. Mike Williams FFAmuseBouche" [ref=f1352e623]
+                - row "7. Joe Burrow  DUGASM" [ref=f1352e628]
+                - row "8. Diontae Johnson  Wet Serapas" [ref=f1352e633]
+            - table [ref=f1352e639]:
+              - rowgroup [ref=f1352e644]:
+                - row "Round 11" [ref=f1352e645]
+              - rowgroup [ref=f1352e647]:
+                - row "1. Justin Fields Good Strongs" [ref=f1352e648]
+                - row "2. Tyler Boyd bigballs" [ref=f1352e653]
+                - row "3. AJ Dillon FFAmuseBouche" [ref=f1352e658]
+                - row "4. Michael Carter Vaqueros" [ref=f1352e663]
+                - row "5. Corey Davis Deepest" [ref=f1352e668]
+                - row "6. Zach Wilson Dezbians" [ref=f1352e673]
+                - row "7. Raheem Mostert DUGASM" [ref=f1352e678]
+                - row "8. DeVonta Smith Wet Serapas" [ref=f1352e683]
+            - table [ref=f1352e689]:
+              - rowgroup [ref=f1352e694]:
+                - row "Round 12" [ref=f1352e695]
+              - rowgroup [ref=f1352e697]:
+                - row "1. Antonio Brown Good Strongs" [ref=f1352e698]
+                - row "2. Jarvis Landry DUGASM" [ref=f1352e703]
+                - row "3. Logan Thomas Dezbians" [ref=f1352e708]
+                - row "4. Ronald Jones Deepest" [ref=f1352e713]
+                - row "5. Josh Allen  Vaqueros" [ref=f1352e718]
+                - row "6. Leonard Fournette FFAmuseBouche" [ref=f1352e723]
+                - row "7. Noah Fant bigballs" [ref=f1352e728]
+                - row "8. Kenyan Drake Good Strongs" [ref=f1352e733]
+          - generic [ref=f1352e738]:
+            - table [ref=f1352e740]:
+              - rowgroup [ref=f1352e745]:
+                - row "Round 13" [ref=f1352e746]
+              - rowgroup [ref=f1352e748]:
+                - row "1. Will Fuller V Good Strongs" [ref=f1352e749]
+                - row "2. Laviska Shenault Jr. bigballs" [ref=f1352e754]
+                - row "3. Mecole Hardman Jr. FFAmuseBouche" [ref=f1352e759]
+                - row "4. Jamaal Williams Vaqueros" [ref=f1352e764]
+                - row "5. DJ Chark Deepest" [ref=f1352e769]
+                - row "6. Devin Singletary Dezbians" [ref=f1352e774]
+                - row "7. James Conner DUGASM" [ref=f1352e779]
+                - row "8. Jerry Jeudy  Wet Serapas" [ref=f1352e784]
+            - table [ref=f1352e790]:
+              - rowgroup [ref=f1352e795]:
+                - row "Round 14" [ref=f1352e796]
+              - rowgroup [ref=f1352e798]:
+                - row "1. Michael Gallup Wet Serapas" [ref=f1352e799]
+                - row "2. Rob Gronkowski DUGASM" [ref=f1352e804]
+                - row "3. Phillip Lindsay Dezbians" [ref=f1352e809]
+                - row "4. Daniel Jones Deepest" [ref=f1352e814]
+                - row "5. Dallas Goedert Vaqueros" [ref=f1352e819]
+                - row "6. Michael Thomas FFAmuseBouche" [ref=f1352e824]
+                - row "7. Curtis Samuel bigballs" [ref=f1352e829]
+                - row "8. Tua Tagovailoa Good Strongs" [ref=f1352e834]
+            - table [ref=f1352e840]:
+              - rowgroup [ref=f1352e845]:
+                - row "Round 15" [ref=f1352e846]
+              - rowgroup [ref=f1352e848]:
+                - row "1. Gus Edwards Wet Serapas" [ref=f1352e849]
+                - row "2. Baker Mayfield bigballs" [ref=f1352e854]
+                - row "3. Brandon Aiyuk  FFAmuseBouche" [ref=f1352e859]
+                - row "4. Tony Pollard Vaqueros" [ref=f1352e864]
+                - row "5. Darrell Henderson Jr.  Deepest" [ref=f1352e869]
+                - row "6. Jonnu Smith Dezbians" [ref=f1352e874]
+                - row "7. David Johnson DUGASM" [ref=f1352e879]
+                - row "8. Michael Pittman Jr. Good Strongs" [ref=f1352e884]
+          - generic [ref=f1352e889]:
+            - table [ref=f1352e891]:
+              - rowgroup [ref=f1352e896]:
+                - row "Round 16" [ref=f1352e897]
+              - rowgroup [ref=f1352e899]:
+                - row "1. Tyler Higbee Good Strongs" [ref=f1352e900]
+                - row "2. Jaylen Waddle DUGASM" [ref=f1352e905]
+                - row "3. Evan Engram Dezbians" [ref=f1352e910]
+                - row "4. Darnell Mooney Deepest" [ref=f1352e915]
+                - row "5. Ben Roethlisberger Vaqueros" [ref=f1352e920]
+                - row "6. DeVante Parker FFAmuseBouche" [ref=f1352e925]
+                - row "7. Ryan Tannehill  bigballs" [ref=f1352e930]
+                - row "8. Mike Gesicki Wet Serapas" [ref=f1352e935]
+            - table [ref=f1352e941]:
+              - rowgroup [ref=f1352e946]:
+                - row "Round 17" [ref=f1352e947]
+              - rowgroup [ref=f1352e949]:
+                - row "1. Carson Wentz Wet Serapas" [ref=f1352e950]
+                - row "2. Hollywood Brown bigballs" [ref=f1352e955]
+                - row "3. Sony Michel FFAmuseBouche" [ref=f1352e960]
+                - row "4. Justin Jefferson  Vaqueros" [ref=f1352e965]
+                - row "5. Rams Deepest" [ref=f1352e970]
+                - row "6. Zack Moss Dezbians" [ref=f1352e975]
+                - row "7. Chuba Hubbard DUGASM" [ref=f1352e980]
+                - row "8. Derek Carr Deepest" [ref=f1352e985]
+            - table [ref=f1352e991]:
+              - rowgroup [ref=f1352e996]:
+                - row "Round 18" [ref=f1352e997]
+              - rowgroup [ref=f1352e999]:
+                - row "1. Trey Lance Good Strongs" [ref=f1352e1000]
+                - row "2. Terry McLaurin  DUGASM" [ref=f1352e1005]
+                - row "3. Nyheim Miller-Hines Dezbians" [ref=f1352e1010]
+                - row "4. Jakobi Meyers Good Strongs" [ref=f1352e1015]
+                - row "5. Henry Ruggs III Vaqueros" [ref=f1352e1020]
+                - row "6. Jameis Winston FFAmuseBouche" [ref=f1352e1025]
+                - row "7. Russell Gage Jr. bigballs" [ref=f1352e1030]
+                - row "8. Buccaneers Wet Serapas" [ref=f1352e1035]
+          - generic [ref=f1352e1040]:
+            - table [ref=f1352e1042]:
+              - rowgroup [ref=f1352e1047]:
+                - row "Round 19" [ref=f1352e1048]
+              - rowgroup [ref=f1352e1050]:
+                - row "1. Deshaun Watson Wet Serapas" [ref=f1352e1051]
+                - row "2. Giovani Bernard bigballs" [ref=f1352e1056]
+                - row "3. Tevin Coleman FFAmuseBouche" [ref=f1352e1061]
+                - row "4. Latavius Murray Vaqueros" [ref=f1352e1066]
+                - row "5. Gabe Davis Deepest" [ref=f1352e1071]
+                - row "6. Rashaad Penny Dezbians" [ref=f1352e1076]
+                - row "7. Cole Beasley DUGASM" [ref=f1352e1081]
+                - row "8. Broncos Good Strongs" [ref=f1352e1086]
+            - table [ref=f1352e1092]:
+              - rowgroup [ref=f1352e1097]:
+                - row "Round 20" [ref=f1352e1098]
+              - rowgroup [ref=f1352e1100]:
+                - row "1. Ryan Fitzpatrick Good Strongs" [ref=f1352e1101]
+                - row "2. Commanders DUGASM" [ref=f1352e1106]
+                - row "3. Randall Cobb Dezbians" [ref=f1352e1111]
+                - row "4. Harrison Butker Deepest" [ref=f1352e1116]
+                - row "5. Ravens Vaqueros" [ref=f1352e1121]
+                - row "6. 49ers FFAmuseBouche" [ref=f1352e1126]
+                - row "7. Jared Goff bigballs" [ref=f1352e1131]
+                - row "8. Justin Tucker Wet Serapas" [ref=f1352e1136]
+            - table [ref=f1352e1142]:
+              - rowgroup [ref=f1352e1147]:
+                - row "Round 21" [ref=f1352e1148]
+              - rowgroup [ref=f1352e1150]:
+                - row "1. Blake Jarwin Wet Serapas" [ref=f1352e1151]
+                - row "2. Steelers bigballs" [ref=f1352e1156]
+                - row "3. Robert Tonyan FFAmuseBouche" [ref=f1352e1161]
+                - row "4. J.D. McKissic Vaqueros" [ref=f1352e1166]
+                - row "5. Sterling Shepard Deepest" [ref=f1352e1171]
+                - row "6. A.J. Green Dezbians" [ref=f1352e1176]
+                - row "7. Tarik Cohen DUGASM" [ref=f1352e1181]
+                - row "8. Matt Prater Good Strongs" [ref=f1352e1186]
+          - table [ref=f1352e1193]:
+            - rowgroup [ref=f1352e1198]:
+              - row "Round 22" [ref=f1352e1199]:
+                - columnheader "Round 22" [ref=f1352e1200]
+            - rowgroup [ref=f1352e1201]:
+              - row "1. Bryan Edwards Good Strongs" [ref=f1352e1202]:
+                - cell "1." [ref=f1352e1203]
+                - cell "Bryan Edwards" [ref=f1352e1204]
+                - cell "Good Strongs" [ref=f1352e1206]
+              - row "2. Jason Sanders DUGASM" [ref=f1352e1207]:
+                - cell "2." [ref=f1352e1208]
+                - cell "Jason Sanders" [ref=f1352e1209]
+                - cell "DUGASM" [ref=f1352e1211]
+              - row "3. Hunter Henry Dezbians" [ref=f1352e1212]:
+                - cell "3." [ref=f1352e1213]
+                - cell "Hunter Henry" [ref=f1352e1214]
+                - cell "Dezbians" [ref=f1352e1216]
+              - row "4. Marquez Callaway Deepest" [ref=f1352e1217]:
+                - cell "4." [ref=f1352e1218]
+                - cell "Marquez Callaway" [ref=f1352e1219]
+                - cell "Deepest" [ref=f1352e1221]
+              - row "5. Mac Jones Vaqueros" [ref=f1352e1222]:
+                - cell "5." [ref=f1352e1223]
+                - cell "Mac Jones" [ref=f1352e1224]
+                - cell "Vaqueros" [ref=f1352e1226]
+              - row "6. Robbie Gould FFAmuseBouche" [ref=f1352e1227]:
+                - cell "6." [ref=f1352e1228]
+                - cell "Robbie Gould" [ref=f1352e1229]
+                - cell "FFAmuseBouche" [ref=f1352e1231]
+              - row "7. Elijah Moore bigballs" [ref=f1352e1232]:
+                - cell "7." [ref=f1352e1233]
+                - cell "Elijah Moore" [ref=f1352e1234]
+                - cell "bigballs" [ref=f1352e1236]
+              - row "8. Zach Ertz Wet Serapas" [ref=f1352e1237]:
+                - cell "8." [ref=f1352e1238]
+                - cell "Zach Ertz" [ref=f1352e1239]
+                - cell "Wet Serapas" [ref=f1352e1241]
+    - contentinfo

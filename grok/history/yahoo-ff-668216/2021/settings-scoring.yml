@@ -1,0 +1,417 @@
+- generic [ref=f1431e3]:
+  - generic [ref=f1431e6]:
+    - banner [ref=f1431e8]:
+      - generic [ref=f1431e9]:
+        - generic [ref=f1431e11]:
+          - generic [ref=f1431e12]:
+            - generic [ref=f1431e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f1431e14]
+              - link "Yahoo Sports" [ref=f1431e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f1431e20]:
+              - generic [ref=f1431e21]: Search query
+              - combobox "Search query" [ref=f1431e22]
+              - button "Search" [ref=f1431e24] [cursor=pointer]
+          - navigation [ref=f1431e28]:
+            - list [ref=f1431e29]:
+              - listitem [ref=f1431e30]:
+                - link "News" [ref=f1431e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f1431e32]:
+                - link "Finance" [ref=f1431e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f1431e34]:
+                - link "Sports" [ref=f1431e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f1431e36]:
+                - button "More" [ref=f1431e37] [cursor=pointer]
+          - toolbar [ref=f1431e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f1431e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f1431e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f1431e52] [cursor=pointer]':
+              - generic:
+                - generic
+        - generic [ref=f1431e55]:
+          - link "Fantasy Football" [ref=f1431e56] [cursor=pointer]:
+            - /url: https://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f1431e60] [cursor=pointer]:
+            - /url: /2021/f1/771925
+          - link "League" [ref=f1431e61] [cursor=pointer]:
+            - /url: /2021/f1/771925
+          - link "My Team" [ref=f1431e62] [cursor=pointer]:
+            - /url: /2021/f1/771925/8
+          - link "Matchups" [ref=f1431e63] [cursor=pointer]:
+            - /url: /2021/f1/771925/matchup
+          - link "Players" [ref=f1431e64] [cursor=pointer]:
+            - /url: /2021/f1/771925/players
+          - link "Draft Results" [ref=f1431e65] [cursor=pointer]:
+            - /url: /2021/f1/771925/draftresults
+          - list [ref=f1431e68]:
+            - listitem [ref=f1431e69]:
+              - link "Fantasy" [ref=f1431e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f1431e79]:
+              - link "Network" [ref=f1431e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f1431e89]:
+              - link "Get Fantasy Plus" [ref=f1431e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f1431e97]: Deeper Than (ID# 771925)
+  - generic [ref=f1431e101]:
+    - banner [ref=f1431e102]:
+      - generic [ref=f1431e103]:
+        - heading "Yahoo Sports Fantasy Football" [level=2] [ref=f1431e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f1431e106] [cursor=pointer]:
+            - /url: /2021/f1
+        - iframe [ref=f1431e447]:
+          - insertion [ref=f1447e3]:
+            - iframe [ref=f1447e4]:
+              - iframe [ref=f1452e4]
+        - link "Open chat" [ref=f1431e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f1431e113]
+    - generic [ref=f1431e118]:
+      - heading "Scoring & Settings" [level=1] [ref=f1431e122]
+      - generic [ref=f1431e123]:
+        - table [ref=f1431e126]:
+          - rowgroup [ref=f1431e127]:
+            - row "Setting Value" [ref=f1431e128]:
+              - columnheader "Setting" [ref=f1431e129]
+              - columnheader "Value" [ref=f1431e130]
+          - rowgroup [ref=f1431e131]:
+            - 'row "League ID#: 771925" [ref=f1431e132]':
+              - cell "League ID#:" [ref=f1431e133]
+              - cell "771925" [ref=f1431e134]
+            - 'row "League Name: Deeper Than" [ref=f1431e135]':
+              - cell "League Name:" [ref=f1431e136]
+              - cell "Deeper Than" [ref=f1431e137]
+            - 'row "Auto-renew Enabled: Yes" [ref=f1431e138]':
+              - cell "Auto-renew Enabled:" [ref=f1431e139]
+              - cell "Yes" [ref=f1431e140]
+            - 'row "Draft Type: Offline Draft" [ref=f1431e141]':
+              - cell "Draft Type:" [ref=f1431e142]
+              - cell "Offline Draft" [ref=f1431e143]
+            - 'row "Draft Time: Sat Aug 28 9:23pm CDT" [ref=f1431e144]':
+              - cell "Draft Time:" [ref=f1431e145]
+              - cell "Sat Aug 28 9:23pm CDT" [ref=f1431e146]
+            - 'row "Cash League Settings: Not a cash league" [ref=f1431e147]':
+              - cell "Cash League Settings:" [ref=f1431e148]
+              - cell "Not a cash league" [ref=f1431e149]
+            - 'row "Max Teams: 8" [ref=f1431e150]':
+              - cell "Max Teams:" [ref=f1431e151]
+              - cell "8" [ref=f1431e152]
+            - 'row "Keeper Settings: Yes, enable Keeper League Management tools" [ref=f1431e153]':
+              - cell "Keeper Settings:" [ref=f1431e154]
+              - cell "Yes, enable Keeper League Management tools" [ref=f1431e155]
+            - 'row "Keeper Deadline Date: Wed Sep 8 2:00am CDT" [ref=f1431e156]':
+              - cell "Keeper Deadline Date:" [ref=f1431e157]
+              - cell "Wed Sep 8 2:00am CDT" [ref=f1431e158]
+            - 'row "Scoring Type: Head-to-Head" [ref=f1431e159]':
+              - cell "Scoring Type:" [ref=f1431e160]
+              - cell "Head-to-Head" [ref=f1431e161]
+            - 'row "Start Scoring on: Week 1" [ref=f1431e162]':
+              - cell "Start Scoring on:" [ref=f1431e163]
+              - cell "Week 1" [ref=f1431e164]
+            - 'row "Can''t Cut List Provider: Yahoo Sports" [ref=f1431e165]':
+              - cell "Can't Cut List Provider:" [ref=f1431e166]
+              - cell "Yahoo Sports" [ref=f1431e167]
+            - 'row "Max Acquisitions for Entire Season: No maximum" [ref=f1431e168]':
+              - cell "Max Acquisitions for Entire Season:" [ref=f1431e169]
+              - cell "No maximum" [ref=f1431e170]
+            - 'row "Max Acquisitions per Week: No maximum" [ref=f1431e171]':
+              - cell "Max Acquisitions per Week:" [ref=f1431e172]
+              - cell "No maximum" [ref=f1431e173]
+            - row "Max Trades for Entire Season No maximum" [ref=f1431e174]:
+              - cell "Max Trades for Entire Season" [ref=f1431e175]
+              - cell "No maximum" [ref=f1431e176]
+            - 'row "Trade End Date: November 20, 2021" [ref=f1431e177]':
+              - cell "Trade End Date:" [ref=f1431e178]
+              - cell "November 20, 2021" [ref=f1431e179]
+            - 'row "Allow Draft Pick Trades: Yes" [ref=f1431e180]':
+              - cell "Allow Draft Pick Trades:" [ref=f1431e181]
+              - cell "Yes" [ref=f1431e182]
+            - 'row "Trade Review: Commissioner" [ref=f1431e183]':
+              - cell "Trade Review:" [ref=f1431e184]
+              - cell "Commissioner" [ref=f1431e185]
+            - 'row "Trade Reject Time: 2 days" [ref=f1431e186]':
+              - cell "Trade Reject Time:" [ref=f1431e187]
+              - cell "2 days" [ref=f1431e188]
+            - 'row "Waiver Time: 1 day" [ref=f1431e189]':
+              - cell "Waiver Time:" [ref=f1431e190]
+              - cell "1 day" [ref=f1431e191]
+            - 'row "Waiver Type: FAB w/ Weekly rolling standings tiebreak" [ref=f1431e192]':
+              - cell "Waiver Type:" [ref=f1431e193]
+              - cell "FAB w/ Weekly rolling standings tiebreak" [ref=f1431e194]
+            - row "Weekly Waivers Game Time - Tuesday" [ref=f1431e195]:
+              - cell "Weekly Waivers" [ref=f1431e196]
+              - cell "Game Time - Tuesday" [ref=f1431e197]
+            - 'row "Allow injured players from waivers or free agents to be added directly to injury slot: No" [ref=f1431e198]':
+              - cell "Allow injured players from waivers or free agents to be added directly to injury slot:" [ref=f1431e199]
+              - cell "No" [ref=f1431e200]
+            - 'row "Post Draft Players: Follow Waiver Rules" [ref=f1431e201]':
+              - cell "Post Draft Players:" [ref=f1431e202]
+              - cell "Follow Waiver Rules" [ref=f1431e203]
+            - 'row "Playoffs: 4 teams - Week 15 and 16 (ends Monday, Dec 27) Note: Week 16 runs 6 days from Dec 22 to Dec 27" [ref=f1431e204]':
+              - cell "Playoffs:" [ref=f1431e205]
+              - 'cell "4 teams - Week 15 and 16 (ends Monday, Dec 27) Note: Week 16 runs 6 days from Dec 22 to Dec 27" [ref=f1431e206]'
+            - 'row "Playoff Tie-Breaker: Best regular season record vs opponent wins" [ref=f1431e207]':
+              - cell "Playoff Tie-Breaker:" [ref=f1431e208]
+              - cell "Best regular season record vs opponent wins" [ref=f1431e209]
+            - 'row "Playoff Reseeding: No" [ref=f1431e210]':
+              - cell "Playoff Reseeding:" [ref=f1431e211]
+              - cell "No" [ref=f1431e212]
+            - 'row "Divisions: No" [ref=f1431e213]':
+              - cell "Divisions:" [ref=f1431e214]
+              - cell "No" [ref=f1431e215]
+            - 'row "Lock Eliminated Teams: No" [ref=f1431e216]':
+              - cell "Lock Eliminated Teams:" [ref=f1431e217]
+              - cell "No" [ref=f1431e218]
+            - 'row "Play Against Median Score: No" [ref=f1431e219]':
+              - cell "Play Against Median Score:" [ref=f1431e220]
+              - cell "No" [ref=f1431e221]
+            - 'row "Play Against a Second Opponent: No" [ref=f1431e222]':
+              - cell "Play Against a Second Opponent:" [ref=f1431e223]
+              - cell "No" [ref=f1431e224]
+            - row "Apply Injured Status For Postponed Games No" [ref=f1431e225]:
+              - cell "Apply Injured Status For Postponed Games" [ref=f1431e226]
+              - cell "No" [ref=f1431e227]
+            - 'row "Roster Positions: QB, QB, WR, WR, RB, RB, TE, W/T, W/R, K, DEF, BN, BN, BN, BN, BN, BN, BN, BN, BN, BN, BN, IR, IR, IR, IR, IR" [ref=f1431e228]':
+              - cell "Roster Positions:" [ref=f1431e229]
+              - cell "QB, QB, WR, WR, RB, RB, TE, W/T, W/R, K, DEF, BN, BN, BN, BN, BN, BN, BN, BN, BN, BN, BN, IR, IR, IR, IR, IR" [ref=f1431e230]
+            - 'row "Fractional Points: Yes" [ref=f1431e231]':
+              - cell "Fractional Points:" [ref=f1431e232]
+              - cell "Yes" [ref=f1431e233]
+            - 'row "Negative Points: Yes" [ref=f1431e234]':
+              - cell "Negative Points:" [ref=f1431e235]
+              - cell "Yes" [ref=f1431e236]
+            - 'row "Lock Benched Players: No" [ref=f1431e237]':
+              - cell "Lock Benched Players:" [ref=f1431e238]
+              - cell "No" [ref=f1431e239]
+            - 'row "Make League Publicly Viewable: No" [ref=f1431e240]':
+              - cell "Make League Publicly Viewable:" [ref=f1431e241]
+              - cell "No" [ref=f1431e242]
+            - 'row "Invite Permissions: Commissioner Only" [ref=f1431e243]':
+              - cell "Invite Permissions:" [ref=f1431e244]
+              - cell "Commissioner Only" [ref=f1431e245]
+        - table [ref=f1431e248]:
+          - rowgroup [ref=f1431e249]:
+            - row "Offense League Value Yahoo Default Value" [ref=f1431e250]:
+              - columnheader "Offense" [ref=f1431e251]
+              - columnheader "League Value" [ref=f1431e252]
+              - columnheader "Yahoo Default Value" [ref=f1431e253]
+          - rowgroup [ref=f1431e254]:
+            - row "Passing Yards 25 yards per point" [ref=f1431e255]:
+              - cell "Passing Yards" [ref=f1431e256]
+              - cell "25 yards per point" [ref=f1431e257]
+              - cell [ref=f1431e258]
+            - row "Passing Touchdowns 4" [ref=f1431e259]:
+              - cell "Passing Touchdowns" [ref=f1431e260]
+              - cell "4" [ref=f1431e261]
+              - cell [ref=f1431e262]
+            - row "Interceptions Yahoo Default -2 -1" [ref=f1431e263]:
+              - cell "Interceptions Yahoo Default" [ref=f1431e264]:
+                - text: Interceptions
+                - generic [ref=f1431e265]: Yahoo Default
+              - cell "-2" [ref=f1431e266]
+              - cell "-1" [ref=f1431e267]
+            - row "Rushing Yards 10 yards per point" [ref=f1431e268]:
+              - cell "Rushing Yards" [ref=f1431e269]
+              - cell "10 yards per point" [ref=f1431e270]
+              - cell [ref=f1431e271]
+            - row "Rushing Touchdowns 6" [ref=f1431e272]:
+              - cell "Rushing Touchdowns" [ref=f1431e273]
+              - cell "6" [ref=f1431e274]
+              - cell [ref=f1431e275]
+            - row "Receptions .5" [ref=f1431e276]:
+              - cell "Receptions" [ref=f1431e277]
+              - cell ".5" [ref=f1431e278]
+              - cell [ref=f1431e279]
+            - row "Receiving Yards 10 yards per point" [ref=f1431e280]:
+              - cell "Receiving Yards" [ref=f1431e281]
+              - cell "10 yards per point" [ref=f1431e282]
+              - cell [ref=f1431e283]
+            - row "Receiving Touchdowns 6" [ref=f1431e284]:
+              - cell "Receiving Touchdowns" [ref=f1431e285]
+              - cell "6" [ref=f1431e286]
+              - cell [ref=f1431e287]
+            - row "Return Touchdowns 6" [ref=f1431e288]:
+              - cell "Return Touchdowns" [ref=f1431e289]
+              - cell "6" [ref=f1431e290]
+              - cell [ref=f1431e291]
+            - row "2-Point Conversions 2" [ref=f1431e292]:
+              - cell "2-Point Conversions" [ref=f1431e293]
+              - cell "2" [ref=f1431e294]
+              - cell [ref=f1431e295]
+            - row "Fumbles Lost -2" [ref=f1431e296]:
+              - cell "Fumbles Lost" [ref=f1431e297]
+              - cell "-2" [ref=f1431e298]
+              - cell [ref=f1431e299]
+            - row "Offensive Fumble Return TD 6" [ref=f1431e300]:
+              - cell "Offensive Fumble Return TD" [ref=f1431e301]
+              - cell "6" [ref=f1431e302]
+              - cell [ref=f1431e303]
+          - rowgroup [ref=f1431e304]:
+            - row "Kickers League Value Yahoo Default Value" [ref=f1431e305]:
+              - columnheader "Kickers" [ref=f1431e306]
+              - columnheader "League Value" [ref=f1431e307]
+              - columnheader "Yahoo Default Value" [ref=f1431e308]
+          - rowgroup [ref=f1431e309]:
+            - row "Field Goals 0-19 Yards 3" [ref=f1431e310]:
+              - cell "Field Goals 0-19 Yards" [ref=f1431e311]
+              - cell "3" [ref=f1431e312]
+              - cell [ref=f1431e313]
+            - row "Field Goals 20-29 Yards 3" [ref=f1431e314]:
+              - cell "Field Goals 20-29 Yards" [ref=f1431e315]
+              - cell "3" [ref=f1431e316]
+              - cell [ref=f1431e317]
+            - row "Field Goals 30-39 Yards 3" [ref=f1431e318]:
+              - cell "Field Goals 30-39 Yards" [ref=f1431e319]
+              - cell "3" [ref=f1431e320]
+              - cell [ref=f1431e321]
+            - row "Field Goals 40-49 Yards 4" [ref=f1431e322]:
+              - cell "Field Goals 40-49 Yards" [ref=f1431e323]
+              - cell "4" [ref=f1431e324]
+              - cell [ref=f1431e325]
+            - row "Field Goals 50+ Yards 5" [ref=f1431e326]:
+              - cell "Field Goals 50+ Yards" [ref=f1431e327]
+              - cell "5" [ref=f1431e328]
+              - cell [ref=f1431e329]
+            - row "Field Goals Missed 0-19 Yards Yahoo Default -2 0" [ref=f1431e330]:
+              - cell "Field Goals Missed 0-19 Yards Yahoo Default" [ref=f1431e331]:
+                - text: Field Goals Missed 0-19 Yards
+                - generic [ref=f1431e332]: Yahoo Default
+              - cell "-2" [ref=f1431e333]
+              - cell "0" [ref=f1431e334]
+            - row "Field Goals Missed 20-29 Yards Yahoo Default -1 0" [ref=f1431e335]:
+              - cell "Field Goals Missed 20-29 Yards Yahoo Default" [ref=f1431e336]:
+                - text: Field Goals Missed 20-29 Yards
+                - generic [ref=f1431e337]: Yahoo Default
+              - cell "-1" [ref=f1431e338]
+              - cell "0" [ref=f1431e339]
+            - row "Point After Attempt Made 1" [ref=f1431e340]:
+              - cell "Point After Attempt Made" [ref=f1431e341]
+              - cell "1" [ref=f1431e342]
+              - cell [ref=f1431e343]
+            - row "Point After Attempt Missed Yahoo Default -1 0" [ref=f1431e344]:
+              - cell "Point After Attempt Missed Yahoo Default" [ref=f1431e345]:
+                - text: Point After Attempt Missed
+                - generic [ref=f1431e346]: Yahoo Default
+              - cell "-1" [ref=f1431e347]
+              - cell "0" [ref=f1431e348]
+          - rowgroup [ref=f1431e349]:
+            - row "Defense/Special Teams League Value Yahoo Default Value" [ref=f1431e350]:
+              - columnheader "Defense/Special Teams" [ref=f1431e351]
+              - columnheader "League Value" [ref=f1431e352]
+              - columnheader "Yahoo Default Value" [ref=f1431e353]
+          - rowgroup [ref=f1431e354]:
+            - row "Sack 1" [ref=f1431e355]:
+              - cell "Sack" [ref=f1431e356]
+              - cell "1" [ref=f1431e357]
+              - cell [ref=f1431e358]
+            - row "Interception 2" [ref=f1431e359]:
+              - cell "Interception" [ref=f1431e360]
+              - cell "2" [ref=f1431e361]
+              - cell [ref=f1431e362]
+            - row "Fumble Recovery 2" [ref=f1431e363]:
+              - cell "Fumble Recovery" [ref=f1431e364]
+              - cell "2" [ref=f1431e365]
+              - cell [ref=f1431e366]
+            - row "Touchdown 6" [ref=f1431e367]:
+              - cell "Touchdown" [ref=f1431e368]
+              - cell "6" [ref=f1431e369]
+              - cell [ref=f1431e370]
+            - row "Safety 2" [ref=f1431e371]:
+              - cell "Safety" [ref=f1431e372]
+              - cell "2" [ref=f1431e373]
+              - cell [ref=f1431e374]
+            - row "Block Kick 2" [ref=f1431e375]:
+              - cell "Block Kick" [ref=f1431e376]
+              - cell "2" [ref=f1431e377]
+              - cell [ref=f1431e378]
+            - row "Points Allowed 0 points Yahoo Default 15 10" [ref=f1431e379]:
+              - cell "Points Allowed 0 points Yahoo Default" [ref=f1431e380]:
+                - text: Points Allowed 0 points
+                - generic [ref=f1431e381]: Yahoo Default
+              - cell "15" [ref=f1431e382]
+              - cell "10" [ref=f1431e383]
+            - row "Points Allowed 1-6 points Yahoo Default 10 7" [ref=f1431e384]:
+              - cell "Points Allowed 1-6 points Yahoo Default" [ref=f1431e385]:
+                - text: Points Allowed 1-6 points
+                - generic [ref=f1431e386]: Yahoo Default
+              - cell "10" [ref=f1431e387]
+              - cell "7" [ref=f1431e388]
+            - row "Points Allowed 7-13 points Yahoo Default 8 4" [ref=f1431e389]:
+              - cell "Points Allowed 7-13 points Yahoo Default" [ref=f1431e390]:
+                - text: Points Allowed 7-13 points
+                - generic [ref=f1431e391]: Yahoo Default
+              - cell "8" [ref=f1431e392]
+              - cell "4" [ref=f1431e393]
+            - row "Points Allowed 14-20 points Yahoo Default 4 1" [ref=f1431e394]:
+              - cell "Points Allowed 14-20 points Yahoo Default" [ref=f1431e395]:
+                - text: Points Allowed 14-20 points
+                - generic [ref=f1431e396]: Yahoo Default
+              - cell "4" [ref=f1431e397]
+              - cell "1" [ref=f1431e398]
+            - row "Points Allowed 21-27 points 0" [ref=f1431e399]:
+              - cell "Points Allowed 21-27 points" [ref=f1431e400]
+              - cell "0" [ref=f1431e401]
+              - cell [ref=f1431e402]
+            - row "Points Allowed 28-34 points Yahoo Default -5 -1" [ref=f1431e403]:
+              - cell "Points Allowed 28-34 points Yahoo Default" [ref=f1431e404]:
+                - text: Points Allowed 28-34 points
+                - generic [ref=f1431e405]: Yahoo Default
+              - cell "-5" [ref=f1431e406]
+              - cell "-1" [ref=f1431e407]
+            - row "Points Allowed 35+ points Yahoo Default -10 -4" [ref=f1431e408]:
+              - cell "Points Allowed 35+ points Yahoo Default" [ref=f1431e409]:
+                - text: Points Allowed 35+ points
+                - generic [ref=f1431e410]: Yahoo Default
+              - cell "-10" [ref=f1431e411]
+              - cell "-4" [ref=f1431e412]
+            - row "Extra Point Returned 2" [ref=f1431e413]:
+              - cell "Extra Point Returned" [ref=f1431e414]
+              - cell "2" [ref=f1431e415]
+              - cell [ref=f1431e416]
+    - contentinfo [ref=f1431e418]:
+      - iframe [ref=f1431e449]:
+        - insertion [ref=f1441e3]:
+          - iframe [ref=f1441e4]:
+            - iframe [ref=f1445e4]
+      - generic [ref=f1431e425]:
+        - list [ref=f1431e426]:
+          - listitem [ref=f1431e427]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f1431e428]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f1431e429] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f1431e430]:
+            - text: "-"
+            - link "Feedback" [ref=f1431e431] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f1431e432]:
+            - text: "-"
+            - link "Terms" [ref=f1431e433] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f1431e434] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f1431e435]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f1431e436] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f1431e437]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f1431e438] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f1431e439]:
+            - text: "-"
+            - link "About Our Ads" [ref=f1431e440] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f1431e441]:
+            - text: "-"
+            - link "Help" [ref=f1431e442] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f1431e443]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f1431e444]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f1431e445]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
