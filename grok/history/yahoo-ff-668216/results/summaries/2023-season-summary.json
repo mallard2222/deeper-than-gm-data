@@ -1,0 +1,891 @@
+{
+  "schema_version": "0.1.0",
+  "league_id": "yahoo-ff-668216",
+  "season": 2023,
+  "season_league_id": 69639,
+  "generated_at": "2026-09-19T22:08:34Z",
+  "matchup_count": 64,
+  "weeks_covered": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "coverage_note": "2023 completed weeks only; not all-time.",
+  "records_by_bracket": {
+    "regular": {
+      "Vaqueros": {
+        "w": 4,
+        "l": 10,
+        "t": 0,
+        "pf": 1884.64,
+        "pa": 2080.6,
+        "games": 14
+      },
+      "Bigballs": {
+        "w": 10,
+        "l": 4,
+        "t": 0,
+        "pf": 1988.7999999999997,
+        "pa": 1953.0600000000002,
+        "games": 14
+      },
+      "Wet Serapas": {
+        "w": 9,
+        "l": 5,
+        "t": 0,
+        "pf": 1860.8200000000002,
+        "pa": 1844.34,
+        "games": 14
+      },
+      "Good Strongs": {
+        "w": 7,
+        "l": 7,
+        "t": 0,
+        "pf": 2052.6800000000003,
+        "pa": 2039.1000000000001,
+        "games": 14
+      },
+      "Deepest": {
+        "w": 7,
+        "l": 7,
+        "t": 0,
+        "pf": 2083.9999999999995,
+        "pa": 1967.5,
+        "games": 14
+      },
+      "Dezbians": {
+        "w": 8,
+        "l": 6,
+        "t": 0,
+        "pf": 2093.26,
+        "pa": 1867.8600000000001,
+        "games": 14
+      },
+      "DUGASM": {
+        "w": 6,
+        "l": 8,
+        "t": 0,
+        "pf": 1844.9400000000003,
+        "pa": 1978.8,
+        "games": 14
+      },
+      "FFAmuseBouche": {
+        "w": 5,
+        "l": 9,
+        "t": 0,
+        "pf": 1916.9999999999998,
+        "pa": 1994.88,
+        "games": 14
+      }
+    },
+    "championship_playoffs": {
+      "Wet Serapas": {
+        "w": 0,
+        "l": 1,
+        "t": 0,
+        "pf": 132.22,
+        "pa": 132.98,
+        "games": 1
+      },
+      "Dezbians": {
+        "w": 2,
+        "l": 0,
+        "t": 0,
+        "pf": 289.36,
+        "pa": 237.3,
+        "games": 2
+      },
+      "Bigballs": {
+        "w": 0,
+        "l": 1,
+        "t": 0,
+        "pf": 114.56,
+        "pa": 175.8,
+        "games": 1
+      },
+      "Deepest": {
+        "w": 1,
+        "l": 1,
+        "t": 0,
+        "pf": 280.88,
+        "pa": 270.94,
+        "games": 2
+      }
+    },
+    "consolation": {
+      "Vaqueros": {
+        "w": 1,
+        "l": 1,
+        "t": 0,
+        "pf": 240.04000000000002,
+        "pa": 248.32,
+        "games": 2
+      },
+      "Good Strongs": {
+        "w": 2,
+        "l": 0,
+        "t": 0,
+        "pf": 305.86,
+        "pa": 239.40000000000003,
+        "games": 2
+      },
+      "DUGASM": {
+        "w": 0,
+        "l": 2,
+        "t": 0,
+        "pf": 231.98000000000002,
+        "pa": 275.2,
+        "games": 2
+      },
+      "FFAmuseBouche": {
+        "w": 1,
+        "l": 1,
+        "t": 0,
+        "pf": 274.56,
+        "pa": 289.52,
+        "games": 2
+      },
+      "Wet Serapas": {
+        "w": 1,
+        "l": 0,
+        "t": 0,
+        "pf": 135.0,
+        "pa": 112.42,
+        "games": 1
+      },
+      "Bigballs": {
+        "w": 0,
+        "l": 1,
+        "t": 0,
+        "pf": 112.42,
+        "pa": 135.0,
+        "games": 1
+      }
+    },
+    "combined_all_brackets_labeled": {
+      "Vaqueros": {
+        "w": 5,
+        "l": 11,
+        "t": 0,
+        "pf": 2124.6800000000003,
+        "pa": 2328.92,
+        "games": 16
+      },
+      "Bigballs": {
+        "w": 10,
+        "l": 6,
+        "t": 0,
+        "pf": 2215.7799999999997,
+        "pa": 2263.86,
+        "games": 16
+      },
+      "Wet Serapas": {
+        "w": 10,
+        "l": 6,
+        "t": 0,
+        "pf": 2128.04,
+        "pa": 2089.74,
+        "games": 16
+      },
+      "Good Strongs": {
+        "w": 9,
+        "l": 7,
+        "t": 0,
+        "pf": 2358.5400000000004,
+        "pa": 2278.5000000000005,
+        "games": 16
+      },
+      "Deepest": {
+        "w": 8,
+        "l": 8,
+        "t": 0,
+        "pf": 2364.8799999999997,
+        "pa": 2238.44,
+        "games": 16
+      },
+      "Dezbians": {
+        "w": 10,
+        "l": 6,
+        "t": 0,
+        "pf": 2382.6200000000003,
+        "pa": 2105.1600000000003,
+        "games": 16
+      },
+      "DUGASM": {
+        "w": 6,
+        "l": 10,
+        "t": 0,
+        "pf": 2076.92,
+        "pa": 2254.0,
+        "games": 16
+      },
+      "FFAmuseBouche": {
+        "w": 6,
+        "l": 10,
+        "t": 0,
+        "pf": 2191.56,
+        "pa": 2284.4,
+        "games": 16
+      }
+    }
+  },
+  "h2h_pairs": [
+    {
+      "team_a": "Bigballs",
+      "team_b": "DUGASM",
+      "record_a": "2-0-0",
+      "games": [
+        {
+          "week": 7,
+          "bracket": "regular",
+          "score_a": 125.4,
+          "score_b": 101.6,
+          "winner": "Bigballs"
+        },
+        {
+          "week": 14,
+          "bracket": "regular",
+          "score_a": 115.84,
+          "score_b": 93.66,
+          "winner": "Bigballs"
+        }
+      ]
+    },
+    {
+      "team_a": "Bigballs",
+      "team_b": "Deepest",
+      "record_a": "1-2-0",
+      "games": [
+        {
+          "week": 3,
+          "bracket": "regular",
+          "score_a": 180.04,
+          "score_b": 179.5,
+          "winner": "Bigballs"
+        },
+        {
+          "week": 10,
+          "bracket": "regular",
+          "score_a": 139.22,
+          "score_b": 140.58,
+          "winner": "Deepest"
+        },
+        {
+          "week": 15,
+          "bracket": "championship",
+          "score_a": 114.56,
+          "score_b": 175.8,
+          "winner": "Deepest"
+        }
+      ]
+    },
+    {
+      "team_a": "Bigballs",
+      "team_b": "Dezbians",
+      "record_a": "2-0-0",
+      "games": [
+        {
+          "week": 5,
+          "bracket": "regular",
+          "score_a": 168.28,
+          "score_b": 141.02,
+          "winner": "Bigballs"
+        },
+        {
+          "week": 12,
+          "bracket": "regular",
+          "score_a": 174.08,
+          "score_b": 162.86,
+          "winner": "Bigballs"
+        }
+      ]
+    },
+    {
+      "team_a": "Bigballs",
+      "team_b": "FFAmuseBouche",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 6,
+          "bracket": "regular",
+          "score_a": 106.22,
+          "score_b": 140.04,
+          "winner": "FFAmuseBouche"
+        },
+        {
+          "week": 13,
+          "bracket": "regular",
+          "score_a": 151.6,
+          "score_b": 147.44,
+          "winner": "Bigballs"
+        }
+      ]
+    },
+    {
+      "team_a": "Bigballs",
+      "team_b": "Good Strongs",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 2,
+          "bracket": "regular",
+          "score_a": 168.92,
+          "score_b": 167.72,
+          "winner": "Bigballs"
+        },
+        {
+          "week": 9,
+          "bracket": "regular",
+          "score_a": 114.52,
+          "score_b": 168.98,
+          "winner": "Good Strongs"
+        }
+      ]
+    },
+    {
+      "team_a": "Bigballs",
+      "team_b": "Vaqueros",
+      "record_a": "2-0-0",
+      "games": [
+        {
+          "week": 1,
+          "bracket": "regular",
+          "score_a": 157.8,
+          "score_b": 113.84,
+          "winner": "Bigballs"
+        },
+        {
+          "week": 8,
+          "bracket": "regular",
+          "score_a": 140.76,
+          "score_b": 123.54,
+          "winner": "Bigballs"
+        }
+      ]
+    },
+    {
+      "team_a": "Bigballs",
+      "team_b": "Wet Serapas",
+      "record_a": "1-2-0",
+      "games": [
+        {
+          "week": 4,
+          "bracket": "regular",
+          "score_a": 114.34,
+          "score_b": 152.76,
+          "winner": "Wet Serapas"
+        },
+        {
+          "week": 11,
+          "bracket": "regular",
+          "score_a": 131.78,
+          "score_b": 119.52,
+          "winner": "Bigballs"
+        },
+        {
+          "week": 16,
+          "bracket": "consolation",
+          "score_a": 112.42,
+          "score_b": 135.0,
+          "winner": "Wet Serapas"
+        }
+      ]
+    },
+    {
+      "team_a": "DUGASM",
+      "team_b": "Deepest",
+      "record_a": "0-2-0",
+      "games": [
+        {
+          "week": 5,
+          "bracket": "regular",
+          "score_a": 145.42,
+          "score_b": 149.64,
+          "winner": "Deepest"
+        },
+        {
+          "week": 12,
+          "bracket": "regular",
+          "score_a": 129.36,
+          "score_b": 175.28,
+          "winner": "Deepest"
+        }
+      ]
+    },
+    {
+      "team_a": "DUGASM",
+      "team_b": "Dezbians",
+      "record_a": "0-2-0",
+      "games": [
+        {
+          "week": 2,
+          "bracket": "regular",
+          "score_a": 109.64,
+          "score_b": 174.36,
+          "winner": "Dezbians"
+        },
+        {
+          "week": 9,
+          "bracket": "regular",
+          "score_a": 87.94,
+          "score_b": 144.12,
+          "winner": "Dezbians"
+        }
+      ]
+    },
+    {
+      "team_a": "DUGASM",
+      "team_b": "FFAmuseBouche",
+      "record_a": "2-1-0",
+      "games": [
+        {
+          "week": 1,
+          "bracket": "regular",
+          "score_a": 141.6,
+          "score_b": 119.02,
+          "winner": "DUGASM"
+        },
+        {
+          "week": 8,
+          "bracket": "regular",
+          "score_a": 155.34,
+          "score_b": 121.22,
+          "winner": "DUGASM"
+        },
+        {
+          "week": 15,
+          "bracket": "consolation",
+          "score_a": 122.54,
+          "score_b": 145.2,
+          "winner": "FFAmuseBouche"
+        }
+      ]
+    },
+    {
+      "team_a": "DUGASM",
+      "team_b": "Good Strongs",
+      "record_a": "2-0-0",
+      "games": [
+        {
+          "week": 4,
+          "bracket": "regular",
+          "score_a": 153.98,
+          "score_b": 151.94,
+          "winner": "DUGASM"
+        },
+        {
+          "week": 11,
+          "bracket": "regular",
+          "score_a": 137.64,
+          "score_b": 136.92,
+          "winner": "DUGASM"
+        }
+      ]
+    },
+    {
+      "team_a": "DUGASM",
+      "team_b": "Vaqueros",
+      "record_a": "1-2-0",
+      "games": [
+        {
+          "week": 3,
+          "bracket": "regular",
+          "score_a": 177.16,
+          "score_b": 146.98,
+          "winner": "DUGASM"
+        },
+        {
+          "week": 10,
+          "bracket": "regular",
+          "score_a": 164.94,
+          "score_b": 167.08,
+          "winner": "Vaqueros"
+        },
+        {
+          "week": 16,
+          "bracket": "consolation",
+          "score_a": 109.44,
+          "score_b": 130.0,
+          "winner": "Vaqueros"
+        }
+      ]
+    },
+    {
+      "team_a": "DUGASM",
+      "team_b": "Wet Serapas",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 6,
+          "bracket": "regular",
+          "score_a": 134.1,
+          "score_b": 128.34,
+          "winner": "DUGASM"
+        },
+        {
+          "week": 13,
+          "bracket": "regular",
+          "score_a": 112.56,
+          "score_b": 122.66,
+          "winner": "Wet Serapas"
+        }
+      ]
+    },
+    {
+      "team_a": "Deepest",
+      "team_b": "Dezbians",
+      "record_a": "0-3-0",
+      "games": [
+        {
+          "week": 1,
+          "bracket": "regular",
+          "score_a": 110.86,
+          "score_b": 141.54,
+          "winner": "Dezbians"
+        },
+        {
+          "week": 8,
+          "bracket": "regular",
+          "score_a": 156.64,
+          "score_b": 184.64,
+          "winner": "Dezbians"
+        },
+        {
+          "week": 16,
+          "bracket": "championship",
+          "score_a": 105.08,
+          "score_b": 156.38,
+          "winner": "Dezbians"
+        }
+      ]
+    },
+    {
+      "team_a": "Deepest",
+      "team_b": "FFAmuseBouche",
+      "record_a": "2-0-0",
+      "games": [
+        {
+          "week": 4,
+          "bracket": "regular",
+          "score_a": 148.06,
+          "score_b": 108.12,
+          "winner": "Deepest"
+        },
+        {
+          "week": 11,
+          "bracket": "regular",
+          "score_a": 162.62,
+          "score_b": 119.88,
+          "winner": "Deepest"
+        }
+      ]
+    },
+    {
+      "team_a": "Deepest",
+      "team_b": "Good Strongs",
+      "record_a": "0-2-0",
+      "games": [
+        {
+          "week": 7,
+          "bracket": "regular",
+          "score_a": 121.1,
+          "score_b": 145.04,
+          "winner": "Good Strongs"
+        },
+        {
+          "week": 14,
+          "bracket": "regular",
+          "score_a": 125.98,
+          "score_b": 149.34,
+          "winner": "Good Strongs"
+        }
+      ]
+    },
+    {
+      "team_a": "Deepest",
+      "team_b": "Vaqueros",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 6,
+          "bracket": "regular",
+          "score_a": 128.58,
+          "score_b": 133.72,
+          "winner": "Vaqueros"
+        },
+        {
+          "week": 13,
+          "bracket": "regular",
+          "score_a": 187.56,
+          "score_b": 160.22,
+          "winner": "Deepest"
+        }
+      ]
+    },
+    {
+      "team_a": "Deepest",
+      "team_b": "Wet Serapas",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 2,
+          "bracket": "regular",
+          "score_a": 187.08,
+          "score_b": 93.36,
+          "winner": "Deepest"
+        },
+        {
+          "week": 9,
+          "bracket": "regular",
+          "score_a": 110.52,
+          "score_b": 137.6,
+          "winner": "Wet Serapas"
+        }
+      ]
+    },
+    {
+      "team_a": "Dezbians",
+      "team_b": "FFAmuseBouche",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 7,
+          "bracket": "regular",
+          "score_a": 149.22,
+          "score_b": 134.0,
+          "winner": "Dezbians"
+        },
+        {
+          "week": 14,
+          "bracket": "regular",
+          "score_a": 130.24,
+          "score_b": 165.54,
+          "winner": "FFAmuseBouche"
+        }
+      ]
+    },
+    {
+      "team_a": "Dezbians",
+      "team_b": "Good Strongs",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 6,
+          "bracket": "regular",
+          "score_a": 134.34,
+          "score_b": 139.96,
+          "winner": "Good Strongs"
+        },
+        {
+          "week": 13,
+          "bracket": "regular",
+          "score_a": 189.96,
+          "score_b": 149.26,
+          "winner": "Dezbians"
+        }
+      ]
+    },
+    {
+      "team_a": "Dezbians",
+      "team_b": "Vaqueros",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 4,
+          "bracket": "regular",
+          "score_a": 125.04,
+          "score_b": 149.74,
+          "winner": "Vaqueros"
+        },
+        {
+          "week": 11,
+          "bracket": "regular",
+          "score_a": 176.78,
+          "score_b": 92.5,
+          "winner": "Dezbians"
+        }
+      ]
+    },
+    {
+      "team_a": "Dezbians",
+      "team_b": "Wet Serapas",
+      "record_a": "2-1-0",
+      "games": [
+        {
+          "week": 3,
+          "bracket": "regular",
+          "score_a": 126.04,
+          "score_b": 126.28,
+          "winner": "Wet Serapas"
+        },
+        {
+          "week": 10,
+          "bracket": "regular",
+          "score_a": 113.1,
+          "score_b": 103.14,
+          "winner": "Dezbians"
+        },
+        {
+          "week": 15,
+          "bracket": "championship",
+          "score_a": 132.98,
+          "score_b": 132.22,
+          "winner": "Dezbians"
+        }
+      ]
+    },
+    {
+      "team_a": "FFAmuseBouche",
+      "team_b": "Good Strongs",
+      "record_a": "1-2-0",
+      "games": [
+        {
+          "week": 3,
+          "bracket": "regular",
+          "score_a": 186.34,
+          "score_b": 136.02,
+          "winner": "FFAmuseBouche"
+        },
+        {
+          "week": 10,
+          "bracket": "regular",
+          "score_a": 113.92,
+          "score_b": 174.18,
+          "winner": "Good Strongs"
+        },
+        {
+          "week": 16,
+          "bracket": "consolation",
+          "score_a": 129.36,
+          "score_b": 166.98,
+          "winner": "Good Strongs"
+        }
+      ]
+    },
+    {
+      "team_a": "FFAmuseBouche",
+      "team_b": "Vaqueros",
+      "record_a": "2-0-0",
+      "games": [
+        {
+          "week": 2,
+          "bracket": "regular",
+          "score_a": 131.88,
+          "score_b": 114.32,
+          "winner": "FFAmuseBouche"
+        },
+        {
+          "week": 9,
+          "bracket": "regular",
+          "score_a": 141.82,
+          "score_b": 126.88,
+          "winner": "FFAmuseBouche"
+        }
+      ]
+    },
+    {
+      "team_a": "FFAmuseBouche",
+      "team_b": "Wet Serapas",
+      "record_a": "0-2-0",
+      "games": [
+        {
+          "week": 5,
+          "bracket": "regular",
+          "score_a": 146.02,
+          "score_b": 149.32,
+          "winner": "Wet Serapas"
+        },
+        {
+          "week": 12,
+          "bracket": "regular",
+          "score_a": 141.76,
+          "score_b": 149.26,
+          "winner": "Wet Serapas"
+        }
+      ]
+    },
+    {
+      "team_a": "Good Strongs",
+      "team_b": "Vaqueros",
+      "record_a": "2-1-0",
+      "games": [
+        {
+          "week": 5,
+          "bracket": "regular",
+          "score_a": 90.26,
+          "score_b": 162.62,
+          "winner": "Vaqueros"
+        },
+        {
+          "week": 12,
+          "bracket": "regular",
+          "score_a": 158.42,
+          "score_b": 150.8,
+          "winner": "Good Strongs"
+        },
+        {
+          "week": 15,
+          "bracket": "consolation",
+          "score_a": 138.88,
+          "score_b": 110.04,
+          "winner": "Good Strongs"
+        }
+      ]
+    },
+    {
+      "team_a": "Good Strongs",
+      "team_b": "Wet Serapas",
+      "record_a": "1-1-0",
+      "games": [
+        {
+          "week": 1,
+          "bracket": "regular",
+          "score_a": 144.24,
+          "score_b": 109.3,
+          "winner": "Good Strongs"
+        },
+        {
+          "week": 8,
+          "bracket": "regular",
+          "score_a": 140.4,
+          "score_b": 169.68,
+          "winner": "Wet Serapas"
+        }
+      ]
+    },
+    {
+      "team_a": "Vaqueros",
+      "team_b": "Wet Serapas",
+      "record_a": "0-2-0",
+      "games": [
+        {
+          "week": 7,
+          "bracket": "regular",
+          "score_a": 102.74,
+          "score_b": 146.9,
+          "winner": "Wet Serapas"
+        },
+        {
+          "week": 14,
+          "bracket": "regular",
+          "score_a": 139.66,
+          "score_b": 152.7,
+          "winner": "Wet Serapas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "generated_at": "2026-09-19T21:55:45Z",
+  "generated_at": "2026-09-19T22:08:34Z",
   "seasons": {
     "2025": {
       "status": "matchups_complete_weeks_1_16",
@@ -13,7 +13,11 @@
       "status": "pending_schedule_scrape"
     },
     "2026": {
-      "status": "pending_latest_completed_weeks"
+      "status": "partial_week_1_only",
+      "matchups": 4,
+      "gaps": [
+        "Week 2+ In progress / not Final"
+      ]
     },
     "2024": {
       "status": "matchups_complete_weeks_1_16",
@@ -21,14 +25,21 @@
       "gaps": []
     },
     "2023": {
-      "status": "partial_weeks_1_6",
-      "matchups": 24,
-      "gaps": [
-        "Yahoo HTTP 999/429 rate limit before week 7; resume after cool-down"
-      ]
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
     },
     "2013-2022": {
       "status": "pending_schedule_scrape"
+    },
+    "2022": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "gaps": []
+    },
+    "2013-2021": {
+      "status": "pending_schedule_scrape",
+      "note": "league IDs identified; not fetched yet"
     }
   },
   "label": "PARTIAL \u2014 do not call all-time"
