@@ -1,0 +1,724 @@
+- generic [ref=f7108e3]:
+  - generic [ref=f7108e6]:
+    - banner [ref=f7108e8]:
+      - generic [ref=f7108e9]:
+        - generic [ref=f7108e11]:
+          - generic [ref=f7108e12]:
+            - generic [ref=f7108e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f7108e14]
+              - link "Yahoo Sports" [ref=f7108e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f7108e20]:
+              - generic [ref=f7108e21]: Search query
+              - combobox "Search query" [ref=f7108e22]
+              - button "Search" [ref=f7108e24] [cursor=pointer]
+          - navigation [ref=f7108e28]:
+            - list [ref=f7108e29]:
+              - listitem [ref=f7108e30]:
+                - link "News" [ref=f7108e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f7108e32]:
+                - link "Finance" [ref=f7108e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f7108e34]:
+                - link "Sports" [ref=f7108e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f7108e36]:
+                - button "More" [ref=f7108e37] [cursor=pointer]
+          - toolbar [ref=f7108e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f7108e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f7108e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f7108e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f7108e55]:
+          - link "Fantasy Football" [ref=f7108e56] [cursor=pointer]:
+            - /url: http://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f7108e60] [cursor=pointer]:
+            - /url: /2014/f1/76443
+          - link "League" [ref=f7108e61] [cursor=pointer]:
+            - /url: /2014/f1/76443
+          - link "My Team" [ref=f7108e62] [cursor=pointer]:
+            - /url: /2014/f1/76443/4
+          - link "Matchups" [ref=f7108e63] [cursor=pointer]:
+            - /url: /2014/f1/76443/matchup
+          - link "Players" [ref=f7108e64] [cursor=pointer]:
+            - /url: /2014/f1/76443/players
+          - link "Draft Results" [ref=f7108e65] [cursor=pointer]:
+            - /url: /2014/f1/76443/draftresults
+          - list [ref=f7108e68]:
+            - listitem [ref=f7108e69]:
+              - link "Fantasy" [ref=f7108e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f7108e79]:
+              - link "Network" [ref=f7108e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7108e89]:
+              - link "Get Fantasy Plus" [ref=f7108e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f7108e97]: Deeper Than (ID# 76443)
+  - generic [ref=f7108e101]:
+    - banner [ref=f7108e102]:
+      - generic [ref=f7108e103]:
+        - heading [level=2] [ref=f7108e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f7108e106] [cursor=pointer]:
+            - /url: /2014/f1
+        - iframe [ref=f7108e591]:
+          - iframe [ref=f7122e2]:
+            - generic [ref=f7148e6] [cursor=pointer]
+        - link [ref=f7108e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f7108e113]
+    - generic [ref=f7108e118]:
+      - heading "Transactions" [level=1] [ref=f7108e122]
+      - generic [ref=f7108e124]:
+        - generic [ref=f7108e125]:
+          - heading "Recent Transactions" [level=2] [ref=f7108e126]
+          - link "All Teams " [ref=f7108e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f7108e129]:
+              - generic [ref=f7108e130]: All Teams
+              - generic [ref=f7108e131]: 
+        - generic [ref=f7108e132]:
+          - list [ref=f7108e134]:
+            - listitem [ref=f7108e135]:
+              - link "All Transactions" [ref=f7108e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all"
+            - listitem [ref=f7108e137]:
+              - link "Added Players" [ref=f7108e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add"
+            - listitem [ref=f7108e139]:
+              - link "Dropped Players" [ref=f7108e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop"
+            - listitem [ref=f7108e141]:
+              - link "Trades" [ref=f7108e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade"
+            - listitem [ref=f7108e143]:
+              - link "FAB Offers" [ref=f7108e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f7108e145]:
+            - rowgroup [ref=f7108e146]:
+              - row " Ryan Tannehill Ten - QB Traded to Wet Serapas Nov 18, 6:22 am logo" [ref=f7108e147]:
+                - cell "" [ref=f7108e148]
+                - cell "Ryan Tannehill Ten - QB" [ref=f7108e149]:
+                  - paragraph [ref=f7108e150]:
+                    - link "Ryan Tannehill" [ref=f7108e151] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25718
+                    - text: Ten - QB
+                - cell "Traded to" [ref=f7108e152]
+                - cell "Wet Serapas Nov 18, 6:22 am logo" [ref=f7108e153]:
+                  - generic [ref=f7108e154]:
+                    - generic [ref=f7108e155]:
+                      - link "Wet Serapas" [ref=f7108e156] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/1
+                      - generic [ref=f7108e157]: Nov 18, 6:22 am
+                    - link "logo" [ref=f7108e158] [cursor=pointer]:
+                      - /url: /2014/f1/76443/1
+                      - img "logo" [ref=f7108e159]
+              - row "DeSean Jackson Bal - WR Traded to Dezbians Nov 18, 6:22 am logo" [ref=f7108e160]:
+                - cell "DeSean Jackson Bal - WR" [ref=f7108e161]:
+                  - paragraph [ref=f7108e162]:
+                    - link "DeSean Jackson" [ref=f7108e163] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8826
+                    - text: Bal - WR
+                - cell "Traded to" [ref=f7108e164]
+                - cell "Dezbians Nov 18, 6:22 am logo" [ref=f7108e165]:
+                  - generic [ref=f7108e166]:
+                    - generic [ref=f7108e167]:
+                      - link "Dezbians" [ref=f7108e168] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/7
+                      - generic [ref=f7108e169]: Nov 18, 6:22 am
+                    - link "logo" [ref=f7108e170] [cursor=pointer]:
+                      - /url: /2014/f1/76443/7
+                      - img "logo" [ref=f7108e171]
+              - row " Lamar Miller NO - RB Rueben Randle NYG - WR Reggie Wayne Ind - WR Round 7 Traded to Deepest ( James ) Nov 18, 6:22 am logo" [ref=f7108e172]:
+                - cell "" [ref=f7108e173]
+                - cell "Lamar Miller NO - RB Rueben Randle NYG - WR Reggie Wayne Ind - WR Round 7" [ref=f7108e174]:
+                  - paragraph [ref=f7108e175]:
+                    - link "Lamar Miller" [ref=f7108e176] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25807
+                    - text: NO - RB
+                  - paragraph [ref=f7108e177]:
+                    - link "Rueben Randle" [ref=f7108e178] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25773
+                    - text: NYG - WR
+                  - paragraph [ref=f7108e179]:
+                    - link "Reggie Wayne" [ref=f7108e180] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/5477
+                    - text: Ind - WR
+                  - paragraph [ref=f7108e181]: Round 7
+                - cell "Traded to" [ref=f7108e182]
+                - cell "Deepest ( James ) Nov 18, 6:22 am logo" [ref=f7108e183]:
+                  - generic [ref=f7108e184]:
+                    - generic [ref=f7108e185]:
+                      - link "Deepest" [ref=f7108e186] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/6
+                      - generic [ref=f7108e187]:
+                        - text: (
+                        - link "James" [ref=f7108e189] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e190]: Nov 18, 6:22 am
+                    - link "logo" [ref=f7108e191] [cursor=pointer]:
+                      - /url: /2014/f1/76443/6
+                      - img "logo" [ref=f7108e192]
+              - row "Matt Forte NYJ - RB Round 10 (traded from Wet Serapas) Traded to Good Strongs ( James ) Nov 18, 6:22 am logo" [ref=f7108e193]:
+                - cell "Matt Forte NYJ - RB Round 10 (traded from Wet Serapas)" [ref=f7108e194]:
+                  - paragraph [ref=f7108e195]:
+                    - link "Matt Forte" [ref=f7108e196] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8821
+                    - text: NYJ - RB
+                  - paragraph [ref=f7108e197]: Round 10 (traded from Wet Serapas)
+                - cell "Traded to" [ref=f7108e198]
+                - cell "Good Strongs ( James ) Nov 18, 6:22 am logo" [ref=f7108e199]:
+                  - generic [ref=f7108e200]:
+                    - generic [ref=f7108e201]:
+                      - link "Good Strongs" [ref=f7108e202] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/3
+                      - generic [ref=f7108e203]:
+                        - text: (
+                        - link "James" [ref=f7108e205] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e206]: Nov 18, 6:22 am
+                    - link "logo" [ref=f7108e207] [cursor=pointer]:
+                      - /url: /2014/f1/76443/3
+                      - img "logo" [ref=f7108e208]
+              - row " Andre Ellington Hou - RB Jamaal Charles Jax - RB Rob Gronkowski TB - TE Round 3 Round 5 Round 6 Traded to Wet Serapas Nov 14, 9:01 pm logo" [ref=f7108e209]:
+                - cell "" [ref=f7108e210]
+                - cell "Andre Ellington Hou - RB Jamaal Charles Jax - RB Rob Gronkowski TB - TE Round 3 Round 5 Round 6" [ref=f7108e211]:
+                  - paragraph [ref=f7108e212]:
+                    - link "Andre Ellington" [ref=f7108e213] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26810
+                    - text: Hou - RB
+                  - paragraph [ref=f7108e214]:
+                    - link "Jamaal Charles" [ref=f7108e215] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8850
+                    - text: Jax - RB
+                  - paragraph [ref=f7108e216]:
+                    - link "Rob Gronkowski" [ref=f7108e217] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24017
+                    - text: TB - TE
+                  - paragraph [ref=f7108e218]: Round 3
+                  - paragraph [ref=f7108e219]: Round 5
+                  - paragraph [ref=f7108e220]: Round 6
+                - cell "Traded to" [ref=f7108e221]
+                - cell "Wet Serapas Nov 14, 9:01 pm logo" [ref=f7108e222]:
+                  - generic [ref=f7108e223]:
+                    - generic [ref=f7108e224]:
+                      - link "Wet Serapas" [ref=f7108e225] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/1
+                      - generic [ref=f7108e226]: Nov 14, 9:01 pm
+                    - link "logo" [ref=f7108e227] [cursor=pointer]:
+                      - /url: /2014/f1/76443/1
+                      - img "logo" [ref=f7108e228]
+              - row "C.J. Anderson Det - RB Antonio Gates LAC - TE Round 1 Round 2 Round 4 Traded to Dezbians Nov 14, 9:01 pm logo" [ref=f7108e229]:
+                - cell "C.J. Anderson Det - RB Antonio Gates LAC - TE Round 1 Round 2 Round 4" [ref=f7108e230]:
+                  - paragraph [ref=f7108e231]:
+                    - link "C.J. Anderson" [ref=f7108e232] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26878
+                    - text: Det - RB
+                  - paragraph [ref=f7108e233]:
+                    - link "Antonio Gates" [ref=f7108e234] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6663
+                    - text: LAC - TE
+                  - paragraph [ref=f7108e235]: Round 1
+                  - paragraph [ref=f7108e236]: Round 2
+                  - paragraph [ref=f7108e237]: Round 4
+                - cell "Traded to" [ref=f7108e238]
+                - cell "Dezbians Nov 14, 9:01 pm logo" [ref=f7108e239]:
+                  - generic [ref=f7108e240]:
+                    - generic [ref=f7108e241]:
+                      - link "Dezbians" [ref=f7108e242] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/7
+                      - generic [ref=f7108e243]: Nov 14, 9:01 pm
+                    - link "logo" [ref=f7108e244] [cursor=pointer]:
+                      - /url: /2014/f1/76443/7
+                      - img "logo" [ref=f7108e245]
+              - row " Trent Richardson LV - RB Anquan Boldin Det - WR Round 7 Round 2 Traded to FFAmuseBouche ( James ) Nov 11, 11:09 am logo" [ref=f7108e246]:
+                - cell "" [ref=f7108e247]
+                - cell "Trent Richardson LV - RB Anquan Boldin Det - WR Round 7 Round 2" [ref=f7108e248]:
+                  - paragraph [ref=f7108e249]:
+                    - link "Trent Richardson" [ref=f7108e250] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25713
+                    - text: LV - RB
+                  - paragraph [ref=f7108e251]:
+                    - link "Anquan Boldin" [ref=f7108e252] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6390
+                    - text: Det - WR
+                  - paragraph [ref=f7108e253]: Round 7
+                  - paragraph [ref=f7108e254]: Round 2
+                - cell "Traded to" [ref=f7108e255]
+                - cell "FFAmuseBouche ( James ) Nov 11, 11:09 am logo" [ref=f7108e256]:
+                  - generic [ref=f7108e257]:
+                    - generic [ref=f7108e258]:
+                      - link "FFAmuseBouche" [ref=f7108e259] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7108e260]:
+                        - text: (
+                        - link "James" [ref=f7108e262] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e263]: Nov 11, 11:09 am
+                    - link "logo" [ref=f7108e264] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7108e265]
+              - row "Tom Brady TB - QB Justin Forsett Det - RB Round 10 Round 11 Traded to DUGASM ( James ) Nov 11, 11:09 am logo" [ref=f7108e266]:
+                - cell "Tom Brady TB - QB Justin Forsett Det - RB Round 10 Round 11" [ref=f7108e267]:
+                  - paragraph [ref=f7108e268]:
+                    - link "Tom Brady" [ref=f7108e269] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/5228
+                    - text: TB - QB
+                  - paragraph [ref=f7108e270]:
+                    - link "Justin Forsett" [ref=f7108e271] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9010
+                    - text: Det - RB
+                  - paragraph [ref=f7108e272]: Round 10
+                  - paragraph [ref=f7108e273]: Round 11
+                - cell "Traded to" [ref=f7108e274]
+                - cell "DUGASM ( James ) Nov 11, 11:09 am logo" [ref=f7108e275]:
+                  - generic [ref=f7108e276]:
+                    - generic [ref=f7108e277]:
+                      - link "DUGASM" [ref=f7108e278] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/5
+                      - generic [ref=f7108e279]:
+                        - text: (
+                        - link "James" [ref=f7108e281] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e282]: Nov 11, 11:09 am
+                    - link "logo" [ref=f7108e283] [cursor=pointer]:
+                      - /url: /2014/f1/76443/5
+                      - img "logo" [ref=f7108e284]
+              - row " Alshon Jeffery Phi - WR Traded to Deepest ( James ) Nov 8, 6:31 pm logo" [ref=f7108e285]:
+                - cell "" [ref=f7108e286]
+                - cell "Alshon Jeffery Phi - WR" [ref=f7108e287]:
+                  - paragraph [ref=f7108e288]:
+                    - link "Alshon Jeffery" [ref=f7108e289] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25755
+                    - text: Phi - WR
+                - cell "Traded to" [ref=f7108e290]
+                - cell "Deepest ( James ) Nov 8, 6:31 pm logo" [ref=f7108e291]:
+                  - generic [ref=f7108e292]:
+                    - generic [ref=f7108e293]:
+                      - link "Deepest" [ref=f7108e294] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/6
+                      - generic [ref=f7108e295]:
+                        - text: (
+                        - link "James" [ref=f7108e297] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e298]: Nov 8, 6:31 pm
+                    - link "logo" [ref=f7108e299] [cursor=pointer]:
+                      - /url: /2014/f1/76443/6
+                      - img "logo" [ref=f7108e300]
+              - row "Mike Evans SF - WR Traded to Good Strongs ( James ) Nov 8, 6:31 pm logo" [ref=f7108e301]:
+                - cell "Mike Evans SF - WR" [ref=f7108e302]:
+                  - paragraph [ref=f7108e303]:
+                    - link "Mike Evans" [ref=f7108e304] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/27535
+                    - text: SF - WR
+                - cell "Traded to" [ref=f7108e305]
+                - cell "Good Strongs ( James ) Nov 8, 6:31 pm logo" [ref=f7108e306]:
+                  - generic [ref=f7108e307]:
+                    - generic [ref=f7108e308]:
+                      - link "Good Strongs" [ref=f7108e309] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/3
+                      - generic [ref=f7108e310]:
+                        - text: (
+                        - link "James" [ref=f7108e312] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e313]: Nov 8, 6:31 pm
+                    - link "logo" [ref=f7108e314] [cursor=pointer]:
+                      - /url: /2014/f1/76443/3
+                      - img "logo" [ref=f7108e315]
+              - row " Doug Martin LV - RB Round 3 Traded to FFAmuseBouche ( James ) Nov 4, 10:21 am logo" [ref=f7108e316]:
+                - cell "" [ref=f7108e317]
+                - cell "Doug Martin LV - RB Round 3" [ref=f7108e318]:
+                  - paragraph [ref=f7108e319]:
+                    - link "Doug Martin" [ref=f7108e320] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25741
+                    - text: LV - RB
+                  - paragraph [ref=f7108e321]: Round 3
+                - cell "Traded to" [ref=f7108e322]
+                - cell "FFAmuseBouche ( James ) Nov 4, 10:21 am logo" [ref=f7108e323]:
+                  - generic [ref=f7108e324]:
+                    - generic [ref=f7108e325]:
+                      - link "FFAmuseBouche" [ref=f7108e326] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7108e327]:
+                        - text: (
+                        - link "James" [ref=f7108e329] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e330]: Nov 4, 10:21 am
+                    - link "logo" [ref=f7108e331] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7108e332]
+              - row "Jimmy Graham NO - TE Round 8 Traded to Vaqueros ( James ) Nov 4, 10:21 am logo" [ref=f7108e333]:
+                - cell "Jimmy Graham NO - TE Round 8" [ref=f7108e334]:
+                  - paragraph [ref=f7108e335]:
+                    - link "Jimmy Graham" [ref=f7108e336] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24070
+                    - text: NO - TE
+                  - paragraph [ref=f7108e337]: Round 8
+                - cell "Traded to" [ref=f7108e338]
+                - cell "Vaqueros ( James ) Nov 4, 10:21 am logo" [ref=f7108e339]:
+                  - generic [ref=f7108e340]:
+                    - generic [ref=f7108e341]:
+                      - link "Vaqueros" [ref=f7108e342] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/4
+                      - generic [ref=f7108e343]:
+                        - text: (
+                        - link "James" [ref=f7108e345] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e346]: Nov 4, 10:21 am
+                    - link "logo" [ref=f7108e347] [cursor=pointer]:
+                      - /url: /2014/f1/76443/4
+                      - img "logo" [ref=f7108e348]
+              - row " Mike Glennon Mia - QB Brian Hoyer LV - QB Round 1 Round 13 Traded to FFAmuseBouche ( James ) Nov 3, 3:19 pm logo" [ref=f7108e349]:
+                - cell "" [ref=f7108e350]
+                - cell "Mike Glennon Mia - QB Brian Hoyer LV - QB Round 1 Round 13" [ref=f7108e351]:
+                  - paragraph [ref=f7108e352]:
+                    - link "Mike Glennon" [ref=f7108e353] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26696
+                    - text: Mia - QB
+                  - paragraph [ref=f7108e354]:
+                    - link "Brian Hoyer" [ref=f7108e355] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9547
+                    - text: LV - QB
+                  - paragraph [ref=f7108e356]: Round 1
+                  - paragraph [ref=f7108e357]: Round 13
+                - cell "Traded to" [ref=f7108e358]
+                - cell "FFAmuseBouche ( James ) Nov 3, 3:19 pm logo" [ref=f7108e359]:
+                  - generic [ref=f7108e360]:
+                    - generic [ref=f7108e361]:
+                      - link "FFAmuseBouche" [ref=f7108e362] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7108e363]:
+                        - text: (
+                        - link "James" [ref=f7108e365] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e366]: Nov 3, 3:19 pm
+                    - link "logo" [ref=f7108e367] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7108e368]
+              - row "Calvin Johnson Det - WR Aaron Rodgers Pit - QB Round 7 Round 9 Traded to Good Strongs ( James ) Nov 3, 3:19 pm logo" [ref=f7108e369]:
+                - cell "Calvin Johnson Det - WR Aaron Rodgers Pit - QB Round 7 Round 9" [ref=f7108e370]:
+                  - paragraph [ref=f7108e371]:
+                    - link "Calvin Johnson" [ref=f7108e372] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8256
+                    - text: Det - WR
+                  - paragraph [ref=f7108e373]:
+                    - link "Aaron Rodgers" [ref=f7108e374] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7200
+                    - text: Pit - QB
+                  - paragraph [ref=f7108e375]: Round 7
+                  - paragraph [ref=f7108e376]: Round 9
+                - cell "Traded to" [ref=f7108e377]
+                - cell "Good Strongs ( James ) Nov 3, 3:19 pm logo" [ref=f7108e378]:
+                  - generic [ref=f7108e379]:
+                    - generic [ref=f7108e380]:
+                      - link "Good Strongs" [ref=f7108e381] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/3
+                      - generic [ref=f7108e382]:
+                        - text: (
+                        - link "James" [ref=f7108e384] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e385]: Nov 3, 3:19 pm
+                    - link "logo" [ref=f7108e386] [cursor=pointer]:
+                      - /url: /2014/f1/76443/3
+                      - img "logo" [ref=f7108e387]
+              - row " Mike Glennon Mia - QB Brian Hoyer LV - QB Round 7 Round 9 Vetoed Trade to FFAmuseBouche ( James ) Nov 3, 12:33 pm logo" [ref=f7108e388]:
+                - cell "" [ref=f7108e389]
+                - cell "Mike Glennon Mia - QB Brian Hoyer LV - QB Round 7 Round 9" [ref=f7108e390]:
+                  - paragraph [ref=f7108e391]:
+                    - link "Mike Glennon" [ref=f7108e392] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26696
+                    - text: Mia - QB
+                  - paragraph [ref=f7108e393]:
+                    - link "Brian Hoyer" [ref=f7108e394] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/9547
+                    - text: LV - QB
+                  - paragraph [ref=f7108e395]: Round 7
+                  - paragraph [ref=f7108e396]: Round 9
+                - cell "Vetoed Trade to" [ref=f7108e397]
+                - cell "FFAmuseBouche ( James ) Nov 3, 12:33 pm logo" [ref=f7108e398]:
+                  - generic [ref=f7108e399]:
+                    - generic [ref=f7108e400]:
+                      - link "FFAmuseBouche" [ref=f7108e401] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7108e402]:
+                        - text: (
+                        - link "James" [ref=f7108e404] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e405]: Nov 3, 12:33 pm
+                    - link "logo" [ref=f7108e406] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7108e407]
+              - row "Calvin Johnson Det - WR Aaron Rodgers Pit - QB Round 1 Round 13 Vetoed Trade to Good Strongs ( James ) Nov 3, 12:33 pm logo" [ref=f7108e408]:
+                - cell "Calvin Johnson Det - WR Aaron Rodgers Pit - QB Round 1 Round 13" [ref=f7108e409]:
+                  - paragraph [ref=f7108e410]:
+                    - link "Calvin Johnson" [ref=f7108e411] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8256
+                    - text: Det - WR
+                  - paragraph [ref=f7108e412]:
+                    - link "Aaron Rodgers" [ref=f7108e413] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7200
+                    - text: Pit - QB
+                  - paragraph [ref=f7108e414]: Round 1
+                  - paragraph [ref=f7108e415]: Round 13
+                - cell "Vetoed Trade to" [ref=f7108e416]
+                - cell "Good Strongs ( James ) Nov 3, 12:33 pm logo" [ref=f7108e417]:
+                  - generic [ref=f7108e418]:
+                    - generic [ref=f7108e419]:
+                      - link "Good Strongs" [ref=f7108e420] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/3
+                      - generic [ref=f7108e421]:
+                        - text: (
+                        - link "James" [ref=f7108e423] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e424]: Nov 3, 12:33 pm
+                    - link "logo" [ref=f7108e425] [cursor=pointer]:
+                      - /url: /2014/f1/76443/3
+                      - img "logo" [ref=f7108e426]
+              - row " Philip Rivers Ind - QB Eddie Lacy Sea - RB Jordan Cameron Mia - TE Round 10 Traded to Deepest Oct 19, 11:46 am logo" [ref=f7108e427]:
+                - cell "" [ref=f7108e428]
+                - cell "Philip Rivers Ind - QB Eddie Lacy Sea - RB Jordan Cameron Mia - TE Round 10" [ref=f7108e429]:
+                  - paragraph [ref=f7108e430]:
+                    - link "Philip Rivers" [ref=f7108e431] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6763
+                    - text: Ind - QB
+                  - paragraph [ref=f7108e432]:
+                    - link "Eddie Lacy" [ref=f7108e433] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/26684
+                    - text: Sea - RB
+                  - paragraph [ref=f7108e434]:
+                    - link "Jordan Cameron" [ref=f7108e435] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24889
+                    - text: Mia - TE
+                  - paragraph [ref=f7108e436]: Round 10
+                - cell "Traded to" [ref=f7108e437]
+                - cell "Deepest Oct 19, 11:46 am logo" [ref=f7108e438]:
+                  - generic [ref=f7108e439]:
+                    - generic [ref=f7108e440]:
+                      - link "Deepest" [ref=f7108e441] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/6
+                      - generic [ref=f7108e442]: Oct 19, 11:46 am
+                    - link "logo" [ref=f7108e443] [cursor=pointer]:
+                      - /url: /2014/f1/76443/6
+                      - img "logo" [ref=f7108e444]
+              - row "Jay Cutler Mia - QB Julius Thomas Mia - TE Chris Ivory Buf - RB Round 15 Traded to Wet Serapas Oct 19, 11:46 am logo" [ref=f7108e445]:
+                - cell "Jay Cutler Mia - QB Julius Thomas Mia - TE Chris Ivory Buf - RB Round 15" [ref=f7108e446]:
+                  - paragraph [ref=f7108e447]:
+                    - link "Jay Cutler" [ref=f7108e448] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7760
+                    - text: Mia - QB
+                  - paragraph [ref=f7108e449]:
+                    - link "Julius Thomas" [ref=f7108e450] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24916
+                    - text: Mia - TE
+                  - paragraph [ref=f7108e451]:
+                    - link "Chris Ivory" [ref=f7108e452] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24400
+                    - text: Buf - RB
+                  - paragraph [ref=f7108e453]: Round 15
+                - cell "Traded to" [ref=f7108e454]
+                - cell "Wet Serapas Oct 19, 11:46 am logo" [ref=f7108e455]:
+                  - generic [ref=f7108e456]:
+                    - generic [ref=f7108e457]:
+                      - link "Wet Serapas" [ref=f7108e458] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/1
+                      - generic [ref=f7108e459]: Oct 19, 11:46 am
+                    - link "logo" [ref=f7108e460] [cursor=pointer]:
+                      - /url: /2014/f1/76443/1
+                      - img "logo" [ref=f7108e461]
+              - row " Aaron Rodgers Pit - QB Round 6 Traded to FFAmuseBouche ( James ) Oct 8, 1:41 pm logo" [ref=f7108e462]:
+                - cell "" [ref=f7108e463]
+                - cell "Aaron Rodgers Pit - QB Round 6" [ref=f7108e464]:
+                  - paragraph [ref=f7108e465]:
+                    - link "Aaron Rodgers" [ref=f7108e466] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7200
+                    - text: Pit - QB
+                  - paragraph [ref=f7108e467]: Round 6
+                - cell "Traded to" [ref=f7108e468]
+                - cell "FFAmuseBouche ( James ) Oct 8, 1:41 pm logo" [ref=f7108e469]:
+                  - generic [ref=f7108e470]:
+                    - generic [ref=f7108e471]:
+                      - link "FFAmuseBouche" [ref=f7108e472] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7108e473]:
+                        - text: (
+                        - link "James" [ref=f7108e475] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e476]: Oct 8, 1:41 pm
+                    - link "logo" [ref=f7108e477] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7108e478]
+              - row "Joe Flacco Cin - QB Matt Forte NYJ - RB Round 6 Traded to Deepest ( James ) Oct 8, 1:41 pm logo" [ref=f7108e479]:
+                - cell "Joe Flacco Cin - QB Matt Forte NYJ - RB Round 6" [ref=f7108e480]:
+                  - paragraph [ref=f7108e481]:
+                    - link "Joe Flacco" [ref=f7108e482] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8795
+                    - text: Cin - QB
+                  - paragraph [ref=f7108e483]:
+                    - link "Matt Forte" [ref=f7108e484] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/8821
+                    - text: NYJ - RB
+                  - paragraph [ref=f7108e485]: Round 6
+                - cell "Traded to" [ref=f7108e486]
+                - cell "Deepest ( James ) Oct 8, 1:41 pm logo" [ref=f7108e487]:
+                  - generic [ref=f7108e488]:
+                    - generic [ref=f7108e489]:
+                      - link "Deepest" [ref=f7108e490] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/6
+                      - generic [ref=f7108e491]:
+                        - text: (
+                        - link "James" [ref=f7108e493] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e494]: Oct 8, 1:41 pm
+                    - link "logo" [ref=f7108e495] [cursor=pointer]:
+                      - /url: /2014/f1/76443/6
+                      - img "logo" [ref=f7108e496]
+              - row " Ben Tate Min - RB Alex Smith Was - QB Traded to FFAmuseBouche ( James ) Sep 30, 9:13 am logo" [ref=f7108e497]:
+                - cell "" [ref=f7108e498]
+                - cell "Ben Tate Min - RB Alex Smith Was - QB" [ref=f7108e499]:
+                  - paragraph [ref=f7108e500]:
+                    - link "Ben Tate" [ref=f7108e501] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24033
+                    - text: Min - RB
+                  - paragraph [ref=f7108e502]:
+                    - link "Alex Smith" [ref=f7108e503] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/7177
+                    - text: Was - QB
+                - cell "Traded to" [ref=f7108e504]
+                - cell "FFAmuseBouche ( James ) Sep 30, 9:13 am logo" [ref=f7108e505]:
+                  - generic [ref=f7108e506]:
+                    - generic [ref=f7108e507]:
+                      - link "FFAmuseBouche" [ref=f7108e508] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7108e509]:
+                        - text: (
+                        - link "James" [ref=f7108e511] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e512]: Sep 30, 9:13 am
+                    - link "logo" [ref=f7108e513] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7108e514]
+              - row "Steve Smith Bal - WR Traded to DUGASM ( James ) Sep 30, 9:13 am logo" [ref=f7108e515]:
+                - cell "Steve Smith Bal - WR" [ref=f7108e516]:
+                  - paragraph [ref=f7108e517]:
+                    - link "Steve Smith" [ref=f7108e518] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/5521
+                    - text: Bal - WR
+                - cell "Traded to" [ref=f7108e519]
+                - cell "DUGASM ( James ) Sep 30, 9:13 am logo" [ref=f7108e520]:
+                  - generic [ref=f7108e521]:
+                    - generic [ref=f7108e522]:
+                      - link "DUGASM" [ref=f7108e523] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/5
+                      - generic [ref=f7108e524]:
+                        - text: (
+                        - link "James" [ref=f7108e526] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e527]: Sep 30, 9:13 am
+                    - link "logo" [ref=f7108e528] [cursor=pointer]:
+                      - /url: /2014/f1/76443/5
+                      - img "logo" [ref=f7108e529]
+              - row " Eli Manning NYG - QB Traded to Deepest ( James ) Sep 22, 1:18 pm logo" [ref=f7108e530]:
+                - cell "" [ref=f7108e531]
+                - cell "Eli Manning NYG - QB" [ref=f7108e532]:
+                  - paragraph [ref=f7108e533]:
+                    - link "Eli Manning" [ref=f7108e534] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6760
+                    - text: NYG - QB
+                - cell "Traded to" [ref=f7108e535]
+                - cell "Deepest ( James ) Sep 22, 1:18 pm logo" [ref=f7108e536]:
+                  - generic [ref=f7108e537]:
+                    - generic [ref=f7108e538]:
+                      - link "Deepest" [ref=f7108e539] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/6
+                      - generic [ref=f7108e540]:
+                        - text: (
+                        - link "James" [ref=f7108e542] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e543]: Sep 22, 1:18 pm
+                    - link "logo" [ref=f7108e544] [cursor=pointer]:
+                      - /url: /2014/f1/76443/6
+                      - img "logo" [ref=f7108e545]
+              - row "Carson Palmer Ari - QB Traded to Dezbians ( James ) Sep 22, 1:18 pm logo" [ref=f7108e546]:
+                - cell "Carson Palmer Ari - QB" [ref=f7108e547]:
+                  - paragraph [ref=f7108e548]:
+                    - link "Carson Palmer" [ref=f7108e549] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/6337
+                    - text: Ari - QB
+                - cell "Traded to" [ref=f7108e550]
+                - cell "Dezbians ( James ) Sep 22, 1:18 pm logo" [ref=f7108e551]:
+                  - generic [ref=f7108e552]:
+                    - generic [ref=f7108e553]:
+                      - link "Dezbians" [ref=f7108e554] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/7
+                      - generic [ref=f7108e555]:
+                        - text: (
+                        - link "James" [ref=f7108e557] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7108e558]: Sep 22, 1:18 pm
+                    - link "logo" [ref=f7108e559] [cursor=pointer]:
+                      - /url: /2014/f1/76443/7
+                      - img "logo" [ref=f7108e560]
+    - contentinfo [ref=f7108e562]:
+      - iframe [ref=f7108e593]:
+        - insertion [ref=f7121e3]:
+          - iframe [ref=f7121e4]:
+            - iframe [ref=f7123e4]
+      - generic [ref=f7108e569]:
+        - list [ref=f7108e570]:
+          - listitem [ref=f7108e571]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f7108e572]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f7108e573] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f7108e574]:
+            - text: "-"
+            - link "Feedback" [ref=f7108e575] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f7108e576]:
+            - text: "-"
+            - link "Terms" [ref=f7108e577] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f7108e578] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f7108e579]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f7108e580] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f7108e581]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f7108e582] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f7108e583]:
+            - text: "-"
+            - link "About Our Ads" [ref=f7108e584] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f7108e585]:
+            - text: "-"
+            - link "Help" [ref=f7108e586] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f7108e587]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f7108e588]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f7108e589]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.

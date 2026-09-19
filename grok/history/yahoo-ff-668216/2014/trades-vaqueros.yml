@@ -1,0 +1,189 @@
+- generic [ref=f7161e3]:
+  - generic [ref=f7161e6]:
+    - banner [ref=f7161e8]:
+      - generic [ref=f7161e9]:
+        - generic [ref=f7161e11]:
+          - generic [ref=f7161e12]:
+            - generic [ref=f7161e13]:
+              - heading "Yahoo Sports" [level=1] [ref=f7161e14]
+              - link "Yahoo Sports" [ref=f7161e15] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/
+            - search [ref=f7161e20]:
+              - generic [ref=f7161e21]: Search query
+              - combobox "Search query" [ref=f7161e22]
+              - button "Search" [ref=f7161e24] [cursor=pointer]
+          - navigation [ref=f7161e28]:
+            - list [ref=f7161e29]:
+              - listitem [ref=f7161e30]:
+                - link "News" [ref=f7161e31] [cursor=pointer]:
+                  - /url: https://www.yahoo.com/
+              - listitem [ref=f7161e32]:
+                - link "Finance" [ref=f7161e33] [cursor=pointer]:
+                  - /url: https://finance.yahoo.com/
+              - listitem [ref=f7161e34]:
+                - link "Sports" [ref=f7161e35] [cursor=pointer]:
+                  - /url: https://sports.yahoo.com/
+              - listitem [ref=f7161e36]:
+                - button "More" [ref=f7161e37] [cursor=pointer]
+          - toolbar [ref=f7161e41]:
+            - link "Check your mail, 3723 messages, link" [ref=f7161e45] [cursor=pointer]:
+              - /url: https://mail.yahoo.com/
+              - generic [ref=f7161e49]: 99+
+            - 'button "Manage your Yahoo accounts: Andrew (ogdru22@yahoo.com)" [ref=f7161e52] [cursor=pointer]':
+              - generic:
+                - generic:
+                  - img "Profile image"
+        - generic [ref=f7161e55]:
+          - link "Fantasy Football" [ref=f7161e56] [cursor=pointer]:
+            - /url: http://football.fantasysports.yahoo.com
+          - link "Overview" [ref=f7161e60] [cursor=pointer]:
+            - /url: /2014/f1/76443
+          - link "League" [ref=f7161e61] [cursor=pointer]:
+            - /url: /2014/f1/76443
+          - link "My Team" [ref=f7161e62] [cursor=pointer]:
+            - /url: /2014/f1/76443/4
+          - link "Matchups" [ref=f7161e63] [cursor=pointer]:
+            - /url: /2014/f1/76443/matchup
+          - link "Players" [ref=f7161e64] [cursor=pointer]:
+            - /url: /2014/f1/76443/players
+          - link "Draft Results" [ref=f7161e65] [cursor=pointer]:
+            - /url: /2014/f1/76443/draftresults
+          - list [ref=f7161e68]:
+            - listitem [ref=f7161e69]:
+              - link "Fantasy" [ref=f7161e72] [cursor=pointer]:
+                - /url: https://sports.yahoo.com/fantasy/
+            - listitem [ref=f7161e79]:
+              - link "Network" [ref=f7161e82] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7161e89]:
+              - link "Get Fantasy Plus" [ref=f7161e93] [cursor=pointer]:
+                - /url: https://fantasysports.yahoo.com/lp/plus?ncid=navbar
+    - generic [ref=f7161e97]: Deeper Than (ID# 76443)
+  - generic [ref=f7161e101]:
+    - banner [ref=f7161e102]:
+      - generic [ref=f7161e103]:
+        - heading [level=2] [ref=f7161e105]:
+          - link "Yahoo Sports Fantasy Football" [ref=f7161e106] [cursor=pointer]:
+            - /url: /2014/f1
+        - iframe [ref=f7161e210]:
+          - iframe [ref=f7175e2]:
+            - generic [ref=f7201e6] [cursor=pointer]
+        - link [ref=f7161e111] [cursor=pointer]:
+          - /url: "#"
+          - img "Open chat" [ref=f7161e113]
+    - generic [ref=f7161e118]:
+      - heading "Transactions" [level=1] [ref=f7161e122]
+      - generic [ref=f7161e124]:
+        - generic [ref=f7161e125]:
+          - heading "Recent Transactions" [level=2] [ref=f7161e126]
+          - link "Vaqueros " [ref=f7161e128] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f7161e129]:
+              - generic [ref=f7161e130]: Vaqueros
+              - generic [ref=f7161e131]: 
+        - generic [ref=f7161e132]:
+          - list [ref=f7161e134]:
+            - listitem [ref=f7161e135]:
+              - link "All Transactions" [ref=f7161e136] [cursor=pointer]:
+                - /url: "?transactionsfilter=all&mid=4"
+            - listitem [ref=f7161e137]:
+              - link "Added Players" [ref=f7161e138] [cursor=pointer]:
+                - /url: "?transactionsfilter=add&mid=4"
+            - listitem [ref=f7161e139]:
+              - link "Dropped Players" [ref=f7161e140] [cursor=pointer]:
+                - /url: "?transactionsfilter=drop&mid=4"
+            - listitem [ref=f7161e141]:
+              - link "Trades" [ref=f7161e142] [cursor=pointer]:
+                - /url: "?transactionsfilter=trade&mid=4"
+            - listitem [ref=f7161e143]:
+              - link "FAB Offers" [ref=f7161e144] [cursor=pointer]:
+                - /url: "?transactionsfilter=faab"
+          - table [ref=f7161e145]:
+            - rowgroup [ref=f7161e146]:
+              - row " Doug Martin LV - RB Round 3 Traded to FFAmuseBouche ( James ) Nov 4, 10:21 am logo" [ref=f7161e147]:
+                - cell "" [ref=f7161e148]
+                - cell "Doug Martin LV - RB Round 3" [ref=f7161e149]:
+                  - paragraph [ref=f7161e150]:
+                    - link "Doug Martin" [ref=f7161e151] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/25741
+                    - text: LV - RB
+                  - paragraph [ref=f7161e152]: Round 3
+                - cell "Traded to" [ref=f7161e153]
+                - cell "FFAmuseBouche ( James ) Nov 4, 10:21 am logo" [ref=f7161e154]:
+                  - generic [ref=f7161e155]:
+                    - generic [ref=f7161e156]:
+                      - link "FFAmuseBouche" [ref=f7161e157] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/2
+                      - generic [ref=f7161e158]:
+                        - text: (
+                        - link "James" [ref=f7161e160] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7161e161]: Nov 4, 10:21 am
+                    - link "logo" [ref=f7161e162] [cursor=pointer]:
+                      - /url: /2014/f1/76443/2
+                      - img "logo" [ref=f7161e163]
+              - row "Jimmy Graham NO - TE Round 8 Traded to Vaqueros ( James ) Nov 4, 10:21 am logo" [ref=f7161e164]:
+                - cell "Jimmy Graham NO - TE Round 8" [ref=f7161e165]:
+                  - paragraph [ref=f7161e166]:
+                    - link "Jimmy Graham" [ref=f7161e167] [cursor=pointer]:
+                      - /url: https://sports.yahoo.com/nfl/players/24070
+                    - text: NO - TE
+                  - paragraph [ref=f7161e168]: Round 8
+                - cell "Traded to" [ref=f7161e169]
+                - cell "Vaqueros ( James ) Nov 4, 10:21 am logo" [ref=f7161e170]:
+                  - generic [ref=f7161e171]:
+                    - generic [ref=f7161e172]:
+                      - link "Vaqueros" [ref=f7161e173] [cursor=pointer]:
+                        - /url: http://football.fantasysports.yahoo.com/2014/f1/76443/4
+                      - generic [ref=f7161e174]:
+                        - text: (
+                        - link "James" [ref=f7161e176] [cursor=pointer]:
+                          - /url: https://profiles.sports.yahoo.com/user/S53UN44RC2GY2N7CVYKTVVQJBI
+                        - text: )
+                      - generic [ref=f7161e177]: Nov 4, 10:21 am
+                    - link "logo" [ref=f7161e178] [cursor=pointer]:
+                      - /url: /2014/f1/76443/4
+                      - img "logo" [ref=f7161e179]
+    - contentinfo [ref=f7161e181]:
+      - iframe [ref=f7161e212]:
+        - insertion [ref=f7174e3]:
+          - iframe [ref=f7174e4]:
+            - iframe [ref=f7176e4]
+      - generic [ref=f7161e188]:
+        - list [ref=f7161e189]:
+          - listitem [ref=f7161e190]: Yahoo Sports - NBC Sports Network
+          - listitem [ref=f7161e191]:
+            - text: "-"
+            - link "Paid Fantasy Terms" [ref=f7161e192] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/terms/product-atos/paidfantasy/index.html
+          - listitem [ref=f7161e193]:
+            - text: "-"
+            - link "Feedback" [ref=f7161e194] [cursor=pointer]:
+              - /url: https://yahoo.uservoice.com/forums/206158?auth=yahoo
+          - listitem [ref=f7161e195]:
+            - text: "-"
+            - link "Terms" [ref=f7161e196] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/terms?locale=en-US
+            - text: and
+            - link "Privacy Policy" [ref=f7161e197] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/privacy-policy?locale=en-US
+          - listitem [ref=f7161e198]:
+            - text: "-"
+            - link "Your Privacy Choices" [ref=f7161e199] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/state-controls?locale=en-US&state=CA
+          - listitem [ref=f7161e200]:
+            - text: "-"
+            - link "CA Privacy Notice" [ref=f7161e201] [cursor=pointer]:
+              - /url: https://guce.yahoo.com/ca-notice?locale=en-US
+          - listitem [ref=f7161e202]:
+            - text: "-"
+            - link "About Our Ads" [ref=f7161e203] [cursor=pointer]:
+              - /url: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+          - listitem [ref=f7161e204]:
+            - text: "-"
+            - link "Help" [ref=f7161e205] [cursor=pointer]:
+              - /url: https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_FAN_FOOTUS
+        - paragraph [ref=f7161e206]: Certain Data by Sportradar and Rotowire
+        - paragraph [ref=f7161e207]: Guillotine trademarks are used with Fantasy Life's permission.
+        - paragraph [ref=f7161e208]: © 2026 Yahoo Fantasy Sports LLC. All rights reserved.
