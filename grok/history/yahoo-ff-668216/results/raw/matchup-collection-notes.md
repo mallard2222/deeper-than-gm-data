@@ -43,3 +43,11 @@ Remaining requested historical seasons not collected in this run: 2017 (league 1
 - Per instructions, stopped immediately; no retries, no Yahoo writes, lineup changes, claims, or trades.
 - No new matchup or identity files were created for 2016 week 16, 2015 (league 1044), 2014 (league 76443), or 2013 (league 11558). Existing 2016 file remains 60 records for weeks 1–15, with no duplicates.
 - Evidence screenshots were not captured for this blocked attempt.
+
+## Saturday evening cool-down resume (2026-09-19 ~19:09 America/Chicago) — still blocked
+- Finite routine "Resume Deeper Than matchup scrape" fired after intentional weekend cool-down.
+- Opened read-only archived Matchups URL for 2016 week 16 (league 79234): `https://football.fantasysports.yahoo.com/2016/f1/79234?module=standings&lhst=matchups&matchup_week=16`
+- Yahoo returned plain-text **Request denied** (HTTP 999-class rate limit). Stopped immediately; no retries; no Yahoo writes.
+- No new matchup rows appended. `2016-matchups.jsonl` remains 60 records (weeks 1–15). 2015/2014/2013 not attempted after the block.
+- Evidence: `results/evidence/2016/week16-request-denied-2026-09-19.webp`
+- Next plan: longer cool-down (24–48h), single-page probe of 2016 W16 only, then 2015→2014→2013 if clear. Finite Saturday resume routine deleted after this run.
