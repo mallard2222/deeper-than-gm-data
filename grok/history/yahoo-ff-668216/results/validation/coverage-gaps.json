@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "generated_at": "2026-09-20T00:09:51Z",
+  "generated_at": "2026-09-21T13:26:37Z",
   "seasons": {
     "2026": {
       "status": "partial_week_1_only",
@@ -57,7 +57,7 @@
       "status": "partial_weeks_1_15",
       "matchups": 60,
       "gaps": [
-        "Week 16 still blocked \u2014 Yahoo Request denied / HTTP 999 on Saturday evening cool-down resume"
+        "Week 16 still blocked \u2014 Yahoo Request denied on Monday long cool-down probe (2026-09-21)"
       ]
     },
     "2013-2015": {
@@ -68,7 +68,7 @@
   "label": "PARTIAL \u2014 do not call all-time",
   "rate_limit": {
     "status": "still_active_request_denied",
-    "last_hit_at_local": "2026-09-19 ~19:09 America/Chicago",
+    "last_hit_at_local": "2026-09-21 ~08:26 America/Chicago",
     "url": "https://football.fantasysports.yahoo.com/2016/f1/79234?module=standings&lhst=matchups&matchup_week=16",
     "blocked": [
       "2016 week 16",
@@ -76,7 +76,8 @@
       "2014",
       "2013"
     ],
-    "plan": "Delete finite Saturday resume routine. Next: longer cool-down (24\u201348h), single-page probe of 2016 W16 only, then 2015\u21922014\u21922013 if clear. Do not hammer."
+    "plan": "Monday long cool-down single-page probe still blocked. Do not hammer. Wait longer (multi-day) before next single-page probe of 2016 W16 only; then 2015\u21922014\u21922013 if clear.",
+    "probe_evidence": "results/evidence/2016/week16-monday-cooldown-probe-2026-09-21.png"
   },
   "h2h_partial": {
     "matchup": "Vaqueros vs Big Balls (name variants bigballs/Bigballs/Big Balls)",

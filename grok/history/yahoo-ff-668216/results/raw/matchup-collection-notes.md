@@ -51,3 +51,10 @@ Remaining requested historical seasons not collected in this run: 2017 (league 1
 - No new matchup rows appended. `2016-matchups.jsonl` remains 60 records (weeks 1–15). 2015/2014/2013 not attempted after the block.
 - Evidence: `results/evidence/2016/week16-request-denied-2026-09-19.webp`
 - Next plan: longer cool-down (24–48h), single-page probe of 2016 W16 only, then 2015→2014→2013 if clear. Finite Saturday resume routine deleted after this run.
+
+## Monday long cool-down probe (2026-09-21 ~08:26 America/Chicago) — still blocked
+- Mandatory single-page probe only: `https://football.fantasysports.yahoo.com/2016/f1/79234?module=standings&lhst=matchups&matchup_week=16`
+- Yahoo returned plain-text **Request denied** (rate-limit / HTTP 999-class). Stopped immediately; no retries; no other Yahoo pages opened; no Yahoo writes.
+- No new matchup rows appended. `2016-matchups.jsonl` remains 60 Final records (weeks 1–15). 2015/2014/2013 not attempted after the block.
+- Evidence: `results/evidence/2016/week16-monday-cooldown-probe-2026-09-21.png`
+- Plan: longer multi-day cool-down; next attempt remains a single-page 2016 W16 probe only if clear, then 2015→2014→2013.
