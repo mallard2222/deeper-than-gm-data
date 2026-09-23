@@ -17,4 +17,11 @@ Statuses are deliberately separated: **PENDING** means an action or state is awa
 - **Packers TNF:** monitor Falcons QB news before relying on the Packers stream.
 - **Bo Nix / Jordan Love:** W03 lineup execution started both; preserve the execution record and verify the resulting lineup/outcome separately.
 
+## Newly dropped (post W03 processing) — WATCH only
+
+- **Kenny Gainwell**, **Quentin Johnston**, **Ravens D/ST**: newly dropped by other managers on Sep 23; relevance is depth/stream watch only — no claim authorized.
+- **J.K. Dobbins**: dropped by Wet Serapas; UI showed injury/IR flag — do not treat as healthy free agent.
+- **Malik Willis**: low-priority QB depth watch in a 2QB league.
+
+
 Seed source: [W03 execution record](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/execution-record.md), [W03 recommendation](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/RECOMMENDATION.md), and [W03 evidence notes](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/evidence-notes.md), plus the [W03 reconciliation](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/reconciliation.md).
