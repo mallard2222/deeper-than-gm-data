@@ -8,6 +8,7 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Weekly assessments](../../waivers/yahoo-ff-668216/2026/) — weekly waiver and roster analysis packages.
 - [Execution records](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/execution-record.md) — approved instructions versus actions submitted in Yahoo; do not infer acquisition until outcomes reconcile.
 - [Outcomes](./2026/outcomes/) — later reconciliation of claims, lineup results, and other measured outcomes.
+- [W03 reconciliation](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/reconciliation.md) · [JSON](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/reconciliation.json) — Sep 23 processed claim outcomes and FAAB state.
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 
 ## Seeded W03 record

@@ -1,0 +1,124 @@
+{
+  "record_type": "yahoo_waiver_reconciliation",
+  "record_id": "reconciliation-yahoo-ff-668216-2026-W03-2026-09-23-001",
+  "record_status": "reconciled",
+  "league": {
+    "name": "Deeper Than",
+    "yahoo_league_id": "668216",
+    "team_name": "Vaqueros",
+    "team_id": 8,
+    "season": 2026,
+    "week": 3
+  },
+  "reconciliation": {
+    "retrieval_window_local": "2026-09-23T08:11:00-05:00/2026-09-23T08:12:00-05:00",
+    "timezone": "America/Chicago",
+    "method": "manual Yahoo UI reconciliation",
+    "scheduled_wednesday_routine": "not_fired_never_ran",
+    "pending_claims_remaining": false,
+    "yahoo_processing_display": "2026-09-23 03:46",
+    "yahoo_processing_display_timezone": "unlabeled"
+  },
+  "source_records": {
+    "recommendation": "RECOMMENDATION.md",
+    "execution_record_marked_pending": "execution-record.md",
+    "execution_record_json_marked_pending": "execution-record.json"
+  },
+  "claims": [
+    {
+      "priority": "P1",
+      "submitted": {
+        "add": "Josh Downs",
+        "bid": 18,
+        "drop": "KC Concepcion Jr.",
+        "state": "submitted_pending"
+      },
+      "processed": {
+        "status": "success",
+        "acquired": "Josh Downs",
+        "dropped": "KC Concepcion Jr.",
+        "spend": 18
+      }
+    },
+    {
+      "priority": "P2",
+      "submitted": {
+        "add": "Packers D/ST",
+        "bid": 3,
+        "drop": "Chargers D/ST",
+        "state": "submitted_pending"
+      },
+      "processed": {
+        "status": "success",
+        "acquired": "Packers D/ST",
+        "dropped": "Chargers D/ST",
+        "spend": 3
+      }
+    },
+    {
+      "priority": "P3",
+      "submitted": {
+        "add": "Panthers D/ST",
+        "bid": 1,
+        "drop": "Chargers D/ST",
+        "state": "submitted_pending"
+      },
+      "processed": {
+        "status": "failed",
+        "acquired": null,
+        "dropped": null,
+        "spend": 0,
+        "failure_detail": "No Panthers add; no $1 spend"
+      }
+    },
+    {
+      "priority": "P4",
+      "submitted": {
+        "add": "Giants D/ST",
+        "bid": 1,
+        "drop": "Chargers D/ST",
+        "state": "submitted_pending"
+      },
+      "processed": {
+        "status": "failed",
+        "acquired": null,
+        "dropped": null,
+        "spend": 0,
+        "failure_detail": "No Giants add; no $1 spend"
+      }
+    }
+  ],
+  "faab": {
+    "starting_balance": 100,
+    "spent": 21,
+    "remaining_balance": 79,
+    "spend_breakdown": {
+      "Josh Downs": 18,
+      "Packers D/ST": 3
+    }
+  },
+  "visible_transaction_context": {
+    "competing_downs_bids": [
+      {"team": "Good Strongs", "bid": 13},
+      {"team": "Wet Serapas", "bid": 3}
+    ],
+    "other_visible_transactions": [
+      {"team": "Good Strongs", "transaction": "Schultz/Vele"},
+      {"team": "Big Balls", "transaction": "Jonah Coleman"},
+      {"team": "DUGASM", "transaction": "Vikings"},
+      {"team": "Wet Serapas", "transaction": "Kamara"}
+    ],
+    "completeness": "visible league transactions only; private bids are not fully observable"
+  },
+  "evidence": [
+    "evidence/claims-result.png",
+    "evidence/faab.png",
+    "evidence/roster-after.png",
+    "evidence/transactions.png"
+  ],
+  "notes": [
+    "This outcome record is additive and does not overwrite the original recommendation or the Sep 22 pending execution record.",
+    "Panthers D/ST and Giants D/ST were not acquired.",
+    "No pending claims remain after reconciliation."
+  ]
+}
