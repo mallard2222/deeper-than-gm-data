@@ -1,0 +1,83 @@
+{
+  "record_type": "yahoo_execution_record",
+  "record_status": "submitted_pending_processing",
+  "league": {
+    "name": "Deeper Than",
+    "yahoo_league_id": "668216",
+    "team_name": "Vaqueros",
+    "team_id": 8,
+    "season": 2026,
+    "week": 3
+  },
+  "authorization": {
+    "authorized_by": "Andrew",
+    "scope": "exact_plan_only",
+    "no_ir": true,
+    "no_bid_increases": true,
+    "no_8deep": true
+  },
+  "execution_time": {
+    "date": "2026-09-22",
+    "approximate_local_range": "21:05-21:12",
+    "timezone": "America/Chicago"
+  },
+  "pre_submit": {
+    "faab_balance": 100,
+    "unrelated_pending_claims": false,
+    "targets_available_on_waivers": true
+  },
+  "claims": {
+    "status": "pending",
+    "processing_date": "2026-09-23",
+    "processing_time_visible": false,
+    "items": [
+      {
+        "priority": "P1",
+        "add": "Josh Downs",
+        "bid": 18,
+        "drop": "KC Concepcion Jr."
+      },
+      {
+        "priority": "P2",
+        "add": "Packers D/ST",
+        "bid": 3,
+        "drop": "Chargers D/ST"
+      },
+      {
+        "priority": "P3",
+        "add": "Panthers D/ST",
+        "bid": 1,
+        "drop": "Chargers D/ST"
+      },
+      {
+        "priority": "P4",
+        "add": "Giants D/ST",
+        "bid": 1,
+        "drop": "Chargers D/ST"
+      }
+    ],
+    "down_and_packers_max_spend": 21,
+    "remaining_faab_if_downs_and_packers_clear": 79,
+    "remaining_faab_basis": "starting_balance_100"
+  },
+  "lineup": {
+    "week": 3,
+    "completed": true,
+    "started": ["Bo Nix", "Jordan Love"],
+    "benched": ["Caleb Williams"],
+    "caleb_williams_dropped": false,
+    "other_starters": "unchanged",
+    "jayden_reed_status": "BN unchanged",
+    "ir_move": false
+  },
+  "exceptions": [],
+  "notes": [
+    "Claims remain pending until Yahoo processes them; no acquisition is asserted.",
+    "Earlier recommendation and evidence documents remain unchanged.",
+    "This record distinguishes APPROVED instructions from EXECUTED actions."
+  ],
+  "evidence": [
+    "evidence/pending-claims.png",
+    "evidence/week3-lineup.png"
+  ]
+}
