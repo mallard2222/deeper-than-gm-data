@@ -1,0 +1,84 @@
+{
+  "league_id": "yahoo-ff-668216",
+  "league_name": "Deeper Than",
+  "team": "Vaqueros",
+  "team_id": 8,
+  "season": 2026,
+  "week": 3,
+  "package_id": "W03-2026-09-22",
+  "collection_timezone": "America/Chicago",
+  "collection_timestamp_local": "2026-09-22T19:45:00-05:00",
+  "retrieval_notes_timestamp_local": "2026-09-22T19:50:00-05:00",
+  "yahoo_sources": [
+    "https://football.fantasysports.yahoo.com/f1/668216/8",
+    "https://football.fantasysports.yahoo.com/f1/668216/players",
+    "https://football.fantasysports.yahoo.com/f1/668216/settings",
+    "https://football.fantasysports.yahoo.com/f1/668216",
+    "https://football.fantasysports.yahoo.com/f1/668216/transactions",
+    "https://football.fantasysports.yahoo.com/f1/668216/matchup"
+  ],
+  "external_evidence": [
+    {
+      "topic": "Nico Collins Grade 1 hamstring / unlikely Week 3",
+      "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/09/21/nico-collins-continues-to-progress-but-not-likely-for-sunday/91882055007/",
+      "publisher": "USA TODAY / Aaron Wilson via Click2Houston",
+      "dated": "2026-09-21"
+    },
+    {
+      "topic": "Jayden Reed back injury / unlikely Week 3 TNF",
+      "url": "https://www.cbssports.com/fantasy/football/news/packers-jayden-reed-tending-to-back-injury-timeline-tbd/",
+      "publisher": "CBS Sports / RotoWire citing Schefter",
+      "dated": "2026-09-21"
+    },
+    {
+      "topic": "Josh Downs 7/9 for 72 after Pierce heel exit",
+      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/nine-targets-for-josh-downs-after-pierce-departure",
+      "publisher": "NBC Sports",
+      "dated": "2026-09-21"
+    },
+    {
+      "topic": "Michael Pittman Jr. foot / McCarthy unsure Week 3",
+      "urls": [
+        "https://www.fantasypros.com/nfl/news/609639/michael-pittman-jr-foot-uncertain-week-3.php",
+        "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/09/21/steelers-michael-pittman-injury-new-week-3-doubt/91879089007/",
+        "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/mccarthy-unsure-if-pittman-foot-will-play-week-3"
+      ],
+      "publisher": "FantasyPros / SteelersWire / NBC Sports",
+      "dated": "2026-09-21"
+    },
+    {
+      "topic": "Week 3 DEF stream consensus Packers / Panthers / Giants",
+      "urls": [
+        "https://www.fantasypros.com/2026/09/lets-stream-defenses-week-3-2026-fantasy-football/",
+        "https://www.fantasylife.com/articles/fantasy/defense-dst-streamers-for-week-3-fantasy-football-target-the-pac",
+        "https://www.fantasypros.com/2026/09/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-3-2026/"
+      ],
+      "publisher": "FantasyPros / FantasyLife",
+      "dated": "2026-09"
+    }
+  ],
+  "local_artifacts": [
+    "README.md",
+    "research.md",
+    "roster.csv",
+    "waivers.csv",
+    "settings.json",
+    "standings.csv",
+    "opponents.md",
+    "evidence-notes.md",
+    "RECOMMENDATION.md",
+    "source-manifest.json",
+    "changes-since-last-run.md",
+    "roster-overview.png",
+    "settings.png",
+    "standings.png",
+    "players-filters.png",
+    "waiver-rb-list.png"
+  ],
+  "limitations": [
+    "available-player export incomplete (top ~25 per position filter, not full pagination)",
+    "exact waiver processing clock not shown on Yahoo",
+    "no private claims seen",
+    "keepers not listed on settings page"
+  ]
+}
