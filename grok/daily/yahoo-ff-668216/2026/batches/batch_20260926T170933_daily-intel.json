@@ -1,0 +1,469 @@
+{
+  "schema": "grok-daily-intel-batch-v1",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "season": 2026,
+  "nfl_week": 3,
+  "run_at_ct": "2026-09-26T17:09:33.233611-05:00",
+  "collection_status": "success",
+  "last_successful_daily_collection": {
+    "path": "grok/daily/yahoo-ff-668216/2026/batches/batch_20260919T021700Z_settings.json",
+    "timestamp_utc": "2026-09-19T02:17:00Z",
+    "timestamp_ct": "2026-09-18T09:17:00-05:00",
+    "note": "Only prior daily batch files are 2026-09-19 bootstrap; no successful daily news batches after that. Automation reported 2026-09-25 5:01 PM CT FAILED."
+  },
+  "last_successful_roster_intel": {
+    "path": "grok/waivers/yahoo-ff-668216/2026/W03-2026-09-22/reconciliation.md",
+    "timestamp_ct": "2026-09-23",
+    "commit": "5ddc792c7bcfe0bff982b88822e36027d2056d95"
+  },
+  "collection_window": {
+    "start_ct": "2026-09-23T08:00:00-05:00",
+    "end_ct": "2026-09-26T17:09:33.233611-05:00",
+    "basis": "Since last successful Wednesday reconciliation / roster intel; daily folder had no successful news collections after 2026-09-19 bootstrap"
+  },
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + chrome-cookie-seed.json Netscape jar",
+    "failures": []
+  },
+  "git_prior_failures_noted": "Automation status: daily report 2026-09-25 5:01 PM CT FAILED; pregame check 2026-09-24 FAILED (external status; not re-verified here).",
+  "material_item_count": 10,
+  "material_items": [
+    {
+      "id": "2026-W03-caleb-williams-out",
+      "what_changed": "Caleb Williams (hamstring) officially ruled OUT for Week 3 Mon night vs PHI after DNP Thu/Fri/Sat.",
+      "when": "2026-09-26 (Sat CT); final injury report shared via @BearsPR / Ian Rapoport",
+      "sources": [
+        {
+          "url": "https://www.nfl.com/injuries/league/2026/reg3",
+          "label": "NFL.com Week 3 injury report \u2014 Bears: Caleb Williams Out (hamstring)",
+          "pub": "2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        },
+        {
+          "url": "https://clutchpoints.com/nfl/chicago-bears/bears-news-caleb-williams-officially-ruled-out-for-week-3-tyson-bagent-injury-status",
+          "label": "ClutchPoints citing BearsPR/Rapoport final report",
+          "pub": "2026-09-26 3:20 PM ET",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "secondary"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Caleb Williams",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "CHI"
+        }
+      ],
+      "implications": {
+        "this_week": "Already benched behind Bo Nix + Jordan Love; 0 expected Week 3 fantasy points. Rome Odunze faces backup QB environment (Bagent Q / Keenum).",
+        "ros": "Week-to-week hamstring; no practice progress this week \u2192 Week 4 availability uncertain until Wed practice.",
+        "keeper": "No new keeper signal."
+      },
+      "recommended_response": "no action",
+      "decision_deadline": "None for W03 lineup (already set). Recheck Wed 9/30 practice for W04.",
+      "what_would_change": "Unexpected activation Monday (extremely unlikely after OUT designation) or midweek return-to-practice upgrade for W04.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-nico-collins-out",
+      "what_changed": "Nico Collins (hamstring) ruled OUT for Week 3 at IND \u2014 second straight miss; DNP all week.",
+      "when": "Final Week 3 injury report (Fri/Sat window); still OUT as of 2026-09-26 retrieval",
+      "sources": [
+        {
+          "url": "https://www.nfl.com/injuries/league/2026/reg3",
+          "label": "NFL.com Week 3 \u2014 Texans: Nico Collins Out (hamstring)",
+          "pub": "2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        },
+        {
+          "url": "https://roundtable.io/sports/nfl/colts/news/colts-vs-texans-week-3-injury-report-one-out-one-questionable",
+          "label": "Roundtable Colts/Texans injury report summary",
+          "pub": "2026-09-26 9:32 AM",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "secondary"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Nico Collins",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "HOU"
+        }
+      ],
+      "implications": {
+        "this_week": "Hold on BN; no start. Woody Marks remains HOU RB depth with Collins out (passing-game spillover unclear).",
+        "ros": "Zero practice progress \u2192 treat as questionable-at-best for Week 4 until participation resumes.",
+        "keeper": "Injury length is the main keeper risk; do not drop for fringe WR."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Tue waiver desk only if longer-term absence confirmed; otherwise hold.",
+      "what_would_change": "Return to practice next week, or IR placement / multi-week absence report.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-jayden-reed-neck-out",
+      "what_changed": "Jayden Reed (neck) confirmed OUT for TNF; LaFleur said way too early to know if he plays again this season pending more tests. Yahoo still shows BN (IR slot empty: 0 of 1 used).",
+      "when": "Ruled out ~2026-09-23; Packers lost 35-14 on 2026-09-24 without him",
+      "sources": [
+        {
+          "url": "https://www.cbssports.com/fantasy/football/news/packers-jayden-reed-officially-ruled-out-for-week-3/",
+          "label": "CBS/RotoWire citing Packers site Wes Hodkiewicz + LaFleur/Demovsky",
+          "pub": "2026-09-23 4:13 pm ET",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "secondary"
+        },
+        {
+          "url": "https://www.nfl.com/injuries/league/2026/reg3",
+          "label": "NFL.com Week 3 \u2014 Packers: Jayden Reed Out (neck)",
+          "pub": "2026-09-24 game window",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        },
+        {
+          "url": "https://www.packers.com/news/in-game-updates-week-3-falcons-2026",
+          "label": "packers.com game recap (Reed absent; Golden/Watson produced)",
+          "pub": "2026-09-24 10:00 PM",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Jayden Reed",
+          "ownership": "Vaqueros (team 8) BN; IR eligible watch",
+          "nfl": "GB"
+        },
+        {
+          "player": "Matthew Golden",
+          "ownership": "Vaqueros (team 8) W/T started",
+          "nfl": "GB"
+        }
+      ],
+      "implications": {
+        "this_week": "Reed 0. Golden banked 18.50 actual in Yahoo after 5/100/1. Love banked 18.48.",
+        "ros": "Serious neck injury with uncertain season return \u2192 IR stash candidate if Yahoo IR-eligible.",
+        "keeper": "Major downside if season-ending; wait for medical clarity before keeper plans."
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Ask Andrew before any IR move (per action limits). Prefer after next Packers medical update.",
+      "what_would_change": "Official IR designation by Packers, or surprising return-to-practice timeline.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-pittman-questionable",
+      "what_changed": "Michael Pittman Jr. (foot / plantar fascia flare-up per prior reporting) listed Questionable after limited practice all week for PIT vs CIN.",
+      "when": "Final Week 3 injury report as of 2026-09-26",
+      "sources": [
+        {
+          "url": "https://www.nfl.com/injuries/league/2026/reg3",
+          "label": "NFL.com Week 3 \u2014 Steelers: Michael Pittman Questionable (foot), limited practice",
+          "pub": "2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Michael Pittman Jr.",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "PIT"
+        }
+      ],
+      "implications": {
+        "this_week": "Game-time decision; currently BN. Not required to start over healthy WRs if inactive.",
+        "ros": "Foot/plantar issues can linger; track practice next week.",
+        "keeper": "Neutral."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Sunday ~11:00 AM CT inactives (1:00 PM ET kick).",
+      "what_would_change": "Inactive list or upgrade to expected to play from beat reporters.",
+      "priority": 2
+    },
+    {
+      "id": "2026-W03-rj-harvey-cleared",
+      "what_changed": "RJ Harvey (hamstring) full participant Thu/Fri and received no game designation for SNF vs LAR \u2014 available after missing Week 2. Jonah Coleman (ankle) OUT; Dobbins also no designation.",
+      "when": "Broncos official injury report 2026-09-25 2:29 PM",
+      "sources": [
+        {
+          "url": "https://www.denverbroncos.com/news/injuryreport/injury-report-rbs-rj-harvey-and-j-k-dobbins-not-assigned-game-statuses-rb-jonah-coleman-ruled-out-for-week-3-game-vs-rams",
+          "label": "denverbroncos.com official injury report (Aric DiLalla)",
+          "pub": "2026-09-25 2:29 PM",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        },
+        {
+          "url": "https://www.nfl.com/injuries/league/2026/reg3",
+          "label": "NFL.com Week 3 \u2014 Broncos: Harvey/Dobbins full, Coleman Out",
+          "pub": "2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "RJ Harvey",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "DEN"
+        }
+      ],
+      "implications": {
+        "this_week": "Bench stash with SNF upside only if Judkins/flex fail; committee with Dobbins expected.",
+        "ros": "Positive availability signal after W2 inactive.",
+        "keeper": "Slightly improved if he reclaims Week-1-like touches."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "None for start/sit unless flex emergency Sunday night.",
+      "what_would_change": "Inactives surprise or clear early-down/pass-game role reports.",
+      "priority": 2
+    },
+    {
+      "id": "2026-W03-downs-pierce-ir",
+      "what_changed": "Colts placed Alec Pierce on IR (heel; \u22654 games). Josh Downs not on Colts injury report and available vs HOU in dome; expanded WR opportunity with Pierce/Dulin out.",
+      "when": "Pierce IR made official Sat 2026-09-26 (~12:20 PM ET PFT)",
+      "sources": [
+        {
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-put-alec-pierce-on-ir-sign-anthony-gould-to-active-roster",
+          "label": "PFT/Josh Alper \u2014 Pierce to IR, Gould signed",
+          "pub": "2026-09-26 12:20 PM",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "original reporting"
+        },
+        {
+          "url": "https://www.nfl.com/injuries/league/2026/reg3",
+          "label": "NFL.com \u2014 Colts: Alec Pierce Out (heel); Downs not listed",
+          "pub": "2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Josh Downs",
+          "ownership": "Vaqueros (team 8) BN \u2014 acquired W03 $18",
+          "nfl": "IND"
+        }
+      ],
+      "implications": {
+        "this_week": "Strong BN-to-flex consideration vs HOU (dome) with Nico OUT and Pittman Q. Currently BN behind McMillan/Rice/Golden/Judkins.",
+        "ros": "Pierce IR boosts Downs target ceiling for \u22654 weeks.",
+        "keeper": "Positive role bump."
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Sunday morning lineup lock for IND 12:00 PM CT window \u2014 ASK Andrew before any lineup swap (affects this week).",
+      "what_would_change": "Late Downs injury, or Pittman confirmed active with enough WR depth that Downs stays BN.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-packers-dst-bust",
+      "what_changed": "Packers D/ST stream vs ATL failed: Falcons won 35-14; Yahoo shows Packers DEF -8.00 actual. Penix returned; Bijan 194 rush yds.",
+      "when": "TNF 2026-09-24 final",
+      "sources": [
+        {
+          "url": "https://www.packers.com/news/in-game-updates-week-3-falcons-2026",
+          "label": "packers.com official recap",
+          "pub": "2026-09-24 10:00 PM",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros roster \u2014 Packers DEF -8.00 Final",
+          "pub": "retrieved 2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Packers D/ST",
+          "ownership": "Vaqueros (team 8) DEF",
+          "nfl": "GB"
+        }
+      ],
+      "implications": {
+        "this_week": "Points already final (negative). Live score 28.98 includes Love/Golden/DEF.",
+        "ros": "Resume streaming; do not treat Packers as set-and-forget.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Tuesday waiver desk for W04 DEF stream (FAAB ~$79).",
+      "what_would_change": "Elite upcoming Packers matchup making hold preferable.",
+      "priority": 2
+    },
+    {
+      "id": "2026-W03-opponent-wet-serapas-moves",
+      "what_changed": "Week 3 opponent Wet Serapas: Jayden Daniels now in IR (elbow; week-to-week, not season IR per team). Added Deshaun Watson (FA) Sep 25 11:18 AM. Dallas Goedert OUT; DJ Moore Questionable. Saquon Barkley in W/R; Ladd McConkey benched.",
+      "when": "Daniels IR status visible 2026-09-26 Yahoo; Watson add 2026-09-25; Commanders update 2026-09-25",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/1",
+          "label": "Yahoo Wet Serapas roster snapshot",
+          "pub": "retrieved 2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/transactions?filter=all",
+          "label": "Yahoo transactions \u2014 Watson FA add Wet Serapas Sep 25",
+          "pub": "2026-09-25 11:18 am",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://www.commanders.com/news/jayden-daniels-injury-update-dan-quinn",
+          "label": "commanders.com \u2014 Daniels week-to-week, no IR (NFL team page; Yahoo still shows IR slot)",
+          "pub": "2026-09-25 2:46 PM",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "official"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Jayden Daniels",
+          "ownership": "Wet Serapas IR",
+          "nfl": "WAS"
+        },
+        {
+          "player": "Deshaun Watson",
+          "ownership": "Wet Serapas BN",
+          "nfl": "CLE"
+        },
+        {
+          "player": "DJ Moore",
+          "ownership": "Wet Serapas BN (Q)",
+          "nfl": "note: listed on BUF injury report in NFL.com W3 table \u2014 verify team mapping"
+        },
+        {
+          "player": "Dallas Goedert",
+          "ownership": "Wet Serapas BN (O)",
+          "nfl": "PHI"
+        }
+      ],
+      "implications": {
+        "this_week": "Opponent projects 149.48 vs Vaqueros 133.46 on Yahoo; Vaqueros live 28.98 after TNF, opp 0.00. Daniels unavailable anyway.",
+        "ros": "Daniels week-to-week keeps 2QB stash value league-wide; Watson is low-upside depth on opp.",
+        "keeper": "N/A for Vaqueros."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "None \u2014 matchup awareness only.",
+      "what_would_change": "Major Wet Serapas lineup injuries Sunday morning.",
+      "priority": 3,
+      "quarantine_note": "DJ Moore team mapping in 2026 universe appears on BUF injury table while Yahoo lists him on Wet Serapas; do not invent NFL team\u2014track by Yahoo roster + NFL status separately."
+    },
+    {
+      "id": "2026-W03-league-waiver-movers",
+      "what_changed": "Post-W03 FA landscape (visible top rows): Kenny Gainwell & Quentin Johnston still FA; Malik Willis FA; Ravens/Panthers/Giants/Chargers DEF available. Big Balls roster now includes J.K. Dobbins (not FA). Good Strongs: Dontayvion Wicks FA add (drop Brooks IR) Sep 24; Tank Bigsby FA add (drop MarShawn Lloyd) Sep 26 3:45 pm.",
+      "when": "Transactions through 2026-09-26 3:45 pm (Yahoo display tz unlabeled)",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/transactions?filter=all",
+          "label": "Yahoo league transactions",
+          "pub": "retrieved 2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/3",
+          "label": "Yahoo Big Balls roster includes J.K. Dobbins",
+          "pub": "retrieved 2026-09-26",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Kenny Gainwell",
+          "ownership": "Free Agent (visible FA RB list)",
+          "nfl": "TB"
+        },
+        {
+          "player": "Quentin Johnston",
+          "ownership": "Free Agent (visible FA WR list)",
+          "nfl": "LAC"
+        },
+        {
+          "player": "J.K. Dobbins",
+          "ownership": "Big Balls (team 3)",
+          "nfl": "DEN"
+        },
+        {
+          "player": "Tank Bigsby",
+          "ownership": "Good Strongs (added Sep 26)",
+          "nfl": "PHI"
+        }
+      ],
+      "implications": {
+        "this_week": "No Vaqueros claim authorized. Dobbins no longer a FA target.",
+        "ros": "Gainwell/Johnston remain depth watches only.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Tuesday waiver assessment routine.",
+      "what_would_change": "High-value player hitting waivers after Sunday injuries.",
+      "priority": 3
+    },
+    {
+      "id": "2026-W03-weather-relevant",
+      "what_changed": "Week 3 outdoor weather: Panthers@Browns (Judkins/McMillan) dry but windy ~13 mph gusts 18-20; Ravens@Cowboys in Rio (Henry) rain chance peaking ~37% with lower forecast confidence; Rams@Broncos SNF (Nix/Harvey) dry/warm; Texans@Colts dome (Downs/Warren/Collins/Marks) no weather.",
+      "when": "Forecast article updated 2026-09-25; retrieved 2026-09-26",
+      "sources": [
+        {
+          "url": "https://www.fantasyalarm.com/articles/nfl/nfl-weather/nfl-week-3-weather-report-fantasy-football-dfs-impact/196056",
+          "label": "FantasyAlarm Week 3 weather report",
+          "pub": "2026-09-25 (updated)",
+          "retrieved_ct": "2026-09-26T17:09:33.233611-05:00",
+          "tier": "secondary forecast"
+        }
+      ],
+      "confidence": "report",
+      "affected_players": [
+        {
+          "player": "Quinshon Judkins",
+          "ownership": "Vaqueros W/R",
+          "nfl": "CLE"
+        },
+        {
+          "player": "Tetairoa McMillan",
+          "ownership": "Vaqueros WR",
+          "nfl": "CAR"
+        },
+        {
+          "player": "Derrick Henry",
+          "ownership": "Vaqueros RB",
+          "nfl": "BAL"
+        },
+        {
+          "player": "Bo Nix",
+          "ownership": "Vaqueros QB",
+          "nfl": "DEN"
+        }
+      ],
+      "implications": {
+        "this_week": "No forced sit from weather alone for Vaqueros starters; Rio rain is mild concern for Henry efficiency only.",
+        "ros": "N/A",
+        "keeper": "N/A"
+      },
+      "recommended_response": "no action",
+      "decision_deadline": "None",
+      "what_would_change": "Severe weather upgrade for CLE or Rio closer to kickoff.",
+      "priority": 4
+    }
+  ],
+  "evidence_dir": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-09-26",
+  "roster_snapshot": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-09-26/vaqueros-roster-snapshot.json"
+}

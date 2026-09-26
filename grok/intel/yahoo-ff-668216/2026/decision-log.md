@@ -1,5 +1,15 @@
 # Decision log — 2026
 
+## `intel-yahoo-ff-668216-2026-daily-2026-09-26-001`
+
+- **Date:** 2026-09-26 (CT)
+- **Type:** Daily intelligence collection (read-only). **No Yahoo transactions.**
+- **Outcome:** Successful Yahoo roster/opponent/transactions pull + public/official injury news since W03 reconcile.
+- **Report:** [daily-report-2026-09-26.md](../../../daily/yahoo-ff-668216/2026/daily-report-2026-09-26.md)
+- **Batch:** [batch_20260926T170933_daily-intel.json](../../../daily/yahoo-ff-668216/2026/batches/batch_20260926T170933_daily-intel.json)
+- **Boundary:** Does not authorize adds/drops/claims/lineup/IR moves. Flags prepare items (Downs flex ask; Reed IR ask) for Andrew.
+
+
 ## `outcome-yahoo-ff-668216-2026-W03-2026-09-23-001`
 
 - **Date:** 2026-09-23 (CT)

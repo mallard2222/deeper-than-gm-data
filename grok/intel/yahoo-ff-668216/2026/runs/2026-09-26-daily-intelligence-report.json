@@ -1,0 +1,21 @@
+{
+  "schema": "run-metadata.schema.json",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "season": 2026,
+  "nfl_week": 3,
+  "run_at_ct": "2026-09-26T17:10:42.090036-05:00",
+  "status": "success",
+  "yahoo_access": "success",
+  "transactions_executed": false,
+  "artifacts": [
+    "grok/daily/yahoo-ff-668216/2026/daily-report-2026-09-26.md",
+    "grok/daily/yahoo-ff-668216/2026/batches/batch_20260926T170933_daily-intel.json",
+    "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-09-26/",
+    "grok/intel/yahoo-ff-668216/2026/watchlist.md",
+    "grok/intel/yahoo-ff-668216/2026/open-questions.md",
+    "grok/intel/yahoo-ff-668216/2026/decision-log.md"
+  ],
+  "notes": "First successful daily news collection after 2026-09-19 bootstrap; covers window since 2026-09-23 W03 reconcile."
+}
