@@ -1,0 +1,145 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-09-27T14:59:54-05:00",
+  "routine_fired_utc": "2026-09-27T19:58:21Z",
+  "window": "ACTIVE",
+  "window_reason": "CMC kickoff 15:05 CT is ~5 min away (inside ACTIVE / risky pre-lock window). Henry 15:25 (~25 min) also ACTIVE. Nix 19:20 (~260 min) outside ACTIVE. Early 12:00 slate locked/live (mostly Q4); Love/Golden/Packers DEF Final.",
+  "now_ct": "2026-09-27 14:59 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": 5,
+  "next_starter_kickoff_ct": "15:05",
+  "next_starter": "Christian McCaffrey",
+  "confidence": "high",
+  "matchup": {
+    "week": 3,
+    "opponent": "Wet Serapas",
+    "live": "68.88",
+    "proj": "123.56",
+    "opp_live": "118.68",
+    "opp_proj": "155.27"
+  },
+  "faab_remaining": 79,
+  "ir_used": "0/1",
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "team_http": 200,
+    "matchup_http": 200
+  },
+  "starters_locked_or_live": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "kickoff_ct": "Final",
+      "yahoo_status": "Final L 14-35 vs Atl",
+      "fan_pts": "18.48"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q4 live @ Cle (18-13)",
+      "fan_pts": "2.70",
+      "proj": "12.07",
+      "notes": "locked early slate"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q4 live @ Mia (24-10)",
+      "fan_pts": "12.30",
+      "proj": "11.51",
+      "notes": "locked early slate"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q4 live vs Hou (16-17)",
+      "fan_pts": "10.20",
+      "proj": "9.35",
+      "notes": "locked early slate"
+    },
+    {
+      "slot": "W/T",
+      "player": "Matthew Golden",
+      "kickoff_ct": "Final",
+      "yahoo_status": "Final L 14-35 vs Atl",
+      "fan_pts": "18.50"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q4 live vs Car (13-18)",
+      "fan_pts": "7.70",
+      "proj": "12.10",
+      "notes": "locked early slate"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q4 live @ Buf (13-24)",
+      "fan_pts": "7.00",
+      "proj": "7.46",
+      "notes": "locked early slate"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "kickoff_ct": "Final",
+      "yahoo_status": "Final L 14-35 vs Atl",
+      "fan_pts": "-8.00"
+    }
+  ],
+  "remaining_starters": [
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "kickoff_ct": "15:05",
+      "minutes_to_kickoff": 5,
+      "in_active_window": true,
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "18.53",
+      "game": "SF vs Ari",
+      "external_notes": "Final injury report: CMC rest Wed only, full Thu/Fri, no game designation. Public Week 3 coverage indicates CMC not on SF inactive list / green light; Yahoo OK. Official inactive list window ~90 min pre-kick; no OUT/inactive signal at check time."
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "kickoff_ct": "15:25",
+      "minutes_to_kickoff": 25,
+      "in_active_window": true,
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "17.45",
+      "game": "Bal @ Dal",
+      "external_notes": "Not on Ravens final injury report with game designation; Cowboys inactives posted without implying Henry inactive; Yahoo OK."
+    },
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "kickoff_ct": "19:20",
+      "minutes_to_kickoff": 260,
+      "in_active_window": false,
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "16.77",
+      "game": "Den vs LAR"
+    }
+  ],
+  "bench_notes_non_actionable": [
+    "Caleb Williams BN OUT (Mon 19:15 Chi vs Phi) \u2014 not a starter",
+    "Nico Collins BN OUT (live Q4 inactive/0) \u2014 not a starter",
+    "Jayden Reed BN OUT (Final) \u2014 not a starter",
+    "Josh Downs BN active Q4 (10.20 fan pts / 9.91 proj) \u2014 locked early slate; no flex swap vs locked starters",
+    "RJ Harvey BN OK (Den RB, Sun 19:20) \u2014 same later slate as Nix; not a same-window swap for CMC/Henry who are both OK",
+    "Rome Odunze BN OK (Mon 19:15) \u2014 later slate",
+    "Sam LaPorta / Pittman / Marks \u2014 early slate locked/live on bench"
+  ],
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "notes": "ACTIVE window quiet exit. CMC (~5 min) and Henry (~25 min) both Yahoo OK with no injury badges; external inactive/injury cross-check shows no OUT/inactive for either. No better healthy same-class bench swap indicated. Nix OK for later 19:20. No Yahoo lineup/roster/waiver changes. Fresh fetch; prior 11:04/12:02/13:03/14:03 snapshots left intact."
+}
