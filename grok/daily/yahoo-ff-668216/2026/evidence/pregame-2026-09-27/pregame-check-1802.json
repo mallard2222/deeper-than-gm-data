@@ -1,0 +1,160 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-09-27T18:02:48-05:00",
+  "routine_fired_utc": "2026-09-27T23:02:48Z",
+  "window": "ACTIVE",
+  "window_reason": "Bo Nix kickoff 19:20 CT is ~77 min away (inside ~45\u201390 min ACTIVE / risky pre-lock window). CMC already live (SF Q4; kicked ~15:05 CT). Henry already live (Bal@Dal Q4; kicked ~15:25 CT). Early slate Final/locked.",
+  "now_ct": "2026-09-27 18:02 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": 77,
+  "next_starter_kickoff_ct": "19:20",
+  "next_starter": "Bo Nix",
+  "confidence": "high",
+  "matchup": {
+    "week": 3,
+    "opponent": "Wet Serapas",
+    "live": "111.98",
+    "proj": "132.94",
+    "opp_live": "138.44",
+    "opp_proj": "157.92",
+    "note": "Scores from scoreboard matchup widget; varPR week proj differed slightly (139.75/149.91)."
+  },
+  "faab_remaining": 79,
+  "ir_used": "0/1",
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "team_http": 200,
+    "matchup_http": 200,
+    "scoreboard_http": 200
+  },
+  "starters_locked_or_live": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 14-35",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 14-35 vs Atl",
+      "fan_pts": "18.48",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Q4 2:13, 29-27",
+      "kickoff_ct": "15:05",
+      "yahoo_status_detail": "Q4 2:13, 29-27 vs Ari",
+      "fan_pts": "18.70",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Q4 12:04, 24-21",
+      "kickoff_ct": "15:25",
+      "yahoo_status_detail": "Q4 12:04, 24-21 @ Dal",
+      "fan_pts": "20.20",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 18-21",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 18-21 @ Cle",
+      "fan_pts": "2.70",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final W 24-10",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final W 24-10 @ Mia",
+      "fan_pts": "12.30",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final W 19-17",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final W 19-17 vs Hou",
+      "fan_pts": "10.20",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "W/T",
+      "player": "Matthew Golden",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 14-35",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 14-35 vs Atl",
+      "fan_pts": "18.50",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final W 21-18",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final W 21-18 vs Car",
+      "fan_pts": "8.90",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 16-24",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 16-24 @ Buf",
+      "fan_pts": "10.00",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 14-35",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 14-35 vs Atl",
+      "fan_pts": "-8.00",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    }
+  ],
+  "remaining_starters": [
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "kickoff_ct": "19:20",
+      "minutes_to_kickoff": 77,
+      "in_active_window": true,
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "16.84",
+      "game": "Den vs LAR",
+      "lock_state": "unlocked (pre-kick)",
+      "external_notes": "Not on Broncos final injury report with game designation; listed QB1 on 53-man roster for SNF vs Rams. Yahoo OK. Official inactive list typically ~90 min pre-kick; no public DEN inactives post naming Nix inactive at check time (~77 min out). No healthy same-class bench QB (Caleb Williams BN OUT Mon)."
+    }
+  ],
+  "bench_notes_non_actionable": [
+    "Caleb Williams BN OUT (Mon 19:15 Chi vs Phi) \u2014 only other QB; not a swap candidate",
+    "Nico Collins BN OUT (Final) \u2014 not a starter",
+    "Jayden Reed BN OUT (Final) \u2014 not a starter",
+    "RJ Harvey BN OK (Den RB, Sun 19:20) \u2014 same later slate as Nix; final IR had no game designation (available); not a QB swap",
+    "Rome Odunze BN OK (Mon 19:15) \u2014 later slate",
+    "LaPorta / Pittman / Marks / Downs \u2014 early slate locked/Final on bench"
+  ],
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "notes": "ACTIVE window quiet exit. Nix (~77 min to 19:20 CT Den vs LAR) Yahoo OK with no O/Q/D badge; external injury/roster cross-check shows no OUT/inactive for Nix. No healthy eligible bench QB swap (Williams OUT). CMC/Henry already locked/live Q4 OK. Early slate Final. No Yahoo lineup/roster/waiver changes. Fresh fetch; prior same-day snapshots left intact."
+}
