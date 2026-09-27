@@ -1,0 +1,122 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-09-27T11:04:26.063464-05:00",
+  "window": "ACTIVE",
+  "early_slate_kickoff_ct": "12:00",
+  "minutes_to_early_kick_approx": 56,
+  "matchup": {
+    "opponent": "Wet Serapas",
+    "live": "28.98",
+    "proj": "134.09",
+    "opp_live": "0.00",
+    "opp_proj": "150.46"
+  },
+  "faab_remaining": 79,
+  "ir_slots_used": "0 of 1",
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/sand-data/chrome-cookie-seed.json converted to Netscape jar"
+  },
+  "early_slate_starters": [
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "OK",
+      "proj": "12.01",
+      "game": "CAR@CLE"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "OK",
+      "proj": "11.52",
+      "game": "KC@MIA"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "OK",
+      "proj": "9.33",
+      "game": "HOU@IND"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "OK",
+      "proj": "12.14",
+      "game": "CAR@CLE"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "OK",
+      "proj": "7.44",
+      "game": "LAC@BUF"
+    }
+  ],
+  "already_final": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "fan_pts": "18.48"
+    },
+    {
+      "slot": "W/T",
+      "player": "Matthew Golden",
+      "fan_pts": "18.50"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "fan_pts": "-8.00"
+    }
+  ],
+  "later_starters": [
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "kickoff_ct": "15:05",
+      "yahoo_status": "OK",
+      "proj": "18.49"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "kickoff_ct": "15:25",
+      "yahoo_status": "OK",
+      "proj": "17.44"
+    },
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "kickoff_ct": "19:20",
+      "yahoo_status": "OK",
+      "proj": "16.74"
+    }
+  ],
+  "bench_notes": {
+    "Josh Downs": "ACTIVE (not on Colts inactives). Proj 9.89 < McMillan/Rice/Judkins. Pierce IR / Dulin inactive boosts role but NOT clear sit of any current starter.",
+    "Michael Pittman Jr.": "Yahoo no longer shows Q. Schefter/Rapoport expected to play; official inactive list not confirmed in our fetches as of run. BN only \u2014 not a starter issue.",
+    "Jayden Reed": "Still O on BN; IR empty \u2014 not a pregame lineup action (ask later for IR).",
+    "Nico Collins": "O BN confirmed",
+    "Caleb Williams": "O BN Mon",
+    "Sam LaPorta": "BN proj 9.51 vs Warren 9.33 \u2014 not a clear TE swap",
+    "RJ Harvey": "cleared SNF BN"
+  },
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "injury_sources": [
+    "https://www.nfl.com/injuries/league/2026/reg3",
+    "https://www.colts.com/news/colts-announce-inactives-for-week-3-vs-houston-texans",
+    "https://www.cbssports.com/fantasy/football/news/steelers-michael-pittman-slated-to-play-sunday/",
+    "https://clutchpoints.com/nfl/pittsburgh-steelers/steelers-news-michael-pittman-jaylen-warren-injury-updates-week-3-bengals"
+  ]
+}
