@@ -2,7 +2,7 @@
 
 Statuses are deliberately separated: **PENDING** means an action or state is awaiting an external result; **WATCH** means a condition to re-check, not an instruction to transact.
 
-Last daily refresh: **2026-09-26 05:10 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-09-26.md)).
+Last daily refresh: **2026-09-27 05:01 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-09-27.md)).
 
 ## RESOLVED — W03 outcome (Sep 23, 2026)
 
@@ -11,28 +11,39 @@ Last daily refresh: **2026-09-26 05:10 PM CT** ([daily report](../../../daily/ya
 - **Fallbacks:** Panthers D/ST and Giants D/ST claims failed; neither was added and neither $1 bid was spent.
 - **FAAB / claims:** $79 remains from $100 after $21 spent; no pending claims remain.
 
-## WATCH — active as of Sep 26, 2026
+## RESOLVED / updated — 2026-09-27 daily
 
-- **Caleb Williams:** Officially **OUT** Week 3 (hamstring; DNP all week). Already BN behind Nix/Love. Recheck Wed practice for Week 4.
-- **Nico Collins:** **OUT** Week 3 (hamstring; second straight miss; DNP all week). Injury hold — do not drop for fringe WR. Recheck practice next week.
-- **Jayden Reed:** Neck; OUT for TNF; LaFleur said way too early on season return. BN unchanged; Yahoo IR slot **empty (0/1)**. Monitor IR eligibility — **ask Andrew before any IR move**.
-- **Michael Pittman Jr.:** **Questionable** (foot) for Sunday vs CIN after limited practice all week. Monitor inactives (~11 AM CT).
-- **Josh Downs:** Healthy; **Alec Pierce → IR** (heel, ≥4 games) boosts role vs HOU (dome). Strong flex-prep candidate from BN — **ask before lineup swap**.
-- **RJ Harvey:** Cleared (no game designation) for SNF vs LAR after missing Week 2. Monitor touches with Dobbins.
-- **Packers D/ST:** Streamed poorly (−8.00 in 35–14 TNF loss). Prepare Tuesday W04 stream; Panthers/Giants/Ravens/Chargers still among visible FA DEFs.
-- **Bo Nix / Jordan Love:** W03 lineup started both (Caleb benched). Love Final 18.48; Golden Final 18.50 in W/T. Preserve execution record.
+- **Michael Pittman Jr.:** Was Q (foot); **active** Week 3 and Final Yahoo **2.60** vs CIN — correctly left on BN.
+- **DJ Moore mapping:** Wet Serapas BN; Final **9.70** as **BUF** WR — prior NFL.com table ambiguity cleared.
+- **Josh Downs W03 usage:** BN Final **10.20** on **11 targets / 5–77** — Pierce IR bump confirmed (lineup swap was not executed).
 
-## Opponent (Week 3 Wet Serapas) — WATCH only
+## WATCH — active as of Sep 27, 2026 (~5:01 PM CT)
 
-- Jayden Daniels in Yahoo **IR** (elbow; Commanders say week-to-week / not placing on NFL IR).
-- Deshaun Watson FA add Sep 25.
-- Dallas Goedert **O**; DJ Moore **Q** (Yahoo BN).
-- Saquon Barkley starting W/R; Ladd McConkey BN.
+- **Caleb Williams:** **OUT** W3 + **Grade 2 hamstring / 3–4 week** timeline (Schefter/Rapoport). Keenum starting MNF. Already BN behind Nix/Love. Recheck Wed practice; IR ask still open.
+- **Nico Collins:** **OUT** W3 (second miss); Schefter **decent chance W4** vs DAL. Injury hold — do not drop. Recheck Wed practice.
+- **Jayden Reed:** Neck; still **O**/0 after TNF. BN unchanged; Yahoo IR slot **empty (0/1)**. **Ask Andrew before any IR move.**
+- **Josh Downs:** Healthy; W03 target spike validates flex/WR consideration for **Week 4** — **ask before lineup swap**.
+- **RJ Harvey:** Cleared for SNF vs LAR (same window as Nix). Monitor touches with Dobbins; Coleman OUT.
+- **Bo Nix / SNF context:** Still to play vs LAR; Nacua **doubtful** (Rams/McVay).
+- **Christian McCaffrey / Derrick Henry:** Still **live** at daily cutoff (CMC Q3 ~13.60; Henry Half ~17.20) — finals belong in next report.
+- **Packers D/ST:** Streamed poorly (−8.00). Prepare Tuesday W04 stream; Jaguars/Steelers/Ravens/Chargers/Bills among visible waiver/FA DEFs; Gainwell/Johnston/Ravens waiver-dated **W (Sep 30)**.
+- **Tetairoa McMillan:** W03 Final **2.70** — start/sit pressure vs Downs for W04.
+
+## Opponent — WATCH only
+
+### Week 3 Wet Serapas (in progress)
+- Live lead after Gibbs **37.90** / JSN **30.36**; Watson **20.26** left on BN.
+- Jayden Daniels still Yahoo **IR**; Goedert **O** Mon; Saquon W/R pending Mon; Sutton BN for SNF; Broncos DEF starting SNF.
+
+### Week 4 Deepest (not started)
+- Yahoo W4 scoreboard: Vaqueros proj ~133.77 vs Deepest ~135.30.
+- Scout Deepest roster after W3 completes (next routine).
 
 ## Newly available / league movers — WATCH only (no claim authorized)
 
-- Still FA (visible top lists): **Kenny Gainwell**, **Quentin Johnston**, **Malik Willis**, multiple DEF including Ravens/Panthers/Giants/Chargers.
-- **J.K. Dobbins** now on **Big Balls** (not FA).
-- Good Strongs: Dontayvion Wicks add (Sep 24); Tank Bigsby add drop MarShawn Lloyd (Sep 26 3:45 pm).
+- No new transactions after Sep 26 3:45 pm Tank Bigsby add (already logged 09-26).
+- Waiver-dated **W (Sep 30):** Kenny Gainwell, Quentin Johnston, Ravens DEF (visible searches).
+- Visible DEF pool includes Jaguars (W3 demolish NE), Steelers, Ravens, Chargers, Bills; some Rams/Bears DEF rows FA.
+- **J.K. Dobbins** remains on **Big Balls** (not FA).
 
-Seed sources: W03 execution/reconciliation package plus 2026-09-26 daily collection.
+Seed sources: W03 execution/reconciliation package plus 2026-09-26 and 2026-09-27 daily collections.

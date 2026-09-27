@@ -28,3 +28,9 @@
 - **Execution record:** [W03 execution record](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/execution-record.md) · [JSON](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/execution-record.json)
 - **Recommendation context:** [W03 recommendation](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/RECOMMENDATION.md)
 - **Boundary:** earlier recommendation/evidence files remain unchanged; no acquisition or later outcome is backfilled here.
+
+## 2026-09-27 — daily intelligence (no transactions)
+
+- Routine collected Sunday W03 intel; **no Yahoo adds/drops/trades/lineup changes**.
+- Recommendations only (need Andrew): (1) optional Reed IR stash vs keeping slot for Caleb Grade-2 timeline; (2) W04 Downs start over weak WR/flex; (3) Tue DEF stream after Packers −8.00.
+- Matchup context: trailing Wet Serapas live at cutoff; W04 opponent **Deepest**.

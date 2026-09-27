@@ -1,0 +1,421 @@
+{
+  "schema": "grok-daily-intel-batch-v1",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "season": 2026,
+  "nfl_week": 3,
+  "run_at_ct": "2026-09-27T17:01:14-05:00",
+  "collection_status": "success",
+  "last_successful_daily_collection": {
+    "path": "grok/daily/yahoo-ff-668216/2026/batches/batch_20260926T170933_daily-intel.json",
+    "timestamp_utc": "2026-09-26T22:09:33Z",
+    "timestamp_ct": "2026-09-26T17:09:33-05:00",
+    "commit": "7d95bfcc362e9d730a4fdbfc73950d8e1f4cfdb8",
+    "note": "Previous successful daily intelligence report 2026-09-26."
+  },
+  "collection_window": {
+    "start_ct": "2026-09-26T17:09:33-05:00",
+    "end_ct": "2026-09-27T17:01:14-05:00",
+    "basis": "Since previous successful daily intelligence report 2026-09-26 ~5:09 PM CT through this Sunday ~5:01 PM CT run"
+  },
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + chrome-cookie-seed.json Netscape jar",
+    "failures": []
+  },
+  "roster_snapshot": {
+    "faab_remaining": 79,
+    "pending_claims": 0,
+    "ir_used": "0/1",
+    "week3_live_score": 103.88,
+    "week3_proj": 139.68,
+    "opponent": "Wet Serapas",
+    "opp_live_score": 132.64,
+    "opp_proj": 149.89,
+    "record": "0-2-0",
+    "rank": 8,
+    "week4_opponent": "Deepest",
+    "week4_proj_vaqueros": 133.77,
+    "week4_proj_opp": 135.3
+  },
+  "material_item_count": 10,
+  "material_items": [
+    {
+      "id": "2026-W03-caleb-grade2-timeline",
+      "what_changed": "Caleb Williams diagnosed with Grade 2 hamstring; doctors estimate 3-4 weeks (can beat it). Already OUT W3; Case Keenum named starter Mon vs PHI (Bagent cleared concussion but not starting).",
+      "when": "Schefter/Rapoport reports Sun 2026-09-27; Glazer/Keenum start update same day",
+      "sources": [
+        {
+          "url": "https://www.profootballrumors.com/2026/09/bears-qb-caleb-williams-diagnosed-with-grade-2-hamstring-injury",
+          "label": "ProFootballRumors \u2014 Grade 2 + Keenum start (Schefter/Rapoport/Glazer)",
+          "pub": "2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "secondary"
+        },
+        {
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-27/schefter-caleb-williams-hamstring-out-3-4-weeks",
+          "label": "NBC Sports \u2014 Schefter 3-4 weeks",
+          "pub": "2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "secondary"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Caleb Williams",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "CHI"
+        },
+        {
+          "player": "Rome Odunze",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "CHI"
+        }
+      ],
+      "implications": {
+        "this_week": "Caleb 0. Odunze faces Keenum environment Mon.",
+        "ros": "Multi-week QB absence risk through ~W5-W6 if timeline sticks; 2QB depth (Nix/Love) covers starts. IR-eligible watch while slot empty.",
+        "keeper": "Injury length is the main risk; do not drop for fringe QB."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Wed practice / next medical; ask Andrew before any IR stash.",
+      "what_would_change": "Faster return-to-practice or official IR designation.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-nico-collins-w4-outlook",
+      "what_changed": "Nico Collins missed second straight (hamstring) Final 0 at IND; Schefter says decent chance to return Week 4 vs DAL.",
+      "when": "2026-09-27 morning Schefter; game Final HOU L 17-19",
+      "sources": [
+        {
+          "url": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-may-return-in-week-4/",
+          "label": "CBS/RotoWire \u2014 Schefter W4 chance",
+          "pub": "2026-09-27 7:35 am ET",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "secondary"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros roster \u2014 Nico O Final 0.00",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Nico Collins",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "HOU"
+        },
+        {
+          "player": "Woody Marks",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "HOU"
+        }
+      ],
+      "implications": {
+        "this_week": "Hold BN; Marks 8.60 from HOU backfield in same game.",
+        "ros": "Improved return signal vs prior no-practice-progress read \u2014 still confirm Wed participation.",
+        "keeper": "Hold through W4 practice window."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Wed 10/1 practice notes for W04 start/sit.",
+      "what_would_change": "Setback / another DNP week or IR placement.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-downs-target-spike",
+      "what_changed": "Josh Downs (BN) caught 5-of-11 targets for 77 yards in IND 19-17 win; Yahoo 10.20. Validates Pierce IR opportunity bump.",
+      "when": "Week 3 early slate Final 2026-09-27",
+      "sources": [
+        {
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-27/downs-has-team-high-11-targets-in-week-3-win",
+          "label": "NBC Sports \u2014 Downs 5/11 for 77",
+          "pub": "2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "original reporting"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros \u2014 Downs BN 10.20 Final",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Josh Downs",
+          "ownership": "Vaqueros (team 8) BN \u2014 W03 $18 add",
+          "nfl": "IND"
+        }
+      ],
+      "implications": {
+        "this_week": "Outproduced started McMillan (2.70) and Judkins (8.90) from BN \u2014 lineup opportunity missed (no Sunday swap in this routine).",
+        "ros": "WR3-range usage while Pierce on IR (>=4 games).",
+        "keeper": "Positive role confirmation."
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Tue-Sun W04 lineup \u2014 ASK Andrew before promoting Downs over McMillan/Rice/Judkins/Golden.",
+      "what_would_change": "Target regression or IND WR rotation change.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-pittman-active-quiet",
+      "what_changed": "Michael Pittman Jr. (foot) cleared Q, active, but Final Yahoo 2.60 in PIT W 30-27 vs CIN.",
+      "when": "Expected-to-play / active reports Sun morning; game Final afternoon CT",
+      "sources": [
+        {
+          "url": "https://www.cbssports.com/fantasy/football/news/steelers-michael-pittman-deemed-active-for-week-3/",
+          "label": "CBS/RotoWire \u2014 Pittman active W3",
+          "pub": "2026-09-27 11:44 am ET",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "secondary"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros \u2014 Pittman BN 2.60 Final",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Michael Pittman Jr.",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "PIT"
+        }
+      ],
+      "implications": {
+        "this_week": "Correctly left on BN.",
+        "ros": "Foot issue + low output \u2014 monitor snaps/targets Week 4 before any flex thought.",
+        "keeper": "Neutral/slightly down."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "None immediate.",
+      "what_would_change": "Sustained target share next week.",
+      "priority": 2
+    },
+    {
+      "id": "2026-W03-sunday-slate-vaqueros-bank",
+      "what_changed": "Early/mid Sunday bank: McMillan 2.70, Rice 12.30, Warren 10.20, Judkins 8.90, Dicker 10.00 Final; TNF Love 18.48 / Golden 18.50 / Packers DEF -8.00. Live CMC ~13.60 (Q3), Henry ~17.20 (Half). Nix/Harvey SNF pending. Matchup live 103.88 vs 132.64 Wet Serapas after opp Gibbs 37.90 / JSN 30.36.",
+      "when": "2026-09-27 afternoon CT (Yahoo refresh ~5:00 PM)",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros team page live scores",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/1",
+          "label": "Yahoo Wet Serapas roster",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Vaqueros W03 starters",
+          "ownership": "Vaqueros (team 8)",
+          "nfl": "various"
+        }
+      ],
+      "implications": {
+        "this_week": "Trailing; still have CMC/Henry/Nix path; opp has Saquon Mon + Sutton SNF.",
+        "ros": "McMillan flop + Packers DEF bust push W04 stream/start review.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "None for locked early slate; SNF/MNF finish in next checks.",
+      "what_would_change": "CMC/Henry/Nix huge finishes closing gap.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-reed-ir-still-open",
+      "what_changed": "Jayden Reed remains O/0.00 Final after TNF neck absence; no new Packers medical timeline in this window. Yahoo IR still 0 of 1.",
+      "when": "Status unchanged through 2026-09-27 Yahoo retrieval",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros \u2014 Reed O BN; used 0 of 1 IR",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Jayden Reed",
+          "ownership": "Vaqueros (team 8) BN; IR eligible watch",
+          "nfl": "GB"
+        }
+      ],
+      "implications": {
+        "this_week": "No action.",
+        "ros": "IR stash still main roster-construction lever if neck lingers.",
+        "keeper": "Major downside if season-ending."
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Ask Andrew before IR move.",
+      "what_would_change": "Packers IR designation or surprise practice return.",
+      "priority": 1
+    },
+    {
+      "id": "2026-W03-nacua-doubtful-snf",
+      "what_changed": "Rams listed Puka Nacua doubtful (hip/groin) for SNF at DEN; McVay: doubtful = more unlikely than likely. Context for Nix/Harvey and opp Broncos DEF.",
+      "when": "Rams final IR report Fri 2026-09-25; operative for Sun night kick",
+      "sources": [
+        {
+          "url": "https://www.therams.com/news/rams-injury-report-week-3-at-broncos-puka-nacua-and-kam-kinchens-doubtful-for-sunday-night-football-2026",
+          "label": "therams.com \u2014 Nacua/Kinchens doubtful (Stu Jackson)",
+          "pub": "2026-09-25 2:12 PM",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "official"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Bo Nix",
+          "ownership": "Vaqueros (team 8) QB",
+          "nfl": "DEN"
+        },
+        {
+          "player": "RJ Harvey",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "DEN"
+        }
+      ],
+      "implications": {
+        "this_week": "Mild Broncos game-script note only; not a Vaqueros sit trigger.",
+        "ros": "N/A",
+        "keeper": "N/A"
+      },
+      "recommended_response": "no action",
+      "decision_deadline": "SNF inactives ~6:50 PM CT.",
+      "what_would_change": "Surprise Nacua active changing DEN game script.",
+      "priority": 3
+    },
+    {
+      "id": "2026-W04-opponent-deepest",
+      "what_changed": "Yahoo Week 4 scoreboard shows Vaqueros vs Deepest (not started); proj ~133.77 vs ~135.30. Vaqueros 8th at 0-2-0.",
+      "when": "Week 4 scoreboard retrieved 2026-09-27",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216?week=4",
+          "label": "Yahoo scoreboard week=4",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [],
+      "implications": {
+        "this_week": "Finish W3 first.",
+        "ros": "W04 planning vs Deepest after MNF/waiver period.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Tue waiver + Sun W04 locks.",
+      "what_would_change": "Major Deepest roster injuries/adds before kickoff.",
+      "priority": 2
+    },
+    {
+      "id": "2026-W03-waiver-landscape-sun",
+      "what_changed": "No new league transactions after Sep 26 3:45 pm Tank Bigsby add (already in prior daily). FA/waiver sample: Kenny Gainwell, Quentin Johnston, Ravens DEF show W (Sep 30); DEF names include Jaguars (big W3), Steelers, Ravens, Chargers, Bills; Rams/Bears DEF rows showed FA.",
+      "when": "Yahoo FA/search pages 2026-09-27 ~5:00 PM CT",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/players?status=A",
+          "label": "Yahoo FA RB/WR/DEF lists + player search",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/transactions?filter=all",
+          "label": "Yahoo transactions",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Kenny Gainwell",
+          "ownership": "Waiver (Sep 30)",
+          "nfl": "TB"
+        },
+        {
+          "player": "Quentin Johnston",
+          "ownership": "Waiver (Sep 30)",
+          "nfl": "LAC"
+        },
+        {
+          "player": "Jaguars D/ST",
+          "ownership": "FA/waiver pool (visible)",
+          "nfl": "JAX"
+        }
+      ],
+      "implications": {
+        "this_week": "No Vaqueros claim authorized.",
+        "ros": "Tue desk for DEF stream + any Sunday injury fallout.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Tuesday waiver processing (Game Time Tuesday / prior ~3:46 AM unlabeled tz).",
+      "what_would_change": "High-value IR/injury drop hitting waivers Sun night-Mon.",
+      "priority": 2
+    },
+    {
+      "id": "2026-W03-dj-moore-mapping-resolved",
+      "what_changed": "Wet Serapas BN DJ Moore Final 9.70 with BUF W 24-16 vs LAC \u2014 confirms Yahoo ownership + BUF NFL affiliation (clears prior quarantine ambiguity).",
+      "when": "2026-09-27 early slate Final",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/1",
+          "label": "Yahoo Wet Serapas roster \u2014 DJ Moore BUF Final 9.70",
+          "pub": "retrieved 2026-09-27",
+          "retrieved_ct": "2026-09-27T17:01:14-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "DJ Moore",
+          "ownership": "Wet Serapas BN",
+          "nfl": "BUF"
+        }
+      ],
+      "implications": {
+        "this_week": "Opp left him on BN.",
+        "ros": "N/A for Vaqueros.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "no action",
+      "decision_deadline": "None",
+      "what_would_change": "N/A",
+      "priority": 3
+    }
+  ],
+  "evidence_dir": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-09-27/",
+  "report_path": "grok/daily/yahoo-ff-668216/2026/daily-report-2026-09-27.md",
+  "transactions_executed": false,
+  "notes": "Sunday W03 in-progress collection. CMC/Henry live and Nix/Harvey not yet played at cutoff; final W03 scoring incomplete until SNF/MNF."
+}
