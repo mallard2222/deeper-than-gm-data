@@ -1,0 +1,146 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-09-27T16:57:18-05:00",
+  "routine_fired_utc": "2026-09-27T21:57:18Z",
+  "window": "NO_WINDOW",
+  "window_reason": "No Vaqueros starter kickoff within ~45\u201390 min of now (2026-09-27 16:57 CDT). CMC already live (SF Q3; kicked ~15:05 CT). Henry already live (Bal@Dal Half; kicked ~15:25 CT). Nix kickoff 19:20 CT is ~142 min away (outside ACTIVE). Early slate Final/locked. Next ACTIVE window expected ~17:50\u201318:35 CT ahead of Nix 19:20.",
+  "now_ct": "2026-09-27 16:57 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": 142,
+  "next_starter_kickoff_ct": "19:20",
+  "next_starter": "Bo Nix",
+  "confidence": "high",
+  "matchup": {
+    "week": 3,
+    "opponent": "Wet Serapas",
+    "live": "97.78",
+    "proj": "131.59",
+    "opp_live": "132.64",
+    "opp_proj": "157.34",
+    "note": "Scores from team-page matchup widget text; varPR week proj differed slightly (139.68/149.89)."
+  },
+  "faab_remaining": 79,
+  "ir_used": "0/1",
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "team_http": 200,
+    "matchup_http": 200,
+    "scoreboard_http": 200
+  },
+  "starters_locked_or_live": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 14-35",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 14-35",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Q3 11:59, 17-6",
+      "kickoff_ct": "15:05",
+      "yahoo_status_detail": "Q3 11:59, 17-6",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Half, 17-13",
+      "kickoff_ct": "15:25",
+      "yahoo_status_detail": "Half, 17-13",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 18-21",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 18-21",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final W 24-10",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final W 24-10",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final W 19-17",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final W 19-17",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "W/T",
+      "player": "Matthew Golden",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 14-35",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 14-35",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final W 21-18",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final W 21-18",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 16-24",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 16-24",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Final L 14-35",
+      "kickoff_ct": "Final",
+      "yahoo_status_detail": "Final L 14-35",
+      "notes": "locked/live \u2014 past pre-kick ACTIVE window"
+    }
+  ],
+  "remaining_starters": [
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "kickoff_ct": "19:20",
+      "minutes_to_kickoff": 142,
+      "in_active_window": false,
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Sun 7:20 pm vs LAR"
+    }
+  ],
+  "bench_notes_non_actionable": [
+    "Caleb Williams BN OUT (Mon 19:15 Chi vs Phi) \u2014 not a starter",
+    "Nico Collins BN OUT (Final) \u2014 not a starter",
+    "Jayden Reed BN OUT (Final) \u2014 not a starter",
+    "RJ Harvey BN OK (Den RB, Sun 19:20) \u2014 same later slate as Nix; outside ACTIVE window",
+    "Rome Odunze BN OK (Mon 19:15) \u2014 later slate"
+  ],
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "notes": "NO_WINDOW quiet exit. Live Yahoo verify: CMC Q3 OK (locked/live), Henry Half OK (locked/live), Nix Sun 7:20 pm vs LAR OK (no O/Q/D) but ~142 min to kick \u2014 outside 45\u201390 min ACTIVE window. No actionable lineup risk. No Yahoo lineup/roster/waiver changes. Fresh fetch; prior same-day snapshots left intact."
+}
