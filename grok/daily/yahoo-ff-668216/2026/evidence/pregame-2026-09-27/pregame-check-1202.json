@@ -1,0 +1,116 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-09-27T12:04:45-05:00",
+  "routine_fired_utc": "2026-09-27T17:02:30Z",
+  "window": "NO_WINDOW",
+  "window_reason": "Early 12:00 CT slate starters already locked/in Q1; next Vaqueros starter kickoff is CMC at 15:05 CT (~180 min), outside ~45-90 min ACTIVE pre-lock window. Henry 15:25; Nix 19:20.",
+  "now_ct": "2026-09-27 12:04 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": 180,
+  "next_starter_kickoff_ct": "15:05",
+  "next_starter": "Christian McCaffrey",
+  "active_window_resumes_approx_ct": "13:15-14:20 (for 15:05/15:25 slate)",
+  "matchup": {
+    "week": 3,
+    "opponent": "Wet Serapas",
+    "live": "28.98",
+    "proj": "134.12",
+    "opp_live": "0.00",
+    "opp_proj": "149.51"
+  },
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "team_http": 200,
+    "matchup_http": 200
+  },
+  "starters_locked_or_live": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "kickoff_ct": "Final",
+      "yahoo_status": "Final L 14-35 vs Atl",
+      "fan_pts": "18.48"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q1 live @ Cle",
+      "proj": "12.08"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q1 live @ Mia",
+      "proj": "11.50"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q1 live vs Hou",
+      "proj": "9.35"
+    },
+    {
+      "slot": "W/T",
+      "player": "Matthew Golden",
+      "kickoff_ct": "Final",
+      "yahoo_status": "Final L 14-35 vs Atl",
+      "fan_pts": "18.50"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q1 live vs Car",
+      "proj": "12.10"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "kickoff_ct": "12:00",
+      "yahoo_status": "Q1 live @ Buf",
+      "proj": "7.44"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "kickoff_ct": "Final",
+      "yahoo_status": "Final L 14-35 vs Atl",
+      "fan_pts": "-8.00"
+    }
+  ],
+  "remaining_starters": [
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "kickoff_ct": "15:05",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "18.53",
+      "game": "SF vs Ari"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "kickoff_ct": "15:25",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "17.45",
+      "game": "Bal @ Dal"
+    },
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "kickoff_ct": "19:20",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "proj": "16.77",
+      "game": "Den vs LAR"
+    }
+  ],
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "notes": "Quiet exit. No Yahoo lineup/roster/waiver changes. Fresh fetch only; morning 11:04 snapshot not treated as live. Prior morning file left intact as pregame-check.json."
+}
