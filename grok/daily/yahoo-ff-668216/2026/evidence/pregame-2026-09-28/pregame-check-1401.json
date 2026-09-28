@@ -1,0 +1,159 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-09-28T14:01:27-05:00",
+  "routine_fired_utc": "2026-09-28T19:00:22.392Z",
+  "window": "NO_WINDOW",
+  "window_reason": "Monday 14:01 CT. Only NFL game left today is PHI@CHI MNF kickoff 19:15 CT (~314 min out). No Vaqueros starter plays Monday — Williams (OUT) and Odunze are BN only. All Week 3 starters already Final (Sunday slate including Nix Final W 30-26 vs LAR). Outside ~45–90 min ACTIVE / risky pre-lock window.",
+  "now_ct": "2026-09-28 14:01 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": null,
+  "next_starter_kickoff_ct": null,
+  "next_starter": null,
+  "confidence": "high",
+  "matchup": {
+    "week": 3,
+    "opponent": "Wet Serapas",
+    "note": "Confirmed on league scoreboard Week 3 (fresh fetch)."
+  },
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "team_http": 200,
+    "scoreboard_http": 200,
+    "matchup_http": 200,
+    "espn_http": 200,
+    "espn_note": "site.web.api.espn.com scoreboard 200; one event PHI@CHI STATUS_SCHEDULED"
+  },
+  "starters_locked_or_live": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "yahoo_status": "OK",
+      "game": "Final L 14-35 vs Atl",
+      "kickoff_ct": "Final",
+      "fan_pts": "18.48",
+      "notes": "locked/Final — past ACTIVE window"
+    },
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "yahoo_status": "OK",
+      "game": "Final W 30-26 vs LAR",
+      "kickoff_ct": "Final",
+      "fan_pts": "24.14",
+      "notes": "locked/Final — Sunday night finished"
+    },
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "yahoo_status": "OK",
+      "game": "Final W 36-30 vs Ari",
+      "kickoff_ct": "Final",
+      "fan_pts": "19.60",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "yahoo_status": "OK",
+      "game": "Final W 34-31 @ Dal",
+      "kickoff_ct": "Final",
+      "fan_pts": "21.40",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "yahoo_status": "OK",
+      "game": "Final L 18-21 @ Cle",
+      "kickoff_ct": "Final",
+      "fan_pts": "2.70",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "yahoo_status": "OK",
+      "game": "Final W 24-10 @ Mia",
+      "kickoff_ct": "Final",
+      "fan_pts": "12.30",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "yahoo_status": "OK",
+      "game": "Final W 19-17 vs Hou",
+      "kickoff_ct": "Final",
+      "fan_pts": "10.20",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "W/T",
+      "player": "Matthew Golden",
+      "yahoo_status": "OK",
+      "game": "Final L 14-35 vs Atl",
+      "kickoff_ct": "Final",
+      "fan_pts": "18.50",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "yahoo_status": "OK",
+      "game": "Final W 21-18 vs Car",
+      "kickoff_ct": "Final",
+      "fan_pts": "8.90",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "yahoo_status": "OK",
+      "game": "Final L 16-24 @ Buf",
+      "kickoff_ct": "Final",
+      "fan_pts": "10.00",
+      "notes": "locked/Final"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "yahoo_status": "OK",
+      "game": "Final L 14-35 vs Atl",
+      "kickoff_ct": "Final",
+      "fan_pts": "-8.00",
+      "notes": "locked/Final"
+    }
+  ],
+  "remaining_starters": [],
+  "bench_notes_non_actionable": [
+    "Caleb Williams BN OUT (Mon 19:15 Chi vs Phi) — not a starter; ~314 min to MNF; outside ACTIVE starter window",
+    "Rome Odunze BN OK (Mon 19:15) — bench only; not a starter",
+    "All other bench: Final from Sunday slate (Harvey, Collins OUT, Reed OUT, LaPorta, Pittman, Marks, Downs)"
+  ],
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "external_notes": {
+    "phi_at_chi_mnf": {
+      "name": "Philadelphia Eagles at Chicago Bears",
+      "shortName": "PHI @ CHI",
+      "date_utc": "2026-09-29T00:15Z",
+      "kickoff_ct": "19:15",
+      "espn_status": "STATUS_SCHEDULED",
+      "espn_detail": "Mon, September 28th at 8:15 PM EDT",
+      "espn_shortDetail": "9/28 - 8:15 PM EDT",
+      "competitors": [
+        "CHI (home)",
+        "PHI (away)"
+      ],
+      "minutes_to_kickoff": 314,
+      "evidence_links": [
+        "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260928",
+        "https://football.fantasysports.yahoo.com/f1/668216/8"
+      ]
+    }
+  },
+  "notes": "NO_WINDOW quiet exit. Mon 14:01 CT; MNF PHI@CHI 19:15 CT is ~314 min away and Vaqueros have no Monday starters (Williams OUT / Odunze BN only). All Week 3 starters Final. No actionable alerts. No Yahoo lineup/roster/waiver changes. Fresh fetch."
+}
