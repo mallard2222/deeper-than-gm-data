@@ -1,0 +1,21 @@
+{
+  "schema": "run-metadata.schema.json",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "season": 2026,
+  "nfl_week": 3,
+  "run_at_ct": "2026-09-28T17:07:20-05:00",
+  "status": "success",
+  "yahoo_access": "success",
+  "transactions_executed": false,
+  "artifacts": [
+    "grok/daily/yahoo-ff-668216/2026/daily-report-2026-09-28.md",
+    "grok/daily/yahoo-ff-668216/2026/batches/batch_20260928T170720_daily-intel.json",
+    "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-09-28/",
+    "grok/intel/yahoo-ff-668216/2026/watchlist.md",
+    "grok/intel/yahoo-ff-668216/2026/open-questions.md",
+    "grok/intel/yahoo-ff-668216/2026/runs/2026-09-28-daily-intelligence-report.json"
+  ],
+  "notes": "Monday W03/W04 daily covering window since 2026-09-27 successful daily; W03 Loss locked with Saquon Mon remaining for opp; MNF leftover BN only for Vaqueros."
+}
