@@ -13,6 +13,12 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 - [Runs](./2026/runs/) — collection/analysis run manifests.
 
+## Latest daily (2026-09-29 ~5:03 PM CT)
+
+- [daily-report-2026-09-29.md](../../daily/yahoo-ff-668216/2026/daily-report-2026-09-29.md)
+- [batch_20260929T170301_daily-intel.json](../../daily/yahoo-ff-668216/2026/batches/batch_20260929T170301_daily-intel.json)
+- [run meta](./2026/runs/2026-09-29-daily-intelligence-report.json)
+
 ## Current weekly package (W04)
 
 - [W04 package](../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/)

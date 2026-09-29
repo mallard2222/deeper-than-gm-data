@@ -1,0 +1,360 @@
+{
+  "schema": "grok-daily-intel-batch-v1",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "season": 2026,
+  "nfl_week": 4,
+  "run_at_ct": "2026-09-29T17:03:01-05:00",
+  "collection_status": "success",
+  "last_successful_daily_collection": {
+    "path": "grok/daily/yahoo-ff-668216/2026/batches/batch_20260928T170720_daily-intel.json",
+    "timestamp_ct": "2026-09-28T17:07:20-05:00",
+    "commit": "c67612997d24f88374227ae1bca8042ca42f5203",
+    "note": "Previous successful daily intelligence report 2026-09-28. HEAD before this daily was c0115c3 after W04 Tuesday desk."
+  },
+  "intervening_weekly_desk": {
+    "path": "grok/waivers/yahoo-ff-668216/2026/W04-2026-09-29/",
+    "timestamp_ct": "2026-09-29T08:10:00-05:00",
+    "commits": [
+      "3c43923",
+      "c0115c3"
+    ],
+    "note": "Tue W04 weekly intelligence desk \u2014 deduplicated; daily focuses on NEW deltas since that package."
+  },
+  "collection_window": {
+    "start_ct": "2026-09-28T17:07:20-05:00",
+    "end_ct": "2026-09-29T17:03:01-05:00",
+    "basis": "Since previous successful daily intelligence report 2026-09-28 ~5:07 PM CT through this Tuesday ~5:03 PM CT run; deduped against Tue W04 desk ~8:10 AM CT"
+  },
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + chrome-cookie-seed.json Netscape jar",
+    "yahoo_ok": true,
+    "failures": [],
+    "notes": [
+      "pendingclaims URL returned Yahoo document-not-found shell; no usable pending UI (same gap class as Tue desk)",
+      "No Yahoo transactions executed"
+    ]
+  },
+  "roster_snapshot": {
+    "faab_remaining": 79,
+    "waiver_order": 1,
+    "pending_claims": 0,
+    "pending_claims_note": "none visible; pending page 404/not-found",
+    "ir_used": "0/1",
+    "record": "0-3-0",
+    "rank": 8,
+    "pf": 393.14,
+    "week3_score": 138.22,
+    "week3_opp": "Wet Serapas",
+    "week3_opp_score": 162.34,
+    "week3_result": "Loss",
+    "week4_opponent": "Deepest",
+    "week4_opp_record": "2-1-0",
+    "week4_opp_rank": 4,
+    "week4_proj_vaqueros": 142.36,
+    "week4_proj_opp": 138.88,
+    "week4_win_pct_vaqueros": 0.53,
+    "def_still": "Packers",
+    "status_deltas_since_tue_desk": {
+      "Nico Collins": {
+        "from": "O/0.00",
+        "to": "Q/15.11"
+      },
+      "Caleb Williams": {
+        "from": "O/0.00",
+        "to": "D/0.00"
+      },
+      "Jayden Reed": {
+        "from": "O/0.00",
+        "to": "D/0.00"
+      }
+    }
+  },
+  "material_item_count": 6,
+  "material_items": [
+    {
+      "id": "2026-W04-nico-yahoo-q-upgrade",
+      "title": "Nico Collins Yahoo O\u2192Q with 15.11 W4 proj",
+      "what_changed": "Yahoo injury letter for Nico Collins moved O\u2192Q; W4 projection 0.00\u219215.11. Still BN. No new primary coach quote beyond Mon hopeful already in prior packages \u2014 Yahoo status/proj is the new UI fact.",
+      "when": "Observed 2026-09-29 ~5:02 PM CT (was O/0.00 on Tue W04 desk ~8:11 AM CT)",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros \u2014 Nico Q/15.11",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-coach-hopeful-for-week-4-return/",
+          "label": "CBS/RotoWire \u2014 Ryans hopeful W4",
+          "pub": "2026-09-28 1:13 pm ET",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "secondary"
+        }
+      ],
+      "confidence": "confirmed (Yahoo UI); availability practice-dependent",
+      "affected_players": [
+        {
+          "player": "Nico Collins",
+          "ownership": "Vaqueros (team 8) BN",
+          "nfl": "HOU"
+        }
+      ],
+      "implications": {
+        "this_week": "If active, clearest WR/flex promotion candidate; ask before lineup change.",
+        "ros": "Positive return signal; Marks HOU contingency.",
+        "keeper": "Hold through practice confirmation."
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Wed\u2013Fri practice + Sun lock \u2014 ASK Andrew before promoting",
+      "what_would_change": "DNP Wed\u2013Fri or official OUT / setback",
+      "priority": 1
+    },
+    {
+      "id": "2026-W04-caleb-reed-yahoo-d-status",
+      "title": "Caleb and Reed Yahoo O\u2192D; IR ask still open",
+      "what_changed": "Caleb Williams Yahoo O\u2192D (0.00 proj); Jayden Reed O\u2192D (0.00). IR still 0/1. Bears did not place Caleb on NFL IR before MNF. LaFleur Mon: no Reed timeline.",
+      "when": "Yahoo letters 2026-09-29 ~5:02 PM CT; Reed coach quote 2026-09-28 afternoon ET",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros \u2014 Caleb D / Reed D",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://www.cbssports.com/fantasy/football/news/packers-jayden-reed-no-change-in-status/",
+          "label": "CBS/RotoWire \u2014 Reed no change",
+          "pub": "2026-09-28 3:00 pm ET",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "secondary"
+        },
+        {
+          "url": "https://www.chicagobears.com/news/game-recap-case-keenum-defense-lead-bears-to-dominant-victory-over-eagles",
+          "label": "Bears.com MNF recap \u2014 Williams sidelined",
+          "pub": "2026-09-28 11:13 PM / updated 2026-09-29 12:17 AM",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "team site"
+        }
+      ],
+      "confidence": "confirmed (Yahoo + team recap); medical timelines report",
+      "affected_players": [
+        {
+          "player": "Caleb Williams",
+          "ownership": "Vaqueros BN",
+          "nfl": "CHI"
+        },
+        {
+          "player": "Jayden Reed",
+          "ownership": "Vaqueros BN",
+          "nfl": "GB"
+        }
+      ],
+      "implications": {
+        "this_week": "Docs-only IR ask; Caleb preferred stash.",
+        "ros": "Love/Nix cover QB; Reed outlook open.",
+        "keeper": "IR stash preserves BN flexibility."
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Ask Andrew before IR",
+      "what_would_change": "NFL IR designation; surprise practice return; Andrew chooses Reed-first",
+      "priority": 2
+    },
+    {
+      "id": "2026-W04-proj-vaqueros-favorite-again",
+      "title": "W04 projs flip back \u2014 Vaqueros 142.36 vs Deepest 138.88 (53%)",
+      "what_changed": "Yahoo W04 projs moved from Tue AM Deepest favorite (135.73\u2013136.67) to Vaqueros 142.36\u2013138.88 (53%). Deepest roster shape unchanged.",
+      "when": "2026-09-29 ~5:02 PM CT Yahoo matchup",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/matchup?week=4&mid1=8",
+          "label": "Yahoo W4 matchup",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/4",
+          "label": "Yahoo Deepest",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [],
+      "implications": {
+        "this_week": "Still close coin-flip; lineup/DEF optimization matters.",
+        "ros": "Must-win feel at 0-3.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "Waiver processing + Sun locks (+ TNF Judkins)",
+      "what_would_change": "Deepest adds; major injuries",
+      "priority": 3
+    },
+    {
+      "id": "2026-W03-mnf-odunze-final",
+      "title": "MNF Odunze BN Final 5.90; Keenum CHI win",
+      "what_changed": "MNF Bears 27\u20137 Eagles. Odunze Vaqueros BN Final 5.90. Closes Mon daily MNF open check; W03 already Loss final 138.22\u2013162.34.",
+      "when": "MNF 2026-09-28 evening CT",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/matchup?week=3&mid1=8",
+          "label": "Yahoo W3 matchup Odunze 5.90",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://www.chicagobears.com/news/game-recap-case-keenum-defense-lead-bears-to-dominant-victory-over-eagles",
+          "label": "Bears.com MNF recap",
+          "pub": "2026-09-28/29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "team site"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [
+        {
+          "player": "Rome Odunze",
+          "ownership": "Vaqueros BN",
+          "nfl": "CHI"
+        }
+      ],
+      "implications": {
+        "this_week": "Not a W04 auto-start over Rice/Downs/Nico path.",
+        "ros": "Monitor CHI WR pecking order with/without Caleb.",
+        "keeper": "Hold for now."
+      },
+      "recommended_response": "monitor",
+      "decision_deadline": "None immediate",
+      "what_would_change": "Usage spike or Caleb early return elevating Odunze",
+      "priority": 4
+    },
+    {
+      "id": "2026-W04-waiver-pool-still-open",
+      "title": "Waivers still W(Sep 30); Steelers DEF top Yahoo DEF proj; Allen elevated",
+      "what_changed": "FAAB still $79; Packers still held; no new league txns since Sep 26. Available DEFs/skill still W(Sep 30). Steelers DEF Yahoo proj 10.14 now leads available DEF over Ravens 9.16 / Bears 8.12. Braelon Allen 10.28 with Hall week-to-week. Addison still available ~73% Ros. Achane still Good Strongs.",
+      "when": "Yahoo FA/search 2026-09-29 ~5:02 PM CT",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/players?status=A&pos=DEF",
+          "label": "Yahoo FA DEF",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/players?status=A&pos=RB",
+          "label": "Yahoo FA RB",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/playersearch?search=Achane",
+          "label": "Yahoo search Achane Good Strongs",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/transactions",
+          "label": "Yahoo transactions",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        }
+      ],
+      "confidence": "confirmed (visible rows); private bids unknown",
+      "affected_players": [
+        {
+          "player": "Packers DEF",
+          "ownership": "Vaqueros",
+          "nfl": "GB"
+        },
+        {
+          "player": "Steelers DEF",
+          "ownership": "FA / W(Sep 30)",
+          "nfl": "PIT"
+        },
+        {
+          "player": "Ravens DEF",
+          "ownership": "FA / W(Sep 30)",
+          "nfl": "BAL"
+        },
+        {
+          "player": "Bears DEF",
+          "ownership": "FA / W(Sep 30)",
+          "nfl": "CHI"
+        },
+        {
+          "player": "Braelon Allen",
+          "ownership": "FA / W(Sep 30)",
+          "nfl": "NYJ"
+        },
+        {
+          "player": "Jordan Addison",
+          "ownership": "FA / W(Sep 30)",
+          "nfl": "MIN"
+        },
+        {
+          "player": "De'Von Achane",
+          "ownership": "Good Strongs IR",
+          "nfl": "MIA"
+        }
+      ],
+      "implications": {
+        "this_week": "Include Steelers in DEF ask; Tue desk FAAB plan still baseline docs; no claim by this routine.",
+        "ros": "Preserve FAAB at 0-3.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Tue waiver processing / W(Sep 30) \u2014 ASK Andrew before claim",
+      "what_would_change": "Processing results; injury FA; Andrew FAAB preference",
+      "priority": 5
+    },
+    {
+      "id": "2026-W04-open-asks-still-unresolved",
+      "title": "Tue desk IR / DEF / Downs asks still unresolved",
+      "what_changed": "No Andrew authorization observed via Yahoo (IR empty; Packers held; Downs BN; FAAB $79). Nico Q elevates lineup ask complexity.",
+      "when": "Through 2026-09-29T17:03:01-05:00",
+      "sources": [
+        {
+          "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+          "label": "Yahoo Vaqueros state",
+          "pub": "retrieved 2026-09-29",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "league UI"
+        },
+        {
+          "url": "grok/waivers/yahoo-ff-668216/2026/W04-2026-09-29/RECOMMENDATION.md",
+          "label": "W04 RECOMMENDATION docs",
+          "pub": "2026-09-29 Tue desk",
+          "retrieved_ct": "2026-09-29T17:03:01-05:00",
+          "tier": "internal docs"
+        }
+      ],
+      "confidence": "confirmed",
+      "affected_players": [],
+      "implications": {
+        "this_week": "Decisions stack before TNF and waiver processing.",
+        "ros": "IR is free roster lever.",
+        "keeper": "N/A"
+      },
+      "recommended_response": "prepare",
+      "decision_deadline": "Andrew replies \u2014 routine will not auto-move",
+      "what_would_change": "Andrew answers / executes Yahoo moves",
+      "priority": 6
+    }
+  ],
+  "should_wake_parent": true,
+  "evidence_dir": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-09-29/",
+  "report_path": "grok/daily/yahoo-ff-668216/2026/daily-report-2026-09-29.md"
+}
