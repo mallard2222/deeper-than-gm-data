@@ -1,5 +1,15 @@
 # Decision log — 2026
 
+## `intel-yahoo-ff-668216-2026-weekly-W04-2026-09-29-001`
+
+- **Date:** 2026-09-29 (CT)
+- **Type:** Tuesday weekly intelligence desk (read-only). **No Yahoo transactions.**
+- **Package:** [W04-2026-09-29](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/)
+- **Recommendation:** [RECOMMENDATION.md](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/RECOMMENDATION.md) — docs-only FAAB/IR/lineup asks (Ravens/Bears DEF; optional Addison; Caleb/Reed IR; Downs start).
+- **Learning loop:** [learning-loop.md](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/learning-loop.md) — Downs acquisition sound but sat; Packers −8 sound-process/unlucky.
+- **State facts:** 0-3; FAAB $79; WO 1; IR empty; **9 BN verified**; W03 final 138.22–162.34; W04 vs Deepest proj 135.73–136.67.
+- **Boundary:** Does not authorize adds/drops/claims/lineup/IR. Prior W03 execution/outcome records unchanged.
+
 ## `intel-yahoo-ff-668216-2026-daily-2026-09-26-001`
 
 - **Date:** 2026-09-26 (CT)

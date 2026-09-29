@@ -1,0 +1,183 @@
+{
+  "run_id": "weekly-yahoo-ff-668216-2026-W04-20260929T0810CT",
+  "league_id": "668216",
+  "league_name": "Deeper Than",
+  "team": "Vaqueros",
+  "team_id": 8,
+  "season": 2026,
+  "nfl_week": 4,
+  "package_date": "2026-09-29",
+  "collection_window_ct": {
+    "start": "2026-09-29 08:10",
+    "end": "2026-09-29 08:16"
+  },
+  "timezone": "America/Chicago",
+  "auth_status": "success",
+  "transactions_executed": false,
+  "faab_remaining": 79,
+  "waiver_order": 1,
+  "record": "0-3-0",
+  "ir_used": 0,
+  "bench_slots_verified": 9,
+  "w03_final": {
+    "home": "Vaqueros",
+    "away": "Wet Serapas",
+    "score": "138.22-162.34",
+    "result": "L"
+  },
+  "w04_matchup": {
+    "opponent": "Deepest",
+    "proj": "135.73-136.67"
+  },
+  "standings": [
+    {
+      "rank": "1",
+      "team": "DUGASM",
+      "team_id": "5",
+      "record": "3-0-0",
+      "pf": "460.28",
+      "pa": "367.50",
+      "streak": "W-3",
+      "faab": "97",
+      "waiver_order": "8",
+      "moves": "2"
+    },
+    {
+      "rank": "2",
+      "team": "Baby Arm",
+      "team_id": "2",
+      "record": "2-1-0",
+      "pf": "489.50",
+      "pa": "424.28",
+      "streak": "W-2",
+      "faab": "97",
+      "waiver_order": "7",
+      "moves": "4"
+    },
+    {
+      "rank": "3",
+      "team": "Big Balls",
+      "team_id": "3",
+      "record": "2-1-0",
+      "pf": "430.14",
+      "pa": "367.12",
+      "streak": "L-1",
+      "faab": "62",
+      "waiver_order": "6",
+      "moves": "3"
+    },
+    {
+      "rank": "4",
+      "team": "Deepest",
+      "team_id": "4",
+      "record": "2-1-0",
+      "pf": "422.68",
+      "pa": "475.68",
+      "streak": "W-1",
+      "faab": "94",
+      "waiver_order": "5",
+      "moves": "2"
+    },
+    {
+      "rank": "5",
+      "team": "Wet Serapas",
+      "team_id": "1",
+      "record": "1-2-0",
+      "pf": "452.98",
+      "pa": "445.14",
+      "streak": "W-1",
+      "faab": "76",
+      "waiver_order": "4",
+      "moves": "4"
+    },
+    {
+      "rank": "6",
+      "team": "Good Strongs",
+      "team_id": "7",
+      "record": "1-2-0",
+      "pf": "381.34",
+      "pa": "420.04",
+      "streak": "L-2",
+      "faab": "83",
+      "waiver_order": "3",
+      "moves": "9"
+    },
+    {
+      "rank": "7",
+      "team": "FFAmuseBouche",
+      "team_id": "6",
+      "record": "1-2-0",
+      "pf": "330.06",
+      "pa": "379.76",
+      "streak": "L-1",
+      "faab": "100",
+      "waiver_order": "2",
+      "moves": "1"
+    },
+    {
+      "rank": "8",
+      "team": "Vaqueros",
+      "team_id": "8",
+      "record": "0-3-0",
+      "pf": "393.14",
+      "pa": "480.60",
+      "streak": "L-3",
+      "faab": "79",
+      "waiver_order": "1",
+      "moves": "2"
+    }
+  ],
+  "vaqueros_roster_count": 20,
+  "top_recommendations_docs_only": [
+    {
+      "priority": 1,
+      "action": "add Ravens DEF or Bears DEF",
+      "drop": "Packers DEF",
+      "faab": "$4 / max $10 (Ravens); $2-6 / max $8 (Bears)",
+      "alt": "hold Packers"
+    },
+    {
+      "priority": 2,
+      "action": "optional Addison",
+      "drop": "Pittman or use IR-freed BN",
+      "faab": "$8 / max $18"
+    },
+    {
+      "priority": "IR",
+      "action": "ask Caleb or Reed to IR",
+      "note": "empty slot; prefer Caleb timeline"
+    },
+    {
+      "priority": "lineup",
+      "action": "ask Downs start vs McMillan/Judkins/Golden",
+      "note": "docs only"
+    }
+  ],
+  "coverage": {
+    "all_eight_rosters": true,
+    "fa_pagination": "50 per skill pos + DEF list + ALL 0/25/50",
+    "snaps_routes": false,
+    "keepers": "unknown",
+    "waiver_clock": "unknown exact"
+  },
+  "files": [
+    "README.md",
+    "RECOMMENDATION.md",
+    "research.md",
+    "learning-loop.md",
+    "roster.csv",
+    "waivers.csv",
+    "standings.csv",
+    "settings.json",
+    "opponents.md",
+    "evidence-notes.md",
+    "source-manifest.json",
+    "changes-since-last-run.md",
+    "reconciliation.md",
+    "reconciliation.json",
+    "weekly-package.json",
+    "evidence/"
+  ],
+  "errors": [],
+  "retries": "bounded sleeps 1.2\u20131.3s between Yahoo fetches; no rate-limit errors observed"
+}

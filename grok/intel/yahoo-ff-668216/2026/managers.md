@@ -14,3 +14,7 @@ League: Deeper Than (`yahoo-ff-668216`). The league has **8 managers/teams**. On
 | 8 | **Vaqueros** | Andrew Allard | Team identity is evidenced; manager mapping is used only for this account |
 
 Do not infer manager behavior, motives, preferences, or bidding patterns from a single claim, lineup, or outcome. Behavior statements require repeated, sourced observations and must remain analysis rather than reconciled fact.
+
+## 2026-09-29 weekly refresh
+- Identities reconfirmed via matchup pages: Vaqueros = Andrew Allard; Wet Serapas = James; Deepest = Jeremy.
+- Behavior: Good Strongs still highest move count (9). Big Balls FAAB down to $62 after prior spends. Sample size small — no strong manager-tendency claims.

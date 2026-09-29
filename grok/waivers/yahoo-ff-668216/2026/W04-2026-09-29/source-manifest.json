@@ -1,0 +1,84 @@
+{
+  "run_id": "weekly-yahoo-ff-668216-2026-W04-20260929T0810CT",
+  "league": "yahoo-ff-668216",
+  "team": "Vaqueros",
+  "team_id": 8,
+  "nfl_week_package": 4,
+  "retrieved": "2026-09-29T08:11:00-05:00",
+  "method": "curl + Netscape jar from /home/box/agent-data/chrome-cookie-seed.json",
+  "auth": "success \u2014 logged-in Deeper Than HTML (Vaqueros titles, Waiver Budget $79)",
+  "sources": [
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/",
+      "local": "evidence/standings.html",
+      "role": "standings/home"
+    },
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/settings",
+      "local": "evidence/settings.html",
+      "role": "settings"
+    },
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/transactions",
+      "local": "evidence/transactions.html",
+      "role": "transactions"
+    },
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/matchup?week=3&mid1=8",
+      "local": "evidence/matchup_w3.html",
+      "role": "w3_matchup"
+    },
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/matchup?week=4&mid1=8",
+      "local": "evidence/matchup_w4.html",
+      "role": "w4_matchup"
+    },
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/8",
+      "local": "evidence/team_8.html",
+      "role": "vaqueros_roster"
+    },
+    {
+      "url": "https://football.fantasysports.yahoo.com/f1/668216/players?status=A&pos=DEF...",
+      "local": "evidence/fa_DEF_p0.html",
+      "role": "fa_def"
+    },
+    {
+      "url": "https://www.rotoballer.com/week-4-defense-def-streamers-starters-and-rankings-2026-fantasy-tiers-rankings/1952910",
+      "role": "public_def_stream",
+      "retrieved": "2026-09-29T08:11:00-05:00"
+    },
+    {
+      "url": "https://www.fantasypros.com/2026/09/fantasy-football-waiver-wire-rankings-pickups-week-4-2026/",
+      "role": "public_waiver_consensus",
+      "retrieved": "2026-09-29T08:11:00-05:00"
+    },
+    {
+      "url": "https://www.thefantasyfootballers.com/news/639679/nico-collins-coach-hopeful-for-week-4-return/",
+      "role": "nico_injury",
+      "retrieved": "2026-09-29T08:11:00-05:00"
+    }
+  ],
+  "team_pages": [
+    "evidence/team_1.html",
+    "evidence/team_2.html",
+    "evidence/team_3.html",
+    "evidence/team_4.html",
+    "evidence/team_5.html",
+    "evidence/team_6.html",
+    "evidence/team_7.html",
+    "evidence/team_8.html"
+  ],
+  "fa_pages_fetched": [
+    "fa_QB_p0/p25",
+    "fa_WR_p0/p25",
+    "fa_RB_p0/p25",
+    "fa_TE_p0/p25",
+    "fa_K_p0/p25",
+    "fa_DEF_p0/p25",
+    "fa_*_proj",
+    "fa_ALL_p0/p25/p50"
+  ],
+  "pagination_coverage": "Top 50 available per skill position (count=0 and count=25) sorted by % rostered; DEF ~22 available teams; ALL pages 0/25/50. Not full FA universe.",
+  "no_transactions_executed": true
+}

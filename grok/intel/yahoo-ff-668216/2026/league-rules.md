@@ -1,24 +1,33 @@
-# League rules — 2026 working stub
+# League rules — Deeper Than (yahoo-ff-668216) 2026
 
-League: Deeper Than (`yahoo-ff-668216`) · Team: Vaqueros (team 8)
+Source of truth: Yahoo settings page captures. Last verified: **2026-09-29 ~08:11 AM CT** ([W04 settings.html](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/evidence/settings.html)).
 
-These settings are verified from memory and prior evidence available to the intelligence layer, but the full rule set must be re-verified on Tuesday runs before it is treated as complete.
+## Scoring
+- Head-to-Head
+- Passing: 25 yards/point, **4** Pass TD, INT −2
+- Rushing: 10 yards/point, **6** Rush TD
+- Receiving: **0.5** PPR, 10 yards/point, **6** Rec TD
+- 2PT: 2 · Fumble lost: −2
+- Fractional points: Yes · Negative points: Yes
 
-## Verified or strongly evidenced
+## Roster
+`QB, QB, WR, WR, RB, RB, TE, W/T, W/R, K, DEF, BN×9, IR`
 
-- Scoring: **Half-PPR (0.5)**.
-- Passing touchdown: **4 points**.
-- Starting lineup: **2 QB, 2 RB, 2 WR, TE, W/T, W/R, K, DEF**.
-- Bench: **8 slots** is the current working setting.
-- IR: **1 slot**.
-- Waivers: **FAAB**, with **1-day** waiver time and **Game Time — Tuesday** weekly processing.
+**Bench count:** **9 BN** (settings text + Vaqueros roster count). Resolves prior 8-vs-9 inconsistency.
 
-## Unknowns and reconciliation flags
+## Waivers / trades
+- FAB; initial budget $100
+- Weekly waivers: **Game Time – Tuesday**
+- Waiver time: 1 day
+- Tiebreak: weekly rolling standings
+- Injured players **cannot** be added directly to IR from waivers/FA
+- Trade reject time: 2 days
+- Exact processing clock: **not visible** on settings
 
-- **Keepers:** not listed in the available evidence — **unknown**.
-- **Exact waiver processing clock:** not shown — **unknown**.
-- **Bench count:** an 8-vs-9 inconsistency exists across working notes/evidence — **unresolved**; resolve with a fresh Yahoo capture.
+## Playoffs
+- 4 teams · Weeks 15–16 · ends Monday Dec 28 · no reseeding
+- Tie-breaker: best regular season record vs opponent
 
-A full re-verification happens on Tuesday runs. Until then, unknowns remain explicitly unknown and must not be silently filled from historical seasons or another league.
-
-Source seed: [W03 settings capture](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/settings.json) and [W03 evidence notes](../../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/evidence-notes.md).
+## Keepers / draft picks
+- Keepers: **not listed** on settings → unknown
+- Traded-pick obligations: unknown
