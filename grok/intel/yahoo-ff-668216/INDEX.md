@@ -9,9 +9,17 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Execution records](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/execution-record.md) — approved instructions versus actions submitted in Yahoo; do not infer acquisition until outcomes reconcile.
 - [Outcomes](./2026/outcomes/) — later reconciliation of claims, lineup results, and other measured outcomes.
 - [W03 outcome summary](./2026/outcomes/W03-2026-09-23-waiver-outcomes.md) — scheduled Wednesday reconcile confirmation + newly dropped watch notes.
+- [W04 outcome summary](./2026/outcomes/W04-2026-09-30-waiver-outcomes.md) — Wed Sep 30 post-process; Vaqueros docs-only / not_submitted; FAAB $79.
 - [W03 reconciliation](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/reconciliation.md) · [JSON](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/reconciliation.json) — Sep 23 processed claim outcomes and FAAB state.
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 - [Runs](./2026/runs/) — collection/analysis run manifests.
+
+## Latest Wed waiver recon (2026-09-30 ~8:05 AM CT)
+
+- [W04 outcomes](./2026/outcomes/W04-2026-09-30-waiver-outcomes.md)
+- [W04 reconciliation](../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.md) · [JSON](../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.json)
+- [run meta](./2026/runs/2026-09-30-wednesday-waiver-reconciliation.json)
+- Result: league processed; **Vaqueros not_submitted** (Tue docs-only); FAAB **$79**; Ravens DEF + Gainwell still FA.
 
 ## Latest daily (2026-09-29 ~5:03 PM CT)
 

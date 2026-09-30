@@ -1,5 +1,15 @@
 # Decision log — 2026
 
+## `outcome-yahoo-ff-668216-2026-W04-2026-09-30-001`
+
+- **Date:** 2026-09-30 (CT)
+- **Type:** Wednesday waiver reconciliation (read-only). **No Yahoo transactions.**
+- **Outcome:** League processing completed (~Sep 30, 3:42 am Yahoo display). **Vaqueros submitted no W04 claims** (Tue desk was docs-only; no execution-record). FAAB remains **$79**; roster unchanged; IR 0/1.
+- **Recommended vs outcome:** Ravens/Bears DEF, optional Addison, optional Allen/Gainwell were recommendations only → **not_submitted** (distinct from failed). Addison won by Good Strongs $9; Bears DEF by Wet Serapas $3; Steelers DEF by Big Balls $10; Allen by Good Strongs $30. **Ravens DEF** and **Gainwell** still FA.
+- **Reconciliation:** [W04 reconciliation](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.md) · [JSON](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.json) · [outcomes](./outcomes/W04-2026-09-30-waiver-outcomes.md)
+- **Quarantine:** pending-claims UI document-not-found ([note](./quarantine/2026-09-30-pending-claims-ui-document-not-found.md)).
+- **Boundary:** RECOMMENDATION.md left unchanged. Does not authorize any new claims/IR/lineup moves.
+
 ## `intel-yahoo-ff-668216-2026-weekly-W04-2026-09-29-001`
 
 - **Date:** 2026-09-29 (CT)

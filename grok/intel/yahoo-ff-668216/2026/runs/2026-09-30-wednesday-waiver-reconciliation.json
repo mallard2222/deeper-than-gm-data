@@ -1,0 +1,49 @@
+{
+  "run_id": "routine-deeper-than-wednesday-waiver-reconciliation-2026-09-30-001",
+  "routine_folder": "deeper-than-wednesday-waiver-reconciliation",
+  "started_at": "2026-09-30T13:02:00Z",
+  "finished_at": "2026-09-30T13:08:00Z",
+  "timezone": "America/Chicago",
+  "nfl_week": 4,
+  "coverage": {
+    "league": "yahoo-ff-668216",
+    "team": "Vaqueros",
+    "team_id": 8,
+    "mode": "wednesday_waiver_reconciliation",
+    "auth_ok": true,
+    "processing_status": "processed",
+    "last_check_ct": "2026-09-30T08:05:00-05:00",
+    "yahoo_processing_display": "2026-09-30 03:42 unlabeled",
+    "vaqueros_claims_submitted": false,
+    "claims": {
+      "success": [],
+      "failed": [],
+      "pending": [],
+      "not_submitted": [
+        "Ravens DEF ~$4 (recommended)",
+        "Jordan Addison ~$8 (recommended optional)",
+        "Braelon Allen / Kenny Gainwell (recommended optional)"
+      ]
+    },
+    "faab_remaining": 79,
+    "roster_deltas": [],
+    "yahoo_actions_taken": "none (read/reconcile only)"
+  },
+  "errors": [],
+  "last_successful_source_refresh": "2026-09-30T13:05:00Z",
+  "files_changed": [
+    "grok/waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.md",
+    "grok/waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.json",
+    "grok/waivers/yahoo-ff-668216/2026/W04-2026-09-29/evidence/recon-2026-09-30/",
+    "grok/intel/yahoo-ff-668216/2026/outcomes/W04-2026-09-30-waiver-outcomes.md",
+    "grok/intel/yahoo-ff-668216/2026/runs/2026-09-30-wednesday-waiver-reconciliation.json",
+    "grok/intel/yahoo-ff-668216/2026/quarantine/2026-09-30-pending-claims-ui-document-not-found.md",
+    "grok/intel/yahoo-ff-668216/2026/watchlist.md",
+    "grok/intel/yahoo-ff-668216/2026/decision-log.md",
+    "grok/intel/yahoo-ff-668216/2026/open-questions.md",
+    "grok/intel/yahoo-ff-668216/2026/managers/behavior-notes-2026-W04.md",
+    "grok/intel/yahoo-ff-668216/INDEX.md"
+  ],
+  "commit_sha": "f08fcacee64df7f5a45733220a7d3ec8c63328fe",
+  "delivery_status": "pending"
+}
