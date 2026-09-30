@@ -1,8 +1,8 @@
-# Quarantine — pending-claims UI document not found (2026-09-30)
+# Quarantine — pending-claims UI document-not-found (2026-09-30 daily)
 
-- **URL pattern:** `/f1/668216/8/pendingclaims` (and related pending UI)
-- **Observed:** Yahoo returned “The document you requested was not found” (HTTP 200 HTML error page)
-- **Impact:** Cannot use pending-claims UI as authority for W04 pending state
-- **Mitigation used:** Infer from team roster (unchanged), FAAB ($79 unchanged), and league transactions (no Vaqueros Sep 30 rows)
-- **Do not treat** the missing pending page as proof of pending claims or as proof of submission
-- Related prior note: pending URL has been flaky in this league; keep quarantined until a working pending UI capture exists
+- URL: `https://football.fantasysports.yahoo.com/f1/668216/8/pendingclaims`
+- Observed: 2026-09-30 ~5:02 PM America/Chicago (daily intel run)
+- Result: Yahoo shell “The document you requested was not found”
+- Same gap class as Wed W04 recon (~8:05 AM CT) and prior dailies
+- Inference only (not UI-confirmed pending list): no Vaqueros pending claims — roster unchanged, FAAB still $79, no Vaqueros rows on transactions since W03
+- Do not treat as proof of zero private bids elsewhere in league
