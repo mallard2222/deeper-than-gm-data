@@ -1,0 +1,295 @@
+{
+  "schema": "grok-daily-intel-batch-v1",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "season": 2026,
+  "nfl_week": 4,
+  "run_at_ct": "2026-10-01T17:00:00-05:00",
+  "collection_status": "success",
+  "last_successful_daily_collection": {
+    "path": "grok/daily/yahoo-ff-668216/2026/batches/batch_20260930T170500_daily-intel.json",
+    "timestamp_ct": "2026-09-30T17:05:00-05:00",
+    "commit": "56160168ae1b4ff336b93beba515f26631fba8c0",
+    "note": "Previous successful daily intelligence report 2026-09-30."
+  },
+  "intervening_pregame_checks": {
+    "path": "grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-01/",
+    "timestamp_ct_range": "2026-10-01T11:08:00-05:00 to 2026-10-01T16:00:00-05:00",
+    "note": "Thu pregame lineup risk checks (Judkins W/R TNF; Pittman BN; NO_WINDOW; no actionable alerts) \u2014 deduplicated; daily focuses on NEW deltas since Wed PM daily."
+  },
+  "collection_window": {
+    "start_ct": "2026-09-30T17:05:00-05:00",
+    "end_ct": "2026-10-01T17:00:00-05:00",
+    "primary_new_material_after": "2026-09-30T17:05:00-05:00",
+    "basis": "Since previous successful daily 2026-09-30 ~5:05 PM CT through this Thu ~5:00 PM CT run; deduped against Thu pregame checks"
+  },
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + chrome-cookie-seed.json Netscape jar",
+    "yahoo_ok": true,
+    "failures": [],
+    "notes": [
+      "pendingclaims URL returned Yahoo document-not-found shell; quarantined",
+      "Deepest team page is /f1/668216/4",
+      "Pending trade banner Good Strongs <-> DUGASM; composition not captured",
+      "No Yahoo transactions executed"
+    ]
+  },
+  "roster_snapshot": {
+    "faab_remaining": 79,
+    "waiver_order": 1,
+    "waiver_order_note": "inferred unchanged (no Vaqueros claims since W03); not re-displayed on roster header",
+    "pending_claims": 0,
+    "pending_claims_note": "none inferred; pending page document-not-found",
+    "ir_used": "0/1",
+    "record": "0-3-0",
+    "rank": 8,
+    "pf": 393.14,
+    "week3_result": "Loss 138.22-162.34 vs Wet Serapas",
+    "week4_opponent": "Deepest",
+    "week4_opp_record": "2-1-0",
+    "week4_opp_rank": 4,
+    "week4_proj_vaqueros": 143.03,
+    "week4_proj_opp": 140.2,
+    "week4_win_pct_vaqueros": 0.52,
+    "def_still": "Packers",
+    "status_deltas_since_wed_pm_daily": {
+      "Nico Collins": {
+        "from": "Q/15.12 + practiced Wed",
+        "to": "Q/15.16 + limited Thu (2nd day)"
+      },
+      "Caleb Williams": {
+        "from": "D/0.00 + Wed walkthrough DNP",
+        "to": "D/0.00 + Thu practice DNP"
+      },
+      "Quinshon Judkins": {
+        "from": "W/R proj 10.72",
+        "to": "W/R proj 11.40 TNF"
+      },
+      "Ravens DEF": {
+        "from": "FA 9.13",
+        "to": "owned Good Strongs (add Oct 1 12:25 pm)"
+      }
+    },
+    "starters": [
+      {
+        "slot": "QB",
+        "player": "Jordan Love",
+        "proj": 17.46
+      },
+      {
+        "slot": "QB",
+        "player": "Bo Nix",
+        "proj": 17.54
+      },
+      {
+        "slot": "RB",
+        "player": "Christian McCaffrey",
+        "proj": 17.58
+      },
+      {
+        "slot": "RB",
+        "player": "Derrick Henry",
+        "proj": 17.33
+      },
+      {
+        "slot": "WR",
+        "player": "Tetairoa McMillan",
+        "proj": 12.33
+      },
+      {
+        "slot": "WR",
+        "player": "Rashee Rice",
+        "proj": 12.47
+      },
+      {
+        "slot": "TE",
+        "player": "Tyler Warren",
+        "proj": 10.51
+      },
+      {
+        "slot": "W/T",
+        "player": "Matthew Golden",
+        "proj": 10.74
+      },
+      {
+        "slot": "W/R",
+        "player": "Quinshon Judkins",
+        "proj": 11.4,
+        "note": "TNF"
+      },
+      {
+        "slot": "K",
+        "player": "Cameron Dicker",
+        "proj": 6.95
+      },
+      {
+        "slot": "DEF",
+        "player": "Packers",
+        "proj": 8.72
+      }
+    ],
+    "bench_notable": [
+      {
+        "player": "Nico Collins",
+        "status": "Q",
+        "proj": 15.16
+      },
+      {
+        "player": "Josh Downs",
+        "proj": 11.19
+      },
+      {
+        "player": "Jayden Reed",
+        "status": "IR",
+        "proj": 0.0,
+        "note": "season-ending; still BN"
+      },
+      {
+        "player": "Caleb Williams",
+        "status": "D",
+        "proj": 0.0
+      }
+    ]
+  },
+  "material_item_count": 7,
+  "material_items": [
+    {
+      "id": "2026-W04-ravens-def-claimed-good-strongs",
+      "title": "Ravens DEF claimed by Good Strongs (drop Chris Bell); no longer FA",
+      "new_since_wed_pm_daily": true,
+      "confidence": "confirmed",
+      "ownership": "Good Strongs",
+      "response": "prepare",
+      "decision_deadline": "Ask Andrew before any DEF claim; Ravens path closed",
+      "this_week": "Hold Packers default; W(Oct 2) Chiefs/Eagles watch only",
+      "sources": [
+        "https://football.fantasysports.yahoo.com/f1/668216/transactions",
+        "https://football.fantasysports.yahoo.com/f1/668216/playersearch?search=ravens"
+      ]
+    },
+    {
+      "id": "2026-W04-nico-thu-limited-practice",
+      "title": "Nico Collins limited Thursday (2nd straight); still Q/15.16; Fri gate",
+      "new_since_wed_pm_daily": true,
+      "confidence": "confirmed_limited_practice_availability_pending",
+      "ownership": "Vaqueros BN",
+      "response": "prepare",
+      "decision_deadline": "Fri practice + Sun lock \u2014 ask before promote",
+      "sources": [
+        "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-limited-once-more-thursday/",
+        "https://www.rotoballer.com/player-news/nico-collins-seen-practicing-on-thursday/1955470",
+        "https://www.si.com/nfl/texans/onsi/what-texans-wr-nico-collins-said-ahead-of-potential-return-vs-cowboys",
+        "https://football.fantasysports.yahoo.com/f1/668216/8"
+      ]
+    },
+    {
+      "id": "2026-W04-caleb-thu-dnp",
+      "title": "Caleb Williams DNP Thursday practice; still D/0.00",
+      "new_since_wed_pm_daily": true,
+      "confidence": "confirmed",
+      "ownership": "Vaqueros BN",
+      "response": "monitor",
+      "decision_deadline": "none if Reed takes fantasy IR",
+      "sources": [
+        "https://chicago.suntimes.com/bears/2026/10/01/bears-report-rb-dandre-swift-misses-practice-knee-injury-caleb-williams-ben-johnson-injury-report-kyler-gordon",
+        "https://www.cbssports.com/fantasy/football/news/bears-caleb-williams-another-dnp-on-thursday/",
+        "https://www.nbcsports.com/fantasy/football/player-news/2026-10-01/caleb-williams-hamstring-remains-sidelined"
+      ]
+    },
+    {
+      "id": "2026-W04-proj-drift-143-140",
+      "title": "W04 proj 143.03-140.20 Vaqueros 52%; Judkins 11.40",
+      "new_since_wed_pm_daily": true,
+      "confidence": "confirmed",
+      "response": "monitor",
+      "sources": [
+        "https://football.fantasysports.yahoo.com/f1/668216/matchup?week=4&mid1=8"
+      ]
+    },
+    {
+      "id": "2026-W04-deepest-devonta-q",
+      "title": "Deepest WR DeVonta Smith Yahoo Q (hamstring); Fri gate",
+      "new_since_wed_pm_daily": true,
+      "confidence": "yahoo_q_confirmed_game_status_pending",
+      "ownership": "Deepest",
+      "response": "monitor",
+      "decision_deadline": "Fri Eagles injury report",
+      "sources": [
+        "https://football.fantasysports.yahoo.com/f1/668216/matchup?week=4&mid1=8",
+        "https://sports.yahoo.com/articles/devonta-smith-injury-eagles-wide-204710617.html"
+      ]
+    },
+    {
+      "id": "2026-W04-judkins-tnf-pre-lock",
+      "title": "Judkins OK for TNF; proj 11.40; lock Thu 7:15 CT; inactives not yet",
+      "new_since_wed_pm_daily": true,
+      "confidence": "confirmed_yahoo_ok",
+      "response": "prepare",
+      "decision_deadline": "Thu 7:15 PM CT lock",
+      "note": "Pregame checks today deduped (NO_WINDOW / no alerts)",
+      "sources": [
+        "https://football.fantasysports.yahoo.com/f1/668216/8",
+        "grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-01/"
+      ]
+    },
+    {
+      "id": "2026-W04-open-asks-post-ravens-claim",
+      "title": "Open asks: Reed fantasy IR still clear; DEF Ravens path closed; Nico/Judkins lineup open",
+      "new_since_wed_pm_daily": true,
+      "confidence": "confirmed",
+      "response": "prepare",
+      "sources": [
+        "https://football.fantasysports.yahoo.com/f1/668216/8"
+      ]
+    }
+  ],
+  "fa_highlights": {
+    "ravens_def": {
+      "status": "OWNED",
+      "owner": "Good Strongs",
+      "note": "claimed Oct 1 12:25 pm"
+    },
+    "gainwell": {
+      "status": "FA",
+      "proj": 6.44
+    },
+    "lloyd": {
+      "status": "FA",
+      "proj": 7.2
+    },
+    "shakir": {
+      "status": "FA",
+      "proj": 7.1
+    },
+    "wandale": {
+      "status": "FA",
+      "proj": 7.85
+    },
+    "qj": {
+      "status": "FA",
+      "proj": 8.05
+    },
+    "other_txn_oct1": "FFAmuseBouche add Zach Charbonnet / drop Drew Lock (12:29 pm)",
+    "w_oct2_watch": [
+      "Brian Thomas Jr.",
+      "Chris Godwin Jr.",
+      "Chiefs DEF",
+      "Eagles DEF",
+      "Dallas Goedert",
+      "Dalton Schultz",
+      "Tank Bigsby"
+    ]
+  },
+  "dedupe_refs": [
+    "grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-01/",
+    "grok/daily/yahoo-ff-668216/2026/daily-report-2026-09-30.md",
+    "grok/waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.md"
+  ],
+  "evidence_dir": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-01/",
+  "report_md": "grok/daily/yahoo-ff-668216/2026/daily-report-2026-10-01.md",
+  "transactions_executed": false,
+  "should_wake_parent": true
+}
