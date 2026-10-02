@@ -1,7 +1,7 @@
-# Quarantine — Pending trade Good Strongs ↔ DUGASM (composition unknown)
+# Quarantine — pending trade Good Strongs ↔ DUGASM (RESOLVED 2026-10-02)
 
-- **Observed:** Yahoo Vaqueros roster banner “Pending trade between Good Strongs and DUGASM” / “View Pending Trade” (2026-10-01 ~5:00 PM CT daily capture).
-- **Not observed:** Player-level trade composition, FAAB, or accept/veto timing (tradehub HTML did not expose actionable detail in this capture).
-- **Class:** unvalidated signal — do not treat as completed transaction or as a specific player movement.
-- **Action:** monitor transactions / trade pages on next run; do not recommend responses based on guessed sides.
-- Evidence: `grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-01/roster_text.txt`, `tradehub.html`
+- **Opened:** 2026-10-01 daily — banner visible; composition not captured
+- **Resolved:** 2026-10-02 daily — Yahoo transactions show processed **Oct 1, 9:02 pm**:
+  - Good Strongs sent **De'Von Achane** (IR) → DUGASM
+  - DUGASM sent **Ollie Gordon II** → Good Strongs
+- Status: **closed / historical** — leave file for audit trail

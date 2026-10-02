@@ -1,0 +1,254 @@
+{
+  "retrieved_ct": "2026-10-02T17:00:00-05:00",
+  "faab": 79,
+  "waiver_order_inferred": 1,
+  "waiver_order_note": "Not re-displayed on roster header; Vaqueros made no claims since W03 (Reed drop + Wan'Dale FA add Oct 1 6:04pm does not consume waiver priority) \u2014 inferred still 1",
+  "record": "0-3-0",
+  "rank": 8,
+  "pf": 393.14,
+  "w4_proj": {
+    "vaqueros": 146.81,
+    "deepest": 138.13,
+    "win_pct_vaqueros": 0.63,
+    "live_vaqueros_fan_pts_locked": 18.6,
+    "note": "Embedded matchup vars varPRCurrTeamWeekProjectedPts / varPROppTeamWeekProjectedPts; UI Favorite 63%. Orig Proj UI showed 138.13 / 154.64 (side mapping ambiguous in text scrape) \u2014 using embedded Curr/Opp totals."
+  },
+  "ir_used": "0/1",
+  "def": "Packers",
+  "pending_trade_banner": null,
+  "pending_trade_resolved": "Good Strongs traded De'Von Achane (IR) to DUGASM for Ollie Gordon II \u2014 processed Oct 1, 9:02 pm (Yahoo transactions)",
+  "roster_count": 20,
+  "roster_change_since_oct1_daily": "Dropped Jayden Reed (IR) / added Wan'Dale Robinson (FA) \u2014 Oct 1, 6:04 pm CT (after prior daily). Nico Collins moved W/T (was BN); Matthew Golden to BN (was W/T). Observed only \u2014 this routine executed no transactions.",
+  "roster": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "proj": 17.54,
+      "note": "@ TB; weather cloudy 59% precip"
+    },
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "proj": 17.61,
+      "note": "@ SF"
+    },
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "proj": 17.53,
+      "note": "vs Den"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "proj": 17.33,
+      "note": "vs Ten"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "proj": 12.34,
+      "note": "vs Det SNF"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "proj": 12.47,
+      "note": "@ LV dome"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "proj": 10.4,
+      "note": "@ Was London 8:30am CT"
+    },
+    {
+      "slot": "W/T",
+      "player": "Nico Collins",
+      "proj": 15.15,
+      "note": "NEW starter; cleared FP Fri / no designation vs Dal dome"
+    },
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "proj": 10.77,
+      "actual": 18.6,
+      "note": "Final W 27-24 vs Pit TNF; 17-53-1 rush + 6-43 rec"
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "proj": 6.95,
+      "note": "@ Sea"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "proj": 8.72,
+      "note": "@ TB weather concern"
+    },
+    {
+      "slot": "BN",
+      "player": "Matthew Golden",
+      "proj": 10.76,
+      "note": "was W/T Thu PM; now BN"
+    },
+    {
+      "slot": "BN",
+      "player": "Caleb Williams",
+      "status": "O",
+      "proj": 0.0,
+      "note": "officially OUT W4 vs NYJ"
+    },
+    {
+      "slot": "BN",
+      "player": "Rome Odunze",
+      "proj": 8.02
+    },
+    {
+      "slot": "BN",
+      "player": "Sam LaPorta",
+      "proj": 8.94
+    },
+    {
+      "slot": "BN",
+      "player": "RJ Harvey",
+      "proj": 9.02
+    },
+    {
+      "slot": "BN",
+      "player": "Michael Pittman Jr.",
+      "proj": 7.28,
+      "actual": 2.5,
+      "note": "Final L TNF @ Cle"
+    },
+    {
+      "slot": "BN",
+      "player": "Woody Marks",
+      "proj": 7.81,
+      "note": "HOU contingency less critical with Nico active"
+    },
+    {
+      "slot": "BN",
+      "player": "Josh Downs",
+      "proj": 11.12
+    },
+    {
+      "slot": "BN",
+      "player": "Wan'Dale Robinson",
+      "proj": 7.89,
+      "note": "NEW add Oct 1 6:04pm; @ Bal"
+    },
+    {
+      "slot": "IR",
+      "player": null,
+      "note": "0 of 1 empty \u2014 Reed dropped (not IR'd)"
+    }
+  ],
+  "transactions_since_oct1_pm_daily": [
+    {
+      "when": "Oct 1, 6:04 pm",
+      "team": "Vaqueros",
+      "add": "Wan'Dale Robinson (FA)",
+      "drop": "Jayden Reed (IR)"
+    },
+    {
+      "when": "Oct 1, 9:02 pm",
+      "type": "trade",
+      "from_good_strongs": "De'Von Achane (IR)",
+      "from_dugasm": "Ollie Gordon II"
+    },
+    {
+      "when": "Oct 2, 4:42 pm",
+      "team": "Good Strongs",
+      "add": "Emanuel Wilson (FA)",
+      "drop": "Devaughn Vele"
+    }
+  ],
+  "prior_oct1_txns_already_in_prior_daily": [
+    {
+      "when": "Oct 1, 12:25 pm",
+      "team": "Good Strongs",
+      "add": "Ravens DEF",
+      "drop": "Chris Bell"
+    },
+    {
+      "when": "Oct 1, 12:29 pm",
+      "team": "FFAmuseBouche",
+      "add": "Zach Charbonnet",
+      "drop": "Drew Lock"
+    }
+  ],
+  "fa_still": {
+    "chiefs_def": {
+      "status": "FA",
+      "proj": 6.46
+    },
+    "eagles_def": {
+      "status": "FA",
+      "proj": 6.36
+    },
+    "bills_def": {
+      "status": "FA",
+      "proj": 7.01
+    },
+    "gainwell": {
+      "status": "FA",
+      "proj": 6.39
+    },
+    "lloyd": {
+      "status": "FA",
+      "proj": 6.55
+    },
+    "shakir": {
+      "status": "FA",
+      "proj": 7.21
+    },
+    "qj": {
+      "status": "FA",
+      "proj": 8.07
+    },
+    "btj": {
+      "status": "FA",
+      "proj": 6.68
+    },
+    "godwin": {
+      "status": "FA",
+      "proj": 7.17
+    },
+    "schultz": {
+      "status": "FA",
+      "proj": 7.89
+    },
+    "goedert": {
+      "status": "FA",
+      "yahoo_status": "O",
+      "note": "OUT Week 4 knee; still FA"
+    },
+    "bigsby": {
+      "status": "FA",
+      "proj": 3.04,
+      "note": "off Eagles injury report / expected to play per PFT"
+    },
+    "jayden_reed": {
+      "status": "W",
+      "process": "W (Oct 3)",
+      "note": "dropped by Vaqueros; waivers Sat Oct 3"
+    },
+    "wandale": {
+      "status": "OWNED",
+      "owner": "Vaqueros"
+    }
+  },
+  "pending": "document-not-found shell (quarantined)",
+  "tradehub": "document-not-found shell (quarantined)",
+  "deepest_notable": {
+    "record": "2-1-0",
+    "rank": 4,
+    "pf": 422.68,
+    "devonta_smith": "O (hamstring) \u2014 ruled out Fri",
+    "terry_mclaurin": "Q (hamstring) on matchup UI",
+    "olave": "still Mon",
+    "starters_shape": "Goff/Stafford; Taylor/Jeanty; Olave/McLaurin(Q); Likely; Burden (DeVonta OUT); Skattebo; Bates"
+  }
+}

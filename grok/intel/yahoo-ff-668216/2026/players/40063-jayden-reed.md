@@ -1,7 +1,6 @@
 # Jayden Reed (Yahoo 40063) — GB WR
 
-- **2026-10-01 ~5pm CT daily:** Yahoo **IR** / 0.00 / still **BN** (fantasy IR slot empty 0/1) — **unchanged** vs Wed PM
-- Wed: Matt LaFleur — neck **surgery**, **out for remainder of 2026**; not believed career-ending (NFL.com/Schneidman–Athletic; NBC Alper; CBS)
-- **IR ask:** move Reed → **fantasy IR** remains the clear docs-only ask (supersedes prior Caleb-preferred for the single slot)
-- ROS: season over; stash on fantasy IR while keepers unknown — do not auto-drop
-- Golden (Vaqueros W/T) remains the on-roster GB WR beneficiary
+- **2026-10-02 ~5pm CT daily:** **Dropped by Vaqueros** Oct 1, 6:04 pm CT (after Thu daily). Now **W (Oct 3)** on waivers. Fantasy-IR ask **closed by drop** (was not moved to fantasy IR).
+- Season-ending neck surgery (LaFleur Wed Sep 30) — Yahoo IR designation while rostered; ROS season over
+- **Do not reclaim** unless keeper rules somehow change (keepers still unknown)
+- Prior Thu daily: still BN Yahoo IR; fantasy IR ask open; slot 0/1 empty
