@@ -1,0 +1,345 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-10-01T20:00:48-05:00",
+  "routine_fired_utc": "2026-10-02T00:57:36.660Z",
+  "checked_at": "2026-10-01T20:00:48-05:00",
+  "window": "NO_WINDOW",
+  "window_reason": "Quinshon Judkins (W/R starter) TNF PIT@CLE kickoff was 19:15 CT (~46 min ago). Game already locked/live (Yahoo Q2 12:57, 0-7; ESPN STATUS_IN_PROGRESS 2nd Q 13:36). Michael Pittman Jr. BN same TNF game locked/live. All other Vaqueros starters Sunday. No starter kickoff within ~45\u201390 min ACTIVE / risky pre-lock window.",
+  "now_ct": "2026-10-01 20:00 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": null,
+  "next_starter_kickoff_ct": null,
+  "next_starter": null,
+  "confidence": "high",
+  "matchup": {
+    "week": 4,
+    "opponent": "Deepest",
+    "live": "1.30",
+    "proj": "146.70",
+    "opp_live": "0.00",
+    "opp_proj": "133.83",
+    "note": "Week 4 Vaqueros vs Deepest (fresh fetch). Live/proj from varPR (CurrTeamWeekScore 1.30 from Judkins; Opp 0.00 / proj 133.83)."
+  },
+  "faab_remaining": 79,
+  "yahoo_access": {
+    "status": "success",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "team_http": 200,
+    "scoreboard_http": 200,
+    "matchup_http": 200,
+    "espn_http": 200,
+    "espn_note": "site.web.api.espn.com week-4 scoreboard + summary event 401872964 + athlete 4685702; PIT@CLE STATUS_IN_PROGRESS 2nd Q; Judkins boxscore stats present"
+  },
+  "starters_locked_or_live": [
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "yahoo_status": "OK (no O/Q/D badge)",
+      "game": "Q2 12:57, 0-7 vs Pit",
+      "kickoff_ct": "19:15",
+      "yahoo_status_detail": "live Q2 Cle vs Pit (Yahoo Q2 12:57 0-7; ESPN IN_PROGRESS 2nd ~13:36 PIT 7 CLE 0)",
+      "fan_pts": "1.30",
+      "proj": "10.78",
+      "notes": "locked/live \u2014 TNF kickoff 19:15 CT already occurred; past pre-kick ACTIVE window; ESPN athlete Active with rushing stats (3-6-2.0-0-3)"
+    }
+  ],
+  "remaining_starters": [
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "yahoo_status": "OK",
+      "game": "Sun 12:00 pm @ TB",
+      "team_pos": "GB - QB",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": 3839.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "yahoo_status": "OK",
+      "game": "Sun 3:25 pm @ SF",
+      "team_pos": "Den - QB",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 4044.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "yahoo_status": "OK",
+      "game": "Sun 3:25 pm vs Den",
+      "team_pos": "SF - RB",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 4044.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "yahoo_status": "OK",
+      "game": "Sun 12:00 pm vs Ten",
+      "team_pos": "Bal - RB",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": 3839.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "yahoo_status": "OK",
+      "game": "Sun 7:20 pm vs Det",
+      "team_pos": "Car - WR",
+      "kickoff_ct": "2026-10-04 19:20 CDT",
+      "minutes_to_kickoff": 4279.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "yahoo_status": "OK",
+      "game": "Sun 3:25 pm @ LV",
+      "team_pos": "KC - WR",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 4044.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "yahoo_status": "OK",
+      "game": "Sun 8:30 am @ Was",
+      "team_pos": "Ind - TE",
+      "kickoff_ct": "2026-10-04 08:30 CDT",
+      "minutes_to_kickoff": 3629.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "W/T",
+      "player": "Nico Collins",
+      "yahoo_status": "Q",
+      "game": "Sun 12:00 pm vs Dal",
+      "team_pos": "Hou - WR",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": 3839.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (Sunday)",
+      "notes": "W/T starter Yahoo Q; Sunday 12:00 CT vs Dal \u2014 outside TNF lock window. Matthew Golden BN OK is healthy WR/W/T-eligible Sunday option (docs-only; not TNF-window actionable)."
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "yahoo_status": "OK",
+      "game": "Sun 3:25 pm @ Sea",
+      "team_pos": "LAC - K",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 4044.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "yahoo_status": "OK",
+      "game": "Sun 12:00 pm @ TB",
+      "team_pos": "GB - DEF",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": 3839.2,
+      "espn_status": "STATUS_SCHEDULED",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick)",
+      "notes": "unlocked; outside ACTIVE window (Sunday+)"
+    }
+  ],
+  "bench_relevant": [
+    {
+      "player": "Matthew Golden",
+      "slot": "BN",
+      "pos": "WR",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "Sun 12:00 pm @ TB",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "Caleb Williams",
+      "slot": "BN",
+      "pos": "QB",
+      "yahoo_status": "D",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "Sun 12:00 pm vs NYJ",
+      "note": "bench D \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "Rome Odunze",
+      "slot": "BN",
+      "pos": "WR",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "Sun 12:00 pm vs NYJ",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "Sam LaPorta",
+      "slot": "BN",
+      "pos": "TE",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 19:20 CDT",
+      "game": "Sun 7:20 pm @ Car",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "RJ Harvey",
+      "slot": "BN",
+      "pos": "RB",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "game": "Sun 3:25 pm @ SF",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "Michael Pittman Jr.",
+      "slot": "BN",
+      "pos": "WR",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-01 19:15 CDT",
+      "game": "Q2 12:57, 7-0 @ Cle",
+      "fan_pts": "1.40",
+      "note": "bench OK \u2014 TNF locked/live with Judkins; fan_pts 1.40"
+    },
+    {
+      "player": "Woody Marks",
+      "slot": "BN",
+      "pos": "RB",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "Sun 12:00 pm vs Dal",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "Josh Downs",
+      "slot": "BN",
+      "pos": "WR",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 08:30 CDT",
+      "game": "Sun 8:30 am @ Was",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    },
+    {
+      "player": "Wan'Dale Robinson",
+      "slot": "BN",
+      "pos": "WR",
+      "yahoo_status": "OK",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "Sun 12:00 pm @ Bal",
+      "note": "bench OK \u2014 Sunday+ slate; outside ACTIVE window"
+    }
+  ],
+  "bench_notes_non_actionable": [
+    "Michael Pittman Jr. BN OK \u2014 TNF locked/live PIT@CLE (Yahoo Q2 12:57, 7-0 @ Cle; fan_pts 1.40); same lock as Judkins; not a post-kick hedge",
+    "Matthew Golden BN OK \u2014 Sun GB@TB; healthy WR/W/T-eligible; Sunday option vs Nico Collins W/T Q (not TNF-window actionable)",
+    "Caleb Williams BN D \u2014 Sun vs NYJ; not a TNF swap",
+    "Wan'Dale Robinson BN OK \u2014 Sun @ Bal; not TNF actionable",
+    "RJ Harvey / Woody Marks / Rome Odunze / Josh Downs / Sam LaPorta \u2014 Sunday+ bench; Judkins already locked/live",
+    "Nico Collins W/T Q (Sun Hou vs Dal) \u2014 Sunday decision, not TNF wake"
+  ],
+  "thursday_relevant": [
+    {
+      "player": "Quinshon Judkins",
+      "role": "W/R starter",
+      "yahoo_status": "OK",
+      "kickoff_ct": "19:15",
+      "game": "PIT @ CLE",
+      "minutes_since_kickoff": 45.8,
+      "note": "locked/live Q2; ESPN Active with boxscore rushes; past ACTIVE pre-lock window"
+    },
+    {
+      "player": "Michael Pittman Jr.",
+      "role": "BN",
+      "yahoo_status": "OK",
+      "kickoff_ct": "19:15",
+      "game": "PIT @ CLE",
+      "note": "bench locked/live same TNF game; fan_pts 1.40"
+    }
+  ],
+  "actionable_alerts": [],
+  "should_wake_parent": false,
+  "external_notes": {
+    "pit_at_cle_tnf": {
+      "name": "Pittsburgh Steelers at Cleveland Browns",
+      "shortName": "PIT @ CLE",
+      "espn_event_id": "401872964",
+      "date_utc": "2026-10-02T00:15Z",
+      "kickoff_ct": "19:15",
+      "espn_status": "STATUS_IN_PROGRESS",
+      "espn_detail": "13:36 - 2nd Quarter",
+      "score_at_check": "PIT 7 CLE 0",
+      "yahoo_judkins_line": "Q2 12:57, 0-7 vs Pit",
+      "minutes_since_kickoff": 45.8,
+      "game_state": "locked_live_in_progress",
+      "judkins": {
+        "espn_id": "4685702",
+        "yahoo_status": "OK",
+        "yahoo_fan_pts": "1.30",
+        "espn_athlete_active": true,
+        "espn_athlete_status": "Active",
+        "boxscore_stats": [
+          "3",
+          "6",
+          "2.0",
+          "0",
+          "3"
+        ],
+        "boxscore_note": "rushing line present in ESPN boxscore (playing)",
+        "inactive_list_status": "n/a_game_in_progress"
+      },
+      "evidence_links": [
+        "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?seasontype=2&week=4&dates=2026",
+        "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872964",
+        "https://site.web.api.espn.com/apis/common/v3/sports/football/nfl/athletes/4685702",
+        "https://football.fantasysports.yahoo.com/f1/668216/8"
+      ]
+    }
+  },
+  "evidence_paths": [
+    "/workspace/deeper-than-gm-data/grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-01/pregame-check-2000.json",
+    "/workspace/deeper-than-gm-data/grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-01/NOTES-2000.md"
+  ],
+  "notes": "NO_WINDOW quiet exit. Judkins TNF kickoff 19:15 CT already occurred (~46 min ago); PIT@CLE locked/live Q2 (Yahoo 0-7; ESPN PIT 7 CLE 0). Judkins Yahoo OK fan_pts 1.30; ESPN Active with rushes. Pittman BN same game live (1.40). Remaining starters all Sunday. Nico Collins W/T Q + Golden BN OK noted as Sunday-only. No actionable alerts. No Yahoo lineup/roster/waiver changes. Fresh fetch; prior same-day snapshots left intact."
+}
