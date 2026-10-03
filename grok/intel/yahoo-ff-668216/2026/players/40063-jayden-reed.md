@@ -4,3 +4,5 @@
 - Season-ending neck surgery (LaFleur Wed Sep 30) — Yahoo IR designation while rostered; ROS season over
 - **Do not reclaim** unless keeper rules somehow change (keepers still unknown)
 - Prior Thu daily: still BN Yahoo IR; fantasy IR ask open; slot 0/1 empty
+
+- **2026-10-03 ~5pm CT daily (Yahoo FAIL):** Was W(Oct 3) as of Fri; Sat claim processing **unverifiable**. Season-ending neck surgery — reclaim still not recommended.

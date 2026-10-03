@@ -4,3 +4,5 @@
 - Nico now cleared + started at W/T — Downs remains BN flex option behind McMillan/Rice/Nico; Golden also BN (10.76)
 - Prior Thu daily: proj 11.19 — minor drift
 - Not a drop candidate; rostered after W03 $18 claim
+
+- **2026-10-03 ~5pm CT daily (Yahoo FAIL):** Public news — Keenan Allen **OUT** London (groin). Downs London target-share **up**; still BN vs Nico W/T path. Live Yahoo proj unknown.

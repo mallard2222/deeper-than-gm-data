@@ -1,0 +1,17 @@
+{
+  "routine": "deeper-than-daily-intelligence-report",
+  "run_at_ct": "2026-10-03T17:00:00-05:00",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "collection_status": "failure",
+  "failure_reason": "Yahoo Fantasy auth redirect to login; cookie session invalid/expired",
+  "batch": "grok/daily/yahoo-ff-668216/2026/batches/batch_20261003T170000_daily-intel.json",
+  "report": "grok/daily/yahoo-ff-668216/2026/daily-report-2026-10-03.md",
+  "evidence": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-03/",
+  "public_news_collected": true,
+  "material_item_count": 6,
+  "transactions_executed": false,
+  "should_wake_parent": true,
+  "commit_sha": "812bf5904e0c4eb172246136d389f42371a6d5c5",
+  "push_attempted": true
+}

@@ -1,5 +1,16 @@
 # Decision log — 2026
 
+## `intel-yahoo-ff-668216-2026-daily-2026-10-03-001`
+
+- **Date:** 2026-10-03 (CT)
+- **Type:** Daily intelligence collection (read-only). **No Yahoo transactions.**
+- **Outcome:** **Yahoo collection FAILURE** (auth 302 → login). Public NFL news collected (Allen OUT; McLaurin likely miss; GB@TB weather; Mayfield OUT context).
+- **Report:** [daily-report-2026-10-03.md](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-03.md)
+- **Batch:** [batch_20261003T170000_daily-intel.json](../../../daily/yahoo-ff-668216/2026/batches/batch_20261003T170000_daily-intel.json)
+- **Quarantine:** [2026-10-03-yahoo-auth-failure.md](./quarantine/2026-10-03-yahoo-auth-failure.md)
+- **Boundary:** Does not authorize adds/drops/claims/lineup/IR. Flags Yahoo re-auth + London early-lock prepare items for Andrew.
+
+
 ## `outcome-yahoo-ff-668216-2026-W04-2026-09-30-001`
 
 - **Date:** 2026-09-30 (CT)

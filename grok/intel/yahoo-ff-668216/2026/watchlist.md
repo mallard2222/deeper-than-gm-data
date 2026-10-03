@@ -2,21 +2,24 @@
 
 Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition (not an instruction to transact).
 
-Last daily: **2026-10-02 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md)).  
-Prior daily: **2026-10-01 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-01.md)).  
-Thu pregame checks (dedupe): **2026-10-01 ~11:08–20:56 CT** (`evidence/pregame-2026-10-01/`).
+Last daily: **2026-10-03 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-03.md)) — **Yahoo collection FAILURE**; public news OK.  
+Prior successful daily: **2026-10-02 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md)).
+
+## PENDING — Yahoo re-auth (Sat Oct 3 PM)
+
+- Cookie session rejected (302 login). Blocks live roster/matchup/txns/FA/Reed claim verification. Refresh `chrome-cookie-seed.json` after browser login.
 
 ## RESOLVED — Nico Fri gate / start ask (Fri Oct 2 PM)
 
-- Nico **FP Fri** + **cleared** (no designation) vs DAL. Already **W/T** on Vaqueros. Fri gate / promote ask closed by observed lineup.
+- Nico **FP Fri** + **cleared** (no designation) vs DAL. Already **W/T** on Vaqueros (last known). Sat: still cleared (OC comments only; no designation change).
 
 ## RESOLVED — Reed fantasy IR ask (Fri Oct 2 PM)
 
-- Vaqueros **dropped Reed** / added Wan'Dale (**Oct 1, 6:04 pm**). Ask closed by drop (not IR stash). Reed **W (Oct 3)** — no reclaim recommended.
+- Vaqueros **dropped Reed** / added Wan'Dale (**Oct 1, 6:04 pm**). Ask closed by drop. Reed was **W (Oct 3)** as of Fri — Sat processing result **unknown** (auth fail). No reclaim recommended.
 
 ## RESOLVED — Judkins TNF (Fri Oct 2 PM)
 
-- Judkins Final **18.60**; CLE 27–24 PIT. Pittman BN 2.50. Pregame checks had no alerts.
+- Judkins Final **18.60**; CLE 27–24 PIT. Pittman BN 2.50.
 
 ## RESOLVED — Pending Good Strongs↔DUGASM trade (Fri Oct 2 PM)
 
@@ -24,31 +27,23 @@ Thu pregame checks (dedupe): **2026-10-01 ~11:08–20:56 CT** (`evidence/pregame
 
 ## RESOLVED — Ravens DEF FA path (Thu Oct 1 PM)
 
-- Good Strongs **added Ravens DEF** / dropped Chris Bell (**Oct 1, 12:25 pm**). Ravens **no longer FA**.
+- Good Strongs **added Ravens DEF** / dropped Chris Bell (**Oct 1, 12:25 pm**).
 
 ## RESOLVED — Reed season outlook (Wed Sep 30 PM)
 
-- LaFleur: Reed **season-ending neck surgery**. Later dropped by Vaqueros (see above).
+- LaFleur: Reed **season-ending neck surgery**. Later dropped by Vaqueros.
 
-## RESOLVED — W04 waiver processing (Wed Sep 30 AM)
+## WATCH — active as of Oct 3, 2026 (~5:00 PM CT)
 
-- League processing completed; Vaqueros no W04 claims; FAAB **$79**.
-
-## RESOLVED — W03 / standings
-
-- W03 claims: Downs $18 + Packers $3 success; FAAB **$79**.
-- W03 final: Vaqueros **138.22–162.34** Loss vs Wet Serapas → **0-3**.
-
-## WATCH — active as of Oct 2, 2026 (~5:00 PM CT)
-
-- **Nico Collins:** Cleared; W/T **15.15** vs Dal — monitor only for unlikely inactive.
-- **Caleb Williams:** Yahoo **O** / officially OUT W4; multi-week; BN; not NFL IR (fantasy IR unusable).
-- **Wan'Dale Robinson:** NEW BN (add Oct 1); proj 7.89 @ Bal.
-- **Josh Downs / Matthew Golden / RJ Harvey:** BN flex depth behind Nico start.
-- **Packers DEF:** Still held (8.72); Chiefs 6.46 / Eagles 6.36 / Bills 7.01 still FA — hold default.
-- **Deepest DeVonta Smith:** OUT (hamstring); multi-game risk — opponent watch.
-- **Deepest Terry McLaurin:** Yahoo Q on matchup UI — opponent watch.
-- **Jayden Reed:** W(Oct 3) — track if claimed; do not reclaim.
-- **FA watch (still):** BTJ, Godwin, Shakir, QJ, Gainwell, Lloyd, Schultz, Bigsby, Goedert (O this week), Chiefs/Eagles/Bills DEF.
-- **Early lock:** Tyler Warren London **~8:30 AM CT** Sunday.
-- **Weather:** GB@TB precip/wind risk for Love / Packers DEF / Golden — recheck gameday.
+- **Yahoo live state:** UNKNOWN until re-auth (FAAB/WO/lineup/txns/FA).
+- **Keenan Allen:** **OUT** Sat (groin) London — boosts **Warren** (TE starter) + **Downs** (BN) targets.
+- **Terry McLaurin (Deepest):** Official **Q**; Sat beat **likely to miss** London — watch inactives.
+- **DeVonta Smith (Deepest):** OUT (hamstring) — carried from Fri.
+- **Nico Collins:** Cleared; last known W/T — monitor only for unlikely inactive.
+- **Caleb Williams:** Officially OUT W4; BN; not NFL IR.
+- **Tyler Warren:** London early lock **~8:30 AM CT** Sunday — Allen OUT context.
+- **Josh Downs / Matthew Golden / RJ Harvey:** BN flex depth; Downs London bump; Golden weather risk.
+- **Packers DEF:** Last known held; Mayfield OUT mild positive; FA DEF alternatives unverifiable Sat.
+- **Weather GB@TB:** ~87F / ~43% precip isolated T-storms — Love / Packers / Golden.
+- **Jayden Reed:** W(Oct 3) result unknown; do not reclaim.
+- **FA watch (last known Fri; unverifiable Sat):** BTJ, Godwin, Shakir, QJ, Gainwell, Lloyd, Schultz, Bigsby, Goedert (O this week), Chiefs/Eagles/Bills DEF.

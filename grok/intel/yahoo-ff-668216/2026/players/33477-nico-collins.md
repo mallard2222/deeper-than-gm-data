@@ -6,3 +6,5 @@
 - Lineup ask from Thu daily **closed by observed W/T start** (routine did not move)
 - Hold; Marks less critical as HOU contingency while Nico active
 - Next: Sun vs DAL — monitor only for unlikely inactive
+
+- **2026-10-03 ~5pm CT daily (Yahoo FAIL):** Still cleared / no designation (Fri final). Sat OC Nick Caley comments only — no status change. Last known Vaqueros W/T.

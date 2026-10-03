@@ -1,0 +1,341 @@
+{
+  "schema": "grok-daily-intel-batch-v1",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "season": 2026,
+  "nfl_week": 4,
+  "run_at_ct": "2026-10-03T17:00:00-05:00",
+  "collection_status": "failure",
+  "last_successful_daily_collection": {
+    "path": "grok/daily/yahoo-ff-668216/2026/batches/batch_20261002T170000_daily-intel.json",
+    "timestamp_ct": "2026-10-02T17:00:00-05:00",
+    "commit": "a4e94c2",
+    "note": "Previous successful daily intelligence report 2026-10-02 (Yahoo auth OK)."
+  },
+  "intervening_pregame_checks": {
+    "path": null,
+    "timestamp_ct_range": null,
+    "note": "No intervening pregame checks between Fri daily and this Sat daily (TNF already covered in Fri daily / Thu pregame)."
+  },
+  "collection_window": {
+    "start_ct": "2026-10-02T17:00:00-05:00",
+    "end_ct": "2026-10-03T17:00:00-05:00",
+    "primary_new_material_after": "2026-10-02T17:00:00-05:00",
+    "basis": "Since previous successful daily 2026-10-02 ~5:00 PM CT through this Sat ~5:00 PM CT run; public news only for NEW deltas because Yahoo auth failed"
+  },
+  "yahoo_access": {
+    "status": "failure",
+    "method": "curl + chrome-cookie-seed.json Netscape jar (/tmp/yahoo-netscape-all.txt + prior all-domains jar)",
+    "yahoo_ok": false,
+    "failures": [
+      "roster /f1/668216/8 \u2192 302 login.yahoo.com",
+      "matchup /f1/668216/8/matchup \u2192 302 login",
+      "league home \u2192 302 login",
+      "transactions \u2192 302 login",
+      "standings \u2192 302 login",
+      "Deepest /f1/668216/4 \u2192 302 login",
+      "Fantasy API standings \u2192 401 oauth"
+    ],
+    "notes": [
+      "Cookie seed refreshed 2026-10-03 16:39 CT but T/Y session still ~Sep 18 vintage; identical values to Fri jar that worked yesterday",
+      "Chrome profile Cookies DBs encrypted (value length 0) \u2014 cannot re-extract live session",
+      "pending-claims + tradehub not re-attempted (auth fail first; prior document-not-found quarantine stands)",
+      "No Yahoo transactions executed by this routine",
+      "Public NFL news still collected; do NOT interpret Yahoo gaps as 'no league news'"
+    ]
+  },
+  "roster_snapshot": {
+    "source": "last_known_fri_2026-10-02_not_revalidated",
+    "faab_remaining": 79,
+    "faab_note": "LAST KNOWN Fri \u2014 not revalidated Sat",
+    "waiver_order": 1,
+    "waiver_order_note": "LAST KNOWN inferred Fri \u2014 not revalidated; Reed W(Oct 3) processing day but claim results unknown without Yahoo",
+    "pending_claims": null,
+    "pending_claims_note": "Unknown \u2014 Yahoo unavailable",
+    "ir_used": "0/1",
+    "record": "0-3-0",
+    "rank": 8,
+    "pf": 393.14,
+    "week3_result": "Loss 138.22-162.34 vs Wet Serapas",
+    "week4_opponent": "Deepest",
+    "week4_opp_record": "2-1-0",
+    "week4_opp_rank": 4,
+    "week4_proj_vaqueros": 146.81,
+    "week4_proj_opp": 138.13,
+    "week4_win_pct_vaqueros": 0.63,
+    "week4_locked_pts_vaqueros": 18.6,
+    "proj_note": "LAST KNOWN Fri embedded \u2014 NOT refreshed Sat",
+    "def_still": "Packers",
+    "status_deltas_since_fri_pm_daily": {
+      "Yahoo live state": {
+        "from": "authenticated Fri",
+        "to": "auth failure Sat \u2014 roster/FAAB/txns/FA unknown"
+      },
+      "Keenan Allen": {
+        "from": "not material Fri (Q/rest groin on Colts report)",
+        "to": "officially OUT Sat for London \u2014 boosts Warren/Downs targets"
+      },
+      "Terry McLaurin": {
+        "from": "Deepest WR Yahoo Q Fri",
+        "to": "still official Q; Sat beat report 'likely to miss' London"
+      },
+      "GB@TB weather": {
+        "from": "Fri cloudy / ~59% precip risk noted",
+        "to": "Sat refresh ~87F / ~43% precip isolated T-storms (NFLWeather)"
+      },
+      "Nico Collins": {
+        "from": "cleared FP Fri / W/T",
+        "to": "unchanged cleared (Sat OC comments only)"
+      }
+    },
+    "starters": [
+      {
+        "slot": "QB",
+        "player": "Jordan Love",
+        "proj": 17.54,
+        "note": "last known Fri; weather precip risk"
+      },
+      {
+        "slot": "QB",
+        "player": "Bo Nix",
+        "proj": 17.61
+      },
+      {
+        "slot": "RB",
+        "player": "Christian McCaffrey",
+        "proj": 17.53
+      },
+      {
+        "slot": "RB",
+        "player": "Derrick Henry",
+        "proj": 17.33
+      },
+      {
+        "slot": "WR",
+        "player": "Tetairoa McMillan",
+        "proj": 12.34
+      },
+      {
+        "slot": "WR",
+        "player": "Rashee Rice",
+        "proj": 12.47
+      },
+      {
+        "slot": "TE",
+        "player": "Tyler Warren",
+        "proj": 10.4,
+        "note": "London ~8:30am CT; Allen OUT \u2192 target-share up"
+      },
+      {
+        "slot": "W/T",
+        "player": "Nico Collins",
+        "proj": 15.15,
+        "note": "still cleared"
+      },
+      {
+        "slot": "W/R",
+        "player": "Quinshon Judkins",
+        "proj": 10.77,
+        "actual": 18.6,
+        "note": "TNF Final"
+      },
+      {
+        "slot": "K",
+        "player": "Cameron Dicker",
+        "proj": 6.95
+      },
+      {
+        "slot": "DEF",
+        "player": "Packers",
+        "proj": 8.72,
+        "note": "Mayfield OUT for TB \u2014 mild DEF context"
+      }
+    ],
+    "bench_notable": [
+      {
+        "player": "Josh Downs",
+        "proj": 11.12,
+        "note": "Allen OUT \u2192 London target-share up; still BN behind Nico path"
+      },
+      {
+        "player": "Matthew Golden",
+        "proj": 10.76,
+        "note": "GB@TB weather risk"
+      },
+      {
+        "player": "Wan'Dale Robinson",
+        "proj": 7.89,
+        "note": "NEW add Oct 1"
+      },
+      {
+        "player": "Caleb Williams",
+        "status": "O",
+        "proj": 0.0
+      },
+      {
+        "player": "Michael Pittman Jr.",
+        "actual": 2.5,
+        "note": "TNF Final BN"
+      }
+    ]
+  },
+  "material_item_count": 6,
+  "material_items": [
+    {
+      "id": "2026-W04-yahoo-auth-failure-sat",
+      "title": "Yahoo Fantasy auth FAILURE \u2014 cannot refresh roster/matchup/transactions/FA/standings",
+      "new_since_fri_pm_daily": true,
+      "confidence": "confirmed",
+      "ownership": "n/a (ops)",
+      "response": "act",
+      "decision_deadline": "ASAP \u2014 re-login / refresh chrome-cookie-seed before Sunday early lock if possible",
+      "this_week": "Blocks live FAAB/waiver/Reed claim verification, Deepest roster refresh, proj drift, pending claims",
+      "ros": "Session refresh needed for all future Yahoo-dependent routines",
+      "sources": [
+        "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-03/yahoo_auth_fail_roster.html",
+        "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-03/SOURCE-NOTES.md"
+      ]
+    },
+    {
+      "id": "2026-W04-keenan-allen-out-london",
+      "title": "Keenan Allen ruled OUT Sat (groin) for Colts London \u2014 concentrates targets to Warren + Downs",
+      "new_since_fri_pm_daily": true,
+      "confidence": "confirmed",
+      "ownership": "Allen not Vaqueros; Warren Vaqueros TE starter; Downs Vaqueros BN",
+      "response": "prepare",
+      "decision_deadline": "Sun ~8:30 AM CT London lock (Warren already TE; Downs flex ask if considering BN promote \u2014 unlikely vs Nico)",
+      "this_week": "Warren ceiling up vs WAS (no Daniels, likely no McLaurin). Downs remains BN depth unless Andrew prefers flex swap \u2014 not recommending override of Nico W/T.",
+      "ros": "Allen short-term groin; monitor Colts WR pecking order",
+      "would_change_assessment": "Surprise Allen activation (contradicts team OUT); Warren inactive",
+      "sources": [
+        "https://www.foxsports.com/articles/nfl/colts-wr-keenan-allen-ruled-out-of-london-game-because-of-groin-injury",
+        "https://www.espn.com/nfl/story/_/id/50090624/colts-wr-keenan-allen-groin-vs-commanders-london",
+        "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/"
+      ]
+    },
+    {
+      "id": "2026-W04-mclaurin-likely-miss-london",
+      "title": "Deepest WR Terry McLaurin \u2014 official Q; Sat beat report likely to miss London",
+      "new_since_fri_pm_daily": true,
+      "confidence": "report",
+      "ownership": "Deepest (opponent)",
+      "response": "monitor",
+      "decision_deadline": "London inactives / kick (~8:30 AM CT Sun)",
+      "this_week": "Further opponent WR downgrade if sits (DeVonta already OUT). Helps Vaqueros win probability vs Fri 63% baseline (Yahoo proj not refreshed).",
+      "ros": "Hamstring \u2014 multi-week risk if aggravated",
+      "would_change_assessment": "Official active / unexpected play",
+      "sources": [
+        "https://www.cbssports.com/fantasy/football/news/commanders-terry-mclaurin-likely-to-miss-sundays-game/",
+        "https://sports.yahoo.com/articles/no-terry-london-commanders-wr-152121280.html",
+        "https://www.commanders.com/news/game-status-commanders-colts-2026",
+        "https://www.nfl.com/injuries/"
+      ]
+    },
+    {
+      "id": "2026-W04-weather-gb-tb-sat-refresh",
+      "title": "GB@TB weather refresh \u2014 ~87F / ~43% precip isolated thunderstorms; light wind",
+      "new_since_fri_pm_daily": true,
+      "confidence": "confirmed",
+      "ownership": "Love / Packers DEF / Golden (Vaqueros)",
+      "response": "monitor",
+      "decision_deadline": "Sun gameday / kick ~12:00 PM CT",
+      "this_week": "Precip risk still real but slightly lower than Fri ~59% note; heat/humidity + lightning-delay risk. Default hold Love + Packers DEF; Golden stays BN.",
+      "sources": [
+        "https://www.nflweather.com/games/2026/week-4/packers-at-buccaneers",
+        "https://dknetwork.draftkings.com/2026/10/02/nfl-week-4-weather-forecast/"
+      ]
+    },
+    {
+      "id": "2026-W04-mayfield-out-packers-def-context",
+      "title": "Baker Mayfield OUT W4 \u2014 Packers DEF faces Bucs backup QB (Jalon Daniels context)",
+      "new_since_fri_pm_daily": true,
+      "confidence": "confirmed",
+      "ownership": "Packers DEF Vaqueros; Mayfield not owned",
+      "response": "monitor",
+      "decision_deadline": "none (DEF already held; no stream authorized)",
+      "this_week": "Mild positive context for held Packers DEF vs Fri FA alternatives (Chiefs/Eagles/Bills) \u2014 FA status unknown Sat without Yahoo",
+      "sources": [
+        "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
+        "https://www.nfl.com/injuries/",
+        "https://www.packers.com/news/packers-rule-out-four-list-two-questionable-vs-buccaneers-week-4-injury-report"
+      ]
+    },
+    {
+      "id": "2026-W04-reed-waiver-day-unverifiable",
+      "title": "Reed W(Oct 3) waiver processing day \u2014 claim results unverifiable (Yahoo auth fail); reclaim still not recommended",
+      "new_since_fri_pm_daily": true,
+      "confidence": "inference",
+      "ownership": "Reed was Vaqueros (dropped Oct 1); now waivers/FA unknown",
+      "response": "monitor",
+      "decision_deadline": "none for reclaim (season-ending neck surgery)",
+      "this_week": "Cannot confirm if anyone claimed Reed or if he expired to FA",
+      "sources": [
+        "grok/daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md",
+        "https://www.nfl.com/news/packers-wr-jayden-reed-to-undergo-neck-surgery-miss-rest-of-2026-season"
+      ]
+    }
+  ],
+  "fa_highlights": {
+    "note": "FA pages NOT collected Sat (Yahoo auth failure). Below is LAST KNOWN Fri state + public notes.",
+    "last_known_fri": {
+      "chiefs_def": {
+        "status": "FA",
+        "proj": 6.46
+      },
+      "eagles_def": {
+        "status": "FA",
+        "proj": 6.36
+      },
+      "bills_def": {
+        "status": "FA",
+        "proj": 7.01
+      },
+      "godwin": {
+        "status": "FA",
+        "proj": 7.17,
+        "sat_public_note": "Bucs FP Fri / no designation on NFL.com injuries"
+      },
+      "goedert": {
+        "status": "FA",
+        "yahoo_status": "O",
+        "note": "OUT Week 4 knee"
+      },
+      "jayden_reed": {
+        "status": "W",
+        "process": "W (Oct 3)",
+        "sat_note": "processing day \u2014 result unknown"
+      }
+    },
+    "packers_def_held": {
+      "status": "OWNED",
+      "owner": "Vaqueros",
+      "proj_fri": 8.72,
+      "sat_context": "Mayfield OUT"
+    },
+    "w_oct3_watch_unverifiable": [
+      "Jayden Reed",
+      "Brian Thomas Jr.",
+      "Chris Godwin Jr.",
+      "Chiefs/Eagles/Bills DEF",
+      "Dallas Goedert",
+      "Dalton Schultz",
+      "Tank Bigsby",
+      "Kenny Gainwell",
+      "MarShawn Lloyd",
+      "Khalil Shakir",
+      "Quentin Johnston"
+    ]
+  },
+  "dedupe_refs": [
+    "grok/daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md",
+    "grok/daily/yahoo-ff-668216/2026/batches/batch_20261002T170000_daily-intel.json",
+    "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-02/",
+    "grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-01/"
+  ],
+  "evidence_dir": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-03/",
+  "report_md": "grok/daily/yahoo-ff-668216/2026/daily-report-2026-10-03.md",
+  "transactions_executed": false,
+  "should_wake_parent": true
+}
