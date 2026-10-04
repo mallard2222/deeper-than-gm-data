@@ -1,0 +1,529 @@
+{
+  "routine": "deeper-than-pregame-lineup-risk-check",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "retrieved_at_ct": "2026-10-04T12:34:00-05:00",
+  "routine_fired_utc": "2026-10-04T16:55:00Z",
+  "checked_at": "2026-10-04T12:34:00-05:00",
+  "window": "NO_WINDOW",
+  "window_reason": "Sunday noon CT slate already kicked (~12:00); Vaqueros noon starters locked/live \u2014 Jordan Love + Packers DEF (GB@TB ESPN IN_PROGRESS Q2), Derrick Henry (TEN@BAL Q1), Nico Collins (DAL@HOU Q1). Already Final today: Judkins TNF; Tyler Warren London IND@WSH Final. Next unlocked starters Nix/CMC/Rice/Dicker at 15:25 CT (~171.0 min out) \u2014 outside ~45\u201390 min ACTIVE / risky pre-lock window (same pattern as 2026-09-27 ~12:02). McMillan SNF 19:20 CT (~406.0 min). No unlockable noon swaps remain.",
+  "now_ct": "2026-10-04 12:34 CDT",
+  "minutes_to_next_vaqueros_starter_kickoff": 171.0,
+  "next_starter_kickoff_ct": "15:25",
+  "next_starter": {
+    "player": "Bo Nix / Christian McCaffrey / Rashee Rice / Cameron Dicker (tied 15:25 slate)",
+    "slot": "QB / RB / WR / K",
+    "yahoo_status": "LAST-KNOWN OK \u2014 not revalidated (auth_fail)",
+    "locked": false,
+    "game": "Sun 15:25 CT: DEN@SF, KC@LV, LAC@SEA",
+    "espn_status": "STATUS_SCHEDULED",
+    "espn_detail": "Sun, October 4th at 4:25 PM EDT",
+    "minutes_to_kickoff": 171.0,
+    "inactive_list_status": "posted_via_espn_game_injury_out_lists (afternoon games; none of Vaqueros starters on Out lists)"
+  },
+  "active_window_resumes_approx_ct": "13:55\u201314:40 (for 15:25 afternoon slate ~45\u201390 min pre-kick)",
+  "confidence": "medium-high",
+  "confidence_note": "ESPN scoreboard/summaries/athletes fresh (200). Noon starters confirmed playing via boxscore (Love 5/7 39; Henry 3/7/1 rush TD; Nico 3/57/1). Yahoo roster/lineup badges NOT revalidated (auth_fail recurring). Lineup assumed last-known 2026-10-02 5pm CT + prior 1108 capture. NO_WINDOW so full ACTIVE risk review not required; light ESPN availability scan for afternoon still clean.",
+  "matchup": {
+    "week": 4,
+    "opponent": "Deepest",
+    "live": null,
+    "proj": null,
+    "opp_live": null,
+    "opp_proj": null,
+    "note": "Yahoo auth_fail \u2014 no fresh matchup scrape this run. LAST-CAPTURE from ~11:02 CT league scoreboard HTML during 1108 session: Vaqueros live 23.90 / proj 155.36 vs Deepest 19.00 / 143.64 (0-3-0 | 8th vs 2-1-0 | 4th). Live then ~Judkins Final 18.60 + Warren London in-progress; Warren now Final 5/41/0 \u2014 live total expected higher but not Yahoo-confirmed. FAAB $79 last-known Oct 2.",
+    "last_capture_ct": "2026-10-04 ~11:02 CDT (pregame-check-1108)"
+  },
+  "faab_remaining": 79,
+  "faab_note": "LAST-KNOWN $79 (Oct 2 extract); not revalidated via authenticated roster",
+  "yahoo_access": {
+    "status": "auth_fail",
+    "method": "curl + /home/box/agent-data/chrome-cookie-seed.json converted to Netscape jar",
+    "cookie_seed_savedAt_ct": "2026-10-04T12:32:12-05:00",
+    "cookie_seed_mtime_ct": "2026-10-04T12:32:12-05:00",
+    "team_http": 302,
+    "team_redirect": "login.yahoo.com/config/login",
+    "scoreboard_http": 302,
+    "matchup_http": 302,
+    "league_home_http": 302,
+    "fantasy_api_http": 401,
+    "espn_http": 200,
+    "espn_note": "site.web.api.espn.com week-4 scoreboard + summaries (GB@TB 401872968, TEN@BAL 401872973, DAL@HOU 401872967, IND@WSH 401872965, DEN@SF 401872975, KC@LV 401872976, LAC@SEA 401872977, DET@CAR 401872978) + athletes Love/Henry/Nico/Nix/CMC/Rice/Dicker/McMillan/Golden; core /inactives 404",
+    "auth_fail_context": {
+      "first_failure_for_this_pregame_routine_since_last_success": false,
+      "recurring_this_routine": true,
+      "consecutive_pregame_fails_today": 2,
+      "prior_fail_today": "pregame-check-1108.json (11:08 CT)",
+      "last_pregame_success": "2026-10-01 evening (pregame-check-2056 et al.)",
+      "oct3_daily_also_auth_fail": true,
+      "recurring_cookie_death_across_assistants": true,
+      "recommend_pause_routine": true,
+      "note": "Seed savedAt refreshed again 2026-10-04 12:32 CT (second refresh today after 10:58 CT), but T/Y session still rejected (302\u2192login; Fantasy API 401). Second consecutive pregame auth_fail today \u2014 pause routine until Andrew reconnects Yahoo session / cookie seed."
+    }
+  },
+  "recommend_pause_routine": true,
+  "starters_locked_or_live": [
+    {
+      "slot": "W/R",
+      "player": "Quinshon Judkins",
+      "yahoo_status": "LAST-KNOWN OK",
+      "game": "Thu Final PIT@CLE",
+      "espn_status": "STATUS_FINAL",
+      "actual_yahoo_pts_last_known": 18.6,
+      "locked": true,
+      "notes": "TNF Final \u2014 already counted"
+    },
+    {
+      "slot": "TE",
+      "player": "Tyler Warren",
+      "yahoo_status": "LAST-KNOWN OK \u2014 not revalidated (auth_fail)",
+      "game": "Sun 8:30 am CT Ind @ Was (London)",
+      "kickoff_ct": "2026-10-04 08:30 CDT",
+      "espn_status": "STATUS_FINAL",
+      "espn_detail": "Final",
+      "espn_score": "IND 30 WSH 13",
+      "espn_receiving": "5 REC / 41 YDS / 0 TD / 5 TGTS",
+      "espn_athlete_active": true,
+      "on_espn_game_out_list": false,
+      "locked": true,
+      "in_active_window": false,
+      "notes": "London Final \u2014 locked. Josh Downs BN same game 3/16/0 \u2014 irrelevant."
+    },
+    {
+      "slot": "QB",
+      "player": "Jordan Love",
+      "yahoo_status": "LAST-KNOWN OK \u2014 not revalidated (auth_fail)",
+      "game": "Sun 12:00 pm @ TB",
+      "team_pos": "GB - QB",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": -34.0,
+      "espn_status": "STATUS_IN_PROGRESS",
+      "espn_detail": "14:19 - 2nd Quarter (at ESPN fetch ~12:33 CT; clock may advance)",
+      "espn_score": "TB 0 GB 0 (scoreboard; early Q2)",
+      "espn_passing_at_fetch": "5/7, 39 YDS, 0 TD, 0 INT",
+      "espn_athlete_id": "4036378",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "inactive_list_status": "posted_via_espn_game_injury_out_lists",
+      "weather": {
+        "temperature_f": 87,
+        "precipitation_pct": 60,
+        "gust_mph": 5,
+        "condition": "Mostly cloudy"
+      },
+      "espn_event_id": "401872968",
+      "locked": true,
+      "in_active_window": false,
+      "notes": "Noon kicked \u2014 locked/live playing. No swap possible."
+    },
+    {
+      "slot": "RB",
+      "player": "Derrick Henry",
+      "yahoo_status": "LAST-KNOWN OK \u2014 not revalidated (auth_fail)",
+      "game": "Sun 12:00 pm vs Ten",
+      "team_pos": "Bal - RB",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": -34.0,
+      "espn_status": "STATUS_IN_PROGRESS",
+      "espn_detail": "2:25 - 1st Quarter (at ESPN fetch ~12:33 CT)",
+      "espn_score": "BAL 7 TEN 7",
+      "espn_rushing_at_fetch": "3 CAR / 7 YDS / 1 TD",
+      "espn_receiving_at_fetch": "1 REC / -3 YDS",
+      "espn_athlete_id": "3043078",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "inactive_list_status": "posted_via_espn_game_injury_out_lists",
+      "weather": {
+        "temperature_f": 63,
+        "precipitation_pct": 49,
+        "gust_mph": 13,
+        "condition": "Cloudy"
+      },
+      "espn_event_id": "401872973",
+      "locked": true,
+      "in_active_window": false,
+      "notes": "Noon kicked \u2014 locked/live; already scored rush TD. No swap possible."
+    },
+    {
+      "slot": "W/T",
+      "player": "Nico Collins",
+      "yahoo_status": "LAST-KNOWN cleared (no Yahoo Q as of Oct 2 FP Fri) \u2014 NOT REVALIDATED",
+      "game": "Sun 12:00 pm vs Dal",
+      "team_pos": "Hou - WR",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": -34.0,
+      "espn_status": "STATUS_IN_PROGRESS",
+      "espn_detail": "1:49 - 1st Quarter (at ESPN fetch ~12:33 CT)",
+      "espn_score": "HOU 10 DAL 3",
+      "espn_receiving_at_fetch": "3 REC / 57 YDS / 1 TD / 3 TGTS",
+      "espn_athlete_id": "4258173",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "inactive_list_status": "posted_via_espn_game_injury_out_lists",
+      "weather": {
+        "temperature_f": 77,
+        "precipitation_pct": 53,
+        "gust_mph": 24,
+        "condition": "Cloudy"
+      },
+      "espn_event_id": "401872967",
+      "locked": true,
+      "in_active_window": false,
+      "notes": "Noon kicked \u2014 locked/live; already 3/57/1. Golden BN hedge moot (also noon GB@TB live)."
+    },
+    {
+      "slot": "DEF",
+      "player": "Packers",
+      "yahoo_status": "LAST-KNOWN OK \u2014 not revalidated (auth_fail)",
+      "game": "Sun 12:00 pm @ TB",
+      "team_pos": "GB - DEF",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "minutes_to_kickoff": -34.0,
+      "espn_status": "STATUS_IN_PROGRESS",
+      "espn_detail": "14:19 - 2nd Quarter",
+      "espn_score": "TB 0 GB 0 (early Q2)",
+      "espn_event_id": "401872968",
+      "opposing_qb_note": "Baker Mayfield ESPN Out/inactive (Thumb) \u2014 mild Packers DEF positive",
+      "weather": {
+        "temperature_f": 87,
+        "precipitation_pct": 60,
+        "gust_mph": 5,
+        "condition": "Mostly cloudy"
+      },
+      "locked": true,
+      "in_active_window": false,
+      "notes": "Noon kicked \u2014 locked/live. No stream-away possible."
+    }
+  ],
+  "remaining_starters": [
+    {
+      "slot": "QB",
+      "player": "Bo Nix",
+      "yahoo_status": "LAST-KNOWN OK",
+      "yahoo_status_note": "LAST-KNOWN from Yahoo ~2026-10-02 5pm CT (auth_fail today \u2014 not revalidated)",
+      "game": "Sun 3:25 pm @ SF",
+      "team_pos": "Den - QB",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 171.0,
+      "espn_status": "STATUS_SCHEDULED",
+      "espn_detail": "Sun, October 4th at 4:25 PM EDT",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick) \u2014 Yahoo lock not revalidated (auth_fail)",
+      "notes": "outside ACTIVE window (afternoon slate ~172+ min). ESPN Active; not on DEN Out list.",
+      "espn_athlete_id": "4426338",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "espn_event_id": "401872975",
+      "weather": {
+        "temperature_f": 91,
+        "precipitation_pct": 0,
+        "gust_mph": 8
+      }
+    },
+    {
+      "slot": "RB",
+      "player": "Christian McCaffrey",
+      "yahoo_status": "LAST-KNOWN OK",
+      "yahoo_status_note": "LAST-KNOWN from Yahoo ~2026-10-02 5pm CT (auth_fail today \u2014 not revalidated)",
+      "game": "Sun 3:25 pm vs Den",
+      "team_pos": "SF - RB",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 171.0,
+      "espn_status": "STATUS_SCHEDULED",
+      "espn_detail": "Sun, October 4th at 4:25 PM EDT",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick) \u2014 Yahoo lock not revalidated (auth_fail)",
+      "notes": "outside ACTIVE window. ESPN Active; not on SF Out list.",
+      "espn_athlete_id": "3117251",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "espn_event_id": "401872975"
+    },
+    {
+      "slot": "WR",
+      "player": "Rashee Rice",
+      "yahoo_status": "LAST-KNOWN OK",
+      "yahoo_status_note": "LAST-KNOWN from Yahoo ~2026-10-02 5pm CT (auth_fail today \u2014 not revalidated)",
+      "game": "Sun 3:25 pm @ LV",
+      "team_pos": "KC - WR",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 171.0,
+      "espn_status": "STATUS_SCHEDULED",
+      "espn_detail": "Sun, October 4th at 4:25 PM EDT",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick) \u2014 Yahoo lock not revalidated (auth_fail)",
+      "notes": "outside ACTIVE window. ESPN Active; not on KC Out list.",
+      "espn_athlete_id": "4428331",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "espn_event_id": "401872976",
+      "weather": {
+        "temperature_f": 92,
+        "precipitation_pct": 0,
+        "gust_mph": 6
+      }
+    },
+    {
+      "slot": "K",
+      "player": "Cameron Dicker",
+      "yahoo_status": "LAST-KNOWN OK",
+      "yahoo_status_note": "LAST-KNOWN from Yahoo ~2026-10-02 5pm CT (auth_fail today \u2014 not revalidated)",
+      "game": "Sun 3:25 pm @ Sea",
+      "team_pos": "LAC - K",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "minutes_to_kickoff": 171.0,
+      "espn_status": "STATUS_SCHEDULED",
+      "espn_detail": "Sun, October 4th at 4:25 PM EDT",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick) \u2014 Yahoo lock not revalidated (auth_fail)",
+      "notes": "outside ACTIVE window. ESPN Active; not on LAC Out list.",
+      "espn_athlete_id": "4362081",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "espn_event_id": "401872977",
+      "weather": {
+        "temperature_f": 67,
+        "precipitation_pct": 40,
+        "gust_mph": 7
+      }
+    },
+    {
+      "slot": "WR",
+      "player": "Tetairoa McMillan",
+      "yahoo_status": "LAST-KNOWN OK",
+      "yahoo_status_note": "LAST-KNOWN from Yahoo ~2026-10-02 5pm CT (auth_fail today \u2014 not revalidated)",
+      "game": "Sun 7:20 pm vs Det",
+      "team_pos": "Car - WR",
+      "kickoff_ct": "2026-10-04 19:20 CDT",
+      "minutes_to_kickoff": 406.0,
+      "espn_status": "STATUS_SCHEDULED",
+      "espn_detail": "Sun, October 4th at 8:20 PM EDT",
+      "locked": false,
+      "in_active_window": false,
+      "lock_state": "unlocked (pre-kick) \u2014 Yahoo lock not revalidated (auth_fail)",
+      "notes": "outside ACTIVE window (SNF). ESPN Active; not on CAR Out list.",
+      "espn_athlete_id": "4685472",
+      "espn_athlete_active": true,
+      "espn_athlete_status": "Active",
+      "on_espn_game_out_list": false,
+      "espn_event_id": "401872978",
+      "weather": {
+        "temperature_f": 66,
+        "precipitation_pct": 49,
+        "gust_mph": 4
+      }
+    }
+  ],
+  "bench_relevant": [
+    {
+      "player": "Matthew Golden",
+      "slot": "BN",
+      "pos": "WR",
+      "yahoo_status": "LAST-KNOWN OK",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "Sun 12:00 pm @ TB \u2014 LIVE Q2",
+      "espn_athlete_active": true,
+      "espn_athlete_id": "4701936",
+      "espn_note": "1 rush / 6 yds at fetch; same noon as Nico \u2014 hedge moot (both locked)",
+      "note": "BN noon locked; was only Nico contingency pre-kick \u2014 Nico already playing with TD"
+    },
+    {
+      "player": "Caleb Williams",
+      "slot": "BN",
+      "pos": "QB",
+      "yahoo_status": "LAST-KNOWN O",
+      "note": "officially OUT W4 \u2014 not a Love swap"
+    },
+    {
+      "player": "Woody Marks",
+      "slot": "BN",
+      "pos": "RB",
+      "kickoff_ct": "2026-10-04 12:00 CDT",
+      "game": "DAL@HOU LIVE \u2014 2/12 rush at fetch",
+      "note": "HOU BN contingency; Nico already producing \u2014 locked"
+    },
+    {
+      "player": "Josh Downs",
+      "slot": "BN",
+      "pos": "WR",
+      "game": "London Final \u2014 3/16/0",
+      "note": "BN Final with Warren"
+    },
+    {
+      "player": "Rome Odunze",
+      "slot": "BN",
+      "pos": "WR",
+      "note": "noon CHI vs NYJ live \u2014 not needed"
+    },
+    {
+      "player": "Wan'Dale Robinson",
+      "slot": "BN",
+      "pos": "WR",
+      "note": "noon @ Bal live \u2014 not needed"
+    },
+    {
+      "player": "RJ Harvey",
+      "slot": "BN",
+      "pos": "RB",
+      "kickoff_ct": "2026-10-04 15:25 CDT",
+      "note": "afternoon bench DEN@SF"
+    },
+    {
+      "player": "Sam LaPorta",
+      "slot": "BN",
+      "pos": "TE",
+      "kickoff_ct": "2026-10-04 19:20 CDT",
+      "note": "cannot replace locked Warren"
+    },
+    {
+      "player": "Michael Pittman Jr.",
+      "slot": "BN",
+      "pos": "WR",
+      "note": "TNF done; last-known actual 2.5"
+    }
+  ],
+  "noon_slate_status": {
+    "kickoff_ct": "12:00",
+    "state": "locked_live",
+    "games": {
+      "GB@TB": {
+        "espn_event_id": "401872968",
+        "espn_status": "STATUS_IN_PROGRESS",
+        "detail": "14:19 - 2nd Quarter",
+        "score_at_fetch": "TB 0 GB 0",
+        "vaqueros": [
+          "Jordan Love (playing 5/7 39)",
+          "Packers DEF"
+        ],
+        "baker_mayfield_out": true
+      },
+      "TEN@BAL": {
+        "espn_event_id": "401872973",
+        "espn_status": "STATUS_IN_PROGRESS",
+        "detail": "2:25 - 1st Quarter",
+        "score_at_fetch": "BAL 7 TEN 7",
+        "vaqueros": [
+          "Derrick Henry (3/7/1 rush TD)"
+        ]
+      },
+      "DAL@HOU": {
+        "espn_event_id": "401872967",
+        "espn_status": "STATUS_IN_PROGRESS",
+        "detail": "1:49 - 1st Quarter",
+        "score_at_fetch": "HOU 10 DAL 3",
+        "vaqueros": [
+          "Nico Collins (3/57/1)"
+        ]
+      },
+      "IND@WSH_London": {
+        "espn_event_id": "401872965",
+        "espn_status": "STATUS_FINAL",
+        "detail": "Final",
+        "score_at_fetch": "IND 30 WSH 13",
+        "vaqueros": [
+          "Tyler Warren Final 5/41/0"
+        ]
+      }
+    }
+  },
+  "active_window_focus": [],
+  "light_afternoon_availability_scan": {
+    "note": "NO_WINDOW \u2014 not full ACTIVE risk review; quick ESPN check that 15:25/SNF starters not newly Out",
+    "results": [
+      {
+        "player": "Bo Nix",
+        "espn_active": true,
+        "on_out_list": false,
+        "verdict": "OK"
+      },
+      {
+        "player": "Christian McCaffrey",
+        "espn_active": true,
+        "on_out_list": false,
+        "verdict": "OK"
+      },
+      {
+        "player": "Rashee Rice",
+        "espn_active": true,
+        "on_out_list": false,
+        "verdict": "OK"
+      },
+      {
+        "player": "Cameron Dicker",
+        "espn_active": true,
+        "on_out_list": false,
+        "verdict": "OK"
+      },
+      {
+        "player": "Tetairoa McMillan",
+        "espn_active": true,
+        "on_out_list": false,
+        "verdict": "OK"
+      }
+    ]
+  },
+  "actionable_alerts": [],
+  "should_wake_parent": true,
+  "should_wake_parent_reason": "Yahoo auth_fail recurring \u2014 second consecutive pregame fail today (1108 + this 1233). recommend_pause_routine=true until Andrew reconnects Yahoo / refreshes chrome-cookie-seed. NOT waking for lineup alerts (actionable_alerts empty; noon locked/live healthy; afternoon ESPN Active).",
+  "wake_parent_topics": [
+    "yahoo_auth_reconnect",
+    "pause_pregame_routine"
+  ],
+  "external_notes": {
+    "gb_at_tb": {
+      "espn_event_id": "401872968",
+      "espn_status": "STATUS_IN_PROGRESS",
+      "score_at_fetch": "TB 0 GB 0 Q2",
+      "love_playing": true,
+      "baker_mayfield_out": true
+    },
+    "ten_at_bal": {
+      "espn_event_id": "401872973",
+      "espn_status": "STATUS_IN_PROGRESS",
+      "score_at_fetch": "BAL 7 TEN 7 Q1",
+      "henry_playing": true,
+      "henry_rush_td_at_fetch": true
+    },
+    "dal_at_hou": {
+      "espn_event_id": "401872967",
+      "espn_status": "STATUS_IN_PROGRESS",
+      "score_at_fetch": "HOU 10 DAL 3 Q1",
+      "nico_playing": true,
+      "nico_receiving_at_fetch": "3/57/1"
+    },
+    "ind_at_wsh_london": {
+      "espn_event_id": "401872965",
+      "espn_status": "STATUS_FINAL",
+      "score_at_fetch": "IND 30 WSH 13",
+      "warren_receiving_final": "5/41/0 on 5 tgt"
+    },
+    "evidence_links": [
+      "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?seasontype=2&week=4&dates=2026",
+      "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872968",
+      "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872973",
+      "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872967",
+      "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872965",
+      "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872975",
+      "https://site.web.api.espn.com/apis/common/v3/sports/football/nfl/athletes/4258173",
+      "https://football.fantasysports.yahoo.com/f1/668216/8"
+    ]
+  },
+  "evidence_paths": [
+    "/workspace/deeper-than-gm-data/grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-04/pregame-check-1234.json",
+    "/workspace/deeper-than-gm-data/grok/daily/yahoo-ff-668216/2026/evidence/pregame-2026-10-04/NOTES-1234.md"
+  ],
+  "prior_check_today": "pregame-check-1108.json (ACTIVE noon window; auth_fail; actionable empty; should_wake false)",
+  "notes": "NO_WINDOW quiet lineup exit under Yahoo auth_fail (recurring). Noon starters locked/live and producing (Love playing; Henry rush TD; Nico 3/57/1; Packers DEF live; Warren London Final 5/41; Judkins TNF done). Afternoon 15:25 ~171.0 min out \u2014 ESPN Active for Nix/CMC/Rice/Dicker; McMillan SNF OK. actionable_alerts empty. should_wake_parent=true ONLY for auth reconnect + pause routine (2nd consecutive pregame fail today; seed refreshed 12:32 CT still 302\u2192login). No Yahoo lineup/roster/waiver mutations."
+}
