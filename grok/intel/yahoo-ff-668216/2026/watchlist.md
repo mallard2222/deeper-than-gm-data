@@ -2,10 +2,18 @@
 
 Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition (not an instruction to transact).
 
-Last daily: **2026-10-03 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-03.md)) — **Yahoo collection FAILURE**; public news OK.  
+Last daily: **2026-10-04 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-04.md)) — **Yahoo collection FAILURE (recurring; routine paused)**; public news OK.  
 Prior successful daily: **2026-10-02 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md)).
 
-## PENDING — Yahoo re-auth (Sat Oct 3 PM)
+## WATCH — new Sun Oct 4 (~5:00 PM CT)
+
+- **Rashee Rice (Vaqueros WR):** hamstring Q1 at LV, Q to return, no stats through Q3 start — severity TBD; W5 WR contingency (Odunze/Downs/Golden/Wan'Dale).
+- **Tank Bigsby (last known FA):** took over for Barkley (hamstring, out early) then left Q4 undisclosed. **Will Shipley** only healthy PHI RB. Tue desk targets pending MRI news + ownership check.
+- **Lamar Jackson** ankle/boot; **Ja'Marr Chase** concussion; **Mariota** knee (WAS QB) — ownership unverified.
+- **Nico Collins:** 7/118/2 — health concern cleared.
+- **McLaurin (Deepest):** officially OUT W4.
+
+## PENDING — Yahoo re-auth (Sat Oct 3 PM; still failing Sun Oct 4 PM)
 
 - Cookie session rejected (302 login). Blocks live roster/matchup/txns/FA/Reed claim verification. Refresh `chrome-cookie-seed.json` after browser login.
 

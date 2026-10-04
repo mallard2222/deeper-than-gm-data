@@ -9,3 +9,7 @@
 - **Action needed:** User/browser re-login to Yahoo Fantasy → refresh `chrome-cookie-seed.json` → re-run collection.
 - **Evidence:** `grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-03/yahoo_auth_fail_*.html`
 - **Related prior quarantines:** pending-claims UI document-not-found (unchanged; not re-tested under auth fail).
+
+## Update 2026-10-04 ~5:00 PM CT (daily)
+- Still failing after seed refreshes at 10:58, 12:32, and 16:57 CT (team 302, matchup 302, API 401). Fourth consecutive scheduled failure (Sat daily, Sun 11:08 + 12:34 pregame, Sun daily).
+- Pregame routine paused; daily routine paused after this run. Resume both after Andrew re-logs into Yahoo in the box browser and a test fetch returns 200.

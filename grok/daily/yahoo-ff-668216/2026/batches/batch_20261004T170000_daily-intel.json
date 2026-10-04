@@ -1,0 +1,169 @@
+{
+  "schema": "daily-intel-batch/v1",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "668216",
+  "team_id": 8,
+  "team_name": "Vaqueros",
+  "season": 2026,
+  "nfl_week": 4,
+  "run_at_ct": "2026-10-04T17:00:00-05:00",
+  "collection_status": "failure_yahoo_auth_public_news_ok",
+  "last_successful_daily_collection": "2026-10-02T17:00:00-05:00",
+  "intervening_pregame_checks": [
+    "pregame-2026-10-04/pregame-check-1108.json",
+    "pregame-2026-10-04/pregame-check-1234.json"
+  ],
+  "collection_window": {
+    "start": "2026-10-03T17:00:00-05:00",
+    "end": "2026-10-04T17:00:00-05:00"
+  },
+  "yahoo_access": {
+    "status": "auth_fail",
+    "team_http": 302,
+    "matchup_http": 302,
+    "api_http": 401,
+    "cookie_seed_mtime_ct": "2026-10-04T16:57:06-05:00",
+    "recurring": true,
+    "routine_paused_after_run": true
+  },
+  "material_items": [
+    {
+      "id": "2026-W04-rice-hamstring-in-game",
+      "players": [
+        "Rashee Rice"
+      ],
+      "ownership": "Vaqueros WR starter",
+      "confidence": "confirmed_designation_severity_unknown",
+      "response": "prepare",
+      "deadline": "2026-10-06 Tue desk",
+      "source": "https://www.espn.com/nfl/player/_/id/4428331/rashee-rice",
+      "published": "2026-10-04T16:00:00-05:00"
+    },
+    {
+      "id": "2026-W04-nico-big-game",
+      "players": [
+        "Nico Collins"
+      ],
+      "fact": "7/118/2 on 8 tgts",
+      "est_half_ppr": 27.3,
+      "confidence": "confirmed",
+      "response": "no_action"
+    },
+    {
+      "id": "2026-W04-matchup-partial",
+      "est_vaqueros_final_portion": 91.5,
+      "est_deepest_final_portion": 58.5,
+      "confidence": "inference_espn_box_not_yahoo",
+      "response": "monitor"
+    },
+    {
+      "id": "2026-W04-mclaurin-out-confirmed",
+      "players": [
+        "Terry McLaurin"
+      ],
+      "ownership": "Deepest",
+      "confidence": "confirmed",
+      "response": "no_action"
+    },
+    {
+      "id": "2026-W04-barkley-bigsby-shipley",
+      "players": [
+        "Saquon Barkley",
+        "Tank Bigsby",
+        "Will Shipley"
+      ],
+      "ownership": "Bigsby last-known FA (2026-10-02); others unverified",
+      "confidence": "confirmed_exits_severity_unknown",
+      "response": "prepare",
+      "deadline": "Tue W5 waivers",
+      "reporters": [
+        "Zach Berman (The Athletic)",
+        "Jimmy Kempski (PhillyVoice)"
+      ]
+    },
+    {
+      "id": "2026-W04-lamar-ankle",
+      "players": [
+        "Lamar Jackson"
+      ],
+      "ownership": "unverified",
+      "confidence": "confirmed_exit_boot_reported",
+      "response": "monitor",
+      "reporters": [
+        "Brian Wacker (Baltimore Sun)"
+      ]
+    },
+    {
+      "id": "2026-W04-chase-concussion",
+      "players": [
+        "Ja'Marr Chase"
+      ],
+      "ownership": "unverified",
+      "confidence": "confirmed_ruled_out_game",
+      "response": "monitor"
+    },
+    {
+      "id": "2026-W04-mariota-knee",
+      "players": [
+        "Marcus Mariota"
+      ],
+      "ownership": "unverified",
+      "confidence": "confirmed_ruled_out_game",
+      "response": "monitor"
+    },
+    {
+      "id": "2026-W04-yahoo-auth-failure-recurring",
+      "confidence": "confirmed",
+      "response": "act",
+      "deadline": "before Tue 2026-10-06 7:54 AM CT desk"
+    }
+  ],
+  "espn_estimates_half_ppr": {
+    "vaqueros": {
+      "Quinshon Judkins": 18.6,
+      "Nico Collins": 27.3,
+      "Derrick Henry": 14.9,
+      "Jordan Love": 13.08,
+      "Tyler Warren": 6.6,
+      "Packers DEF": "~11 (3 sk, 2 INT, 14 PA; fumble recs not counted)",
+      "live_at_cutoff": {
+        "Bo Nix": 4.42,
+        "Christian McCaffrey": 5.1,
+        "Cameron Dicker": 3,
+        "Rashee Rice": 0
+      },
+      "SNF": [
+        "Tetairoa McMillan"
+      ],
+      "bench": {
+        "Rome Odunze": 12.4,
+        "Matthew Golden": 10.2,
+        "Wan'Dale Robinson": 9.5,
+        "Woody Marks": 8.2,
+        "RJ Harvey (live)": 6.6,
+        "Josh Downs": 3.1
+      }
+    },
+    "deepest": {
+      "Jonathan Taylor": 22.2,
+      "Isaiah Likely": 10.1,
+      "Matthew Stafford": 9.68,
+      "Luther Burden III": 9.4,
+      "Cam Skattebo": 7.1,
+      "live": {
+        "Ashton Jeanty": 2.2
+      },
+      "Terry McLaurin": "OUT",
+      "pending": [
+        "Jared Goff SNF",
+        "Jake Bates SNF",
+        "Chris Olave MNF"
+      ]
+    }
+  },
+  "evidence_dir": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-10-04/",
+  "report_md": "grok/daily/yahoo-ff-668216/2026/daily-report-2026-10-04.md",
+  "transactions_executed": [],
+  "should_wake_parent": true,
+  "material_item_count": 9
+}

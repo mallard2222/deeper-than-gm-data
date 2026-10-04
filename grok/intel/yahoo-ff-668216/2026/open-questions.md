@@ -16,3 +16,8 @@
 14. **Warren London early lock (high for Sunday AM):** ~8:30 AM CT — Allen OUT; McLaurin likely out for opponent.
 15. **Reed W(Oct 3) claim result (medium — NEW):** unverifiable until Yahoo works.
 16. **McLaurin official game status (medium — NEW):** beat says likely miss; still official Q until inactives/OUT.
+
+## Added 2026-10-04 daily
+- Rice hamstring severity (Mon/Wed updates) and W5 availability.
+- Barkley / Bigsby MRI results; Bigsby + Shipley Deeper Than ownership (Yahoo needed).
+- Official Yahoo W4 result vs Deepest after MNF (ESPN estimates only so far).
