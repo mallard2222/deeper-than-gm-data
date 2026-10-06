@@ -13,3 +13,10 @@
 ## Update 2026-10-04 ~5:00 PM CT (daily)
 - Still failing after seed refreshes at 10:58, 12:32, and 16:57 CT (team 302, matchup 302, API 401). Fourth consecutive scheduled failure (Sat daily, Sun 11:08 + 12:34 pregame, Sun daily).
 - Pregame routine paused; daily routine paused after this run. Resume both after Andrew re-logs into Yahoo in the box browser and a test fetch returns 200.
+
+## Update 2026-10-06 ~8:00 AM CT (Tuesday intelligence desk, W05)
+- Seed refreshed 07:54 CT today; test fetch of `/f1/668216/8` still HTTP 302 → `login.yahoo.com` (src=ats-fantasysports). Fifth consecutive scheduled failure.
+- Box browser screenshot shows Yahoo sign-in stuck at a passkey challenge for account `ogdru22` ("Passkey not found"; QR-code passkey flow). Needs Andrew to complete sign-in (e.g. "Try signing in another way").
+- W05 Tuesday desk did NOT collect league state, FAAB, waiver pool, or transactions; no W05 waiver package written. Nothing here is evidence of an empty wire or unchanged rosters.
+- Tuesday desk routine paused pending re-login; Wednesday reconciliation is also Yahoo-dependent.
+- Carry-forward asks for the next successful desk: Bigsby / Shipley and Rice contingency (from 2026-10-04 daily), Reed→fantasy IR, DEF stream vs Packers hold.
