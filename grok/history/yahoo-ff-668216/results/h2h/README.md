@@ -1,5 +1,5 @@
 # Deeper Than head-to-head — manager level
-**Seasons covered: 2013–2025 (complete, weeks 1–16 final) + 2026 weeks 1–7 final.** 2026 Week 8 is in progress and excluded. Not labeled all-time: 2026 is unfinished and two "Brad" Yahoo profiles (brad95652 2013–2021, brad58794 2024–2026) are kept separate because no evidence links them.
+**Seasons covered: 2013–2025 (complete, weeks 1–16 final) + 2026 weeks 1–7 final (Week 8 in progress, excluded).** Third-place games count in the championship bracket for every season (standardized 2026-11-01). Not labeled all-time: 2026 is unfinished and two "Brad" Yahoo profiles (brad95652 2013–2021, brad58794 2024–2026) are kept separate because no evidence links them.
 Manager identity = Yahoo profile handle from each season's Managers page (see `identities/managers-by-season.csv`). Team names are NOT used for continuity.
 
 ## Andrew Allard vs each manager — regular (regular)
@@ -22,10 +22,11 @@ Manager identity = Yahoo profile handle from each season's Managers page (see `i
 | Opponent | W-L-T | Games | PF | PA | Seasons |
 |---|---|---|---|---|---|
 | James (james396127) | 2-0-0 | 2 | 296.72 | 182.42 | 2021, 2022 |
+| Jeremy (jeremy82341) | 0-1-0 | 1 | 105.56 | 196.68 | 2024 |
 | Jonah (jonah11636) | 1-1-0 | 2 | 325.5 | 322.9 | 2019, 2024 |
 | Ryan (ryan512974) | 1-1-0 | 2 | 371.28 | 350.2 | 2019, 2021 |
 | Tyler (tyler156834) | 1-0-0 | 1 | 146.26 | 141.46 | 2022 |
-| **Total** | **5-2-0** | 7 | | | |
+| **Total** | **5-3-0** | 8 | | | |
 
 ## Andrew Allard vs each manager — consolation (consolation)
 
@@ -35,11 +36,11 @@ Manager identity = Yahoo profile handle from each season's Managers page (see `i
 | Brandon (brandon128978) | 1-0-0 | 1 | 160.12 | 147.5 | 2025 |
 | Framp (framp5) | 0-1-0 | 1 | 110.04 | 138.88 | 2023 |
 | James (james396127) | 3-0-0 | 3 | 378.04 | 309.46 | 2013, 2016, 2017 |
-| Jeremy (jeremy82341) | 2-2-0 | 4 | 590.66 | 544.82 | 2014, 2015, 2020, 2024 |
+| Jeremy (jeremy82341) | 2-1-0 | 3 | 485.1 | 348.14 | 2014, 2015, 2020 |
 | Jonah (jonah11636) | 2-1-0 | 3 | 425.28 | 402.46 | 2014, 2018, 2025 |
 | Ryan (ryan512974) | 2-0-0 | 2 | 250.7 | 188.04 | 2018, 2023 |
 | Tyler (tyler156834) | 0-1-0 | 1 | 140.76 | 147.76 | 2020 |
-| **Total** | **12-7-0** | 19 | | | |
+| **Total** | **12-6-0** | 18 | | | |
 
 ## Andrew Allard vs each manager — combined (regular, championship, consolation)
 

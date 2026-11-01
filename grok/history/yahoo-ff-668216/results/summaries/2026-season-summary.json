@@ -3,7 +3,7 @@
   "league_id": "yahoo-ff-668216",
   "season": 2026,
   "season_league_id": 668216,
-  "generated_at": "2026-11-01T12:49:52-06:00",
+  "generated_at": "2026-11-01T13:07:07-06:00",
   "matchup_count": 32,
   "weeks_covered": [
     1,
@@ -153,7 +153,9 @@
       }
     }
   },
-  "coverage_note": "In-progress season: weeks 1-7 final, week 8 in_progress (excluded from records).",
+  "coverage_note": "In-progress season: weeks 1-7 final, week(s) [8] in_progress (excluded from records).",
+  "category_note": "Weeks 15-16 classified by round: semifinal/final/third_place = championship_bracket; all other playoff-week games = consolation. Third-place games are championship_bracket in every season (2017-2025 source rows labeled them consolation; original label kept in bracket_source).",
+  "playoff_games": [],
   "h2h_pairs": [
     {
       "team_a": "Baby Arm",
@@ -163,6 +165,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 86.34,
           "score_b": 170.66,
           "winner": "Big Balls"
@@ -177,6 +180,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 147.36,
           "score_b": 157.1,
           "winner": "DUGASM"
@@ -191,6 +195,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 193.06,
           "score_b": 134.38,
           "winner": "Baby Arm"
@@ -205,6 +210,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 166.98,
           "score_b": 121.3,
           "winner": "Baby Arm"
@@ -219,6 +225,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 149.08,
           "score_b": 132.8,
           "winner": "Baby Arm"
@@ -233,6 +240,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 120.44,
           "score_b": 110.02,
           "winner": "Baby Arm"
@@ -247,6 +255,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 139.36,
           "score_b": 155.22,
           "winner": "Wet Serapas"
@@ -261,6 +270,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 121.42,
           "score_b": 173.42,
           "winner": "DUGASM"
@@ -275,6 +285,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 152.76,
           "score_b": 125.72,
           "winner": "Big Balls"
@@ -289,6 +300,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 140.28,
           "score_b": 79.98,
           "winner": "Big Balls"
@@ -303,6 +315,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 165.7,
           "score_b": 118.5,
           "winner": "Big Balls"
@@ -317,6 +330,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 168.44,
           "score_b": 113.72,
           "winner": "Big Balls"
@@ -331,6 +345,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 120.6,
           "score_b": 139.38,
           "winner": "Wet Serapas"
@@ -345,6 +360,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 179.08,
           "score_b": 151.76,
           "winner": "DUGASM"
@@ -359,6 +375,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 119.8,
           "score_b": 110.5,
           "winner": "DUGASM"
@@ -373,6 +390,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 129.76,
           "score_b": 98.72,
           "winner": "DUGASM"
@@ -387,6 +405,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 158.04,
           "score_b": 98.94,
           "winner": "DUGASM"
@@ -401,6 +420,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 187.08,
           "score_b": 93.46,
           "winner": "DUGASM"
@@ -415,6 +435,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 118.06,
           "score_b": 113.4,
           "winner": "Deepest"
@@ -429,6 +450,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 125.14,
           "score_b": 131.96,
           "winner": "Good Strongs"
@@ -443,6 +465,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 156.96,
           "score_b": 169.74,
           "winner": "Vaqueros"
@@ -457,6 +480,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 170.24,
           "score_b": 169.22,
           "winner": "Deepest"
@@ -471,6 +495,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 105.38,
           "score_b": 117.24,
           "winner": "Good Strongs"
@@ -485,6 +510,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 144.38,
           "score_b": 147.6,
           "winner": "Vaqueros"
@@ -499,6 +525,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 136.68,
           "score_b": 121.42,
           "winner": "FFAmuseBouche"
@@ -513,6 +540,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 149.82,
           "score_b": 141.2,
           "winner": "Good Strongs"
@@ -527,6 +555,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 172.24,
           "score_b": 208.16,
           "winner": "Wet Serapas"
@@ -541,6 +570,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 138.22,
           "score_b": 162.34,
           "winner": "Wet Serapas"

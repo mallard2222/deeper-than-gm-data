@@ -3,7 +3,7 @@
   "league_id": "yahoo-ff-668216",
   "season": 2013,
   "season_league_id": 11558,
-  "generated_at": "2026-11-01T12:49:52-06:00",
+  "generated_at": "2026-11-01T13:07:07-06:00",
   "matchup_count": 64,
   "weeks_covered": [
     1,
@@ -228,6 +228,105 @@
     }
   },
   "coverage_note": "Season complete (weeks 1-16 final).",
+  "category_note": "Weeks 15-16 classified by round: semifinal/final/third_place = championship_bracket; all other playoff-week games = consolation. Third-place games are championship_bracket in every season (2017-2025 source rows labeled them consolation; original label kept in bracket_source).",
+  "playoff_games": [
+    {
+      "week": 15,
+      "category": "consolation",
+      "round": "consolation_round",
+      "bracket_source": "consolation",
+      "playoff_game_source": "consolation_round_1",
+      "team_a": "Wet Serapas",
+      "score_a": 131.28,
+      "team_b": "Good Strongs",
+      "score_b": 156.54,
+      "winner": "Good Strongs"
+    },
+    {
+      "week": 15,
+      "category": "consolation",
+      "round": "consolation_round",
+      "bracket_source": "consolation",
+      "playoff_game_source": "consolation_round_1",
+      "team_a": "Vaqueros",
+      "score_a": 134.56,
+      "team_b": "bigballs",
+      "score_b": 158.14,
+      "winner": "bigballs"
+    },
+    {
+      "week": 15,
+      "category": "championship_bracket",
+      "round": "semifinal",
+      "bracket_source": "championship",
+      "playoff_game_source": "semifinal",
+      "team_a": "Deepest",
+      "score_a": 170.7,
+      "team_b": "FFAmuseBouche",
+      "score_b": 154.82,
+      "winner": "Deepest"
+    },
+    {
+      "week": 15,
+      "category": "championship_bracket",
+      "round": "semifinal",
+      "bracket_source": "championship",
+      "playoff_game_source": "semifinal",
+      "team_a": "DUGASM",
+      "score_a": 172.54,
+      "team_b": "Dezbians",
+      "score_b": 121.34,
+      "winner": "DUGASM"
+    },
+    {
+      "week": 16,
+      "category": "consolation",
+      "round": "consolation_round",
+      "bracket_source": "consolation",
+      "playoff_game_source": "consolation_last_place",
+      "team_a": "Vaqueros",
+      "score_a": 106.46,
+      "team_b": "Wet Serapas",
+      "score_b": 87.9,
+      "winner": "Vaqueros"
+    },
+    {
+      "week": 16,
+      "category": "consolation",
+      "round": "consolation_round",
+      "bracket_source": "consolation",
+      "playoff_game_source": "consolation_final",
+      "team_a": "Good Strongs",
+      "score_a": 143.44,
+      "team_b": "bigballs",
+      "score_b": 171.12,
+      "winner": "bigballs"
+    },
+    {
+      "week": 16,
+      "category": "championship_bracket",
+      "round": "final",
+      "bracket_source": "championship",
+      "playoff_game_source": "final",
+      "team_a": "Deepest",
+      "score_a": 161.82,
+      "team_b": "DUGASM",
+      "score_b": 124.3,
+      "winner": "Deepest"
+    },
+    {
+      "week": 16,
+      "category": "championship_bracket",
+      "round": "third_place",
+      "bracket_source": "championship",
+      "playoff_game_source": "third_place",
+      "team_a": "Dezbians",
+      "score_a": 110.38,
+      "team_b": "FFAmuseBouche",
+      "score_b": 144.92,
+      "winner": "FFAmuseBouche"
+    }
+  ],
   "h2h_pairs": [
     {
       "team_a": "DUGASM",
@@ -237,6 +336,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 118.8,
           "score_b": 194.6,
           "winner": "Deepest"
@@ -244,6 +344,7 @@
         {
           "week": 9,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 141.6,
           "score_b": 217.48,
           "winner": "Deepest"
@@ -251,6 +352,7 @@
         {
           "week": 16,
           "bracket": "championship",
+          "round": "final",
           "score_a": 124.3,
           "score_b": 161.82,
           "winner": "Deepest"
@@ -265,6 +367,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 172.8,
           "score_b": 135.08,
           "winner": "DUGASM"
@@ -272,6 +375,7 @@
         {
           "week": 11,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 182.58,
           "score_b": 129.52,
           "winner": "DUGASM"
@@ -279,6 +383,7 @@
         {
           "week": 15,
           "bracket": "championship",
+          "round": "semifinal",
           "score_a": 172.54,
           "score_b": 121.34,
           "winner": "DUGASM"
@@ -293,6 +398,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 198.68,
           "score_b": 127.6,
           "winner": "DUGASM"
@@ -300,6 +406,7 @@
         {
           "week": 10,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 114.14,
           "score_b": 63.7,
           "winner": "DUGASM"
@@ -314,6 +421,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 148.28,
           "score_b": 111.76,
           "winner": "DUGASM"
@@ -321,6 +429,7 @@
         {
           "week": 14,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 150.2,
           "score_b": 134.78,
           "winner": "DUGASM"
@@ -335,6 +444,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 154.1,
           "score_b": 183.94,
           "winner": "Vaqueros"
@@ -342,6 +452,7 @@
         {
           "week": 13,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 187.3,
           "score_b": 119.02,
           "winner": "DUGASM"
@@ -356,6 +467,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 162.78,
           "score_b": 121.66,
           "winner": "DUGASM"
@@ -363,6 +475,7 @@
         {
           "week": 12,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 135.18,
           "score_b": 132.18,
           "winner": "DUGASM"
@@ -377,6 +490,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 175.38,
           "score_b": 170.38,
           "winner": "DUGASM"
@@ -384,6 +498,7 @@
         {
           "week": 8,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 163.38,
           "score_b": 101.66,
           "winner": "DUGASM"
@@ -398,6 +513,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 131.3,
           "score_b": 119.74,
           "winner": "Deepest"
@@ -405,6 +521,7 @@
         {
           "week": 10,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 181.92,
           "score_b": 156.32,
           "winner": "Deepest"
@@ -419,6 +536,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 155.5,
           "score_b": 189.14,
           "winner": "FFAmuseBouche"
@@ -426,6 +544,7 @@
         {
           "week": 8,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 118.56,
           "score_b": 175.86,
           "winner": "FFAmuseBouche"
@@ -433,6 +552,7 @@
         {
           "week": 15,
           "bracket": "championship",
+          "round": "semifinal",
           "score_a": 170.7,
           "score_b": 154.82,
           "winner": "Deepest"
@@ -447,6 +567,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 144.78,
           "score_b": 117.52,
           "winner": "Deepest"
@@ -454,6 +575,7 @@
         {
           "week": 13,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 197.84,
           "score_b": 171.76,
           "winner": "Deepest"
@@ -468,6 +590,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 159.9,
           "score_b": 114.4,
           "winner": "Deepest"
@@ -475,6 +598,7 @@
         {
           "week": 12,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 131.86,
           "score_b": 93.82,
           "winner": "Deepest"
@@ -489,6 +613,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 178.9,
           "score_b": 166.7,
           "winner": "Deepest"
@@ -496,6 +621,7 @@
         {
           "week": 11,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 149.52,
           "score_b": 124.32,
           "winner": "Deepest"
@@ -510,6 +636,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 163.04,
           "score_b": 95.52,
           "winner": "Deepest"
@@ -517,6 +644,7 @@
         {
           "week": 14,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 175.36,
           "score_b": 150.36,
           "winner": "Deepest"
@@ -531,6 +659,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 157.2,
           "score_b": 147.28,
           "winner": "Dezbians"
@@ -538,6 +667,7 @@
         {
           "week": 12,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 157.02,
           "score_b": 142.2,
           "winner": "Dezbians"
@@ -545,6 +675,7 @@
         {
           "week": 16,
           "bracket": "championship",
+          "round": "third_place",
           "score_a": 110.38,
           "score_b": 144.92,
           "winner": "FFAmuseBouche"
@@ -559,6 +690,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 178.98,
           "score_b": 117.62,
           "winner": "Dezbians"
@@ -566,6 +698,7 @@
         {
           "week": 8,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 193.68,
           "score_b": 117.54,
           "winner": "Dezbians"
@@ -580,6 +713,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 162.98,
           "score_b": 98.74,
           "winner": "Dezbians"
@@ -587,6 +721,7 @@
         {
           "week": 14,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 112.06,
           "score_b": 136.18,
           "winner": "Vaqueros"
@@ -601,6 +736,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 122.22,
           "score_b": 127.88,
           "winner": "Wet Serapas"
@@ -608,6 +744,7 @@
         {
           "week": 13,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 181.82,
           "score_b": 107.36,
           "winner": "Dezbians"
@@ -622,6 +759,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 148.38,
           "score_b": 125.26,
           "winner": "Dezbians"
@@ -629,6 +767,7 @@
         {
           "week": 9,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 173.54,
           "score_b": 126.42,
           "winner": "Dezbians"
@@ -643,6 +782,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 122.52,
           "score_b": 171.5,
           "winner": "Good Strongs"
@@ -650,6 +790,7 @@
         {
           "week": 11,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 128.3,
           "score_b": 129.02,
           "winner": "Good Strongs"
@@ -664,6 +805,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 162.54,
           "score_b": 159.44,
           "winner": "FFAmuseBouche"
@@ -671,6 +813,7 @@
         {
           "week": 9,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 134.9,
           "score_b": 185.38,
           "winner": "Vaqueros"
@@ -685,6 +828,7 @@
         {
           "week": 7,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 155.96,
           "score_b": 144.42,
           "winner": "FFAmuseBouche"
@@ -692,6 +836,7 @@
         {
           "week": 14,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 143.3,
           "score_b": 105.72,
           "winner": "FFAmuseBouche"
@@ -706,6 +851,7 @@
         {
           "week": 6,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 168.28,
           "score_b": 119.82,
           "winner": "FFAmuseBouche"
@@ -713,6 +859,7 @@
         {
           "week": 13,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 138.6,
           "score_b": 137.0,
           "winner": "FFAmuseBouche"
@@ -727,6 +874,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 134.44,
           "score_b": 106.26,
           "winner": "Good Strongs"
@@ -734,6 +882,7 @@
         {
           "week": 10,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 105.74,
           "score_b": 137.94,
           "winner": "Vaqueros"
@@ -748,6 +897,7 @@
         {
           "week": 2,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 170.14,
           "score_b": 115.48,
           "winner": "Good Strongs"
@@ -755,6 +905,7 @@
         {
           "week": 9,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 174.96,
           "score_b": 114.72,
           "winner": "Good Strongs"
@@ -762,6 +913,7 @@
         {
           "week": 15,
           "bracket": "consolation",
+          "round": "consolation_round",
           "score_a": 156.54,
           "score_b": 131.28,
           "winner": "Good Strongs"
@@ -776,6 +928,7 @@
         {
           "week": 5,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 116.02,
           "score_b": 137.22,
           "winner": "bigballs"
@@ -783,6 +936,7 @@
         {
           "week": 12,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 113.9,
           "score_b": 124.2,
           "winner": "bigballs"
@@ -790,6 +944,7 @@
         {
           "week": 16,
           "bracket": "consolation",
+          "round": "consolation_round",
           "score_a": 143.44,
           "score_b": 171.12,
           "winner": "bigballs"
@@ -804,6 +959,7 @@
         {
           "week": 1,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 166.4,
           "score_b": 183.34,
           "winner": "Wet Serapas"
@@ -811,6 +967,7 @@
         {
           "week": 8,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 122.04,
           "score_b": 130.66,
           "winner": "Wet Serapas"
@@ -818,6 +975,7 @@
         {
           "week": 16,
           "bracket": "consolation",
+          "round": "consolation_round",
           "score_a": 106.46,
           "score_b": 87.9,
           "winner": "Vaqueros"
@@ -832,6 +990,7 @@
         {
           "week": 4,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 157.22,
           "score_b": 105.26,
           "winner": "Vaqueros"
@@ -839,6 +998,7 @@
         {
           "week": 11,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 167.54,
           "score_b": 100.02,
           "winner": "Vaqueros"
@@ -846,6 +1006,7 @@
         {
           "week": 15,
           "bracket": "consolation",
+          "round": "consolation_round",
           "score_a": 134.56,
           "score_b": 158.14,
           "winner": "bigballs"
@@ -860,6 +1021,7 @@
         {
           "week": 3,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 153.62,
           "score_b": 96.02,
           "winner": "Wet Serapas"
@@ -867,6 +1029,7 @@
         {
           "week": 10,
           "bracket": "regular",
+          "round": "regular_season",
           "score_a": 152.72,
           "score_b": 128.18,
           "winner": "Wet Serapas"
