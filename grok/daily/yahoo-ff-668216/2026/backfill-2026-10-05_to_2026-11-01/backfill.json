@@ -1,0 +1,1753 @@
+{
+ "league": "yahoo-ff-668216",
+ "team": "Vaqueros (8)",
+ "source": "Yahoo web pages, parsed 2026-11-01",
+ "weeks": {
+  "5": {
+   "matchups": [
+    {
+     "home": "Vaqueros",
+     "home_pts": 147.6,
+     "home_proj": 139.43,
+     "away_pts": 144.38,
+     "away_proj": 132.91,
+     "away": "FFAmuseBouche"
+    },
+    {
+     "home": "Wet Serapas",
+     "home_pts": 208.16,
+     "home_proj": 151.82,
+     "away_pts": 172.24,
+     "away_proj": 131.65,
+     "away": "Good Strongs"
+    },
+    {
+     "home": "Baby Arm",
+     "home_pts": 86.34,
+     "home_proj": 141.52,
+     "away_pts": 170.66,
+     "away_proj": 154.48,
+     "away": "Big Balls"
+    },
+    {
+     "home": "Deepest",
+     "home_pts": 151.76,
+     "home_proj": 144.46,
+     "away_pts": 179.08,
+     "away_proj": 160.5,
+     "away": "DUGASM"
+    }
+   ],
+   "vaqueros": {
+    "opponent": "FFAmuseBouche",
+    "pts": 147.6,
+    "opp_pts": 144.38,
+    "result": "W"
+   },
+   "lineup": [
+    {
+     "slot": "QB",
+     "player": "Jordan Love",
+     "nfl": "GB",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 31-7",
+     "pts": 25.28
+    },
+    {
+     "slot": "QB",
+     "player": "Bo Nix",
+     "nfl": "Den",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 23-17",
+     "pts": 7.92
+    },
+    {
+     "slot": "RB",
+     "player": "Christian McCaffrey",
+     "nfl": "SF",
+     "pos": "RB",
+     "status": "Q",
+     "game": "Final W 32-29",
+     "pts": 15.8
+    },
+    {
+     "slot": "RB",
+     "player": "Derrick Henry",
+     "nfl": "Bal",
+     "pos": "RB",
+     "status": null,
+     "game": "Final W 30-23",
+     "pts": 20.5
+    },
+    {
+     "slot": "WR",
+     "player": "Matthew Golden",
+     "nfl": "GB",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 31-7",
+     "pts": 17.3
+    },
+    {
+     "slot": "WR",
+     "player": "Nico Collins",
+     "nfl": "Hou",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 26-3",
+     "pts": 8.1
+    },
+    {
+     "slot": "TE",
+     "player": "Tyler Warren",
+     "nfl": "Ind",
+     "pos": "TE",
+     "status": null,
+     "game": "Final L 22-34",
+     "pts": 17.9
+    },
+    {
+     "slot": "W/T",
+     "player": "Sam LaPorta",
+     "nfl": "Det",
+     "pos": "TE",
+     "status": null,
+     "game": "Final W 45-21",
+     "pts": 17.3
+    },
+    {
+     "slot": "W/R",
+     "player": "Quinshon Judkins",
+     "nfl": "Cle",
+     "pos": "RB",
+     "status": null,
+     "game": "Final L 12-17",
+     "pts": 6.5
+    },
+    {
+     "slot": "BN",
+     "player": "Rashee Rice",
+     "nfl": "KC",
+     "pos": "WR",
+     "status": null,
+     "game": "Bye",
+     "pts": "Bye"
+    },
+    {
+     "slot": "BN",
+     "player": "Tetairoa McMillan",
+     "nfl": "Car",
+     "pos": "WR",
+     "status": null,
+     "game": "Bye",
+     "pts": "Bye"
+    },
+    {
+     "slot": "BN",
+     "player": "Caleb Williams",
+     "nfl": "Chi",
+     "pos": "QB",
+     "status": null,
+     "game": "Final L 7-31",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Rome Odunze",
+     "nfl": "Chi",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 7-31",
+     "pts": 3.5
+    },
+    {
+     "slot": "BN",
+     "player": "RJ Harvey",
+     "nfl": "Den",
+     "pos": "RB",
+     "status": "IR",
+     "game": "Final W 23-17",
+     "pts": 0.7
+    },
+    {
+     "slot": "BN",
+     "player": "Michael Pittman Jr.",
+     "nfl": "Pit",
+     "pos": "WR",
+     "status": "IR",
+     "game": "Final W 34-22",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Woody Marks",
+     "nfl": "Hou",
+     "pos": "RB",
+     "status": null,
+     "game": "Final W 26-3",
+     "pts": 10.5
+    },
+    {
+     "slot": "BN",
+     "player": "Josh Downs",
+     "nfl": "Ind",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 22-34",
+     "pts": 6.2
+    },
+    {
+     "slot": "BN",
+     "player": "Wan'Dale Robinson",
+     "nfl": "Ten",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 3-26",
+     "pts": 8.3
+    },
+    {
+     "slot": "K",
+     "player": "Cameron Dicker",
+     "nfl": "LAC",
+     "pos": "K",
+     "status": null,
+     "game": "Final L 17-23",
+     "pts": 6.0
+    },
+    {
+     "slot": "DEF",
+     "player": "Jaguars",
+     "nfl": "Jax",
+     "pos": "DEF",
+     "status": null,
+     "game": "Final W 19-17",
+     "pts": 5.0
+    }
+   ]
+  },
+  "6": {
+   "matchups": [
+    {
+     "home": "Vaqueros",
+     "home_pts": 110.02,
+     "home_proj": 142.93,
+     "away_pts": 120.44,
+     "away_proj": 142.73,
+     "away": "Baby Arm"
+    },
+    {
+     "home": "Wet Serapas",
+     "home_pts": 139.38,
+     "home_proj": 139.12,
+     "away_pts": 120.6,
+     "away_proj": 131.89,
+     "away": "Big Balls"
+    },
+    {
+     "home": "Deepest",
+     "home_pts": 125.14,
+     "home_proj": 127.17,
+     "away_pts": 131.96,
+     "away_proj": 140.61,
+     "away": "Good Strongs"
+    },
+    {
+     "home": "DUGASM",
+     "home_pts": 119.8,
+     "home_proj": 162.79,
+     "away_pts": 110.5,
+     "away_proj": 127.62,
+     "away": "FFAmuseBouche"
+    }
+   ],
+   "vaqueros": {
+    "opponent": "Baby Arm",
+    "pts": 110.02,
+    "opp_pts": 120.44,
+    "result": "L"
+   },
+   "lineup": [
+    {
+     "slot": "QB",
+     "player": "Jordan Love",
+     "nfl": "GB",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 23-13",
+     "pts": 20.24
+    },
+    {
+     "slot": "QB",
+     "player": "Bo Nix",
+     "nfl": "Den",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 17-14",
+     "pts": 4.48
+    },
+    {
+     "slot": "RB",
+     "player": "Christian McCaffrey",
+     "nfl": "SF",
+     "pos": "RB",
+     "status": "Q",
+     "game": "Final W 23-17",
+     "pts": 26.2
+    },
+    {
+     "slot": "RB",
+     "player": "Derrick Henry",
+     "nfl": "Bal",
+     "pos": "RB",
+     "status": null,
+     "game": "Final L 10-13",
+     "pts": 4.5
+    },
+    {
+     "slot": "WR",
+     "player": "Matthew Golden",
+     "nfl": "GB",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 23-13",
+     "pts": 19.4
+    },
+    {
+     "slot": "WR",
+     "player": "Nico Collins",
+     "nfl": "Hou",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 34-31",
+     "pts": 9.4
+    },
+    {
+     "slot": "TE",
+     "player": "Pat Freiermuth",
+     "nfl": "Pit",
+     "pos": "TE",
+     "status": null,
+     "game": "Final W 26-19",
+     "pts": 2.1
+    },
+    {
+     "slot": "W/T",
+     "player": "Tetairoa McMillan",
+     "nfl": "Car",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 25-14",
+     "pts": 11.6
+    },
+    {
+     "slot": "W/R",
+     "player": "Woody Marks",
+     "nfl": "Hou",
+     "pos": "RB",
+     "status": null,
+     "game": "Final W 34-31",
+     "pts": 9.1
+    },
+    {
+     "slot": "BN",
+     "player": "Tyler Warren",
+     "nfl": "Ind",
+     "pos": "TE",
+     "status": null,
+     "game": "Final L 20-26",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Caleb Williams",
+     "nfl": "Chi",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 31-23",
+     "pts": 16.5
+    },
+    {
+     "slot": "BN",
+     "player": "Quinshon Judkins",
+     "nfl": "Cle",
+     "pos": "RB",
+     "status": null,
+     "game": "Final W 13-10",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Sam LaPorta",
+     "nfl": "Det",
+     "pos": "TE",
+     "status": null,
+     "game": "Bye",
+     "pts": "Bye"
+    },
+    {
+     "slot": "BN",
+     "player": "Rashee Rice",
+     "nfl": "KC",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 22-6",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Rome Odunze",
+     "nfl": "Chi",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 31-23",
+     "pts": 5.4
+    },
+    {
+     "slot": "BN",
+     "player": "RJ Harvey",
+     "nfl": "Den",
+     "pos": "RB",
+     "status": "IR",
+     "game": "Final W 17-14",
+     "pts": 13.1
+    },
+    {
+     "slot": "BN",
+     "player": "Josh Downs",
+     "nfl": "Ind",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 20-26",
+     "pts": 6.7
+    },
+    {
+     "slot": "BN",
+     "player": "Wan'Dale Robinson",
+     "nfl": "Ten",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 26-20",
+     "pts": 3.7
+    },
+    {
+     "slot": "K",
+     "player": "Cameron Dicker",
+     "nfl": "LAC",
+     "pos": "K",
+     "status": null,
+     "game": "Final L 6-22",
+     "pts": 6.0
+    },
+    {
+     "slot": "DEF",
+     "player": "Jaguars",
+     "nfl": "Jax",
+     "pos": "DEF",
+     "status": null,
+     "game": "Final L 31-34",
+     "pts": -3.0
+    }
+   ]
+  },
+  "7": {
+   "matchups": [
+    {
+     "home": "Vaqueros",
+     "home_pts": 98.94,
+     "home_proj": 157.13,
+     "away_pts": 158.04,
+     "away_proj": 162.95,
+     "away": "DUGASM"
+    },
+    {
+     "home": "Wet Serapas",
+     "home_pts": 155.22,
+     "home_proj": 150.97,
+     "away_pts": 139.36,
+     "away_proj": 146.04,
+     "away": "Baby Arm"
+    },
+    {
+     "home": "Big Balls",
+     "home_pts": 152.76,
+     "home_proj": 149.8,
+     "away_pts": 125.72,
+     "away_proj": 138.81,
+     "away": "Deepest"
+    },
+    {
+     "home": "FFAmuseBouche",
+     "home_pts": 105.38,
+     "home_proj": 125.01,
+     "away_pts": 117.24,
+     "away_proj": 135.31,
+     "away": "Good Strongs"
+    }
+   ],
+   "vaqueros": {
+    "opponent": "DUGASM",
+    "pts": 98.94,
+    "opp_pts": 158.04,
+    "result": "L"
+   },
+   "lineup": [
+    {
+     "slot": "QB",
+     "player": "Jordan Love",
+     "nfl": "GB",
+     "pos": "QB",
+     "status": null,
+     "game": "Final L 17-20",
+     "pts": 16.96
+    },
+    {
+     "slot": "QB",
+     "player": "Bo Nix",
+     "nfl": "Den",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 30-16",
+     "pts": 26.18
+    },
+    {
+     "slot": "RB",
+     "player": "Christian McCaffrey",
+     "nfl": "SF",
+     "pos": "RB",
+     "status": "Q",
+     "game": "Final L 20-29",
+     "pts": 19.0
+    },
+    {
+     "slot": "RB",
+     "player": "Derrick Henry",
+     "nfl": "Bal",
+     "pos": "RB",
+     "status": null,
+     "game": "Final L 13-35",
+     "pts": 5.4
+    },
+    {
+     "slot": "WR",
+     "player": "Nico Collins",
+     "nfl": "Hou",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 21-27",
+     "pts": 1.6
+    },
+    {
+     "slot": "WR",
+     "player": "Tetairoa McMillan",
+     "nfl": "Car",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 13-43",
+     "pts": 6.0
+    },
+    {
+     "slot": "TE",
+     "player": "Sam LaPorta",
+     "nfl": "Det",
+     "pos": "TE",
+     "status": null,
+     "game": "Final W 20-17",
+     "pts": 2.3
+    },
+    {
+     "slot": "W/T",
+     "player": "Matthew Golden",
+     "nfl": "GB",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 17-20",
+     "pts": 6.9
+    },
+    {
+     "slot": "W/R",
+     "player": "Woody Marks",
+     "nfl": "Hou",
+     "pos": "RB",
+     "status": null,
+     "game": "Final L 21-27",
+     "pts": 8.6
+    },
+    {
+     "slot": "BN",
+     "player": "Pat Freiermuth",
+     "nfl": "Pit",
+     "pos": "TE",
+     "status": null,
+     "game": "Final W 16-10",
+     "pts": 3.0
+    },
+    {
+     "slot": "BN",
+     "player": "Tyler Warren",
+     "nfl": "Ind",
+     "pos": "TE",
+     "status": null,
+     "game": "Final L 10-16",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Caleb Williams",
+     "nfl": "Chi",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 30-24",
+     "pts": 22.12
+    },
+    {
+     "slot": "BN",
+     "player": "Quinshon Judkins",
+     "nfl": "Cle",
+     "pos": "RB",
+     "status": null,
+     "game": "Final W 27-24",
+     "pts": 22.9
+    },
+    {
+     "slot": "BN",
+     "player": "Rashee Rice",
+     "nfl": "KC",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 3-20",
+     "pts": 0.0
+    },
+    {
+     "slot": "BN",
+     "player": "Rome Odunze",
+     "nfl": "Chi",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 30-24",
+     "pts": 8.9
+    },
+    {
+     "slot": "BN",
+     "player": "RJ Harvey",
+     "nfl": "Den",
+     "pos": "RB",
+     "status": "IR",
+     "game": "Final W 30-16",
+     "pts": 13.0
+    },
+    {
+     "slot": "BN",
+     "player": "Josh Downs",
+     "nfl": "Ind",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 10-16",
+     "pts": 2.8
+    },
+    {
+     "slot": "BN",
+     "player": "Wan'Dale Robinson",
+     "nfl": "Ten",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 24-27",
+     "pts": 2.7
+    },
+    {
+     "slot": "K",
+     "player": "Matt Gay",
+     "nfl": "LV",
+     "pos": "K",
+     "status": null,
+     "game": "Final L 21-35",
+     "pts": 9.0
+    },
+    {
+     "slot": "DEF",
+     "player": "Jets",
+     "nfl": "NYJ",
+     "pos": "DEF",
+     "status": null,
+     "game": "Final L 25-28",
+     "pts": -3.0
+    }
+   ]
+  },
+  "8": {
+   "matchups": [
+    {
+     "home": "Vaqueros",
+     "home_pts": 47.72,
+     "home_proj": 134.04,
+     "away_pts": 27.6,
+     "away_proj": 144.66,
+     "away": "Good Strongs"
+    },
+    {
+     "home": "Wet Serapas",
+     "home_pts": 0.0,
+     "home_proj": 159.83,
+     "away_pts": 0.0,
+     "away_proj": 131.14,
+     "away": "Deepest"
+    },
+    {
+     "home": "Baby Arm",
+     "home_pts": 21.4,
+     "home_proj": 167.28,
+     "away_pts": 10.36,
+     "away_proj": 144.97,
+     "away": "DUGASM"
+    },
+    {
+     "home": "Big Balls",
+     "home_pts": 8.6,
+     "home_proj": 155.48,
+     "away_pts": 20.2,
+     "away_proj": 140.61,
+     "away": "FFAmuseBouche"
+    }
+   ],
+   "vaqueros": {
+    "opponent": "Good Strongs",
+    "pts": 47.72,
+    "opp_pts": 27.6,
+    "result": "in progress"
+   },
+   "lineup": [
+    {
+     "slot": "QB",
+     "player": "Jordan Love",
+     "nfl": "GB",
+     "pos": "QB",
+     "status": null,
+     "game": "Final W 27-19",
+     "pts": 21.52
+    },
+    {
+     "slot": "QB",
+     "player": "Caleb Williams",
+     "nfl": "Chi",
+     "pos": "QB",
+     "status": null,
+     "game": "Mon 7:15 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "RB",
+     "player": "Derrick Henry",
+     "nfl": "Bal",
+     "pos": "RB",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "RB",
+     "player": "Quinshon Judkins",
+     "nfl": "Cle",
+     "pos": "RB",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "WR",
+     "player": "Tetairoa McMillan",
+     "nfl": "Car",
+     "pos": "WR",
+     "status": null,
+     "game": "Final L 19-27",
+     "pts": 8.8
+    },
+    {
+     "slot": "WR",
+     "player": "Rashee Rice",
+     "nfl": "KC",
+     "pos": "WR",
+     "status": null,
+     "game": "Sun 3:25 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "TE",
+     "player": "Sam LaPorta",
+     "nfl": "Det",
+     "pos": "TE",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "W/T",
+     "player": "Matthew Golden",
+     "nfl": "GB",
+     "pos": "WR",
+     "status": null,
+     "game": "Final W 27-19",
+     "pts": 17.4
+    },
+    {
+     "slot": "W/R",
+     "player": "Josh Downs",
+     "nfl": "Ind",
+     "pos": "WR",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "BN",
+     "player": "Woody Marks",
+     "nfl": "Hou",
+     "pos": "RB",
+     "status": null,
+     "game": "Bye",
+     "pts": "Bye"
+    },
+    {
+     "slot": "BN",
+     "player": "Nico Collins",
+     "nfl": "Hou",
+     "pos": "WR",
+     "status": null,
+     "game": "Bye",
+     "pts": "Bye"
+    },
+    {
+     "slot": "BN",
+     "player": "Bo Nix",
+     "nfl": "Den",
+     "pos": "QB",
+     "status": null,
+     "game": "Sun 3:25 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "BN",
+     "player": "Christian McCaffrey",
+     "nfl": "SF",
+     "pos": "RB",
+     "status": "Q",
+     "game": "Bye",
+     "pts": "Bye"
+    },
+    {
+     "slot": "BN",
+     "player": "Pat Freiermuth",
+     "nfl": "Pit",
+     "pos": "TE",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "BN",
+     "player": "Tyler Warren",
+     "nfl": "Ind",
+     "pos": "TE",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "BN",
+     "player": "Rome Odunze",
+     "nfl": "Chi",
+     "pos": "WR",
+     "status": null,
+     "game": "Mon 7:15 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "BN",
+     "player": "RJ Harvey",
+     "nfl": "Den",
+     "pos": "RB",
+     "status": "IR",
+     "game": "Sun 3:25 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "BN",
+     "player": "Wan'Dale Robinson",
+     "nfl": "Ten",
+     "pos": "WR",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "K",
+     "player": "Matt Gay",
+     "nfl": "LV",
+     "pos": "K",
+     "status": null,
+     "game": "Sun 12:00 pm",
+     "pts": "–"
+    },
+    {
+     "slot": "DEF",
+     "player": "Commanders",
+     "nfl": "Was",
+     "pos": "DEF",
+     "status": null,
+     "game": "Sun 7:20 pm",
+     "pts": "–"
+    }
+   ]
+  }
+ },
+ "standings_as_of_2026-11-01": [
+  {
+   "Rank": "1",
+   "Team": "DUGASM",
+   "W-L-T": "7-0-0",
+   "PF": "1104.28",
+   "PA": "822.16",
+   "Streak": "W-7",
+   "Waiver Bdgt": "$74",
+   "Waiver": "7",
+   "Moves": "5"
+  },
+  {
+   "Rank": "2",
+   "Team": "Big Balls",
+   "W-L-T": "5-2-0",
+   "PF": "1039.86",
+   "PA": "837.06",
+   "Streak": "W-1",
+   "Waiver Bdgt": "$14",
+   "Waiver": "6",
+   "Moves": "12"
+  },
+  {
+   "Rank": "3",
+   "Team": "Wet Serapas",
+   "W-L-T": "4-3-0",
+   "PF": "1049.20",
+   "PA": "1064.42",
+   "Streak": "W-3",
+   "Waiver Bdgt": "$67",
+   "Waiver": "5",
+   "Moves": "10"
+  },
+  {
+   "Rank": "4",
+   "Team": "Baby Arm",
+   "W-L-T": "4-3-0",
+   "PF": "1002.62",
+   "PA": "981.48",
+   "Streak": "L-1",
+   "Waiver Bdgt": "$79",
+   "Waiver": "4",
+   "Moves": "14"
+  },
+  {
+   "Rank": "5",
+   "Team": "Good Strongs",
+   "W-L-T": "3-4-0",
+   "PF": "921.28",
+   "PA": "1024.42",
+   "Streak": "W-2",
+   "Waiver Bdgt": "$29",
+   "Waiver": "3",
+   "Moves": "37"
+  },
+  {
+   "Rank": "6",
+   "Team": "Deepest",
+   "W-L-T": "2-5-0",
+   "PF": "982.26",
+   "PA": "1109.22",
+   "Streak": "L-4",
+   "Waiver Bdgt": "$92",
+   "Waiver": "8",
+   "Moves": "12"
+  },
+  {
+   "Rank": "7",
+   "Team": "Vaqueros",
+   "W-L-T": "2-5-0",
+   "PF": "919.44",
+   "PA": "1060.42",
+   "Streak": "L-2",
+   "Waiver Bdgt": "$79",
+   "Waiver": "2",
+   "Moves": "9"
+  },
+  {
+   "Rank": "8",
+   "Team": "FFAmuseBouche",
+   "W-L-T": "1-6-0",
+   "PF": "811.62",
+   "PA": "931.38",
+   "Streak": "L-5",
+   "Waiver Bdgt": "$90",
+   "Waiver": "1",
+   "Moves": "8"
+  }
+ ],
+ "transactions_all_season": [
+  {
+   "detail": "Cam Little Jax - K Free Agent Eddy Pineiro SF - K To Waivers",
+   "team_time": "FFAmuseBouche Oct 31, 4:35 pm"
+  },
+  {
+   "detail": "Jordan Addison Min - WR Free Agent Cam Ward Ten - QB To Waivers",
+   "team_time": "FFAmuseBouche Oct 31, 4:34 pm"
+  },
+  {
+   "detail": "Samaje Perine Cin - RB Free Agent TreVeyon Henderson NE - RB O To Waivers",
+   "team_time": "Good Strongs Oct 31, 1:22 pm"
+  },
+  {
+   "detail": "Makai Lemon Phi - WR Free Agent Tyreek Hill Mia - WR NA To Waivers",
+   "team_time": "Deepest Oct 31, 7:53 am"
+  },
+  {
+   "detail": "Antonio Williams Was - WR Free Agent Emanuel Wilson Sea - RB To Waivers",
+   "team_time": "Good Strongs Oct 30, 5:15 pm"
+  },
+  {
+   "detail": "Hunter Henry NE - TE Free Agent Brandin Cooks SF - WR To Waivers",
+   "team_time": "FFAmuseBouche Oct 29, 8:17 pm"
+  },
+  {
+   "detail": "Washington Was - DEF Free Agent New York NYJ - DEF To Waivers",
+   "team_time": "Vaqueros Oct 29, 7:21 pm"
+  },
+  {
+   "detail": "KC Concepcion Jr. Cle - WR Free Agent Devaughn Vele NO - WR To Waivers",
+   "team_time": "Good Strongs Oct 28, 2:05 pm"
+  },
+  {
+   "detail": "Los Angeles LAR - DEF Free Agent Xavier Worthy KC - WR To Waivers",
+   "team_time": "Wet Serapas Oct 28, 5:16 am"
+  },
+  {
+   "detail": "Evan McPherson Cin - K Free Agent Dameon Pierce Phi - RB IR To Waivers",
+   "team_time": "Big Balls Oct 28, 4:35 am"
+  },
+  {
+   "detail": "Jacksonville Jax - DEF $0 Waiver Cleveland Cle - DEF To Waivers",
+   "team_time": "Good Strongs Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Cincinnati Cin - DEF $0 Waiver San Francisco SF - DEF To Waivers",
+   "team_time": "Deepest Oct 28, 3:42 am"
+  },
+  {
+   "detail": "T.J. Hockenson Min - TE $0 Waiver Tyrone Tracy Jr. NYG - RB IR To Waivers",
+   "team_time": "Deepest Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Michael Penix Jr. Atl - QB $1 Waiver Tanner McKee Phi - QB To Waivers",
+   "team_time": "Good Strongs Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Jonah Coleman Den - RB $3 Waiver Rico Dowdle Pit - RB To Waivers",
+   "team_time": "Baby Arm Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Omar Cooper Jr. NYJ - WR $6 Waiver Aaron Rodgers Pit - QB To Waivers",
+   "team_time": "Baby Arm Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Jakobi Meyers Jax - WR $8 Waiver Tennessee Ten - DEF To Waivers",
+   "team_time": "Big Balls Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Baker Mayfield TB - QB $20 Waiver Jordan Addison Min - WR To Waivers",
+   "team_time": "DUGASM Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Brenton Strange Jax - TE Free Agent Mike Washington Jr. LV - RB To Waivers",
+   "team_time": "Good Strongs Oct 26, 11:24 am"
+  },
+  {
+   "detail": "Mike Washington Jr. LV - RB Free Agent Juwan Johnson NO - TE To Waivers",
+   "team_time": "Good Strongs Oct 25, 2:16 pm"
+  },
+  {
+   "detail": "Matt Gay LV - K Free Agent Cameron Dicker LAC - K To Waivers",
+   "team_time": "Vaqueros Oct 22, 8:20 pm"
+  },
+  {
+   "detail": "New York NYJ - DEF Free Agent Jacksonville Jax - DEF To Waivers",
+   "team_time": "Vaqueros Oct 22, 8:18 pm"
+  },
+  {
+   "detail": "Kyle Pitts Sr. Atl - TE Free Agent T.J. Hockenson Min - TE To Waivers",
+   "team_time": "Baby Arm Oct 21, 9:18 pm"
+  },
+  {
+   "detail": "Tyrone Tracy Jr. NYG - RB IR Free Agent Terry McLaurin Was - WR IR To Waivers",
+   "team_time": "Deepest Oct 21, 8:17 am"
+  },
+  {
+   "detail": "J.J. McCarthy NYG - QB Free Agent Jameis Winston NYG - QB To Waivers",
+   "team_time": "Deepest Oct 21, 8:16 am"
+  },
+  {
+   "detail": "TreVeyon Henderson NE - RB O Free Agent Chiefs KC - DEF To Waivers",
+   "team_time": "Good Strongs Oct 21, 7:14 am"
+  },
+  {
+   "detail": "Jordan Addison Min - WR Free Agent Ravens Bal - DEF To Waivers",
+   "team_time": "DUGASM Oct 21, 6:09 am"
+  },
+  {
+   "detail": "Kendre Miller NO - RB Free Agent Bengals Cin - DEF To Waivers",
+   "team_time": "Big Balls Oct 21, 4:52 am"
+  },
+  {
+   "detail": "Titans Ten - DEF Free Agent",
+   "team_time": "Big Balls Oct 21, 4:34 am"
+  },
+  {
+   "detail": "T.J. Hockenson Min - TE $0 Waiver Brenton Strange Jax - TE To Waivers",
+   "team_time": "Baby Arm Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Jake Bates Det - K $1 Waiver Cam Little Jax - K To Waivers",
+   "team_time": "Wet Serapas Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Browns Cle - DEF $2 Waiver",
+   "team_time": "Good Strongs Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Xavier Worthy KC - WR $5 Waiver Jaleel McLaughlin Cle - RB To Waivers",
+   "team_time": "Wet Serapas Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Tyler Loop Bal - K To Waivers",
+   "team_time": "Good Strongs Oct 20, 9:47 am"
+  },
+  {
+   "detail": "Brandin Cooks SF - WR Free Agent Deebo Samuel Sr. SF - WR Q To Waivers",
+   "team_time": "FFAmuseBouche Oct 19, 5:35 pm"
+  },
+  {
+   "detail": "Will Reichard Min - K Free Agent",
+   "team_time": "Good Strongs Oct 19, 4:59 pm"
+  },
+  {
+   "detail": "Jalen Hurts Phi - QB IR To Waivers",
+   "team_time": "Good Strongs Oct 19, 3:41 pm"
+  },
+  {
+   "detail": "Pat Freiermuth Pit - TE Free Agent Colts Ind - DEF To Waivers",
+   "team_time": "Vaqueros Oct 18, 11:25 am"
+  },
+  {
+   "detail": "Jaleel McLaughlin Cle - RB Free Agent Xavier Worthy KC - WR To Waivers",
+   "team_time": "Wet Serapas Oct 18, 10:38 am"
+  },
+  {
+   "detail": "Tanner McKee Phi - QB Free Agent Keenan Allen Ind - WR To Waivers",
+   "team_time": "Good Strongs Oct 17, 4:15 pm"
+  },
+  {
+   "detail": "Rachaad White Was - RB Free Agent Courtland Sutton Den - WR To Waivers",
+   "team_time": "Wet Serapas Oct 17, 1:24 pm"
+  },
+  {
+   "detail": "Colts Ind - DEF Free Agent Michael Pittman Jr. Pit - WR IR To Waivers",
+   "team_time": "Vaqueros Oct 15, 5:43 pm"
+  },
+  {
+   "detail": "Malik Willis Mia - QB Free Agent Jakobi Meyers Jax - WR To Waivers",
+   "team_time": "Good Strongs Oct 15, 2:20 pm"
+  },
+  {
+   "detail": "Tyler Loop Bal - K Free Agent Trey Smack GB - K To Waivers",
+   "team_time": "Good Strongs Oct 15, 2:15 pm"
+  },
+  {
+   "detail": "Dameon Pierce Phi - RB IR Free Agent TreVeyon Henderson NE - RB O To Waivers",
+   "team_time": "Big Balls Oct 15, 4:33 am"
+  },
+  {
+   "detail": "Tre Tucker LV - WR Free Agent Will Shipley Phi - RB IR To Waivers",
+   "team_time": "Baby Arm Oct 14, 9:09 am"
+  },
+  {
+   "detail": "Brenton Strange Jax - TE Free Agent KC Concepcion Jr. Cle - WR To Waivers",
+   "team_time": "Baby Arm Oct 14, 9:07 am"
+  },
+  {
+   "detail": "Germie Bernard Pit - WR Free Agent Commanders Was - DEF To Waivers",
+   "team_time": "Good Strongs Oct 14, 6:53 am"
+  },
+  {
+   "detail": "Trey Smack GB - K Free Agent Will Reichard Min - K To Waivers",
+   "team_time": "Good Strongs Oct 14, 6:50 am"
+  },
+  {
+   "detail": "Spencer Shrader Ind - K Free Agent Brian Robinson Jr. Atl - RB O To Waivers",
+   "team_time": "Deepest Oct 14, 6:41 am"
+  },
+  {
+   "detail": "Dallas Goedert Phi - TE $0 Waiver Jake Bates Det - K To Waivers",
+   "team_time": "Deepest Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Jameis Winston NYG - QB $0 Waiver Romeo Doubs NE - WR IR To Waivers",
+   "team_time": "Deepest Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Keenan Allen Ind - WR $0 Waiver Jordan Addison Min - WR To Waivers",
+   "team_time": "Good Strongs Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Ravens Bal - DEF $3 Waiver Makai Lemon Phi - WR To Waivers",
+   "team_time": "DUGASM Oct 14, 3:39 am"
+  },
+  {
+   "detail": "J.K. Dobbins Den - RB $8 Waiver Rachaad White Was - RB To Waivers",
+   "team_time": "Big Balls Oct 14, 3:39 am"
+  },
+  {
+   "detail": "MarShawn Lloyd GB - RB $15 Waiver Chris Rodriguez Jr. Jax - RB To Waivers",
+   "team_time": "Big Balls Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Chiefs KC - DEF Free Agent Kenyon Sadiq NYJ - TE To Waivers",
+   "team_time": "Good Strongs Oct 12, 11:47 am"
+  },
+  {
+   "detail": "KC Concepcion Jr. Cle - WR Free Agent Mark Andrews Bal - TE To Waivers",
+   "team_time": "Baby Arm Oct 9, 2:52 pm"
+  },
+  {
+   "detail": "Will Reichard Min - K Free Agent Tyler Loop Bal - K To Waivers",
+   "team_time": "Good Strongs Oct 9, 2:00 pm"
+  },
+  {
+   "detail": "Jaguars Jax - DEF Free Agent Packers GB - DEF To Waivers",
+   "team_time": "Vaqueros Oct 8, 7:44 pm"
+  },
+  {
+   "detail": "Devaughn Vele NO - WR Free Agent Dontayvion Wicks Phi - WR O To Waivers",
+   "team_time": "Good Strongs Oct 8, 12:09 pm"
+  },
+  {
+   "detail": "Aaron Rodgers Pit - QB Free Agent Tre Tucker LV - WR To Waivers",
+   "team_time": "Baby Arm Oct 8, 9:19 am"
+  },
+  {
+   "detail": "Commanders Was - DEF Free Agent Ravens Bal - DEF To Waivers",
+   "team_time": "Good Strongs Oct 7, 7:22 am"
+  },
+  {
+   "detail": "Brian Robinson Jr. Atl - RB O $0 Waiver",
+   "team_time": "Deepest Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Tyreek Hill Mia - WR NA $2 Waiver Buccaneers TB - DEF To Waivers",
+   "team_time": "Deepest Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Will Shipley Phi - RB IR $6 Waiver Keenan Allen Ind - WR To Waivers",
+   "team_time": "Baby Arm Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Bengals Cin - DEF $7 Waiver J.K. Dobbins Den - RB To Waivers",
+   "team_time": "Big Balls Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Jacoby Brissett Ari - QB $10 Waiver Bills Buf - DEF To Waivers",
+   "team_time": "FFAmuseBouche Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Bears Chi - DEF To Waivers",
+   "team_time": "Wet Serapas Oct 6, 9:33 pm"
+  },
+  {
+   "detail": "Bills Buf - DEF Free Agent",
+   "team_time": "FFAmuseBouche Oct 3, 7:22 am"
+  },
+  {
+   "detail": "Emanuel Wilson Sea - RB Free Agent Devaughn Vele NO - WR To Waivers",
+   "team_time": "Good Strongs Oct 2, 4:42 pm"
+  },
+  {
+   "detail": "De'Von Achane Mia - RB IR",
+   "team_time": "DUGASM ( James ) Oct 1, 9:02 pm"
+  },
+  {
+   "detail": "Traded to",
+   "team_time": "Good Strongs ( James ) Oct 1, 9:02 pm"
+  },
+  {
+   "detail": "Wan'Dale Robinson Ten - WR Free Agent Jayden Reed GB - WR IR To Waivers",
+   "team_time": "Vaqueros Oct 1, 6:04 pm"
+  },
+  {
+   "detail": "Zach Charbonnet Sea - RB Free Agent Drew Lock Sea - QB Q To Waivers",
+   "team_time": "FFAmuseBouche Oct 1, 12:29 pm"
+  },
+  {
+   "detail": "Ravens Bal - DEF Free Agent Chris Bell Mia - WR To Waivers",
+   "team_time": "Good Strongs Oct 1, 12:25 pm"
+  },
+  {
+   "detail": "Kenyon Sadiq NYJ - TE Free Agent Chiefs KC - DEF To Waivers",
+   "team_time": "Good Strongs Sep 30, 7:11 am"
+  },
+  {
+   "detail": "Chris Bell Mia - WR $0 Waiver Brian Thomas Jr. Jax - WR To Waivers",
+   "team_time": "Good Strongs Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Keenan Allen Ind - WR $3 Waiver Kyle Pitts Sr. Atl - TE To Waivers",
+   "team_time": "Baby Arm Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Bears Chi - DEF $3 Waiver Dallas Goedert Phi - TE To Waivers",
+   "team_time": "Wet Serapas Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Kirk Cousins LV - QB $5 Waiver Baker Mayfield TB - QB To Waivers",
+   "team_time": "Good Strongs Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Jakobi Meyers Jax - WR $7 Waiver Chris Godwin Jr. TB - WR To Waivers",
+   "team_time": "Good Strongs Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Jordan Addison Min - WR $9 Waiver Dalton Schultz Hou - TE To Waivers",
+   "team_time": "Good Strongs Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Steelers Pit - DEF $10 Waiver Eagles Phi - DEF To Waivers",
+   "team_time": "Big Balls Sep 30, 3:42 am"
+  },
+  {
+   "detail": "Braelon Allen NYJ - RB $30 Waiver Tank Bigsby Phi - RB IR To Waivers",
+   "team_time": "Good Strongs Sep 30, 3:42 am"
+  },
+  {
+   "detail": "J.K. Dobbins Den - RB Free Agent Jonah Coleman Den - RB To Waivers",
+   "team_time": "Big Balls Sep 26, 3:45 pm"
+  },
+  {
+   "detail": "Tank Bigsby Phi - RB IR Free Agent MarShawn Lloyd GB - RB To Waivers",
+   "team_time": "Good Strongs Sep 25, 11:18 am"
+  },
+  {
+   "detail": "Deshaun Watson Cle - QB Free Agent",
+   "team_time": "Wet Serapas Sep 24, 3:41 pm"
+  },
+  {
+   "detail": "Dontayvion Wicks Phi - WR O Free Agent Jonathon Brooks Car - RB IR To Waivers",
+   "team_time": "Good Strongs Sep 23, 9:15 am"
+  },
+  {
+   "detail": "Dalton Schultz Hou - TE $2 Waiver Kenny Gainwell TB - RB To Waivers",
+   "team_time": "Good Strongs Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Vikings Min - DEF $3 Waiver Ravens Bal - DEF To Waivers",
+   "team_time": "DUGASM Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Alvin Kamara NO - RB $3 Waiver J.K. Dobbins Den - RB To Waivers",
+   "team_time": "Wet Serapas Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Packers GB - DEF $3 Waiver Chargers LAC - DEF To Waivers",
+   "team_time": "Vaqueros Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Devaughn Vele NO - WR $9 Waiver Quentin Johnston LAC - WR To Waivers",
+   "team_time": "Good Strongs Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Jonah Coleman Den - RB $18 Waiver Malik Willis Mia - QB To Waivers",
+   "team_time": "Big Balls Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Josh Downs Ind - WR $18 Waiver KC Concepcion Jr. Cle - WR To Waivers",
+   "team_time": "Vaqueros Sep 23, 3:46 am"
+  },
+  {
+   "detail": "Ravens Bal - DEF Free Agent Vikings Min - DEF To Waivers",
+   "team_time": "DUGASM Sep 20, 9:32 am"
+  },
+  {
+   "detail": "Drew Lock Sea - QB Q Free Agent De'Zhaun Stribling SF - WR IR To Waivers",
+   "team_time": "FFAmuseBouche Sep 16, 10:00 am"
+  },
+  {
+   "detail": "Chiefs KC - DEF $0 Waiver Jaguars Jax - DEF To Waivers",
+   "team_time": "Good Strongs Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Tyler Loop Bal - K $0 Waiver Harrison Mevis LAR - K NA To Waivers",
+   "team_time": "Good Strongs Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Buccaneers TB - DEF $3 Waiver Wan'Dale Robinson Ten - WR To Waivers",
+   "team_time": "Deepest Sep 16, 3:38 am"
+  },
+  {
+   "detail": "49ers SF - DEF $3 Waiver Josh Downs Ind - WR To Waivers",
+   "team_time": "Deepest Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Denzel Boston Cle - WR $3 Waiver Mike Washington Jr. LV - RB To Waivers",
+   "team_time": "Baby Arm Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Emmett Johnson KC - RB $6 Waiver Jonah Coleman Den - RB To Waivers",
+   "team_time": "Good Strongs Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Dallas Goedert Phi - TE $7 Waiver Keenan Allen Ind - WR To Waivers",
+   "team_time": "Wet Serapas Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Kaelon Black SF - RB $14 Waiver Malik Washington Mia - WR To Waivers",
+   "team_time": "Wet Serapas Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Jalen Coker Car - WR $20 Waiver Jordan Addison Min - WR To Waivers",
+   "team_time": "Big Balls Sep 16, 3:38 am"
+  },
+  {
+   "detail": "Tre Tucker LV - WR Free Agent Rams LAR - DEF To Waivers",
+   "team_time": "Baby Arm Sep 13, 11:16 am"
+  },
+  {
+   "detail": "Tyler Allgeier Ari - RB Free Agent Denzel Boston Cle - WR To Waivers",
+   "team_time": "Baby Arm Sep 2, 6:09 pm"
+  },
+  {
+   "detail": "Mike Washington Jr. LV - RB Free Agent Nicholas Singleton Ten - RB To Waivers",
+   "team_time": "Baby Arm Sep 1, 10:26 pm"
+  },
+  {
+   "detail": "Harrison Mevis LAR - K NA Free Agent Isiah Pacheco Det - RB IR To Waivers",
+   "team_time": "Good Strongs Sep 1, 9:26 am"
+  },
+  {
+   "detail": "Jaguars Jax - DEF Waiver",
+   "team_time": "Good Strongs Sep 1, 2:15 am"
+  }
+ ],
+ "transactions_gap": [
+  {
+   "detail": "Cam Little Jax - K Free Agent Eddy Pineiro SF - K To Waivers",
+   "team_time": "FFAmuseBouche Oct 31, 4:35 pm"
+  },
+  {
+   "detail": "Jordan Addison Min - WR Free Agent Cam Ward Ten - QB To Waivers",
+   "team_time": "FFAmuseBouche Oct 31, 4:34 pm"
+  },
+  {
+   "detail": "Samaje Perine Cin - RB Free Agent TreVeyon Henderson NE - RB O To Waivers",
+   "team_time": "Good Strongs Oct 31, 1:22 pm"
+  },
+  {
+   "detail": "Makai Lemon Phi - WR Free Agent Tyreek Hill Mia - WR NA To Waivers",
+   "team_time": "Deepest Oct 31, 7:53 am"
+  },
+  {
+   "detail": "Antonio Williams Was - WR Free Agent Emanuel Wilson Sea - RB To Waivers",
+   "team_time": "Good Strongs Oct 30, 5:15 pm"
+  },
+  {
+   "detail": "Hunter Henry NE - TE Free Agent Brandin Cooks SF - WR To Waivers",
+   "team_time": "FFAmuseBouche Oct 29, 8:17 pm"
+  },
+  {
+   "detail": "Washington Was - DEF Free Agent New York NYJ - DEF To Waivers",
+   "team_time": "Vaqueros Oct 29, 7:21 pm"
+  },
+  {
+   "detail": "KC Concepcion Jr. Cle - WR Free Agent Devaughn Vele NO - WR To Waivers",
+   "team_time": "Good Strongs Oct 28, 2:05 pm"
+  },
+  {
+   "detail": "Los Angeles LAR - DEF Free Agent Xavier Worthy KC - WR To Waivers",
+   "team_time": "Wet Serapas Oct 28, 5:16 am"
+  },
+  {
+   "detail": "Evan McPherson Cin - K Free Agent Dameon Pierce Phi - RB IR To Waivers",
+   "team_time": "Big Balls Oct 28, 4:35 am"
+  },
+  {
+   "detail": "Jacksonville Jax - DEF $0 Waiver Cleveland Cle - DEF To Waivers",
+   "team_time": "Good Strongs Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Cincinnati Cin - DEF $0 Waiver San Francisco SF - DEF To Waivers",
+   "team_time": "Deepest Oct 28, 3:42 am"
+  },
+  {
+   "detail": "T.J. Hockenson Min - TE $0 Waiver Tyrone Tracy Jr. NYG - RB IR To Waivers",
+   "team_time": "Deepest Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Michael Penix Jr. Atl - QB $1 Waiver Tanner McKee Phi - QB To Waivers",
+   "team_time": "Good Strongs Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Jonah Coleman Den - RB $3 Waiver Rico Dowdle Pit - RB To Waivers",
+   "team_time": "Baby Arm Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Omar Cooper Jr. NYJ - WR $6 Waiver Aaron Rodgers Pit - QB To Waivers",
+   "team_time": "Baby Arm Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Jakobi Meyers Jax - WR $8 Waiver Tennessee Ten - DEF To Waivers",
+   "team_time": "Big Balls Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Baker Mayfield TB - QB $20 Waiver Jordan Addison Min - WR To Waivers",
+   "team_time": "DUGASM Oct 28, 3:42 am"
+  },
+  {
+   "detail": "Brenton Strange Jax - TE Free Agent Mike Washington Jr. LV - RB To Waivers",
+   "team_time": "Good Strongs Oct 26, 11:24 am"
+  },
+  {
+   "detail": "Mike Washington Jr. LV - RB Free Agent Juwan Johnson NO - TE To Waivers",
+   "team_time": "Good Strongs Oct 25, 2:16 pm"
+  },
+  {
+   "detail": "Matt Gay LV - K Free Agent Cameron Dicker LAC - K To Waivers",
+   "team_time": "Vaqueros Oct 22, 8:20 pm"
+  },
+  {
+   "detail": "New York NYJ - DEF Free Agent Jacksonville Jax - DEF To Waivers",
+   "team_time": "Vaqueros Oct 22, 8:18 pm"
+  },
+  {
+   "detail": "Kyle Pitts Sr. Atl - TE Free Agent T.J. Hockenson Min - TE To Waivers",
+   "team_time": "Baby Arm Oct 21, 9:18 pm"
+  },
+  {
+   "detail": "Tyrone Tracy Jr. NYG - RB IR Free Agent Terry McLaurin Was - WR IR To Waivers",
+   "team_time": "Deepest Oct 21, 8:17 am"
+  },
+  {
+   "detail": "J.J. McCarthy NYG - QB Free Agent Jameis Winston NYG - QB To Waivers",
+   "team_time": "Deepest Oct 21, 8:16 am"
+  },
+  {
+   "detail": "TreVeyon Henderson NE - RB O Free Agent Chiefs KC - DEF To Waivers",
+   "team_time": "Good Strongs Oct 21, 7:14 am"
+  },
+  {
+   "detail": "Jordan Addison Min - WR Free Agent Ravens Bal - DEF To Waivers",
+   "team_time": "DUGASM Oct 21, 6:09 am"
+  },
+  {
+   "detail": "Kendre Miller NO - RB Free Agent Bengals Cin - DEF To Waivers",
+   "team_time": "Big Balls Oct 21, 4:52 am"
+  },
+  {
+   "detail": "Titans Ten - DEF Free Agent",
+   "team_time": "Big Balls Oct 21, 4:34 am"
+  },
+  {
+   "detail": "T.J. Hockenson Min - TE $0 Waiver Brenton Strange Jax - TE To Waivers",
+   "team_time": "Baby Arm Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Jake Bates Det - K $1 Waiver Cam Little Jax - K To Waivers",
+   "team_time": "Wet Serapas Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Browns Cle - DEF $2 Waiver",
+   "team_time": "Good Strongs Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Xavier Worthy KC - WR $5 Waiver Jaleel McLaughlin Cle - RB To Waivers",
+   "team_time": "Wet Serapas Oct 21, 3:44 am"
+  },
+  {
+   "detail": "Tyler Loop Bal - K To Waivers",
+   "team_time": "Good Strongs Oct 20, 9:47 am"
+  },
+  {
+   "detail": "Brandin Cooks SF - WR Free Agent Deebo Samuel Sr. SF - WR Q To Waivers",
+   "team_time": "FFAmuseBouche Oct 19, 5:35 pm"
+  },
+  {
+   "detail": "Will Reichard Min - K Free Agent",
+   "team_time": "Good Strongs Oct 19, 4:59 pm"
+  },
+  {
+   "detail": "Jalen Hurts Phi - QB IR To Waivers",
+   "team_time": "Good Strongs Oct 19, 3:41 pm"
+  },
+  {
+   "detail": "Pat Freiermuth Pit - TE Free Agent Colts Ind - DEF To Waivers",
+   "team_time": "Vaqueros Oct 18, 11:25 am"
+  },
+  {
+   "detail": "Jaleel McLaughlin Cle - RB Free Agent Xavier Worthy KC - WR To Waivers",
+   "team_time": "Wet Serapas Oct 18, 10:38 am"
+  },
+  {
+   "detail": "Tanner McKee Phi - QB Free Agent Keenan Allen Ind - WR To Waivers",
+   "team_time": "Good Strongs Oct 17, 4:15 pm"
+  },
+  {
+   "detail": "Rachaad White Was - RB Free Agent Courtland Sutton Den - WR To Waivers",
+   "team_time": "Wet Serapas Oct 17, 1:24 pm"
+  },
+  {
+   "detail": "Colts Ind - DEF Free Agent Michael Pittman Jr. Pit - WR IR To Waivers",
+   "team_time": "Vaqueros Oct 15, 5:43 pm"
+  },
+  {
+   "detail": "Malik Willis Mia - QB Free Agent Jakobi Meyers Jax - WR To Waivers",
+   "team_time": "Good Strongs Oct 15, 2:20 pm"
+  },
+  {
+   "detail": "Tyler Loop Bal - K Free Agent Trey Smack GB - K To Waivers",
+   "team_time": "Good Strongs Oct 15, 2:15 pm"
+  },
+  {
+   "detail": "Dameon Pierce Phi - RB IR Free Agent TreVeyon Henderson NE - RB O To Waivers",
+   "team_time": "Big Balls Oct 15, 4:33 am"
+  },
+  {
+   "detail": "Tre Tucker LV - WR Free Agent Will Shipley Phi - RB IR To Waivers",
+   "team_time": "Baby Arm Oct 14, 9:09 am"
+  },
+  {
+   "detail": "Brenton Strange Jax - TE Free Agent KC Concepcion Jr. Cle - WR To Waivers",
+   "team_time": "Baby Arm Oct 14, 9:07 am"
+  },
+  {
+   "detail": "Germie Bernard Pit - WR Free Agent Commanders Was - DEF To Waivers",
+   "team_time": "Good Strongs Oct 14, 6:53 am"
+  },
+  {
+   "detail": "Trey Smack GB - K Free Agent Will Reichard Min - K To Waivers",
+   "team_time": "Good Strongs Oct 14, 6:50 am"
+  },
+  {
+   "detail": "Spencer Shrader Ind - K Free Agent Brian Robinson Jr. Atl - RB O To Waivers",
+   "team_time": "Deepest Oct 14, 6:41 am"
+  },
+  {
+   "detail": "Dallas Goedert Phi - TE $0 Waiver Jake Bates Det - K To Waivers",
+   "team_time": "Deepest Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Jameis Winston NYG - QB $0 Waiver Romeo Doubs NE - WR IR To Waivers",
+   "team_time": "Deepest Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Keenan Allen Ind - WR $0 Waiver Jordan Addison Min - WR To Waivers",
+   "team_time": "Good Strongs Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Ravens Bal - DEF $3 Waiver Makai Lemon Phi - WR To Waivers",
+   "team_time": "DUGASM Oct 14, 3:39 am"
+  },
+  {
+   "detail": "J.K. Dobbins Den - RB $8 Waiver Rachaad White Was - RB To Waivers",
+   "team_time": "Big Balls Oct 14, 3:39 am"
+  },
+  {
+   "detail": "MarShawn Lloyd GB - RB $15 Waiver Chris Rodriguez Jr. Jax - RB To Waivers",
+   "team_time": "Big Balls Oct 14, 3:39 am"
+  },
+  {
+   "detail": "Chiefs KC - DEF Free Agent Kenyon Sadiq NYJ - TE To Waivers",
+   "team_time": "Good Strongs Oct 12, 11:47 am"
+  },
+  {
+   "detail": "KC Concepcion Jr. Cle - WR Free Agent Mark Andrews Bal - TE To Waivers",
+   "team_time": "Baby Arm Oct 9, 2:52 pm"
+  },
+  {
+   "detail": "Will Reichard Min - K Free Agent Tyler Loop Bal - K To Waivers",
+   "team_time": "Good Strongs Oct 9, 2:00 pm"
+  },
+  {
+   "detail": "Jaguars Jax - DEF Free Agent Packers GB - DEF To Waivers",
+   "team_time": "Vaqueros Oct 8, 7:44 pm"
+  },
+  {
+   "detail": "Devaughn Vele NO - WR Free Agent Dontayvion Wicks Phi - WR O To Waivers",
+   "team_time": "Good Strongs Oct 8, 12:09 pm"
+  },
+  {
+   "detail": "Aaron Rodgers Pit - QB Free Agent Tre Tucker LV - WR To Waivers",
+   "team_time": "Baby Arm Oct 8, 9:19 am"
+  },
+  {
+   "detail": "Commanders Was - DEF Free Agent Ravens Bal - DEF To Waivers",
+   "team_time": "Good Strongs Oct 7, 7:22 am"
+  },
+  {
+   "detail": "Brian Robinson Jr. Atl - RB O $0 Waiver",
+   "team_time": "Deepest Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Tyreek Hill Mia - WR NA $2 Waiver Buccaneers TB - DEF To Waivers",
+   "team_time": "Deepest Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Will Shipley Phi - RB IR $6 Waiver Keenan Allen Ind - WR To Waivers",
+   "team_time": "Baby Arm Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Bengals Cin - DEF $7 Waiver J.K. Dobbins Den - RB To Waivers",
+   "team_time": "Big Balls Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Jacoby Brissett Ari - QB $10 Waiver Bills Buf - DEF To Waivers",
+   "team_time": "FFAmuseBouche Oct 7, 3:40 am"
+  },
+  {
+   "detail": "Bears Chi - DEF To Waivers",
+   "team_time": "Wet Serapas Oct 6, 9:33 pm"
+  }
+ ],
+ "vaqueros_gap_transactions": [
+  {
+   "detail": "Washington Was - DEF Free Agent New York NYJ - DEF To Waivers",
+   "team_time": "Vaqueros Oct 29, 7:21 pm"
+  },
+  {
+   "detail": "Matt Gay LV - K Free Agent Cameron Dicker LAC - K To Waivers",
+   "team_time": "Vaqueros Oct 22, 8:20 pm"
+  },
+  {
+   "detail": "New York NYJ - DEF Free Agent Jacksonville Jax - DEF To Waivers",
+   "team_time": "Vaqueros Oct 22, 8:18 pm"
+  },
+  {
+   "detail": "Pat Freiermuth Pit - TE Free Agent Colts Ind - DEF To Waivers",
+   "team_time": "Vaqueros Oct 18, 11:25 am"
+  },
+  {
+   "detail": "Colts Ind - DEF Free Agent Michael Pittman Jr. Pit - WR IR To Waivers",
+   "team_time": "Vaqueros Oct 15, 5:43 pm"
+  },
+  {
+   "detail": "Jaguars Jax - DEF Free Agent Packers GB - DEF To Waivers",
+   "team_time": "Vaqueros Oct 8, 7:44 pm"
+  }
+ ],
+ "notes": [
+  "Times are America/Chicago as shown by Yahoo.",
+  "Week 8 in progress at collection (Sun Nov 1 ~11:20 AM CT).",
+  "Vaqueros moves Oct 8-29 were not made by Grok Bot (presumably Andrew).",
+  "Scores: actual points; *_proj are Yahoo projections."
+ ]
+}
