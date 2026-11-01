@@ -1,93 +1,208 @@
 {
-  "schema_version": "0.1.0",
-  "generated_at": "2026-09-21T13:26:37Z",
+  "schema_version": "0.2.0",
+  "generated_at": "2026-11-01T12:50:45-06:00",
+  "label": "Seasons covered: 2013-2025 complete + 2026 weeks 1-7 final (week 8 in progress). NOT all-time (2026 unfinished; see identity caveat).",
   "seasons": {
-    "2026": {
-      "status": "partial_week_1_only",
-      "matchups": 4
-    },
-    "2025": {
+    "2013": {
       "status": "matchups_complete_weeks_1_16",
       "matchups": 64,
-      "gaps": [
-        "Week 17/18 no completed results on Yahoo"
-      ]
-    },
-    "2024": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
+      "reconciled_vs_standings": true,
       "gaps": []
     },
-    "2023": {
+    "2014": {
       "status": "matchups_complete_weeks_1_16",
       "matchups": 64,
+      "reconciled_vs_standings": true,
       "gaps": []
     },
-    "2022": {
+    "2015": {
       "status": "matchups_complete_weeks_1_16",
       "matchups": 64,
+      "reconciled_vs_standings": true,
       "gaps": []
     },
-    "2021": {
+    "2016": {
       "status": "matchups_complete_weeks_1_16",
       "matchups": 64,
-      "gaps": []
-    },
-    "2020": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "gaps": []
-    },
-    "2019": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "gaps": []
-    },
-    "2018": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
+      "reconciled_vs_standings": true,
       "gaps": []
     },
     "2017": {
       "status": "matchups_complete_weeks_1_16",
       "matchups": 64,
+      "reconciled_vs_standings": true,
       "gaps": []
     },
-    "2016": {
-      "status": "partial_weeks_1_15",
-      "matchups": 60,
-      "gaps": [
-        "Week 16 still blocked \u2014 Yahoo Request denied on Monday long cool-down probe (2026-09-21)"
-      ]
+    "2018": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
     },
-    "2013-2015": {
-      "status": "pending_yahoo_rate_limit",
-      "note": "Not attempted this run after 2016 W16 Request denied; leagues 2015=1044, 2014=76443, 2013=11558"
+    "2019": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2020": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2021": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2022": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2023": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2024": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2025": {
+      "status": "matchups_complete_weeks_1_16",
+      "matchups": 64,
+      "reconciled_vs_standings": true,
+      "gaps": []
+    },
+    "2026": {
+      "status": "in_season_weeks_1_7_final_week_8_in_progress",
+      "matchups": 32,
+      "final": 28,
+      "in_progress": 4,
+      "reconciled_vs_standings": "weeks 1-7 match Yahoo standings (W-L-T, PF, PA) for all 8 teams",
+      "gaps": [
+        "Weeks 9-14 regular season and 15-16 playoffs not yet played",
+        "Week 8 scores are live snapshots (status=in_progress), not final"
+      ]
     }
   },
-  "label": "PARTIAL \u2014 do not call all-time",
-  "rate_limit": {
-    "status": "still_active_request_denied",
-    "last_hit_at_local": "2026-09-21 ~08:26 America/Chicago",
-    "url": "https://football.fantasysports.yahoo.com/2016/f1/79234?module=standings&lhst=matchups&matchup_week=16",
-    "blocked": [
-      "2016 week 16",
-      "2015",
-      "2014",
-      "2013"
-    ],
-    "plan": "Monday long cool-down single-page probe still blocked. Do not hammer. Wait longer (multi-day) before next single-page probe of 2016 W16 only; then 2015\u21922014\u21922013 if clear.",
-    "probe_evidence": "results/evidence/2016/week16-monday-cooldown-probe-2026-09-21.png"
+  "manager_identities": {
+    "status": "resolved_all_seasons_2013_2026",
+    "source": "Yahoo Managers page per season (/{season}/f1/{league_id}/teams), profile handle used as identity key",
+    "caveats": [
+      "Two distinct Yahoo profiles named Brad: brad95652 (bigballs 2013-2021) and brad58794 (Big Balls 2024-2026). Same person NOT proven; kept as separate manager keys.",
+      "Managers page shows the manager of record at season end; a mid-season ownership change would not be visible.",
+      "Team bigballs/Bigballs (team 2) was managed by Brandon (brandon128978) in 2022-2023, not Brad \u2014 name continuity is not manager continuity."
+    ]
   },
-  "h2h_partial": {
-    "matchup": "Vaqueros vs Big Balls (name variants bigballs/Bigballs/Big Balls)",
-    "scope": "packaged Final matchups 2016\u20132025 only (2016 missing W16; 2013\u20132015 missing; 2026 week1 has no H2H)",
-    "record": {
-      "Vaqueros": 6,
-      "Big_Balls": 15,
-      "ties": 0,
-      "games": 21
+  "reconciliation": {
+    "result": "0 mismatches: regular-season W-L-T, PF and PA from matchup rows equal Yahoo standings for all 8 teams in every season 2013-2025 and 2026 through week 7",
+    "file": "validation/standings-reconciliation.csv"
+  },
+  "completeness_audit": {
+    "2013": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2013/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 217 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~192+ league moves not archived",
+      "trades": "Yahoo counter implies ~21 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
     },
-    "label": "PARTIAL \u2014 not all-time"
+    "2014": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2014/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 284 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~259+ league moves not archived",
+      "trades": "Yahoo counter implies ~11 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2015": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2015/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 200 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~175+ league moves not archived",
+      "trades": "Yahoo counter implies ~3 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2016": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2016/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 196 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~171+ league moves not archived",
+      "trades": "Yahoo counter implies ~5 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2017": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2017/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 244 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~219+ league moves not archived",
+      "trades": "Yahoo counter implies ~5 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2018": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2018/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 218 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~193+ league moves not archived",
+      "trades": "Yahoo counter implies ~6 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2019": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2019/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 182 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~157+ league moves not archived",
+      "trades": "Yahoo counter implies ~4 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2020": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2020/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 234 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~209+ league moves not archived",
+      "trades": "Yahoo counter implies ~1 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2021": {
+      "draft": "INCOMPLETE: 2021/draft-results.yml has the 22-round header but only 8 pick cells and no player links; full draft board needs re-capture",
+      "transactions": "PARTIAL: Yahoo Managers page counts 260 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~235+ league moves not archived",
+      "trades": "Yahoo counter shows 0 trades \u2014 nothing missing",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2022": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2022/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 224 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~199+ league moves not archived",
+      "trades": "Yahoo counter implies ~2 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2023": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2023/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 197 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~172+ league moves not archived",
+      "trades": "Yahoo counter implies ~2 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2024": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2024/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 191 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~166+ league moves not archived",
+      "trades": "Yahoo counter implies ~3 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2025": {
+      "draft": "complete pick grid captured (all rounds x 8 picks) in 2025/draft-results.yml",
+      "transactions": "PARTIAL: Yahoo Managers page counts 192 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~167+ league moves not archived",
+      "trades": "Yahoo counter implies ~4 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
+    },
+    "2026": {
+      "draft": "NOT CAPTURED in history/ (2026 draft results not archived)",
+      "transactions": "PARTIAL: 107 moves on Yahoo; backfill.json holds transactions page snapshots from 2026-11-01 (see daily/.../backfill-2026-10-05_to_2026-11-01)",
+      "trades": "Yahoo counter implies ~1 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
+      "weekly_rosters": "Vaqueros weekly lineups weeks 5-8 in backfill.json; weeks 1-4 Vaqueros in daily reports; other 7 teams MISSING"
+    }
+  },
+  "remaining_gaps": [
+    "2026 weeks 8 (in progress) through 16",
+    "2021 draft board re-capture",
+    "2026 draft results not archived",
+    "League-wide transaction logs beyond first 25 rows for every season 2013-2025",
+    "Trade logs beyond first visible page (seasons with >0 trades)",
+    "Weekly rosters for all non-Vaqueros teams, all seasons; Vaqueros weekly rosters for 2013-2025",
+    "2025 Week 17/18: Yahoo shows no matchups (season ended week 16) \u2014 not a gap"
+  ],
+  "rate_limit": {
+    "status": "clear",
+    "note": "All 2026-11-01 collection completed with ~6s throttle; no 429/999 encountered"
   }
 }
