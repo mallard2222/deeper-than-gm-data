@@ -1,208 +1,362 @@
 {
-  "schema_version": "0.2.0",
-  "generated_at": "2026-11-01T12:50:45-06:00",
-  "label": "Seasons covered: 2013-2025 complete + 2026 weeks 1-7 final (week 8 in progress). NOT all-time (2026 unfinished; see identity caveat).",
-  "seasons": {
-    "2013": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2014": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2015": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2016": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2017": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2018": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2019": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2020": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2021": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2022": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2023": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2024": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2025": {
-      "status": "matchups_complete_weeks_1_16",
-      "matchups": 64,
-      "reconciled_vs_standings": true,
-      "gaps": []
-    },
-    "2026": {
-      "status": "in_season_weeks_1_7_final_week_8_in_progress",
-      "matchups": 32,
-      "final": 28,
-      "in_progress": 4,
-      "reconciled_vs_standings": "weeks 1-7 match Yahoo standings (W-L-T, PF, PA) for all 8 teams",
-      "gaps": [
-        "Weeks 9-14 regular season and 15-16 playoffs not yet played",
-        "Week 8 scores are live snapshots (status=in_progress), not final"
-      ]
-    }
+ "generated_at": "2026-11-01T14:54:30-06:00",
+ "remaining_gaps": [
+  "2026 Week 8 matchups not final (4 games in_progress); 2026 Weeks 9\u201316 not yet played.",
+  "2026 Week 8 rosters not archived (the live week renders different markup; capture after the games are final). 2026 Weeks 9\u201316 not played.",
+  "2022 rosters: t1 w7 (captured_score_mismatch), t1 w9 (captured_score_mismatch), t1 w10 (captured_score_mismatch), t1 w14 (captured_score_mismatch), t2 w7 (captured_score_mismatch), t2 w8 (captured_score_mismatch), t2 w9 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w6 (captured_score_mismatch), t3 w7 (captured_score_mismatch), t3 w8 (captured_score_mismatch), t3 w14 (captured_score_mismatch), t4 w6 (captured_score_mismatch), t4 w9 (captured_score_mismatch), t4 w10 (captured_score_mismatch), t4 w14 (captured_score_mismatch), t5 w6 (captured_score_mismatch), t5 w8 (captured_score_mismatch), t5 w9 (captured_score_mismatch), t5 w10 (captured_score_mismatch), t5 w13 (captured_score_mismatch), t6 w6 (captured_score_mismatch), t6 w7 (captured_score_mismatch), t6 w9 (captured_score_mismatch), t6 w14 (captured_score_mismatch), t7 w7 (captured_score_mismatch), t7 w8 (captured_score_mismatch), t7 w9 (captured_score_mismatch), t7 w14 (captured_score_mismatch), t8 w7 (captured_score_mismatch), t8 w9 (captured_score_mismatch), t8 w10 (captured_score_mismatch), t8 w14 (captured_score_mismatch)",
+  "2023 rosters: t1 w6 (captured_score_mismatch), t1 w9 (captured_score_mismatch), t1 w11 (captured_score_mismatch), t2 w6 (captured_score_mismatch), t2 w7 (captured_score_mismatch), t2 w10 (captured_score_mismatch), t2 w11 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w5 (captured_score_mismatch), t3 w10 (captured_score_mismatch), t3 w11 (captured_score_mismatch), t3 w13 (captured_score_mismatch), t4 w5 (captured_score_mismatch), t4 w7 (captured_score_mismatch), t4 w9 (captured_score_mismatch), t4 w10 (captured_score_mismatch), t4 w13 (captured_score_mismatch), t5 w6 (captured_score_mismatch), t5 w9 (captured_score_mismatch), t5 w10 (captured_score_mismatch), t5 w13 (captured_score_mismatch), t6 w6 (captured_score_mismatch), t6 w7 (captured_score_mismatch), t6 w9 (captured_score_mismatch), t6 w13 (captured_score_mismatch), t6 w14 (captured_score_mismatch), t7 w7 (captured_score_mismatch), t7 w11 (captured_score_mismatch), t7 w13 (captured_score_mismatch), t7 w14 (captured_score_mismatch), t8 w6 (captured_score_mismatch), t8 w10 (captured_score_mismatch), t8 w13 (captured_score_mismatch)",
+  "2024 rosters: t1 w12 (captured_score_mismatch), t1 w14 (captured_score_mismatch), t2 w6 (captured_score_mismatch), t2 w12 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w5 (captured_score_mismatch), t3 w10 (captured_score_mismatch), t3 w14 (captured_score_mismatch), t4 w7 (captured_score_mismatch), t4 w10 (captured_score_mismatch), t4 w12 (captured_score_mismatch), t5 w6 (captured_score_mismatch), t5 w11 (captured_score_mismatch), t5 w14 (captured_score_mismatch), t6 w6 (captured_score_mismatch), t6 w12 (captured_score_mismatch), t7 w6 (captured_score_mismatch), t7 w14 (captured_score_mismatch), t8 w6 (captured_score_mismatch), t8 w11 (captured_score_mismatch), t8 w12 (captured_score_mismatch), t8 w14 (captured_score_mismatch)",
+  "2025 rosters: t1 w8 (captured_score_mismatch), t1 w10 (captured_score_mismatch), t1 w14 (captured_score_mismatch), t2 w6 (captured_score_mismatch), t2 w11 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w6 (captured_score_mismatch), t3 w8 (captured_score_mismatch), t5 w5 (captured_score_mismatch), t5 w9 (captured_score_mismatch), t5 w12 (captured_score_mismatch), t6 w5 (captured_score_mismatch)",
+  "Waiver priority/FAAB bids and per-transaction FAAB amounts are not shown in the league transaction list and were not captured."
+ ],
+ "roster_status": {
+  "2013": {
+   "captured_validated": 128
   },
-  "manager_identities": {
-    "status": "resolved_all_seasons_2013_2026",
-    "source": "Yahoo Managers page per season (/{season}/f1/{league_id}/teams), profile handle used as identity key",
-    "caveats": [
-      "Two distinct Yahoo profiles named Brad: brad95652 (bigballs 2013-2021) and brad58794 (Big Balls 2024-2026). Same person NOT proven; kept as separate manager keys.",
-      "Managers page shows the manager of record at season end; a mid-season ownership change would not be visible.",
-      "Team bigballs/Bigballs (team 2) was managed by Brandon (brandon128978) in 2022-2023, not Brad \u2014 name continuity is not manager continuity."
-    ]
+  "2014": {
+   "captured_validated": 128
   },
-  "reconciliation": {
-    "result": "0 mismatches: regular-season W-L-T, PF and PA from matchup rows equal Yahoo standings for all 8 teams in every season 2013-2025 and 2026 through week 7",
-    "file": "validation/standings-reconciliation.csv"
+  "2015": {
+   "captured_validated": 128
   },
-  "completeness_audit": {
-    "2013": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2013/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 217 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~192+ league moves not archived",
-      "trades": "Yahoo counter implies ~21 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2014": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2014/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 284 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~259+ league moves not archived",
-      "trades": "Yahoo counter implies ~11 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2015": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2015/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 200 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~175+ league moves not archived",
-      "trades": "Yahoo counter implies ~3 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2016": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2016/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 196 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~171+ league moves not archived",
-      "trades": "Yahoo counter implies ~5 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2017": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2017/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 244 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~219+ league moves not archived",
-      "trades": "Yahoo counter implies ~5 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2018": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2018/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 218 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~193+ league moves not archived",
-      "trades": "Yahoo counter implies ~6 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2019": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2019/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 182 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~157+ league moves not archived",
-      "trades": "Yahoo counter implies ~4 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2020": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2020/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 234 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~209+ league moves not archived",
-      "trades": "Yahoo counter implies ~1 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2021": {
-      "draft": "INCOMPLETE: 2021/draft-results.yml has the 22-round header but only 8 pick cells and no player links; full draft board needs re-capture",
-      "transactions": "PARTIAL: Yahoo Managers page counts 260 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~235+ league moves not archived",
-      "trades": "Yahoo counter shows 0 trades \u2014 nothing missing",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2022": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2022/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 224 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~199+ league moves not archived",
-      "trades": "Yahoo counter implies ~2 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2023": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2023/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 197 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~172+ league moves not archived",
-      "trades": "Yahoo counter implies ~2 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2024": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2024/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 191 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~166+ league moves not archived",
-      "trades": "Yahoo counter implies ~3 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2025": {
-      "draft": "complete pick grid captured (all rounds x 8 picks) in 2025/draft-results.yml",
-      "transactions": "PARTIAL: Yahoo Managers page counts 192 moves; history captures only the first 25-row page of All Transactions (+ Vaqueros-filtered page). ~167+ league moves not archived",
-      "trades": "Yahoo counter implies ~4 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "MISSING for all teams/weeks; only Vaqueros end-of-season team page snapshot (vaqueros-team.yml / andrew-team-page.yml)"
-    },
-    "2026": {
-      "draft": "NOT CAPTURED in history/ (2026 draft results not archived)",
-      "transactions": "PARTIAL: 107 moves on Yahoo; backfill.json holds transactions page snapshots from 2026-11-01 (see daily/.../backfill-2026-10-05_to_2026-11-01)",
-      "trades": "Yahoo counter implies ~1 trades; captured trades.yml is first visible page only \u2014 not asserted complete",
-      "weekly_rosters": "Vaqueros weekly lineups weeks 5-8 in backfill.json; weeks 1-4 Vaqueros in daily reports; other 7 teams MISSING"
-    }
+  "2016": {
+   "captured_validated": 128
   },
-  "remaining_gaps": [
-    "2026 weeks 8 (in progress) through 16",
-    "2021 draft board re-capture",
-    "2026 draft results not archived",
-    "League-wide transaction logs beyond first 25 rows for every season 2013-2025",
-    "Trade logs beyond first visible page (seasons with >0 trades)",
-    "Weekly rosters for all non-Vaqueros teams, all seasons; Vaqueros weekly rosters for 2013-2025",
-    "2025 Week 17/18: Yahoo shows no matchups (season ended week 16) \u2014 not a gap"
-  ],
-  "rate_limit": {
-    "status": "clear",
-    "note": "All 2026-11-01 collection completed with ~6s throttle; no 429/999 encountered"
+  "2017": {
+   "captured_validated": 128
+  },
+  "2018": {
+   "captured_validated": 128
+  },
+  "2019": {
+   "captured_validated": 128
+  },
+  "2020": {
+   "captured_validated": 128
+  },
+  "2021": {
+   "captured_validated": 128
+  },
+  "2022": {
+   "captured_validated": 95,
+   "captured_score_mismatch": 33
+  },
+  "2023": {
+   "captured_validated": 95,
+   "captured_score_mismatch": 33
+  },
+  "2024": {
+   "captured_validated": 106,
+   "captured_score_mismatch": 22
+  },
+  "2025": {
+   "captured_validated": 116,
+   "captured_score_mismatch": 12
+  },
+  "2026": {
+   "captured_validated": 56,
+   "not_collected": 8
   }
+ },
+ "transactions": {
+  "2013": {
+   "pages": 11,
+   "rows_raw": 256,
+   "duplicates_removed": 0,
+   "transactions": 256,
+   "trades": 21,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 199,
+    "drop": 17,
+    "trade": 21,
+    "add": 19
+   }
+  },
+  "2014": {
+   "pages": 13,
+   "rows_raw": 321,
+   "duplicates_removed": 0,
+   "transactions": 320,
+   "trades": 11,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 272,
+    "drop": 21,
+    "add": 12,
+    "trade": 11,
+    "vetoed_trade": 1,
+    "trading_list": 3
+   }
+  },
+  "2015": {
+   "pages": 9,
+   "rows_raw": 207,
+   "duplicates_removed": 0,
+   "transactions": 207,
+   "trades": 3,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 196,
+    "trade": 3,
+    "add": 4,
+    "drop": 4
+   }
+  },
+  "2016": {
+   "pages": 9,
+   "rows_raw": 202,
+   "duplicates_removed": 0,
+   "transactions": 202,
+   "trades": 5,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 196,
+    "trade": 5,
+    "trading_list": 1
+   }
+  },
+  "2017": {
+   "pages": 11,
+   "rows_raw": 252,
+   "duplicates_removed": 0,
+   "transactions": 252,
+   "trades": 5,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 241,
+    "add": 3,
+    "drop": 3,
+    "trade": 5
+   }
+  },
+  "2018": {
+   "pages": 10,
+   "rows_raw": 229,
+   "duplicates_removed": 0,
+   "transactions": 229,
+   "trades": 6,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 213,
+    "add": 5,
+    "drop": 5,
+    "trade": 6
+   }
+  },
+  "2019": {
+   "pages": 8,
+   "rows_raw": 189,
+   "duplicates_removed": 0,
+   "transactions": 189,
+   "trades": 4,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 181,
+    "trade": 4,
+    "add": 1,
+    "drop": 1,
+    "trading_list": 2
+   }
+  },
+  "2020": {
+   "pages": 10,
+   "rows_raw": 249,
+   "duplicates_removed": 0,
+   "transactions": 249,
+   "trades": 1,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 219,
+    "drop": 14,
+    "add": 15,
+    "trade": 1
+   }
+  },
+  "2021": {
+   "pages": 12,
+   "rows_raw": 284,
+   "duplicates_removed": 0,
+   "transactions": 284,
+   "trades": 0,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 241,
+    "drop": 24,
+    "add": 19
+   }
+  },
+  "2022": {
+   "pages": 10,
+   "rows_raw": 231,
+   "duplicates_removed": 0,
+   "transactions": 231,
+   "trades": 2,
+   "pagination_complete": true,
+   "kinds": {
+    "drop": 5,
+    "add": 2,
+    "add+drop": 222,
+    "trade": 2
+   }
+  },
+  "2023": {
+   "pages": 9,
+   "rows_raw": 204,
+   "duplicates_removed": 0,
+   "transactions": 204,
+   "trades": 2,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 196,
+    "drop": 4,
+    "trade": 2,
+    "add": 1,
+    "trading_list": 1
+   }
+  },
+  "2024": {
+   "pages": 9,
+   "rows_raw": 202,
+   "duplicates_removed": 0,
+   "transactions": 202,
+   "trades": 3,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 186,
+    "drop": 7,
+    "add": 6,
+    "trade": 3
+   }
+  },
+  "2025": {
+   "pages": 9,
+   "rows_raw": 210,
+   "duplicates_removed": 0,
+   "transactions": 210,
+   "trades": 4,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 175,
+    "drop": 13,
+    "add": 17,
+    "trade": 4,
+    "trading_list": 1
+   }
+  },
+  "2026": {
+   "pages": 5,
+   "rows_raw": 111,
+   "duplicates_removed": 0,
+   "transactions": 111,
+   "trades": 1,
+   "pagination_complete": true,
+   "kinds": {
+    "add+drop": 100,
+    "add": 7,
+    "drop": 3,
+    "trade": 1
+   }
+  }
+ },
+ "drafts": [
+  {
+   "season": 2013,
+   "picks": 160,
+   "rounds": 20,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2014,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2015,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2016,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2017,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2018,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2019,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2020,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2021,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2022,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2023,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2024,
+   "picks": 176,
+   "rounds": 22,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2025,
+   "picks": 160,
+   "rounds": 20,
+   "teams": 8,
+   "complete_grid": true
+  },
+  {
+   "season": 2026,
+   "picks": 160,
+   "rounds": 20,
+   "teams": 8,
+   "complete_grid": true
+  }
+ ]
 }
