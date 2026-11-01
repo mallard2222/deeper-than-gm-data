@@ -2,8 +2,20 @@
 
 Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition (not an instruction to transact).
 
-Last daily: **2026-10-04 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-04.md)) — **Yahoo collection FAILURE (recurring; routine paused)**; public news OK.  
-Prior successful daily: **2026-10-02 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md)).
+Last daily: **2026-11-01 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-01.md)) — **success** (Yahoo cookie OK).  
+Prior: 2026-10-04 (Yahoo failure; routine paused Oct 4 → Nov 1; Oct 5–31 news not reviewed).
+
+## WATCH — new Sun Nov 1 (~5:00 PM CT)
+
+- **Derrick Henry (Vaqueros RB):** Lamar Jackson thumb surgery + IR; Huntley toe; rookie Fagnano QB3 finished. ROS downgrade risk — evaluate hold vs trade at Tue desk.
+- **W8 vs Good Strongs:** 103.72–158.58 live (proj 133.89–164.30); Caleb MNF + WAS DEF SNF remaining. Likely 2-6.
+- **W9 vs Big Balls:** proj 126.62–139.18.
+- **FA RB/TE hedges (W Nov 4):** Kenny Gainwell, Rico Dowdle, Darnell Washington. Not authorized.
+- **Christian Watson (Good Strongs):** Q after ambulance trip TNF — Golden target share.
+
+## RESOLVED — Sun Oct 4 items (closed 2026-11-01 via backfill)
+
+- Yahoo re-auth: cookie session works again (Nov 1). Rice played W5–W8 per backfill (Bye W5, 0.0 W6/W7, live W8 with TD).
 
 ## WATCH — new Sun Oct 4 (~5:00 PM CT)
 

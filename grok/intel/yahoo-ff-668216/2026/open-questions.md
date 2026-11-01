@@ -1,6 +1,6 @@
 # Open questions — ranked gaps
 
-1. **Yahoo auth / cookie session (critical — NEW 2026-10-03):** Fantasy login rejected; seed refresh required before Sunday routines.
+1. **~~Yahoo auth / cookie session~~ (RESOLVED 2026-11-01):** cookie session works again; Oct 5–31 daily news never reviewed (gap).
 2. **Exact waiver processing timezone (medium):** Yahoo display again showed **Sep 30, 3:42 am** unlabeled (same pattern as W03). Processing confirmed complete; exact TZ label still missing on settings.
 3. **Keepers unknown (high):** keepers still not listed in 2026 settings evidence (reconfirmed through 2026-10-02; not rechecked Sat).
 4. **Private claims not visible (high):** other managers' private bids/claims cannot be observed.
@@ -21,3 +21,9 @@
 - Rice hamstring severity (Mon/Wed updates) and W5 availability.
 - Barkley / Bigsby MRI results; Bigsby + Shipley Deeper Than ownership (Yahoo needed).
 - Official Yahoo W4 result vs Deepest after MNF (ESPN estimates only so far).
+
+## Added 2026-11-01 daily
+- Ravens QB plan after Lamar IR (veteran signing? Huntley toe severity) → Henry ROS outlook.
+- Final W8 result after MNF (finalize routine Nov 3 6:30 AM).
+- Henry hedge (Gainwell/Dowdle) vs hold — Andrew decision by Tue Nov 3 waiver window.
+- Rice W6/W7 0.0 in backfill — reason not documented (injury vs inactive); needs source check.
