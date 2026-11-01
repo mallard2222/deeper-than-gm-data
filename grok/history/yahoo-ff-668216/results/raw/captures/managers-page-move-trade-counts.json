@@ -1,0 +1,483 @@
+{
+ "note": "Moves/Trades counters from Yahoo Managers page per team; used to audit transaction capture completeness.",
+ "source": "https://football.fantasysports.yahoo.com/{season}/f1/{league_id}/teams",
+ "retrieved_at": "2026-11-01T12:49:52-06:00",
+ "seasons": {
+  "2013": {
+   "4": {
+    "moves": 44,
+    "trades": 10
+   },
+   "5": {
+    "moves": 7,
+    "trades": 4
+   },
+   "7": {
+    "moves": 33,
+    "trades": 4
+   },
+   "6": {
+    "moves": 3,
+    "trades": 3
+   },
+   "8": {
+    "moves": 25,
+    "trades": 3
+   },
+   "3": {
+    "moves": 49,
+    "trades": 13
+   },
+   "2": {
+    "moves": 18,
+    "trades": 3
+   },
+   "1": {
+    "moves": 38,
+    "trades": 2
+   }
+  },
+  "2014": {
+   "8": {
+    "moves": 25,
+    "trades": 0
+   },
+   "6": {
+    "moves": 20,
+    "trades": 5
+   },
+   "7": {
+    "moves": 66,
+    "trades": 3
+   },
+   "5": {
+    "moves": 8,
+    "trades": 2
+   },
+   "2": {
+    "moves": 38,
+    "trades": 5
+   },
+   "3": {
+    "moves": 77,
+    "trades": 3
+   },
+   "4": {
+    "moves": 17,
+    "trades": 1
+   },
+   "1": {
+    "moves": 33,
+    "trades": 3
+   }
+  },
+  "2015": {
+   "8": {
+    "moves": 38,
+    "trades": 0
+   },
+   "5": {
+    "moves": 23,
+    "trades": 1
+   },
+   "3": {
+    "moves": 24,
+    "trades": 0
+   },
+   "2": {
+    "moves": 9,
+    "trades": 1
+   },
+   "6": {
+    "moves": 22,
+    "trades": 1
+   },
+   "4": {
+    "moves": 38,
+    "trades": 1
+   },
+   "7": {
+    "moves": 12,
+    "trades": 1
+   },
+   "1": {
+    "moves": 34,
+    "trades": 1
+   }
+  },
+  "2016": {
+   "2": {
+    "moves": 27,
+    "trades": 1
+   },
+   "3": {
+    "moves": 22,
+    "trades": 0
+   },
+   "4": {
+    "moves": 36,
+    "trades": 0
+   },
+   "5": {
+    "moves": 5,
+    "trades": 2
+   },
+   "6": {
+    "moves": 15,
+    "trades": 2
+   },
+   "7": {
+    "moves": 40,
+    "trades": 1
+   },
+   "8": {
+    "moves": 18,
+    "trades": 3
+   },
+   "1": {
+    "moves": 33,
+    "trades": 1
+   }
+  },
+  "2017": {
+   "2": {
+    "moves": 38,
+    "trades": 1
+   },
+   "3": {
+    "moves": 14,
+    "trades": 2
+   },
+   "4": {
+    "moves": 30,
+    "trades": 0
+   },
+   "5": {
+    "moves": 25,
+    "trades": 2
+   },
+   "6": {
+    "moves": 17,
+    "trades": 2
+   },
+   "7": {
+    "moves": 54,
+    "trades": 1
+   },
+   "8": {
+    "moves": 22,
+    "trades": 0
+   },
+   "1": {
+    "moves": 44,
+    "trades": 2
+   }
+  },
+  "2018": {
+   "2": {
+    "moves": 32,
+    "trades": 1
+   },
+   "3": {
+    "moves": 29,
+    "trades": 0
+   },
+   "4": {
+    "moves": 31,
+    "trades": 2
+   },
+   "5": {
+    "moves": 12,
+    "trades": 2
+   },
+   "6": {
+    "moves": 20,
+    "trades": 2
+   },
+   "7": {
+    "moves": 45,
+    "trades": 1
+   },
+   "8": {
+    "moves": 17,
+    "trades": 2
+   },
+   "1": {
+    "moves": 32,
+    "trades": 2
+   }
+  },
+  "2019": {
+   "2": {
+    "moves": 18,
+    "trades": 0
+   },
+   "3": {
+    "moves": 16,
+    "trades": 1
+   },
+   "4": {
+    "moves": 43,
+    "trades": 3
+   },
+   "5": {
+    "moves": 5,
+    "trades": 0
+   },
+   "6": {
+    "moves": 15,
+    "trades": 2
+   },
+   "7": {
+    "moves": 39,
+    "trades": 0
+   },
+   "8": {
+    "moves": 20,
+    "trades": 0
+   },
+   "1": {
+    "moves": 26,
+    "trades": 2
+   }
+  },
+  "2020": {
+   "2": {
+    "moves": 24,
+    "trades": 0
+   },
+   "3": {
+    "moves": 16,
+    "trades": 1
+   },
+   "4": {
+    "moves": 54,
+    "trades": 0
+   },
+   "5": {
+    "moves": 16,
+    "trades": 1
+   },
+   "6": {
+    "moves": 23,
+    "trades": 0
+   },
+   "7": {
+    "moves": 52,
+    "trades": 0
+   },
+   "8": {
+    "moves": 13,
+    "trades": 0
+   },
+   "1": {
+    "moves": 36,
+    "trades": 0
+   }
+  },
+  "2021": {
+   "2": {
+    "moves": 20,
+    "trades": 0
+   },
+   "3": {
+    "moves": 30,
+    "trades": 0
+   },
+   "4": {
+    "moves": 38,
+    "trades": 0
+   },
+   "5": {
+    "moves": 15,
+    "trades": 0
+   },
+   "6": {
+    "moves": 31,
+    "trades": 0
+   },
+   "7": {
+    "moves": 64,
+    "trades": 0
+   },
+   "8": {
+    "moves": 18,
+    "trades": 0
+   },
+   "1": {
+    "moves": 44,
+    "trades": 0
+   }
+  },
+  "2022": {
+   "2": {
+    "moves": 28,
+    "trades": 1
+   },
+   "3": {
+    "moves": 18,
+    "trades": 1
+   },
+   "4": {
+    "moves": 43,
+    "trades": 1
+   },
+   "5": {
+    "moves": 10,
+    "trades": 0
+   },
+   "6": {
+    "moves": 21,
+    "trades": 0
+   },
+   "7": {
+    "moves": 55,
+    "trades": 1
+   },
+   "8": {
+    "moves": 18,
+    "trades": 0
+   },
+   "1": {
+    "moves": 31,
+    "trades": 0
+   }
+  },
+  "2023": {
+   "2": {
+    "moves": 38,
+    "trades": 1
+   },
+   "3": {
+    "moves": 13,
+    "trades": 1
+   },
+   "4": {
+    "moves": 28,
+    "trades": 0
+   },
+   "5": {
+    "moves": 11,
+    "trades": 1
+   },
+   "6": {
+    "moves": 19,
+    "trades": 1
+   },
+   "7": {
+    "moves": 36,
+    "trades": 0
+   },
+   "8": {
+    "moves": 12,
+    "trades": 0
+   },
+   "1": {
+    "moves": 40,
+    "trades": 0
+   }
+  },
+  "2024": {
+   "2": {
+    "moves": 53,
+    "trades": 2
+   },
+   "4": {
+    "moves": 18,
+    "trades": 1
+   },
+   "3": {
+    "moves": 11,
+    "trades": 0
+   },
+   "5": {
+    "moves": 11,
+    "trades": 1
+   },
+   "6": {
+    "moves": 15,
+    "trades": 0
+   },
+   "7": {
+    "moves": 43,
+    "trades": 2
+   },
+   "8": {
+    "moves": 17,
+    "trades": 0
+   },
+   "1": {
+    "moves": 23,
+    "trades": 0
+   }
+  },
+  "2025": {
+   "2": {
+    "moves": 46,
+    "trades": 2
+   },
+   "3": {
+    "moves": 9,
+    "trades": 0
+   },
+   "4": {
+    "moves": 15,
+    "trades": 0
+   },
+   "5": {
+    "moves": 15,
+    "trades": 1
+   },
+   "6": {
+    "moves": 23,
+    "trades": 2
+   },
+   "7": {
+    "moves": 42,
+    "trades": 1
+   },
+   "8": {
+    "moves": 10,
+    "trades": 0
+   },
+   "1": {
+    "moves": 32,
+    "trades": 2
+   }
+  },
+  "2026": {
+   "2": {
+    "moves": 14,
+    "trades": 0
+   },
+   "3": {
+    "moves": 12,
+    "trades": 0
+   },
+   "4": {
+    "moves": 12,
+    "trades": 0
+   },
+   "5": {
+    "moves": 5,
+    "trades": 1
+   },
+   "6": {
+    "moves": 8,
+    "trades": 0
+   },
+   "7": {
+    "moves": 37,
+    "trades": 1
+   },
+   "8": {
+    "moves": 9,
+    "trades": 0
+   },
+   "1": {
+    "moves": 10,
+    "trades": 0
+   }
+  }
+ }
+}
