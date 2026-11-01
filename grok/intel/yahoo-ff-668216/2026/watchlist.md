@@ -15,7 +15,7 @@ Prior: 2026-10-04 (Yahoo failure; routine paused Oct 4 → Nov 1; Oct 5–31 new
 
 ## RESOLVED — Sun Oct 4 items (closed 2026-11-01 via backfill)
 
-- Yahoo re-auth: cookie session works again (Nov 1). Rice played W5–W8 per backfill (Bye W5, 0.0 W6/W7, live W8 with TD).
+- Yahoo re-auth: cookie session works again (Nov 1). Rice per backfill: BN on bye (first backfill week), BN 0.0 in two later Final games, back in WR lineup W8 (11.8 at half, live at 5:01 PM CT). Reason for the 0.0 weeks not documented.
 
 ## WATCH — new Sun Oct 4 (~5:00 PM CT)
 

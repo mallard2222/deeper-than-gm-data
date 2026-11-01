@@ -26,4 +26,4 @@
 - Ravens QB plan after Lamar IR (veteran signing? Huntley toe severity) → Henry ROS outlook.
 - Final W8 result after MNF (finalize routine Nov 3 6:30 AM).
 - Henry hedge (Gainwell/Dowdle) vs hold — Andrew decision by Tue Nov 3 waiver window.
-- Rice W6/W7 0.0 in backfill — reason not documented (injury vs inactive); needs source check.
+- Rice BN 0.0 in two backfill weeks — reason not documented (injury vs inactive); needs source check.
