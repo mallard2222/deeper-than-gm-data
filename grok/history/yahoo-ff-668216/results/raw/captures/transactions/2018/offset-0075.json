@@ -1,0 +1,849 @@
+{
+ "season": 2018,
+ "league_id": 16765,
+ "offset": 75,
+ "source_url": "https://football.fantasysports.yahoo.com/2018/f1/16765/transactions?transactionsfilter=all&count=75",
+ "has_next": true,
+ "retrieved_at": "2026-11-01T13:06:15-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Derrick Henry",
+     "yahoo_player_id": 29279,
+     "nfl_team_pos": "Bal - RB",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Nov 11, 7:38 am",
+   "text": "\ue035 Derrick Henry Bal - RB Free Agent Dezbians Nov 11, 7:38 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Robbie Chosen",
+     "yahoo_player_id": 29785,
+     "nfl_team_pos": "Was - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Nov 11, 4:53 am",
+   "text": "\ue033 Robbie Chosen Was - WR NA To Waivers Vaqueros Nov 11, 4:53 am"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 11, 4:53 am",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "Vaqueros",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Larry Fitzgerald",
+       "yahoo_player_id": 6762,
+       "nfl_team_pos": "Ari - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Sony Michel",
+       "yahoo_player_id": 31001,
+       "nfl_team_pos": "LAC - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "Dezbians",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Davante Adams",
+       "yahoo_player_id": 27581,
+       "nfl_team_pos": "LAR - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Larry Fitzgerald Ari - WR NA Sony Michel LAC - RB NA Round 5 Traded to Vaqueros ( James ) Nov 11, 4:53 am | Davante Adams LAR - WR NA Round 10 Traded to Dezbians ( James ) Nov 11, 4:53 am"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 10, 4:25 pm",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "Dezbians",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Travis Kelce",
+       "yahoo_player_id": 26686,
+       "nfl_team_pos": "KC - TE"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      }
+     ]
+    },
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jimmy Graham",
+       "yahoo_player_id": 24070,
+       "nfl_team_pos": "NO - TE"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Travis Kelce KC - TE Round 6 Round 9 Traded to Dezbians ( James ) Nov 10, 4:25 pm | Jimmy Graham NO - TE NA Round 2 Round 4 Traded to DUGASM ( James ) Nov 10, 4:25 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 10, 2:38 pm",
+   "commissioner_profile_shown": null,
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Mike Evans",
+       "yahoo_player_id": 27535,
+       "nfl_team_pos": "SF - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Emmanuel Sanders",
+       "yahoo_player_id": 24057,
+       "nfl_team_pos": "Buf - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 11"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Nick Chubb",
+       "yahoo_player_id": 31005,
+       "nfl_team_pos": "Hou - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Demaryius Thomas",
+       "yahoo_player_id": 23997,
+       "nfl_team_pos": "NE - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Mike Evans SF - WR Emmanuel Sanders Buf - WR NA Round 11 Traded to FFAmuseBouche Nov 10, 2:38 pm | Nick Chubb Hou - RB NA Demaryius Thomas NE - WR NA Round 7 Traded to Wet Serapas Nov 10, 2:38 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 10, 2:08 pm",
+   "commissioner_profile_shown": null,
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "bigballs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Corey Davis",
+       "yahoo_player_id": 30118,
+       "nfl_team_pos": "NYJ - WR"
+      },
+      {
+       "kind": "player",
+       "name": "LeSean McCoy",
+       "yahoo_player_id": 9317,
+       "nfl_team_pos": "TB - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Marquez Valdes-Scantling",
+       "yahoo_player_id": 31144,
+       "nfl_team_pos": "Pit - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Baker Mayfield",
+       "yahoo_player_id": 30971,
+       "nfl_team_pos": "TB - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Julio Jones",
+       "yahoo_player_id": 24793,
+       "nfl_team_pos": "Phi - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Le'Veon Bell",
+       "yahoo_player_id": 26671,
+       "nfl_team_pos": "TB - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Corey Davis NYJ - WR NA LeSean McCoy TB - RB NA Marquez Valdes-Scantling Pit - WR NA Round 1 Round 4 Traded to bigballs Nov 10, 2:08 pm | Baker Mayfield TB - QB Julio Jones Phi - WR NA Le'Veon Bell TB - RB NA Round 9 Round 10 Traded to Wet Serapas Nov 10, 2:08 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Malcolm Brown",
+     "yahoo_player_id": 28990,
+     "nfl_team_pos": "LAR - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Ito Smith",
+     "yahoo_player_id": 31096,
+     "nfl_team_pos": "Dal - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 9, 3:49 pm",
+   "text": "\ue035 \ue033 Malcolm Brown LAR - RB NA Free Agent Ito Smith Dal - RB NA To Waivers Good Strongs Nov 9, 3:49 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 9, 1:14 pm",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "Vaqueros",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Mike Davis",
+       "yahoo_player_id": 28514,
+       "nfl_team_pos": "Bal - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Jordy Nelson",
+       "yahoo_player_id": 8813,
+       "nfl_team_pos": "LV - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Todd Gurley",
+       "yahoo_player_id": 28398,
+       "nfl_team_pos": "Atl - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Cooper Kupp",
+       "yahoo_player_id": 30182,
+       "nfl_team_pos": "Sea - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Mike Davis Bal - RB NA Jordy Nelson LV - WR NA Round 1 Round 2 Traded to Vaqueros ( James ) Nov 9, 1:14 pm | Todd Gurley Atl - RB NA Cooper Kupp Sea - WR Round 6 Round 7 Traded to FFAmuseBouche ( James ) Nov 9, 1:14 pm"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Isaiah Crowell",
+     "yahoo_player_id": 28014,
+     "nfl_team_pos": "LV - RB",
+     "note": "Waiver"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 9, 3:03 am",
+   "text": "\ue035 Isaiah Crowell LV - RB NA Waiver DUGASM Nov 9, 3:03 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Nick Mullens",
+     "yahoo_player_id": 30563,
+     "nfl_team_pos": "Jax - QB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Tyler Ervin",
+     "yahoo_player_id": 29353,
+     "nfl_team_pos": "GB - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Deepest"
+    }
+   ],
+   "timestamp_text": "Nov 8, 7:09 am",
+   "text": "\ue035 \ue033 Nick Mullens Jax - QB NA Free Agent Tyler Ervin GB - RB NA To Waivers Deepest Nov 8, 7:09 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Packers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "GB - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Texans",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Hou - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 6,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Nov 7, 7:56 pm",
+   "text": "\ue035 \ue033 Packers GB - DEF Free Agent Texans Hou - DEF To Waivers FFAmuseBouche Nov 7, 7:56 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Matt Bryant",
+     "yahoo_player_id": 6243,
+     "nfl_team_pos": "Atl - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Jamaal Williams",
+     "yahoo_player_id": 30247,
+     "nfl_team_pos": "NO - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 6,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Nov 7, 7:55 pm",
+   "text": "\ue035 \ue033 Matt Bryant Atl - K NA Free Agent Jamaal Williams NO - RB NA To Waivers FFAmuseBouche Nov 7, 7:55 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 7, 11:35 am",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Amari Cooper",
+       "yahoo_player_id": 28392,
+       "nfl_team_pos": "Buf - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Blake Bortles",
+       "yahoo_player_id": 27531,
+       "nfl_team_pos": "GB - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Mike Williams",
+       "yahoo_player_id": 30120,
+       "nfl_team_pos": "Pit - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Cam Newton",
+       "yahoo_player_id": 24788,
+       "nfl_team_pos": "Car - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Robert Woods",
+       "yahoo_player_id": 26664,
+       "nfl_team_pos": "Pit - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Ezekiel Elliott",
+       "yahoo_player_id": 29238,
+       "nfl_team_pos": "Dal - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Amari Cooper Buf - WR NA Blake Bortles GB - QB NA Mike Williams Pit - WR NA Round 1 Round 2 Traded to DUGASM ( James ) Nov 7, 11:35 am | Cam Newton Car - QB NA Robert Woods Pit - WR NA Ezekiel Elliott Dal - RB NA Round 5 Round 7 Traded to Good Strongs ( James ) Nov 7, 11:35 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Steelers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Pit - DEF",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 7, 10:02 am",
+   "text": "\ue035 Steelers Pit - DEF Free Agent Good Strongs Nov 7, 10:02 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Jason Myers",
+     "yahoo_player_id": 28378,
+     "nfl_team_pos": "Sea - K",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 7, 9:57 am",
+   "text": "\ue035 Jason Myers Sea - K Free Agent Good Strongs Nov 7, 9:57 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Tyrell Williams",
+     "yahoo_player_id": 28691,
+     "nfl_team_pos": "Det - WR",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 7, 9:19 am",
+   "text": "\ue035 Tyrell Williams Det - WR NA Free Agent DUGASM Nov 7, 9:19 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "C.J. Anderson",
+     "yahoo_player_id": 26878,
+     "nfl_team_pos": "Det - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 7, 8:34 am",
+   "text": "\ue033 C.J. Anderson Det - RB NA To Waivers DUGASM Nov 7, 8:34 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Panthers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Car - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 7, 8:31 am",
+   "text": "\ue033 Panthers Car - DEF To Waivers DUGASM Nov 7, 8:31 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Eli Manning",
+     "yahoo_player_id": 6760,
+     "nfl_team_pos": "NYG - QB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Javorius Allen",
+     "yahoo_player_id": 28513,
+     "nfl_team_pos": "NYG - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Eli Manning NYG - QB NA Waiver Javorius Allen NYG - RB NA To Waivers bigballs Nov 7, 3:04 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Derek Carr",
+     "yahoo_player_id": 27564,
+     "nfl_team_pos": "NO - QB",
+     "note": "$2 Waiver"
+    },
+    {
+     "name": "Peyton Barber",
+     "yahoo_player_id": 29560,
+     "nfl_team_pos": "LV - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Derek Carr NO - QB NA $2 Waiver Peyton Barber LV - RB NA To Waivers bigballs Nov 7, 3:04 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Ben Watson",
+     "yahoo_player_id": 6791,
+     "nfl_team_pos": "NE - TE",
+     "note": "$2 Waiver"
+    },
+    {
+     "name": "Corey Clement",
+     "yahoo_player_id": 30707,
+     "nfl_team_pos": "Ari - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Ben Watson NE - TE NA $2 Waiver Corey Clement Ari - RB NA To Waivers bigballs Nov 7, 3:04 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Cordarrelle Patterson",
+     "yahoo_player_id": 26652,
+     "nfl_team_pos": "Pit - WR,RB",
+     "note": "$3 Waiver"
+    },
+    {
+     "name": "Jake Elliott",
+     "yahoo_player_id": 30266,
+     "nfl_team_pos": "Phi - K",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Cordarrelle Patterson Pit - WR,RB NA $3 Waiver Jake Elliott Phi - K To Waivers DUGASM Nov 7, 3:04 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jack Doyle",
+     "yahoo_player_id": 27299,
+     "nfl_team_pos": "Ind - TE",
+     "note": "$5 Waiver"
+    },
+    {
+     "name": "Isaiah Crowell",
+     "yahoo_player_id": 28014,
+     "nfl_team_pos": "LV - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Jack Doyle Ind - TE NA $5 Waiver Isaiah Crowell LV - RB NA To Waivers Wet Serapas Nov 7, 3:04 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Doug Martin",
+     "yahoo_player_id": 25741,
+     "nfl_team_pos": "LV - RB",
+     "note": "$5 Waiver"
+    },
+    {
+     "name": "Dede Westbrook",
+     "yahoo_player_id": 30223,
+     "nfl_team_pos": "GB - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Doug Martin LV - RB NA $5 Waiver Dede Westbrook GB - WR NA To Waivers bigballs Nov 7, 3:04 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Marcus Mariota",
+     "yahoo_player_id": 28390,
+     "nfl_team_pos": "Was - QB",
+     "note": "$7 Waiver"
+    },
+    {
+     "name": "Tajae Sharpe",
+     "yahoo_player_id": 29374,
+     "nfl_team_pos": "SF - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Nov 7, 3:04 am",
+   "text": "\ue035 \ue033 Marcus Mariota Was - QB $7 Waiver Tajae Sharpe SF - WR NA To Waivers Dezbians Nov 7, 3:04 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

@@ -1,0 +1,252 @@
+{
+ "season": 2025,
+ "executed_trades": 4,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2025,
+   "league_id": 153816,
+   "transaction_key": "e4f64477fba7",
+   "kind": "trade",
+   "timestamp_text": "Nov 19, 11:35 am",
+   "datetime_local_inferred": "2025-11-19T11:35",
+   "source_url": "https://football.fantasysports.yahoo.com/2025/f1/153816/transactions?transactionsfilter=all&count=25",
+   "source_offset": 25,
+   "retrieved_at": "2026-11-01T13:14:16-06:00",
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "Baby Arm",
+     "to_manager_handle": "brandon128978",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Kareem Hunt",
+       "yahoo_player_id": 30199,
+       "nfl_team_pos": "KC - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Quentin Johnston",
+       "yahoo_player_id": 40051,
+       "nfl_team_pos": "LAC - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Tyler Shough",
+       "yahoo_player_id": 41825,
+       "nfl_team_pos": "NO - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Dak Prescott",
+       "yahoo_player_id": 29369,
+       "nfl_team_pos": "Dal - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Jahmyr Gibbs",
+       "yahoo_player_id": 40059,
+       "nfl_team_pos": "Det - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Marvin Harrison Jr.",
+       "yahoo_player_id": 40893,
+       "nfl_team_pos": "Hou - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 8"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2025,
+   "league_id": 153816,
+   "transaction_key": "f92a7c8d07e3",
+   "kind": "trade",
+   "timestamp_text": "Nov 19, 11:25 am",
+   "datetime_local_inferred": "2025-11-19T11:25",
+   "source_url": "https://football.fantasysports.yahoo.com/2025/f1/153816/transactions?transactionsfilter=all&count=25",
+   "source_offset": 25,
+   "retrieved_at": "2026-11-01T13:14:16-06:00",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jalen Hurts",
+       "yahoo_player_id": 32723,
+       "nfl_team_pos": "Phi - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    },
+    {
+     "to_team_id": 2,
+     "to_team_name": "Baby Arm",
+     "to_manager_handle": "brandon128978",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Joe Flacco",
+       "yahoo_player_id": 8795,
+       "nfl_team_pos": "Cin - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2025,
+   "league_id": 153816,
+   "transaction_key": "adeef1ce16e3",
+   "kind": "trade",
+   "timestamp_text": "Nov 5, 6:58 pm",
+   "datetime_local_inferred": "2025-11-05T18:58",
+   "source_url": "https://football.fantasysports.yahoo.com/2025/f1/153816/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:14:19-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Stefon Diggs",
+       "yahoo_player_id": 28534,
+       "nfl_team_pos": "Was - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Aaron Jones Sr.",
+       "yahoo_player_id": 30295,
+       "nfl_team_pos": "Min - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Puka Nacua",
+       "yahoo_player_id": 40168,
+       "nfl_team_pos": "LAR - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Bijan Robinson",
+       "yahoo_player_id": 40055,
+       "nfl_team_pos": "Atl - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2025,
+   "league_id": 153816,
+   "transaction_key": "a000ea842fe1",
+   "kind": "trade",
+   "timestamp_text": "Oct 30, 4:23 pm",
+   "datetime_local_inferred": "2025-10-30T16:23",
+   "source_url": "https://football.fantasysports.yahoo.com/2025/f1/153816/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:14:22-06:00",
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Matthew Stafford",
+       "yahoo_player_id": 9265,
+       "nfl_team_pos": "LAR - QB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Justin Jefferson",
+       "yahoo_player_id": 32692,
+       "nfl_team_pos": "Min - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  }
+ ]
+}

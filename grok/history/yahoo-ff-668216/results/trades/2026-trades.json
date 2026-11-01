@@ -1,0 +1,48 @@
+{
+ "season": 2026,
+ "executed_trades": 1,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2026,
+   "league_id": 668216,
+   "transaction_key": "fbc0d6f0ff48",
+   "kind": "trade",
+   "timestamp_text": "Oct 1, 9:02 pm",
+   "datetime_local_inferred": "2026-10-01T21:02",
+   "source_url": "https://football.fantasysports.yahoo.com/2026/f1/668216/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:14:48-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "De'Von Achane",
+       "yahoo_player_id": 40118,
+       "nfl_team_pos": "Mia - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Ollie Gordon II",
+       "yahoo_player_id": 41969,
+       "nfl_team_pos": "Mia - RB"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

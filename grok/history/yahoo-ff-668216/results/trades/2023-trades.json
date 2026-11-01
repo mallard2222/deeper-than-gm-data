@@ -1,0 +1,128 @@
+{
+ "season": 2023,
+ "executed_trades": 2,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2023,
+   "league_id": 69639,
+   "transaction_key": "dc553b2dd4de",
+   "kind": "trade",
+   "timestamp_text": "Nov 15, 7:52 pm",
+   "datetime_local_inferred": "2023-11-15T19:52",
+   "source_url": "https://football.fantasysports.yahoo.com/2023/f1/69639/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:13:23-06:00",
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "Bigballs",
+     "to_manager_handle": "brandon128978",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jets",
+       "yahoo_player_id": null,
+       "nfl_team_pos": "NYJ - DEF"
+      },
+      {
+       "kind": "player",
+       "name": "Patrick Mahomes",
+       "yahoo_player_id": 30123,
+       "nfl_team_pos": "KC - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Stefon Diggs",
+       "yahoo_player_id": 28534,
+       "nfl_team_pos": "Was - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 21"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 22"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Steelers",
+       "yahoo_player_id": null,
+       "nfl_team_pos": "Pit - DEF"
+      },
+      {
+       "kind": "player",
+       "name": "Noah Brown",
+       "yahoo_player_id": 30352,
+       "nfl_team_pos": "LV - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Sam Howell",
+       "yahoo_player_id": 34100,
+       "nfl_team_pos": "Dal - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2023,
+   "league_id": 69639,
+   "transaction_key": "c3612a3427be",
+   "kind": "trade",
+   "timestamp_text": "Sep 13, 6:32 am",
+   "datetime_local_inferred": "2023-09-13T06:32",
+   "source_url": "https://football.fantasysports.yahoo.com/2023/f1/69639/transactions?transactionsfilter=all&count=175",
+   "source_offset": 175,
+   "retrieved_at": "2026-11-01T13:13:38-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Kenneth Walker III",
+       "yahoo_player_id": 33996,
+       "nfl_team_pos": "KC - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jordan Love",
+       "yahoo_player_id": 32696,
+       "nfl_team_pos": "GB - QB"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

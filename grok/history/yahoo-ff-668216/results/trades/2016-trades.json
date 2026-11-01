@@ -1,0 +1,388 @@
+{
+ "season": 2016,
+ "executed_trades": 5,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2016,
+   "league_id": 79234,
+   "transaction_key": "cc177303b054",
+   "kind": "trade",
+   "timestamp_text": "Nov 10, 6:22 pm",
+   "datetime_local_inferred": "2016-11-10T18:22",
+   "source_url": "https://football.fantasysports.yahoo.com/2016/f1/79234/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:05:29-06:00",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "Vaqueros",
+     "to_manager_handle": "andrewallard1",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jordy Nelson",
+       "yahoo_player_id": 8813,
+       "nfl_team_pos": "LV - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Isaiah Crowell",
+       "yahoo_player_id": 28014,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Derek Carr",
+       "yahoo_player_id": 27564,
+       "nfl_team_pos": "NO - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Quincy Enunwa",
+       "yahoo_player_id": 27737,
+       "nfl_team_pos": "NYJ - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Rob Kelley",
+       "yahoo_player_id": 29694,
+       "nfl_team_pos": "Was - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Aaron Rodgers",
+       "yahoo_player_id": 7200,
+       "nfl_team_pos": "Pit - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Mike Evans",
+       "yahoo_player_id": 27535,
+       "nfl_team_pos": "SF - WR"
+      },
+      {
+       "kind": "player",
+       "name": "A.J. Green",
+       "yahoo_player_id": 24791,
+       "nfl_team_pos": "Ari - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Matt Forte",
+       "yahoo_player_id": 8821,
+       "nfl_team_pos": "NYJ - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Rob Gronkowski",
+       "yahoo_player_id": 24017,
+       "nfl_team_pos": "TB - TE"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 11 (traded from DUGASM)"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2016,
+   "league_id": 79234,
+   "transaction_key": "d919e8c1e23e",
+   "kind": "trade",
+   "timestamp_text": "Nov 9, 10:35 am",
+   "datetime_local_inferred": "2016-11-09T10:35",
+   "source_url": "https://football.fantasysports.yahoo.com/2016/f1/79234/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:05:29-06:00",
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Cody Kessler",
+       "yahoo_player_id": 29327,
+       "nfl_team_pos": "NE - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Devontae Booker",
+       "yahoo_player_id": 29370,
+       "nfl_team_pos": "NYG - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Jeremy Maclin",
+       "yahoo_player_id": 9283,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Will Fuller V",
+       "yahoo_player_id": 29255,
+       "nfl_team_pos": "Mia - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "David Johnson",
+       "yahoo_player_id": 28474,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Brandin Cooks",
+       "yahoo_player_id": 27548,
+       "nfl_team_pos": "SF - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Michael Crabtree",
+       "yahoo_player_id": 9274,
+       "nfl_team_pos": "Ari - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Kirk Cousins",
+       "yahoo_player_id": 25812,
+       "nfl_team_pos": "LV - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 11"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2016,
+   "league_id": 79234,
+   "transaction_key": "3bfb7245690e",
+   "kind": "trade",
+   "timestamp_text": "Nov 1, 9:57 am",
+   "datetime_local_inferred": "2016-11-01T09:57",
+   "source_url": "https://football.fantasysports.yahoo.com/2016/f1/79234/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:05:31-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Travis Benjamin",
+       "yahoo_player_id": 25810,
+       "nfl_team_pos": "SF - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Jameis Winston",
+       "yahoo_player_id": 28389,
+       "nfl_team_pos": "NYG - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Mark Ingram II",
+       "yahoo_player_id": 24815,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      }
+     ]
+    },
+    {
+     "to_team_id": 8,
+     "to_team_name": "Vaqueros",
+     "to_manager_handle": "andrewallard1",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Matt Forte",
+       "yahoo_player_id": 8821,
+       "nfl_team_pos": "NYJ - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Andrew Luck",
+       "yahoo_player_id": 25711,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Ryan Mathews",
+       "yahoo_player_id": 23987,
+       "nfl_team_pos": "Phi - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 11"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2016,
+   "league_id": 79234,
+   "transaction_key": "001a7ca8fab9",
+   "kind": "trade",
+   "timestamp_text": "Oct 24, 10:56 am",
+   "datetime_local_inferred": "2016-10-24T10:56",
+   "source_url": "https://football.fantasysports.yahoo.com/2016/f1/79234/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:05:33-06:00",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "Vaqueros",
+     "to_manager_handle": "andrewallard1",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Christine Michael",
+       "yahoo_player_id": 26685,
+       "nfl_team_pos": "Ind - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Michael Crabtree",
+       "yahoo_player_id": 9274,
+       "nfl_team_pos": "Ari - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2016,
+   "league_id": 79234,
+   "transaction_key": "c372c7aae336",
+   "kind": "trade",
+   "timestamp_text": "Oct 19, 6:33 pm",
+   "datetime_local_inferred": "2016-10-19T18:33",
+   "source_url": "https://football.fantasysports.yahoo.com/2016/f1/79234/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:05:33-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Allen Hurns",
+       "yahoo_player_id": 27874,
+       "nfl_team_pos": "Mia - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 2,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

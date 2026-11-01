@@ -1,0 +1,1192 @@
+{
+ "season": 2013,
+ "executed_trades": 21,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "a3c0077e5fbd",
+   "kind": "trade",
+   "timestamp_text": "Nov 16, 5:06 am",
+   "datetime_local_inferred": "2013-11-16T05:06",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:04:12-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Alex Smith",
+       "yahoo_player_id": 7177,
+       "nfl_team_pos": "Was - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Roddy White",
+       "yahoo_player_id": 7203,
+       "nfl_team_pos": "Atl - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Trent Richardson",
+       "yahoo_player_id": 25713,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6 (traded from Wet Serapas)"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 18"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Dez Bryant",
+       "yahoo_player_id": 23999,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Alshon Jeffery",
+       "yahoo_player_id": 25755,
+       "nfl_team_pos": "Phi - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Nick Foles",
+       "yahoo_player_id": 25798,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Frank Gore",
+       "yahoo_player_id": 7241,
+       "nfl_team_pos": "NYJ - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 12"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "9d310e67a12e",
+   "kind": "trade",
+   "timestamp_text": "Nov 15, 11:56 pm",
+   "datetime_local_inferred": "2013-11-15T23:56",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:04:12-06:00",
+   "legs": [
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Ryan Mathews",
+       "yahoo_player_id": 23987,
+       "nfl_team_pos": "Phi - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Dennis Johnson",
+       "yahoo_player_id": 27311,
+       "nfl_team_pos": "Hou - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Drew Brees",
+       "yahoo_player_id": 5479,
+       "nfl_team_pos": "NO - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Demaryius Thomas",
+       "yahoo_player_id": 23997,
+       "nfl_team_pos": "NE - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "f3cf9c8bfaaf",
+   "kind": "trade",
+   "timestamp_text": "Nov 12, 10:46 am",
+   "datetime_local_inferred": "2013-11-12T10:46",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:04:12-06:00",
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Knowshon Moreno",
+       "yahoo_player_id": 9276,
+       "nfl_team_pos": "Mia - RB"
+      },
+      {
+       "kind": "player",
+       "name": "DeSean Jackson",
+       "yahoo_player_id": 8826,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 15"
+      }
+     ]
+    },
+    {
+     "to_team_id": 2,
+     "to_team_name": "Vaqueros",
+     "to_manager_handle": "andrewallard1",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Ray Rice",
+       "yahoo_player_id": 8832,
+       "nfl_team_pos": "Bal - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Torrey Smith",
+       "yahoo_player_id": 24845,
+       "nfl_team_pos": "Car - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "0bec89aad42e",
+   "kind": "trade",
+   "timestamp_text": "Nov 8, 9:03 pm",
+   "datetime_local_inferred": "2013-11-08T21:03",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:04:12-06:00",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "C.J. Spiller",
+       "yahoo_player_id": 23984,
+       "nfl_team_pos": "KC - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Jimmy Graham",
+       "yahoo_player_id": 24070,
+       "nfl_team_pos": "NO - TE"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      }
+     ]
+    },
+    {
+     "to_team_id": 2,
+     "to_team_name": "Vaqueros",
+     "to_manager_handle": "andrewallard1",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Mike Wallace",
+       "yahoo_player_id": 9348,
+       "nfl_team_pos": "Phi - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Dwayne Bowe",
+       "yahoo_player_id": 8277,
+       "nfl_team_pos": "Cle - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "1b57df087e6e",
+   "kind": "trade",
+   "timestamp_text": "Nov 6, 8:22 am",
+   "datetime_local_inferred": "2013-11-06T08:22",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:04:14-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Trent Richardson",
+       "yahoo_player_id": 25713,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Pierre Garcon",
+       "yahoo_player_id": 8982,
+       "nfl_team_pos": "SF - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Zac Stacy",
+       "yahoo_player_id": 26783,
+       "nfl_team_pos": "NYJ - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 20 (traded from bigballs)"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "97b32cec5323",
+   "kind": "trade",
+   "timestamp_text": "Nov 6, 3:14 am",
+   "datetime_local_inferred": "2013-11-06T03:14",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:04:14-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Roddy White",
+       "yahoo_player_id": 7203,
+       "nfl_team_pos": "Atl - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Mike James",
+       "yahoo_player_id": 26812,
+       "nfl_team_pos": "TB - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 20"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Cecil Shorts",
+       "yahoo_player_id": 24901,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9 (traded from bigballs)"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "aefc85a8b1eb",
+   "kind": "trade",
+   "timestamp_text": "Oct 29, 12:04 pm",
+   "datetime_local_inferred": "2013-10-29T12:04",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:04:17-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Justin Blackmon",
+       "yahoo_player_id": 25715,
+       "nfl_team_pos": "Jax - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Shane Vereen",
+       "yahoo_player_id": 24843,
+       "nfl_team_pos": "NYG - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Danny Amendola",
+       "yahoo_player_id": 9037,
+       "nfl_team_pos": "Hou - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "38ad2f397dd9",
+   "kind": "trade",
+   "timestamp_text": "Oct 22, 7:50 am",
+   "datetime_local_inferred": "2013-10-22T07:50",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=125",
+   "source_offset": 125,
+   "retrieved_at": "2026-11-01T13:04:19-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Alex Smith",
+       "yahoo_player_id": 7177,
+       "nfl_team_pos": "Was - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Cam Newton",
+       "yahoo_player_id": 24788,
+       "nfl_team_pos": "Car - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 12"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "64e466682e4a",
+   "kind": "trade",
+   "timestamp_text": "Oct 22, 7:50 am",
+   "datetime_local_inferred": "2013-10-22T07:50",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=125",
+   "source_offset": 125,
+   "retrieved_at": "2026-11-01T13:04:19-06:00",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Michael Crabtree",
+       "yahoo_player_id": 9274,
+       "nfl_team_pos": "Ari - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      }
+     ]
+    },
+    {
+     "to_team_id": 5,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "LeSean McCoy",
+       "yahoo_player_id": 9317,
+       "nfl_team_pos": "TB - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "0a18d19cd468",
+   "kind": "trade",
+   "timestamp_text": "Oct 22, 7:49 am",
+   "datetime_local_inferred": "2013-10-22T07:49",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=125",
+   "source_offset": 125,
+   "retrieved_at": "2026-11-01T13:04:19-06:00",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 5,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Brandon Marshall",
+       "yahoo_player_id": 7868,
+       "nfl_team_pos": "Sea - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Dez Bryant",
+       "yahoo_player_id": 23999,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 15"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "e7411094e9dc",
+   "kind": "trade",
+   "timestamp_text": "Oct 15, 8:57 am",
+   "datetime_local_inferred": "2013-10-15T08:57",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=150",
+   "source_offset": 150,
+   "retrieved_at": "2026-11-01T13:04:21-06:00",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Dez Bryant",
+       "yahoo_player_id": 23999,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Trent Richardson",
+       "yahoo_player_id": 25713,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Stevie Johnson",
+       "yahoo_player_id": 9001,
+       "nfl_team_pos": "LAC - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Dwayne Bowe",
+       "yahoo_player_id": 8277,
+       "nfl_team_pos": "Cle - WR"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Doug Martin",
+       "yahoo_player_id": 25741,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "player",
+       "name": "James Jones",
+       "yahoo_player_id": 8332,
+       "nfl_team_pos": "GB - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Pierre Thomas",
+       "yahoo_player_id": 8561,
+       "nfl_team_pos": "SF - RB"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "c5df5e3af45f",
+   "kind": "trade",
+   "timestamp_text": "Oct 9, 9:39 am",
+   "datetime_local_inferred": "2013-10-09T09:39",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=150",
+   "source_offset": 150,
+   "retrieved_at": "2026-11-01T13:04:21-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Cecil Shorts",
+       "yahoo_player_id": 24901,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Trent Richardson",
+       "yahoo_player_id": 25713,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "player",
+       "name": "DeAngelo Williams",
+       "yahoo_player_id": 7776,
+       "nfl_team_pos": "Pit - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Brandon Marshall",
+       "yahoo_player_id": 7868,
+       "nfl_team_pos": "Sea - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "e9fd3e893d09",
+   "kind": "trade",
+   "timestamp_text": "Oct 8, 9:24 pm",
+   "datetime_local_inferred": "2013-10-08T21:24",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=150",
+   "source_offset": 150,
+   "retrieved_at": "2026-11-01T13:04:21-06:00",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jacquizz Rodgers",
+       "yahoo_player_id": 24932,
+       "nfl_team_pos": "TB - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jamaal Charles",
+       "yahoo_player_id": 8850,
+       "nfl_team_pos": "Jax - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "33773f1a0040",
+   "kind": "trade",
+   "timestamp_text": "Oct 8, 11:46 am",
+   "datetime_local_inferred": "2013-10-08T11:46",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=150",
+   "source_offset": 150,
+   "retrieved_at": "2026-11-01T13:04:21-06:00",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Ben Roethlisberger",
+       "yahoo_player_id": 6770,
+       "nfl_team_pos": "Pit - QB"
+      },
+      {
+       "kind": "player",
+       "name": "DeAngelo Williams",
+       "yahoo_player_id": 7776,
+       "nfl_team_pos": "Pit - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Lamar Miller",
+       "yahoo_player_id": 25807,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Eli Manning",
+       "yahoo_player_id": 6760,
+       "nfl_team_pos": "NYG - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Mike Wallace",
+       "yahoo_player_id": 9348,
+       "nfl_team_pos": "Phi - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "171d43ae6162",
+   "kind": "trade",
+   "timestamp_text": "Oct 8, 7:14 am",
+   "datetime_local_inferred": "2013-10-08T07:14",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=175",
+   "source_offset": 175,
+   "retrieved_at": "2026-11-01T13:04:23-06:00",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Calvin Johnson",
+       "yahoo_player_id": 8256,
+       "nfl_team_pos": "Det - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Alex Smith",
+       "yahoo_player_id": 7177,
+       "nfl_team_pos": "Was - QB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Matt Ryan",
+       "yahoo_player_id": 8780,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Pierre Garcon",
+       "yahoo_player_id": 8982,
+       "nfl_team_pos": "SF - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "706df53c6142",
+   "kind": "trade",
+   "timestamp_text": "Oct 5, 1:17 pm",
+   "datetime_local_inferred": "2013-10-05T13:17",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=175",
+   "source_offset": 175,
+   "retrieved_at": "2026-11-01T13:04:23-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Ryan Mathews",
+       "yahoo_player_id": 23987,
+       "nfl_team_pos": "Phi - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Maurice Jones-Drew",
+       "yahoo_player_id": 7809,
+       "nfl_team_pos": "LV - RB"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "afe874bffd64",
+   "kind": "trade",
+   "timestamp_text": "Sep 25, 5:45 pm",
+   "datetime_local_inferred": "2013-09-25T17:45",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=200",
+   "source_offset": 200,
+   "retrieved_at": "2026-11-01T13:04:25-06:00",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Trent Richardson",
+       "yahoo_player_id": 25713,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Brandon Marshall",
+       "yahoo_player_id": 7868,
+       "nfl_team_pos": "Sea - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Darren Sproles",
+       "yahoo_player_id": 7306,
+       "nfl_team_pos": "Phi - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "76e760c8fa82",
+   "kind": "trade",
+   "timestamp_text": "Sep 21, 8:45 am",
+   "datetime_local_inferred": "2013-09-21T08:45",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=200",
+   "source_offset": 200,
+   "retrieved_at": "2026-11-01T13:04:25-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Julian Edelman",
+       "yahoo_player_id": 9496,
+       "nfl_team_pos": "NE - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Reggie Bush",
+       "yahoo_player_id": 7751,
+       "nfl_team_pos": "Buf - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Dez Bryant",
+       "yahoo_player_id": 23999,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Stevie Johnson",
+       "yahoo_player_id": 9001,
+       "nfl_team_pos": "LAC - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "f2af8fb16cac",
+   "kind": "trade",
+   "timestamp_text": "Sep 19, 10:39 am",
+   "datetime_local_inferred": "2013-09-19T10:39",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=200",
+   "source_offset": 200,
+   "retrieved_at": "2026-11-01T13:04:25-06:00",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Colin Kaepernick",
+       "yahoo_player_id": 24823,
+       "nfl_team_pos": "SF - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Jason Witten",
+       "yahoo_player_id": 6405,
+       "nfl_team_pos": "LV - TE"
+      },
+      {
+       "kind": "player",
+       "name": "Andy Dalton",
+       "yahoo_player_id": 24822,
+       "nfl_team_pos": "Atl - QB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Andrew Luck",
+       "yahoo_player_id": 25711,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Hakeem Nicks",
+       "yahoo_player_id": 9293,
+       "nfl_team_pos": "NYG - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Matt Schaub",
+       "yahoo_player_id": 6849,
+       "nfl_team_pos": "Atl - QB"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "36bba6be13da",
+   "kind": "trade",
+   "timestamp_text": "Sep 18, 8:33 pm",
+   "datetime_local_inferred": "2013-09-18T20:33",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=225",
+   "source_offset": 225,
+   "retrieved_at": "2026-11-01T13:04:27-06:00",
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "Vaqueros",
+     "to_manager_handle": "andrewallard1",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Knowshon Moreno",
+       "yahoo_player_id": 9276,
+       "nfl_team_pos": "Mia - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Miles Austin",
+       "yahoo_player_id": 8021,
+       "nfl_team_pos": "Phi - WR"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Ahmad Bradshaw",
+       "yahoo_player_id": 8504,
+       "nfl_team_pos": "Ind - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Owen Daniels",
+       "yahoo_player_id": 7847,
+       "nfl_team_pos": "Den - TE"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2013,
+   "league_id": 11558,
+   "transaction_key": "0686489ec522",
+   "kind": "trade",
+   "timestamp_text": "Sep 11, 12:06 pm",
+   "datetime_local_inferred": "2013-09-11T12:06",
+   "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=225",
+   "source_offset": 225,
+   "retrieved_at": "2026-11-01T13:04:27-06:00",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Lamar Miller",
+       "yahoo_player_id": 25807,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Miles Austin",
+       "yahoo_player_id": 8021,
+       "nfl_team_pos": "Phi - WR"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Greg Olsen",
+       "yahoo_player_id": 8285,
+       "nfl_team_pos": "Sea - TE"
+      },
+      {
+       "kind": "player",
+       "name": "Rueben Randle",
+       "yahoo_player_id": 25773,
+       "nfl_team_pos": "NYG - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

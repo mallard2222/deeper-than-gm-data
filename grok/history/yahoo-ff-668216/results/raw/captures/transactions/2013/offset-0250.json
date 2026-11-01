@@ -1,0 +1,165 @@
+{
+ "season": 2013,
+ "league_id": 11558,
+ "offset": 250,
+ "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=250",
+ "has_next": false,
+ "retrieved_at": "2026-11-01T13:04:29-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Knowshon Moreno",
+     "yahoo_player_id": 9276,
+     "nfl_team_pos": "Mia - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Kenny Stills",
+     "yahoo_player_id": 26767,
+     "nfl_team_pos": "NO - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 5, 7:24 am",
+   "text": "\ue035 \ue033 Knowshon Moreno Mia - RB Free Agent Kenny Stills NO - WR To Waivers Dezbians Sep 5, 7:24 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Kenny Stills",
+     "yahoo_player_id": 26767,
+     "nfl_team_pos": "NO - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Malcom Floyd",
+     "yahoo_player_id": 7149,
+     "nfl_team_pos": "LAC - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 3, 11:19 am",
+   "text": "\ue035 \ue033 Kenny Stills NO - WR Free Agent Malcom Floyd LAC - WR To Waivers Dezbians Sep 3, 11:19 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Buccaneers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "TB - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Cardinals",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Ari - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 2, 12:13 pm",
+   "text": "\ue035 \ue033 Buccaneers TB - DEF Free Agent Cardinals Ari - DEF To Waivers Good Strongs Sep 2, 12:13 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Blair Walsh",
+     "yahoo_player_id": 25885,
+     "nfl_team_pos": "Sea - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Josh Morgan",
+     "yahoo_player_id": 8951,
+     "nfl_team_pos": "NO - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 2, 11:00 am",
+   "text": "\ue035 \ue033 Blair Walsh Sea - K Free Agent Josh Morgan NO - WR To Waivers Good Strongs Sep 2, 11:00 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Geno Smith",
+     "yahoo_player_id": 26662,
+     "nfl_team_pos": "NYJ - QB",
+     "note": "Free Agent Added ( by Commissioner )"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 1, 5:43 pm",
+   "text": "\ue035 Geno Smith NYJ - QB Free Agent Added ( by Commissioner ) Good Strongs ( James ) Sep 1, 5:43 pm"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Alfonso Smith",
+     "yahoo_player_id": 24287,
+     "nfl_team_pos": "SF - RB",
+     "note": "Dropped ( by Commissioner ) To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 1, 5:42 pm",
+   "text": "\ue033 Alfonso Smith SF - RB Dropped ( by Commissioner ) To Waivers Good Strongs ( James ) Sep 1, 5:42 pm"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

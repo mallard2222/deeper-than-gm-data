@@ -1,0 +1,67 @@
+{
+ "season": 2016,
+ "league_id": 79234,
+ "offset": 200,
+ "source_url": "https://football.fantasysports.yahoo.com/2016/f1/79234/transactions?transactionsfilter=all&count=200",
+ "has_next": false,
+ "retrieved_at": "2026-11-01T13:05:42-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Blair Walsh",
+     "yahoo_player_id": 25885,
+     "nfl_team_pos": "Sea - K",
+     "note": "Waiver"
+    },
+    {
+     "name": "Josh Lambo",
+     "yahoo_player_id": 28685,
+     "nfl_team_pos": "Ten - K",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Aug 29, 2:26 am",
+   "text": "\ue035 \ue033 Blair Walsh Sea - K NA Waiver Josh Lambo Ten - K NA To Waivers Dezbians Aug 29, 2:26 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Devontae Booker",
+     "yahoo_player_id": 29370,
+     "nfl_team_pos": "NYG - RB",
+     "note": "$1 Waiver"
+    },
+    {
+     "name": "Terrance Williams",
+     "yahoo_player_id": 26697,
+     "nfl_team_pos": "Dal - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Aug 29, 2:26 am",
+   "text": "\ue035 \ue033 Devontae Booker NYG - RB NA $1 Waiver Terrance Williams Dal - WR NA To Waivers Dezbians Aug 29, 2:26 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

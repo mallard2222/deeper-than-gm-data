@@ -1,0 +1,104 @@
+{
+ "season": 2023,
+ "league_id": 69639,
+ "offset": 200,
+ "source_url": "https://football.fantasysports.yahoo.com/2023/f1/69639/transactions?transactionsfilter=all&count=200",
+ "has_next": false,
+ "retrieved_at": "2026-11-01T13:13:41-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Mac Jones",
+     "yahoo_player_id": 33403,
+     "nfl_team_pos": "SF - QB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Zach Ertz",
+     "yahoo_player_id": 26658,
+     "nfl_team_pos": "Phi - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Aug 30, 11:59 pm",
+   "text": "\ue035 \ue033 Mac Jones SF - QB Free Agent Zach Ertz Phi - TE NA To Waivers Dezbians Aug 30, 11:59 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Chig Okonkwo",
+     "yahoo_player_id": 34099,
+     "nfl_team_pos": "Was - TE",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Cordarrelle Patterson",
+     "yahoo_player_id": 26652,
+     "nfl_team_pos": "Pit - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "Bigballs"
+    }
+   ],
+   "timestamp_text": "Aug 29, 6:28 pm",
+   "text": "\ue035 \ue033 Chig Okonkwo Was - TE Free Agent Cordarrelle Patterson Pit - RB NA To Waivers Bigballs Aug 29, 6:28 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Saints",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "NO - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "DJ Chark",
+     "yahoo_player_id": 31031,
+     "nfl_team_pos": "Atl - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "Bigballs"
+    }
+   ],
+   "timestamp_text": "Aug 29, 6:25 pm",
+   "text": "\ue035 \ue033 Saints NO - DEF Free Agent DJ Chark Atl - WR NA To Waivers Bigballs Aug 29, 6:25 pm"
+  },
+  {
+   "types": [
+    "Trading List"
+   ],
+   "players": [],
+   "teams": [],
+   "timestamp_text": "Aug 27, 2:50 pm",
+   "text": "\ue045 WR, TE Available Added to Trading List Dezbians Aug 27, 2:50 pm"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

@@ -1,0 +1,767 @@
+{
+ "season": 2017,
+ "league_id": 122934,
+ "offset": 100,
+ "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=100",
+ "has_next": true,
+ "retrieved_at": "2026-11-01T13:05:53-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Falcons",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Atl - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Broncos",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Den - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Deepest"
+    }
+   ],
+   "timestamp_text": "Nov 5, 11:58 am",
+   "text": "\ue035 \ue033 Falcons Atl - DEF Free Agent Broncos Den - DEF To Waivers Deepest Nov 5, 11:58 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jeremy Maclin",
+     "yahoo_player_id": 9283,
+     "nfl_team_pos": "Bal - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Dede Westbrook",
+     "yahoo_player_id": 30223,
+     "nfl_team_pos": "GB - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Nov 5, 5:09 am",
+   "text": "\ue035 \ue033 Jeremy Maclin Bal - WR NA Free Agent Dede Westbrook GB - WR NA To Waivers Wet Serapas Nov 5, 5:09 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Tom Savage",
+     "yahoo_player_id": 27663,
+     "nfl_team_pos": "SF - QB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Jay Cutler",
+     "yahoo_player_id": 7760,
+     "nfl_team_pos": "Mia - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Nov 3, 3:59 pm",
+   "text": "\ue035 \ue033 Tom Savage SF - QB NA Free Agent Jay Cutler Mia - QB NA To Waivers bigballs Nov 3, 3:59 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 2, 9:38 pm",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Drew Brees",
+       "yahoo_player_id": 5479,
+       "nfl_team_pos": "NO - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Mark Ingram II",
+       "yahoo_player_id": 24815,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 11"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jared Goff",
+       "yahoo_player_id": 29235,
+       "nfl_team_pos": "Det - QB"
+      },
+      {
+       "kind": "player",
+       "name": "C.J. Anderson",
+       "yahoo_player_id": 26878,
+       "nfl_team_pos": "Det - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Drew Brees NO - QB NA Mark Ingram II NO - RB NA Round 7 Round 11 Traded to Good Strongs ( James ) Nov 2, 9:38 pm | Jared Goff Det - QB C.J. Anderson Det - RB NA Round 1 Round 3 Traded to Deepest ( James ) Nov 2, 9:38 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Nov 2, 9:37 pm",
+   "commissioner_profile_shown": null,
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Golden Tate",
+       "yahoo_player_id": 24035,
+       "nfl_team_pos": "Ten - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Golden Tate Ten - WR NA Round 1 Round 7 Traded to Deepest Nov 2, 9:37 pm | Antonio Brown TB - WR NA Round 4 Round 10 Traded to Wet Serapas Nov 2, 9:37 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Graham Gano",
+     "yahoo_player_id": 9526,
+     "nfl_team_pos": "NYG - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Jacquizz Rodgers",
+     "yahoo_player_id": 24932,
+     "nfl_team_pos": "TB - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Deepest"
+    }
+   ],
+   "timestamp_text": "Nov 2, 9:15 pm",
+   "text": "\ue035 \ue033 Graham Gano NYG - K NA Free Agent Jacquizz Rodgers TB - RB NA To Waivers Deepest Nov 2, 9:15 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Vernon Davis",
+     "yahoo_player_id": 7755,
+     "nfl_team_pos": "Was - TE",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Martellus Bennett",
+     "yahoo_player_id": 8838,
+     "nfl_team_pos": "GB - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Nov 2, 6:46 pm",
+   "text": "\ue035 \ue033 Vernon Davis Was - TE NA Free Agent Martellus Bennett GB - TE NA To Waivers Vaqueros Nov 2, 6:46 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Wil Lutz",
+     "yahoo_player_id": 29754,
+     "nfl_team_pos": "Den - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Randy Bullock",
+     "yahoo_player_id": 25871,
+     "nfl_team_pos": "NYG - K",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Nov 2, 6:46 pm",
+   "text": "\ue035 \ue033 Wil Lutz Den - K Free Agent Randy Bullock NYG - K NA To Waivers Vaqueros Nov 2, 6:46 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Cardinals",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Ari - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Steelers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Pit - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Nov 2, 6:45 pm",
+   "text": "\ue035 \ue033 Cardinals Ari - DEF Free Agent Steelers Pit - DEF To Waivers Vaqueros Nov 2, 6:45 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Dede Westbrook",
+     "yahoo_player_id": 30223,
+     "nfl_team_pos": "GB - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Josh Gordon",
+     "yahoo_player_id": 26561,
+     "nfl_team_pos": "Ten - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Nov 2, 6:16 pm",
+   "text": "\ue035 \ue033 Dede Westbrook GB - WR NA Free Agent Josh Gordon Ten - WR NA To Waivers Wet Serapas Nov 2, 6:16 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Rodney Smith",
+     "yahoo_player_id": 28718,
+     "nfl_team_pos": "Car - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Austin Seferian-Jenkins",
+     "yahoo_player_id": 27566,
+     "nfl_team_pos": "Jax - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 2, 4:10 pm",
+   "text": "\ue035 \ue033 Rodney Smith Car - RB NA Free Agent Austin Seferian-Jenkins Jax - TE NA To Waivers Good Strongs Nov 2, 4:10 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Josh Gordon",
+     "yahoo_player_id": 26561,
+     "nfl_team_pos": "Ten - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Wendell Smallwood",
+     "yahoo_player_id": 29387,
+     "nfl_team_pos": "Jax - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Nov 1, 5:44 pm",
+   "text": "\ue035 \ue033 Josh Gordon Ten - WR NA Free Agent Wendell Smallwood Jax - RB NA To Waivers Wet Serapas Nov 1, 5:44 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jack Doyle",
+     "yahoo_player_id": 27299,
+     "nfl_team_pos": "Ind - TE",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Trevor Siemian",
+     "yahoo_player_id": 28638,
+     "nfl_team_pos": "Ten - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 1, 10:20 am",
+   "text": "\ue035 \ue033 Jack Doyle Ind - TE NA Free Agent Trevor Siemian Ten - QB NA To Waivers Good Strongs Nov 1, 10:20 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Lions",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Det - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Saints",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "NO - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 1, 9:10 am",
+   "text": "\ue035 \ue033 Lions Det - DEF Free Agent Saints NO - DEF To Waivers Good Strongs Nov 1, 9:10 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Paul Richardson",
+     "yahoo_player_id": 27573,
+     "nfl_team_pos": "Was - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Charcandrick West",
+     "yahoo_player_id": 28044,
+     "nfl_team_pos": "KC - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Nov 1, 9:08 am",
+   "text": "\ue035 \ue033 Paul Richardson Was - WR NA Free Agent Charcandrick West KC - RB NA To Waivers Good Strongs Nov 1, 9:08 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Greg Olsen",
+     "yahoo_player_id": 8285,
+     "nfl_team_pos": "Sea - TE",
+     "note": "Waiver"
+    },
+    {
+     "name": "Tyler Kroft",
+     "yahoo_player_id": 28473,
+     "nfl_team_pos": "Mia - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Nov 1, 7:57 am",
+   "text": "\ue035 \ue033 Greg Olsen Sea - TE NA Waiver Tyler Kroft Mia - TE NA To Waivers Wet Serapas Nov 1, 7:57 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jacoby Brissett",
+     "yahoo_player_id": 29325,
+     "nfl_team_pos": "Ari - QB",
+     "note": "$5 Waiver"
+    },
+    {
+     "name": "Jamaal Charles",
+     "yahoo_player_id": 8850,
+     "nfl_team_pos": "Jax - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 1, 7:57 am",
+   "text": "\ue035 \ue033 Jacoby Brissett Ari - QB $5 Waiver Jamaal Charles Jax - RB NA To Waivers DUGASM Nov 1, 7:57 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jamison Crowder",
+     "yahoo_player_id": 28493,
+     "nfl_team_pos": "Was - WR",
+     "note": "$13 Waiver"
+    },
+    {
+     "name": "C.J. Beathard",
+     "yahoo_player_id": 30217,
+     "nfl_team_pos": "Det - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 5,
+     "team_name": "DUGASM"
+    }
+   ],
+   "timestamp_text": "Nov 1, 7:57 am",
+   "text": "\ue035 \ue033 Jamison Crowder Was - WR NA $13 Waiver C.J. Beathard Det - QB NA To Waivers DUGASM Nov 1, 7:57 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Bills",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Buf - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Mitchell Trubisky",
+     "yahoo_player_id": 30115,
+     "nfl_team_pos": "Ten - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Nov 1, 7:39 am",
+   "text": "\ue035 \ue033 Bills Buf - DEF Free Agent Mitchell Trubisky Ten - QB To Waivers Dezbians Nov 1, 7:39 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jay Cutler",
+     "yahoo_player_id": 7760,
+     "nfl_team_pos": "Mia - QB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Chris Ivory",
+     "yahoo_player_id": 24400,
+     "nfl_team_pos": "Buf - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Nov 1, 7:31 am",
+   "text": "\ue035 \ue033 Jay Cutler Mia - QB NA Free Agent Chris Ivory Buf - RB NA To Waivers bigballs Nov 1, 7:31 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "T.J. Yeldon",
+     "yahoo_player_id": 28424,
+     "nfl_team_pos": "Buf - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Lions",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Det - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Oct 30, 11:13 am",
+   "text": "\ue035 \ue033 T.J. Yeldon Buf - RB NA Free Agent Lions Det - DEF To Waivers Good Strongs Oct 30, 11:13 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Charcandrick West",
+     "yahoo_player_id": 28044,
+     "nfl_team_pos": "KC - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Austin Ekeler",
+     "yahoo_player_id": 30423,
+     "nfl_team_pos": "Was - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Oct 30, 11:09 am",
+   "text": "\ue035 \ue033 Charcandrick West KC - RB NA Free Agent Austin Ekeler Was - RB To Waivers Good Strongs Oct 30, 11:09 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Blake Bortles",
+     "yahoo_player_id": 27531,
+     "nfl_team_pos": "GB - QB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "D'Onta Foreman",
+     "yahoo_player_id": 30202,
+     "nfl_team_pos": "Cle - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Oct 29, 6:03 pm",
+   "text": "\ue035 \ue033 Blake Bortles GB - QB NA Free Agent D'Onta Foreman Cle - RB NA To Waivers Wet Serapas Oct 29, 6:03 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "JuJu Smith-Schuster",
+     "yahoo_player_id": 30175,
+     "nfl_team_pos": "NYG - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "DeShone Kizer",
+     "yahoo_player_id": 30165,
+     "nfl_team_pos": "Ten - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Oct 29, 8:38 am",
+   "text": "\ue035 \ue033 JuJu Smith-Schuster NYG - WR NA Free Agent DeShone Kizer Ten - QB NA To Waivers Vaqueros Oct 29, 8:38 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Randy Bullock",
+     "yahoo_player_id": 25871,
+     "nfl_team_pos": "NYG - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Mason Crosby",
+     "yahoo_player_id": 8447,
+     "nfl_team_pos": "NYG - K",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Oct 29, 8:38 am",
+   "text": "\ue035 \ue033 Randy Bullock NYG - K NA Free Agent Mason Crosby NYG - K NA To Waivers Vaqueros Oct 29, 8:38 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

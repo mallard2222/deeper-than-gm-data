@@ -1,0 +1,56 @@
+{
+ "season": 2020,
+ "executed_trades": 1,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2020,
+   "league_id": 26564,
+   "transaction_key": "eabdaab4e807",
+   "kind": "trade",
+   "timestamp_text": "Oct 31, 11:38 am",
+   "datetime_local_inferred": "2020-10-31T11:38",
+   "source_url": "https://football.fantasysports.yahoo.com/2020/f1/26564/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:06:56-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "DJ Chark",
+       "yahoo_player_id": 31031,
+       "nfl_team_pos": "Atl - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Kareem Hunt",
+       "yahoo_player_id": 30199,
+       "nfl_team_pos": "KC - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

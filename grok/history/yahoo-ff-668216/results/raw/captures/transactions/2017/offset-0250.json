@@ -1,0 +1,67 @@
+{
+ "season": 2017,
+ "league_id": 122934,
+ "offset": 250,
+ "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=250",
+ "has_next": false,
+ "retrieved_at": "2026-11-01T13:06:06-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Danny Amendola",
+     "yahoo_player_id": 9037,
+     "nfl_team_pos": "Hou - WR",
+     "note": "$1 Waiver"
+    },
+    {
+     "name": "Cameron Meredith",
+     "yahoo_player_id": 28697,
+     "nfl_team_pos": "NO - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Aug 29, 2:31 am",
+   "text": "\ue035 \ue033 Danny Amendola Hou - WR NA $1 Waiver Cameron Meredith NO - WR NA To Waivers Wet Serapas Aug 29, 2:31 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Julius Thomas",
+     "yahoo_player_id": 24916,
+     "nfl_team_pos": "Mia - TE",
+     "note": "$2 Waiver"
+    },
+    {
+     "name": "Alex Smith",
+     "yahoo_player_id": 7177,
+     "nfl_team_pos": "Was - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Aug 29, 2:31 am",
+   "text": "\ue035 \ue033 Julius Thomas Mia - TE NA $2 Waiver Alex Smith Was - QB NA To Waivers bigballs Aug 29, 2:31 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

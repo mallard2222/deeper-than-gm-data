@@ -1,0 +1,123 @@
+{
+ "season": 2018,
+ "league_id": 16765,
+ "offset": 225,
+ "source_url": "https://football.fantasysports.yahoo.com/2018/f1/16765/transactions?transactionsfilter=all&count=225",
+ "has_next": false,
+ "retrieved_at": "2026-11-01T13:06:27-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Teddy Bridgewater",
+     "yahoo_player_id": 27560,
+     "nfl_team_pos": "TB - QB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Jerick McKinnon",
+     "yahoo_player_id": 27624,
+     "nfl_team_pos": "KC - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Sep 3, 2:12 am",
+   "text": "\ue035 \ue033 Teddy Bridgewater TB - QB NA Waiver Jerick McKinnon KC - RB NA To Waivers Wet Serapas Sep 3, 2:12 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Matt Breida",
+     "yahoo_player_id": 30552,
+     "nfl_team_pos": "SF - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Teddy Bridgewater",
+     "yahoo_player_id": 27560,
+     "nfl_team_pos": "TB - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Sep 1, 3:58 pm",
+   "text": "\ue035 \ue033 Matt Breida SF - RB NA Free Agent Teddy Bridgewater TB - QB NA To Waivers Wet Serapas Sep 1, 3:58 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Alfred Morris",
+     "yahoo_player_id": 25883,
+     "nfl_team_pos": "NYG - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Dede Westbrook",
+     "yahoo_player_id": 30223,
+     "nfl_team_pos": "GB - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Sep 1, 3:11 pm",
+   "text": "\ue035 \ue033 Alfred Morris NYG - RB NA Free Agent Dede Westbrook GB - WR NA To Waivers Wet Serapas Sep 1, 3:11 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Tyler Eifert",
+     "yahoo_player_id": 26644,
+     "nfl_team_pos": "Jax - TE",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Jared Cook",
+     "yahoo_player_id": 9353,
+     "nfl_team_pos": "LAC - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Aug 27, 9:30 am",
+   "text": "\ue035 \ue033 Tyler Eifert Jax - TE NA Free Agent Jared Cook LAC - TE NA To Waivers Good Strongs Aug 27, 9:30 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

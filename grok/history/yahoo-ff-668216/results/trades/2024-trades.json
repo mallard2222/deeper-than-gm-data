@@ -1,0 +1,152 @@
+{
+ "season": 2024,
+ "executed_trades": 3,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2024,
+   "league_id": 181730,
+   "transaction_key": "78512f226306",
+   "kind": "trade",
+   "timestamp_text": "Oct 22, 6:42 pm",
+   "datetime_local_inferred": "2024-10-22T18:42",
+   "source_url": "https://football.fantasysports.yahoo.com/2024/f1/181730/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:13:57-06:00",
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "Baby Arm",
+     "to_manager_handle": "brandon128978",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Kyle Pitts Sr.",
+       "yahoo_player_id": 33392,
+       "nfl_team_pos": "Atl - TE"
+      },
+      {
+       "kind": "player",
+       "name": "Jaylen Waddle",
+       "yahoo_player_id": 33394,
+       "nfl_team_pos": "Den - WR"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Romeo Doubs",
+       "yahoo_player_id": 34088,
+       "nfl_team_pos": "NE - WR"
+      },
+      {
+       "kind": "player",
+       "name": "David Njoku",
+       "yahoo_player_id": 30142,
+       "nfl_team_pos": "LAC - TE"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2024,
+   "league_id": 181730,
+   "transaction_key": "a3d7ded74318",
+   "kind": "trade",
+   "timestamp_text": "Oct 1, 7:40 pm",
+   "datetime_local_inferred": "2024-10-01T19:40",
+   "source_url": "https://football.fantasysports.yahoo.com/2024/f1/181730/transactions?transactionsfilter=all&count=125",
+   "source_offset": 125,
+   "retrieved_at": "2026-11-01T13:14:00-06:00",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Zach Charbonnet",
+       "yahoo_player_id": 40075,
+       "nfl_team_pos": "Sea - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 2,
+     "to_team_name": "Baby Arm",
+     "to_manager_handle": "brandon128978",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jake Ferguson",
+       "yahoo_player_id": 34085,
+       "nfl_team_pos": "Dal - TE"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2024,
+   "league_id": 181730,
+   "transaction_key": "ea9bc54caca3",
+   "kind": "trade",
+   "timestamp_text": "Sep 22, 2:09 pm",
+   "datetime_local_inferred": "2024-09-22T14:09",
+   "source_url": "https://football.fantasysports.yahoo.com/2024/f1/181730/transactions?transactionsfilter=all&count=150",
+   "source_offset": 150,
+   "retrieved_at": "2026-11-01T13:14:03-06:00",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Xavier Worthy",
+       "yahoo_player_id": 40877,
+       "nfl_team_pos": "KC - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Brian Thomas Jr.",
+       "yahoo_player_id": 40883,
+       "nfl_team_pos": "Jax - WR"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "Big Balls",
+     "to_manager_handle": "brad58794",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "J.K. Dobbins",
+       "yahoo_player_id": 32725,
+       "nfl_team_pos": "Den - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Tony Pollard",
+       "yahoo_player_id": 31960,
+       "nfl_team_pos": "Ten - RB"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

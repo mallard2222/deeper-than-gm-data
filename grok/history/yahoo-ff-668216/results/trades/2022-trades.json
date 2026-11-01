@@ -1,0 +1,108 @@
+{
+ "season": 2022,
+ "executed_trades": 2,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2022,
+   "league_id": 59165,
+   "transaction_key": "5fcd66e6561c",
+   "kind": "trade",
+   "timestamp_text": "Nov 17, 9:29 am",
+   "datetime_local_inferred": "2022-11-17T09:29",
+   "source_url": "https://football.fantasysports.yahoo.com/2022/f1/59165/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:12:59-06:00",
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "Bigballs",
+     "to_manager_handle": "brandon128978",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Lamar Jackson",
+       "yahoo_player_id": 31002,
+       "nfl_team_pos": "Bal - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Devin Singletary",
+       "yahoo_player_id": 31906,
+       "nfl_team_pos": "NYG - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      }
+     ]
+    },
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Russell Wilson",
+       "yahoo_player_id": 25785,
+       "nfl_team_pos": "NYG - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Rhamondre Stevenson",
+       "yahoo_player_id": 33508,
+       "nfl_team_pos": "NE - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2022,
+   "league_id": 59165,
+   "transaction_key": "b1b16727d440",
+   "kind": "trade",
+   "timestamp_text": "Oct 22, 5:31 am",
+   "datetime_local_inferred": "2022-10-22T05:31",
+   "source_url": "https://football.fantasysports.yahoo.com/2022/f1/59165/transactions?transactionsfilter=all&count=150",
+   "source_offset": 150,
+   "retrieved_at": "2026-11-01T13:13:08-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Graham Gano",
+       "yahoo_player_id": 9526,
+       "nfl_team_pos": "NYG - K"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Harrison Butker",
+       "yahoo_player_id": 30346,
+       "nfl_team_pos": "KC - K"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

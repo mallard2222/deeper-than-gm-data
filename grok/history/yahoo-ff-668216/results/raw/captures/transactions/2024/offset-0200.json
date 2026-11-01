@@ -1,0 +1,81 @@
+{
+ "season": 2024,
+ "league_id": 181730,
+ "offset": 200,
+ "source_url": "https://football.fantasysports.yahoo.com/2024/f1/181730/transactions?transactionsfilter=all&count=200",
+ "has_next": false,
+ "retrieved_at": "2026-11-01T13:14:09-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Hunter Henry",
+     "yahoo_player_id": 29269,
+     "nfl_team_pos": "NE - TE",
+     "note": "Waiver"
+    },
+    {
+     "name": "Cordarrelle Patterson",
+     "yahoo_player_id": 26652,
+     "nfl_team_pos": "Pit - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "Baby Arm"
+    }
+   ],
+   "timestamp_text": "Aug 26, 2:09 am",
+   "text": "\ue035 \ue033 Hunter Henry NE - TE Q Waiver Cordarrelle Patterson Pit - RB NA To Waivers Baby Arm Aug 26, 2:09 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Jakobi Meyers",
+     "yahoo_player_id": 32231,
+     "nfl_team_pos": "Jax - WR",
+     "note": "Free Agent Added ( by Commissioner )"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Aug 25, 10:17 am",
+   "text": "\ue035 Jakobi Meyers Jax - WR Free Agent Added ( by Commissioner ) Vaqueros ( James ) Aug 25, 10:17 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jason Myers",
+     "yahoo_player_id": 28378,
+     "nfl_team_pos": "Sea - K",
+     "note": "Dropped ( by Commissioner ) To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Aug 25, 10:16 am",
+   "text": "\ue033 Jason Myers Sea - K Dropped ( by Commissioner ) To Waivers Vaqueros ( James ) Aug 25, 10:16 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

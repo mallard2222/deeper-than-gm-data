@@ -1,0 +1,222 @@
+{
+ "season": 2019,
+ "executed_trades": 4,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2019,
+   "league_id": 56453,
+   "transaction_key": "3593447fadf1",
+   "kind": "trade",
+   "timestamp_text": "Nov 9, 1:15 pm",
+   "datetime_local_inferred": "2019-11-09T13:15",
+   "source_url": "https://football.fantasysports.yahoo.com/2019/f1/56453/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:06:34-06:00",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Odell Beckham Jr.",
+       "yahoo_player_id": 27540,
+       "nfl_team_pos": "Min - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Will Fuller V",
+       "yahoo_player_id": 29255,
+       "nfl_team_pos": "Mia - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2019,
+   "league_id": 56453,
+   "transaction_key": "f5d2de60f80e",
+   "kind": "trade",
+   "timestamp_text": "Nov 9, 1:15 pm",
+   "datetime_local_inferred": "2019-11-09T13:15",
+   "source_url": "https://football.fantasysports.yahoo.com/2019/f1/56453/transactions?transactionsfilter=all&count=50",
+   "source_offset": 50,
+   "retrieved_at": "2026-11-01T13:06:34-06:00",
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Josh Jacobs",
+       "yahoo_player_id": 31856,
+       "nfl_team_pos": "GB - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Adam Thielen",
+       "yahoo_player_id": 27277,
+       "nfl_team_pos": "Pit - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Phillip Lindsay",
+       "yahoo_player_id": 31379,
+       "nfl_team_pos": "Ind - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Tom Brady",
+       "yahoo_player_id": 5228,
+       "nfl_team_pos": "TB - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2019,
+   "league_id": 56453,
+   "transaction_key": "44f6a693515b",
+   "kind": "trade",
+   "timestamp_text": "Oct 8, 8:55 pm",
+   "datetime_local_inferred": "2019-10-08T20:55",
+   "source_url": "https://football.fantasysports.yahoo.com/2019/f1/56453/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:06:38-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Evan Engram",
+       "yahoo_player_id": 30136,
+       "nfl_team_pos": "Den - TE"
+      },
+      {
+       "kind": "player",
+       "name": "Chris Thompson",
+       "yahoo_player_id": 26777,
+       "nfl_team_pos": "SF - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Le'Veon Bell",
+       "yahoo_player_id": 26671,
+       "nfl_team_pos": "TB - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 6"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2019,
+   "league_id": 56453,
+   "transaction_key": "c27f0d28aa2e",
+   "kind": "trade",
+   "timestamp_text": "Aug 27, 11:38 am",
+   "datetime_local_inferred": "2019-08-27T11:38",
+   "source_url": "https://football.fantasysports.yahoo.com/2019/f1/56453/transactions?transactionsfilter=all&count=175",
+   "source_offset": 175,
+   "retrieved_at": "2026-11-01T13:06:44-06:00",
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "David Johnson",
+       "yahoo_player_id": 28474,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Marquez Valdes-Scantling",
+       "yahoo_player_id": 31144,
+       "nfl_team_pos": "Pit - WR"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "Dezbians",
+     "to_manager_handle": "tyler156834",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Damien Williams",
+       "yahoo_player_id": 28115,
+       "nfl_team_pos": "Ari - RB"
+      },
+      {
+       "kind": "player",
+       "name": "Cooper Kupp",
+       "yahoo_player_id": 30182,
+       "nfl_team_pos": "Sea - WR"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  }
+ ]
+}

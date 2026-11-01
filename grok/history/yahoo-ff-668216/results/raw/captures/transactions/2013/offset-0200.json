@@ -1,0 +1,744 @@
+{
+ "season": 2013,
+ "league_id": 11558,
+ "offset": 200,
+ "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=200",
+ "has_next": true,
+ "retrieved_at": "2026-11-01T13:04:25-06:00",
+ "rows": [
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Brandon Myers",
+     "yahoo_player_id": 9466,
+     "nfl_team_pos": "TB - TE",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Buccaneers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "TB - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 26, 7:30 pm",
+   "text": "\ue035 \ue033 Brandon Myers TB - TE Free Agent Buccaneers TB - DEF To Waivers Dezbians Sep 26, 7:30 pm"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Mike Williams",
+     "yahoo_player_id": 24076,
+     "nfl_team_pos": "Buf - WR",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 26, 11:06 am",
+   "text": "\ue035 Mike Williams Buf - WR Free Agent bigballs Sep 26, 11:06 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jonathan Stewart",
+     "yahoo_player_id": 8790,
+     "nfl_team_pos": "NYG - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 26, 11:05 am",
+   "text": "\ue033 Jonathan Stewart NYG - RB To Waivers bigballs Sep 26, 11:05 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Justin Tucker",
+     "yahoo_player_id": 26534,
+     "nfl_team_pos": "KC - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Bryce Brown",
+     "yahoo_player_id": 25939,
+     "nfl_team_pos": "Buf - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 25, 8:20 pm",
+   "text": "\ue035 \ue033 Justin Tucker KC - K Free Agent Bryce Brown Buf - RB To Waivers Good Strongs Sep 25, 8:20 pm"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Garrett Hartley",
+     "yahoo_player_id": 9222,
+     "nfl_team_pos": "Cle - K",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 25, 5:45 pm",
+   "text": "\ue033 Garrett Hartley Cle - K To Waivers Good Strongs Sep 25, 5:45 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Sep 25, 5:45 pm",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Trent Richardson",
+       "yahoo_player_id": 25713,
+       "nfl_team_pos": "LV - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Brandon Marshall",
+       "yahoo_player_id": 7868,
+       "nfl_team_pos": "Sea - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Darren Sproles",
+       "yahoo_player_id": 7306,
+       "nfl_team_pos": "Phi - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Trent Richardson LV - RB Round 5 Traded to bigballs ( James ) Sep 25, 5:45 pm | Brandon Marshall Sea - WR Darren Sproles Phi - RB Round 9 Traded to Good Strongs ( James ) Sep 25, 5:45 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Kenbrell Thompkins",
+     "yahoo_player_id": 27235,
+     "nfl_team_pos": "NYJ - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Miles Austin",
+     "yahoo_player_id": 8021,
+     "nfl_team_pos": "Phi - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Sep 25, 11:29 am",
+   "text": "\ue035 \ue033 Kenbrell Thompkins NYJ - WR Free Agent Miles Austin Phi - WR To Waivers Vaqueros Sep 25, 11:29 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Santonio Holmes",
+     "yahoo_player_id": 7774,
+     "nfl_team_pos": "Chi - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Vincent Brown",
+     "yahoo_player_id": 24869,
+     "nfl_team_pos": "LAC - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 2,
+     "team_name": "Vaqueros"
+    }
+   ],
+   "timestamp_text": "Sep 25, 11:28 am",
+   "text": "\ue035 \ue033 Santonio Holmes Chi - WR Free Agent Vincent Brown LAC - WR To Waivers Vaqueros Sep 25, 11:28 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jason Snelling",
+     "yahoo_player_id": 8498,
+     "nfl_team_pos": "Atl - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Kyle Rudolph",
+     "yahoo_player_id": 24830,
+     "nfl_team_pos": "TB - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 25, 10:31 am",
+   "text": "\ue035 \ue033 Jason Snelling Atl - RB Free Agent Kyle Rudolph TB - TE To Waivers bigballs Sep 25, 10:31 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Buccaneers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "TB - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Leonard Hankerson",
+     "yahoo_player_id": 24866,
+     "nfl_team_pos": "Buf - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 25, 7:23 am",
+   "text": "\ue035 \ue033 Buccaneers TB - DEF Free Agent Leonard Hankerson Buf - WR To Waivers Dezbians Sep 25, 7:23 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Colts",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Ind - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Patriots",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "NE - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 25, 6:50 am",
+   "text": "\ue035 \ue033 Colts Ind - DEF Free Agent Patriots NE - DEF To Waivers Good Strongs Sep 25, 6:50 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Chiefs",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "KC - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Panthers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Car - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Sep 25, 6:25 am",
+   "text": "\ue035 \ue033 Chiefs KC - DEF Free Agent Panthers Car - DEF To Waivers FFAmuseBouche Sep 25, 6:25 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Ryan Broyles",
+     "yahoo_player_id": 25764,
+     "nfl_team_pos": "Det - WR",
+     "note": "Waiver"
+    },
+    {
+     "name": "James Starks",
+     "yahoo_player_id": 24169,
+     "nfl_team_pos": "GB - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Sep 25, 2:32 am",
+   "text": "\ue035 \ue033 Ryan Broyles Det - WR Waiver James Starks GB - RB To Waivers FFAmuseBouche Sep 25, 2:32 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Panthers",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Car - DEF",
+     "note": "Waiver"
+    },
+    {
+     "name": "Texans",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Hou - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Sep 25, 2:32 am",
+   "text": "\ue035 \ue033 Panthers Car - DEF Waiver Texans Hou - DEF To Waivers FFAmuseBouche Sep 25, 2:32 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Brandon Bolden",
+     "yahoo_player_id": 26389,
+     "nfl_team_pos": "LV - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Vikings",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Min - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 25, 2:32 am",
+   "text": "\ue035 \ue033 Brandon Bolden LV - RB Waiver Vikings Min - DEF To Waivers Dezbians Sep 25, 2:32 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Bilal Powell",
+     "yahoo_player_id": 24913,
+     "nfl_team_pos": "NYJ - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Willis McGahee",
+     "yahoo_player_id": 6359,
+     "nfl_team_pos": "Cle - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 25, 2:32 am",
+   "text": "\ue035 \ue033 Bilal Powell NYJ - RB Waiver Willis McGahee Cle - RB To Waivers Good Strongs Sep 25, 2:32 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Ahmad Bradshaw",
+     "yahoo_player_id": 8504,
+     "nfl_team_pos": "Ind - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Mark Ingram II",
+     "yahoo_player_id": 24815,
+     "nfl_team_pos": "NO - RB",
+     "note": "To Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 22, 11:25 am",
+   "text": "\ue035 \ue033 Ahmad Bradshaw Ind - RB Free Agent Mark Ingram II NO - RB To Free Agent bigballs Sep 22, 11:25 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Mark Ingram II",
+     "yahoo_player_id": 24815,
+     "nfl_team_pos": "NO - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Danny Woodhead",
+     "yahoo_player_id": 9560,
+     "nfl_team_pos": "Bal - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 22, 11:11 am",
+   "text": "\ue035 \ue033 Mark Ingram II NO - RB Free Agent Danny Woodhead Bal - RB To Waivers bigballs Sep 22, 11:11 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Garrett Hartley",
+     "yahoo_player_id": 9222,
+     "nfl_team_pos": "Cle - K",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Rueben Randle",
+     "yahoo_player_id": 25773,
+     "nfl_team_pos": "NYG - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 21, 10:19 am",
+   "text": "\ue035 \ue033 Garrett Hartley Cle - K Free Agent Rueben Randle NYG - WR To Waivers Good Strongs Sep 21, 10:19 am"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Sep 21, 8:45 am",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 5,
+     "to_team_name": "Deepest",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Julian Edelman",
+       "yahoo_player_id": 9496,
+       "nfl_team_pos": "NE - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Reggie Bush",
+       "yahoo_player_id": 7751,
+       "nfl_team_pos": "Buf - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Dez Bryant",
+       "yahoo_player_id": 23999,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Stevie Johnson",
+       "yahoo_player_id": 9001,
+       "nfl_team_pos": "LAC - WR"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Julian Edelman NE - WR Reggie Bush Buf - RB Traded to Deepest ( James ) Sep 21, 8:45 am | Dez Bryant Bal - WR Stevie Johnson LAC - WR Traded to Good Strongs ( James ) Sep 21, 8:45 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Vikings",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Min - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Kenbrell Thompkins",
+     "yahoo_player_id": 27235,
+     "nfl_team_pos": "NYJ - WR",
+     "note": "To Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 19, 9:05 pm",
+   "text": "\ue035 \ue033 Vikings Min - DEF Free Agent Kenbrell Thompkins NYJ - WR To Free Agent Dezbians Sep 19, 9:05 pm"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Sep 19, 10:39 am",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 8,
+     "to_team_name": "FFAmuseBouche",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Colin Kaepernick",
+       "yahoo_player_id": 24823,
+       "nfl_team_pos": "SF - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Jason Witten",
+       "yahoo_player_id": 6405,
+       "nfl_team_pos": "LV - TE"
+      },
+      {
+       "kind": "player",
+       "name": "Andy Dalton",
+       "yahoo_player_id": 24822,
+       "nfl_team_pos": "Atl - QB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 4,
+     "to_team_name": "bigballs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Andrew Luck",
+       "yahoo_player_id": 25711,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Hakeem Nicks",
+       "yahoo_player_id": 9293,
+       "nfl_team_pos": "NYG - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Matt Schaub",
+       "yahoo_player_id": 6849,
+       "nfl_team_pos": "Atl - QB"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Colin Kaepernick SF - QB Jason Witten LV - TE Andy Dalton Atl - QB Traded to FFAmuseBouche ( James ) Sep 19, 10:39 am | Andrew Luck Ind - QB Hakeem Nicks NYG - WR Matt Schaub Atl - QB Traded to bigballs ( James ) Sep 19, 10:39 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Kenbrell Thompkins",
+     "yahoo_player_id": 27235,
+     "nfl_team_pos": "NYJ - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Golden Tate",
+     "yahoo_player_id": 24035,
+     "nfl_team_pos": "Ten - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Sep 19, 7:58 am",
+   "text": "\ue035 \ue033 Kenbrell Thompkins NYJ - WR Free Agent Golden Tate Ten - WR To Waivers Dezbians Sep 19, 7:58 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Danny Woodhead",
+     "yahoo_player_id": 9560,
+     "nfl_team_pos": "Bal - RB",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 19, 7:31 am",
+   "text": "\ue035 Danny Woodhead Bal - RB Free Agent bigballs Sep 19, 7:31 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Ahmad Bradshaw",
+     "yahoo_player_id": 8504,
+     "nfl_team_pos": "Ind - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Sep 19, 7:30 am",
+   "text": "\ue033 Ahmad Bradshaw Ind - RB To Waivers bigballs Sep 19, 7:30 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}

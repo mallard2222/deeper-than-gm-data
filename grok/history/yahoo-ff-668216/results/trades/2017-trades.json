@@ -1,0 +1,316 @@
+{
+ "season": 2017,
+ "executed_trades": 5,
+ "vetoed_trades": 0,
+ "note": "Each leg lists assets RECEIVED by to_team. No FAAB or non-player/non-pick assets appear in any captured trade. datetime_local_inferred: month/day/time as displayed by Yahoo, year inferred from season (Jan-Jun => season+1). commissioner_profile_shown is the commissioner who processed/approved, not a trade party.",
+ "trades": [
+  {
+   "season": 2017,
+   "league_id": 122934,
+   "transaction_key": "77673f3beaf7",
+   "kind": "trade",
+   "timestamp_text": "Nov 8, 4:46 pm",
+   "datetime_local_inferred": "2017-11-08T16:46",
+   "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:05:51-06:00",
+   "legs": [
+    {
+     "to_team_id": 2,
+     "to_team_name": "bigballs",
+     "to_manager_handle": "brad95652",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "T.Y. Hilton",
+       "yahoo_player_id": 25802,
+       "nfl_team_pos": "Dal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Ryan Fitzpatrick",
+       "yahoo_player_id": 7426,
+       "nfl_team_pos": "Was - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      }
+     ]
+    },
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "DeAndre Hopkins",
+       "yahoo_player_id": 26650,
+       "nfl_team_pos": "Bal - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Matt Ryan",
+       "yahoo_player_id": 8780,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 15"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2017,
+   "league_id": 122934,
+   "transaction_key": "4b2b3694dd87",
+   "kind": "trade",
+   "timestamp_text": "Nov 7, 4:53 pm",
+   "datetime_local_inferred": "2017-11-07T16:53",
+   "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:05:51-06:00",
+   "legs": [
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Coby Fleener",
+       "yahoo_player_id": 25744,
+       "nfl_team_pos": "NO - TE"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 5"
+      }
+     ]
+    },
+    {
+     "to_team_id": 5,
+     "to_team_name": "DUGASM",
+     "to_manager_handle": "ryan512974",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jimmy Graham",
+       "yahoo_player_id": 24070,
+       "nfl_team_pos": "NO - TE"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2017,
+   "league_id": 122934,
+   "transaction_key": "bc6708c475df",
+   "kind": "trade",
+   "timestamp_text": "Nov 7, 4:53 pm",
+   "datetime_local_inferred": "2017-11-07T16:53",
+   "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=75",
+   "source_offset": 75,
+   "retrieved_at": "2026-11-01T13:05:51-06:00",
+   "legs": [
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Terrelle Pryor Sr.",
+       "yahoo_player_id": 25681,
+       "nfl_team_pos": "NYJ - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Andrew Luck",
+       "yahoo_player_id": 25711,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 2"
+      }
+     ]
+    },
+    {
+     "to_team_id": 6,
+     "to_team_name": "FFAmuseBouche",
+     "to_manager_handle": "jonah11636",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Tom Brady",
+       "yahoo_player_id": 5228,
+       "nfl_team_pos": "TB - QB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 8"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 9"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  },
+  {
+   "season": 2017,
+   "league_id": 122934,
+   "transaction_key": "cfcde1cca46a",
+   "kind": "trade",
+   "timestamp_text": "Nov 2, 9:38 pm",
+   "datetime_local_inferred": "2017-11-02T21:38",
+   "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:05:53-06:00",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Good Strongs",
+     "to_manager_handle": "framp5",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Drew Brees",
+       "yahoo_player_id": 5479,
+       "nfl_team_pos": "NO - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Mark Ingram II",
+       "yahoo_player_id": 24815,
+       "nfl_team_pos": "NO - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 11"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Jared Goff",
+       "yahoo_player_id": 29235,
+       "nfl_team_pos": "Det - QB"
+      },
+      {
+       "kind": "player",
+       "name": "C.J. Anderson",
+       "yahoo_player_id": 26878,
+       "nfl_team_pos": "Det - RB"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 3"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": "james396127"
+  },
+  {
+   "season": 2017,
+   "league_id": 122934,
+   "transaction_key": "cfe3d21de127",
+   "kind": "trade",
+   "timestamp_text": "Nov 2, 9:37 pm",
+   "datetime_local_inferred": "2017-11-02T21:37",
+   "source_url": "https://football.fantasysports.yahoo.com/2017/f1/122934/transactions?transactionsfilter=all&count=100",
+   "source_offset": 100,
+   "retrieved_at": "2026-11-01T13:05:53-06:00",
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Deepest",
+     "to_manager_handle": "jeremy82341",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Golden Tate",
+       "yahoo_player_id": 24035,
+       "nfl_team_pos": "Ten - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 1"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 7"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "to_manager_handle": "james396127",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Antonio Brown",
+       "yahoo_player_id": 24171,
+       "nfl_team_pos": "TB - WR"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 4"
+      },
+      {
+       "kind": "draft_pick",
+       "text": "Round 10"
+      }
+     ]
+    }
+   ],
+   "commissioner_profile_shown": null
+  }
+ ]
+}

@@ -1,0 +1,714 @@
+{
+ "season": 2013,
+ "league_id": 11558,
+ "offset": 175,
+ "source_url": "https://football.fantasysports.yahoo.com/2013/f1/11558/transactions?transactionsfilter=all&count=175",
+ "has_next": true,
+ "retrieved_at": "2026-11-01T13:04:23-06:00",
+ "rows": [
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Oct 8, 7:14 am",
+   "commissioner_profile_shown": "james396127",
+   "legs": [
+    {
+     "to_team_id": 7,
+     "to_team_name": "Dezbians",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Calvin Johnson",
+       "yahoo_player_id": 8256,
+       "nfl_team_pos": "Det - WR"
+      },
+      {
+       "kind": "player",
+       "name": "Alex Smith",
+       "yahoo_player_id": 7177,
+       "nfl_team_pos": "Was - QB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Matt Ryan",
+       "yahoo_player_id": 8780,
+       "nfl_team_pos": "Ind - QB"
+      },
+      {
+       "kind": "player",
+       "name": "Pierre Garcon",
+       "yahoo_player_id": 8982,
+       "nfl_team_pos": "SF - WR"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Calvin Johnson Det - WR Alex Smith Was - QB Traded to Dezbians ( James ) Oct 8, 7:14 am | Matt Ryan Ind - QB Pierre Garcon SF - WR Traded to Good Strongs ( James ) Oct 8, 7:14 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Mike Goodson",
+     "yahoo_player_id": 9375,
+     "nfl_team_pos": "NYJ - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "E.J. Manuel",
+     "yahoo_player_id": 26639,
+     "nfl_team_pos": "LV - QB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Oct 7, 7:27 pm",
+   "text": "\ue035 \ue033 Mike Goodson NYJ - RB Free Agent E.J. Manuel LV - QB To Waivers Wet Serapas Oct 7, 7:27 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Marcel Reece",
+     "yahoo_player_id": 9158,
+     "nfl_team_pos": "Sea - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Cowboys",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Dal - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Oct 6, 9:51 pm",
+   "text": "\ue035 \ue033 Marcel Reece Sea - RB Free Agent Cowboys Dal - DEF To Waivers Wet Serapas Oct 6, 9:51 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Zac Stacy",
+     "yahoo_player_id": 26783,
+     "nfl_team_pos": "NYJ - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Roy Helu",
+     "yahoo_player_id": 24892,
+     "nfl_team_pos": "LV - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Oct 6, 10:19 am",
+   "text": "\ue035 \ue033 Zac Stacy NYJ - RB Free Agent Roy Helu LV - RB To Waivers Good Strongs Oct 6, 10:19 am"
+  },
+  {
+   "types": [
+    "Trade"
+   ],
+   "timestamp_text": "Oct 5, 1:17 pm",
+   "commissioner_profile_shown": null,
+   "legs": [
+    {
+     "to_team_id": 3,
+     "to_team_name": "Good Strongs",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Ryan Mathews",
+       "yahoo_player_id": 23987,
+       "nfl_team_pos": "Phi - RB"
+      }
+     ]
+    },
+    {
+     "to_team_id": 1,
+     "to_team_name": "Wet Serapas",
+     "assets": [
+      {
+       "kind": "player",
+       "name": "Maurice Jones-Drew",
+       "yahoo_player_id": 7809,
+       "nfl_team_pos": "LV - RB"
+      }
+     ]
+    }
+   ],
+   "text": "\ue037 Ryan Mathews Phi - RB Traded to Good Strongs Oct 5, 1:17 pm | Maurice Jones-Drew LV - RB Traded to Wet Serapas Oct 5, 1:17 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "LeGarrette Blount",
+     "yahoo_player_id": 24318,
+     "nfl_team_pos": "Det - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Robert Woods",
+     "yahoo_player_id": 26664,
+     "nfl_team_pos": "Pit - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Oct 4, 6:16 pm",
+   "text": "\ue035 \ue033 LeGarrette Blount Det - RB Free Agent Robert Woods Pit - WR To Waivers Dezbians Oct 4, 6:16 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Terrance Williams",
+     "yahoo_player_id": 26697,
+     "nfl_team_pos": "Dal - WR",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Jonathan Stewart",
+     "yahoo_player_id": 8790,
+     "nfl_team_pos": "NYG - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 4, 7:44 am",
+   "text": "\ue035 \ue033 Terrance Williams Dal - WR Free Agent Jonathan Stewart NYG - RB To Waivers bigballs Oct 4, 7:44 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Pierre Thomas",
+     "yahoo_player_id": 8561,
+     "nfl_team_pos": "SF - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Daryl Richardson",
+     "yahoo_player_id": 25962,
+     "nfl_team_pos": "Pit - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 4, 7:03 am",
+   "text": "\ue035 \ue033 Pierre Thomas SF - RB Waiver Daryl Richardson Pit - RB To Waivers bigballs Oct 4, 7:03 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Martellus Bennett",
+     "yahoo_player_id": 8838,
+     "nfl_team_pos": "GB - TE",
+     "note": "Waiver"
+    },
+    {
+     "name": "Nate Washington",
+     "yahoo_player_id": 7492,
+     "nfl_team_pos": "Hou - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 4, 7:03 am",
+   "text": "\ue035 \ue033 Martellus Bennett GB - TE Waiver Nate Washington Hou - WR To Waivers bigballs Oct 4, 7:03 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Browns",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Cle - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Miles Austin",
+     "yahoo_player_id": 8021,
+     "nfl_team_pos": "Phi - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Oct 2, 11:26 pm",
+   "text": "\ue035 \ue033 Browns Cle - DEF Free Agent Miles Austin Phi - WR To Waivers Wet Serapas Oct 2, 11:26 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jonathan Stewart",
+     "yahoo_player_id": 8790,
+     "nfl_team_pos": "NYG - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Ahmad Bradshaw",
+     "yahoo_player_id": 8504,
+     "nfl_team_pos": "Ind - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 2, 11:47 am",
+   "text": "\ue035 \ue033 Jonathan Stewart NYG - RB Free Agent Ahmad Bradshaw Ind - RB To Waivers bigballs Oct 2, 11:47 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Nate Washington",
+     "yahoo_player_id": 7492,
+     "nfl_team_pos": "Hou - WR",
+     "note": "Free Agent"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 2, 6:34 am",
+   "text": "\ue035 Nate Washington Hou - WR Free Agent bigballs Oct 2, 6:34 am"
+  },
+  {
+   "types": [
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Jason Snelling",
+     "yahoo_player_id": 8498,
+     "nfl_team_pos": "Atl - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 2, 6:21 am",
+   "text": "\ue033 Jason Snelling Atl - RB To Waivers bigballs Oct 2, 6:21 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Brian Hoyer",
+     "yahoo_player_id": 9547,
+     "nfl_team_pos": "LV - QB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Martellus Bennett",
+     "yahoo_player_id": 8838,
+     "nfl_team_pos": "GB - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Oct 2, 5:55 am",
+   "text": "\ue035 \ue033 Brian Hoyer LV - QB Free Agent Martellus Bennett GB - TE To Waivers Good Strongs Oct 2, 5:55 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Robert Woods",
+     "yahoo_player_id": 26664,
+     "nfl_team_pos": "Pit - WR",
+     "note": "Waiver"
+    },
+    {
+     "name": "Brandon Myers",
+     "yahoo_player_id": 9466,
+     "nfl_team_pos": "TB - TE",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Oct 2, 2:48 am",
+   "text": "\ue035 \ue033 Robert Woods Pit - WR Waiver Brandon Myers TB - TE To Waivers Dezbians Oct 2, 2:48 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Falcons",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Atl - DEF",
+     "note": "Waiver"
+    },
+    {
+     "name": "Cardinals",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Ari - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Oct 2, 2:48 am",
+   "text": "\ue035 \ue033 Falcons Atl - DEF Waiver Cardinals Ari - DEF To Waivers Good Strongs Oct 2, 2:48 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Terrelle Pryor Sr.",
+     "yahoo_player_id": 25681,
+     "nfl_team_pos": "NYJ - QB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Pierre Thomas",
+     "yahoo_player_id": 8561,
+     "nfl_team_pos": "SF - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Oct 2, 2:48 am",
+   "text": "\ue035 \ue033 Terrelle Pryor Sr. NYJ - QB Waiver Pierre Thomas SF - RB To Waivers Wet Serapas Oct 2, 2:48 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Rashad Jennings",
+     "yahoo_player_id": 9514,
+     "nfl_team_pos": "NYG - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Ryan Broyles",
+     "yahoo_player_id": 25764,
+     "nfl_team_pos": "Det - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Oct 2, 2:48 am",
+   "text": "\ue035 \ue033 Rashad Jennings NYG - RB Waiver Ryan Broyles Det - WR To Waivers FFAmuseBouche Oct 2, 2:48 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Danny Woodhead",
+     "yahoo_player_id": 9560,
+     "nfl_team_pos": "Bal - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Isaiah Pead",
+     "yahoo_player_id": 25760,
+     "nfl_team_pos": "Mia - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 7,
+     "team_name": "Dezbians"
+    }
+   ],
+   "timestamp_text": "Oct 2, 2:48 am",
+   "text": "\ue035 \ue033 Danny Woodhead Bal - RB Waiver Isaiah Pead Mia - RB To Waivers Dezbians Oct 2, 2:48 am"
+  },
+  {
+   "types": [
+    "Added Player"
+   ],
+   "players": [
+    {
+     "name": "Daryl Richardson",
+     "yahoo_player_id": 25962,
+     "nfl_team_pos": "Pit - RB",
+     "note": "Waiver"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 4,
+     "team_name": "bigballs"
+    }
+   ],
+   "timestamp_text": "Oct 2, 2:48 am",
+   "text": "\ue035 Daryl Richardson Pit - RB Waiver bigballs Oct 2, 2:48 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Roy Helu",
+     "yahoo_player_id": 24892,
+     "nfl_team_pos": "LV - RB",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Daryl Richardson",
+     "yahoo_player_id": 25962,
+     "nfl_team_pos": "Pit - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 27, 1:59 pm",
+   "text": "\ue035 \ue033 Roy Helu LV - RB Free Agent Daryl Richardson Pit - RB To Waivers Good Strongs Sep 27, 1:59 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Cardinals",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Ari - DEF",
+     "note": "Free Agent"
+    },
+    {
+     "name": "Colts",
+     "yahoo_player_id": null,
+     "nfl_team_pos": "Ind - DEF",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 3,
+     "team_name": "Good Strongs"
+    }
+   ],
+   "timestamp_text": "Sep 27, 1:27 pm",
+   "text": "\ue035 \ue033 Cardinals Ari - DEF Free Agent Colts Ind - DEF To Waivers Good Strongs Sep 27, 1:27 pm"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Willis McGahee",
+     "yahoo_player_id": 6359,
+     "nfl_team_pos": "Cle - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Chris Ivory",
+     "yahoo_player_id": 24400,
+     "nfl_team_pos": "Buf - RB",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Sep 27, 3:22 am",
+   "text": "\ue035 \ue033 Willis McGahee Cle - RB Waiver Chris Ivory Buf - RB To Waivers Wet Serapas Sep 27, 3:22 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Bryce Brown",
+     "yahoo_player_id": 25939,
+     "nfl_team_pos": "Buf - RB",
+     "note": "Waiver"
+    },
+    {
+     "name": "Kenny Britt",
+     "yahoo_player_id": 9294,
+     "nfl_team_pos": "NE - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 8,
+     "team_name": "FFAmuseBouche"
+    }
+   ],
+   "timestamp_text": "Sep 27, 3:22 am",
+   "text": "\ue035 \ue033 Bryce Brown Buf - RB Waiver Kenny Britt NE - WR To Waivers FFAmuseBouche Sep 27, 3:22 am"
+  },
+  {
+   "types": [
+    "Added Player",
+    "Dropped Player"
+   ],
+   "players": [
+    {
+     "name": "Miles Austin",
+     "yahoo_player_id": 8021,
+     "nfl_team_pos": "Phi - WR",
+     "note": "Waiver"
+    },
+    {
+     "name": "Chris Givens",
+     "yahoo_player_id": 25806,
+     "nfl_team_pos": "Bal - WR",
+     "note": "To Waivers"
+    }
+   ],
+   "teams": [
+    {
+     "team_id": 1,
+     "team_name": "Wet Serapas"
+    }
+   ],
+   "timestamp_text": "Sep 27, 3:22 am",
+   "text": "\ue035 \ue033 Miles Austin Phi - WR Waiver Chris Givens Bal - WR To Waivers Wet Serapas Sep 27, 3:22 am"
+  }
+ ],
+ "note": "Parsed rows from Yahoo league transactions page (filter=all), read-only; raw HTML not retained. timestamp_text is as displayed (no year; Yahoo shows times in the viewing account timezone)."
+}
