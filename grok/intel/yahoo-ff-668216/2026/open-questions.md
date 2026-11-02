@@ -27,3 +27,10 @@
 - Final W8 result after MNF (finalize routine Nov 3 6:30 AM).
 - Henry hedge (Gainwell/Dowdle) vs hold — Andrew decision by Tue Nov 3 waiver window.
 - Rice BN 0.0 in two backfill weeks — reason not documented (injury vs inactive); needs source check.
+
+## Added 2026-11-02 daily
+- Official W8 snap counts for Henry vs Justice Hill (confirm ESPN report).
+- RJ Harvey knee severity / IR return window.
+- Downs/Taylor trade rumors — any named-source report before Nov 10.
+- Deeper Than league trade deadline date (not verified vs NFL Nov 10).
+- Content of Rice "New Player Note" (no injury tag shown).

@@ -67,3 +67,13 @@ Prior: 2026-10-04 (Yahoo failure; routine paused Oct 4 → Nov 1; Oct 5–31 new
 - **Weather GB@TB:** ~87F / ~43% precip isolated T-storms — Love / Packers / Golden.
 - **Jayden Reed:** W(Oct 3) result unknown; do not reclaim.
 - **FA watch (last known Fri; unverifiable Sat):** BTJ, Godwin, Shakir, QJ, Gainwell, Lloyd, Schultz, Bigsby, Goedert (O this week), Chiefs/Eagles/Bills DEF.
+
+## WATCH — active as of Nov 2, 2026 (~5:05 PM CT)
+
+- **W8:** Vaqueros 123.72 vs Good Strongs 163.28 (final); only Caleb (MNF @SEA) left — loss near-certain.
+- **Derrick Henry:** <50% snaps W8, Justice Hill (FA) out-snapped him (ESPN report); Lamar IR. Sell/hedge decision before **NFL deadline Nov 10, 3 PM CT**.
+- **RJ Harvey (IR):** knee; Jonah Coleman (Baby Arm) now DEN lead back.
+- **Josh Downs / Tyler Warren:** Colts trade rumors (unsourced) — Warren upside if Downs/Taylor moved.
+- **FA targets (W Nov 4):** Mike Washington Jr., Justice Hill, Gainwell, Dowdle (bye W9), Sampson, Gesicki. No claim authorized.
+- **W9 vs Big Balls:** proj 125.53–139.97; byes Freiermuth, Wan'Dale (both BN).
+- **League:** Good Strongs added Deebo Samuel (Q) Nov 1.
