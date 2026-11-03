@@ -41,3 +41,9 @@
 - Keeper rules and traded-pick obligations: not on settings page (unknown).
 - Exact Wednesday waiver processing clock (unknown).
 - League trade deadline now verified: **Nov 28, 2026** (resolves the 11-02 question; NFL deadline Nov 10, 3 PM CT is separate).
+
+## Added 2026-11-03 daily
+- Did the $15 Mike Washington Jr. claim win (Wed Nov 4 processing)? Check at Wednesday reconciliation.
+- CMC practice participation Wed–Fri (he is in the starting lineup).
+- Content of Yahoo New Player Notes for Caleb Williams, Odunze, Matt Gay.
+- Resolved: Harvey IR-slot discrepancy — he is now in the IR slot (Yahoo 4:57 PM CT).

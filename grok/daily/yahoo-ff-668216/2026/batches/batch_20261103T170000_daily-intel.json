@@ -1,0 +1,18 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-03T16:57-06:00",
+ "collection_status": "success",
+ "previous_successful_daily_ct": "2026-11-02T16:54-06:00",
+ "yahoo_transactions_made": false,
+ "changes": [
+  {"id":"2026-11-03-vaqueros-w9-moves-confirmed","type":"fact","confidence":"confirmed","detail":"Lineup reset live (CMC, Collins, Warren, Rice W/T, McMillan W/R); Harvey in IR slot 1/1; pending Waiver 1 (Nov 4) $15 Mike Washington Jr.; 1 empty roster spot; W9 proj 138.29 vs 143.11","actor":"unknown (not this run)","source":"https://football.fantasysports.yahoo.com/f1/668216/8","retrieved_ct":"2026-11-03T16:57-06:00","response":"no action"},
+  {"id":"2026-11-03-ravens-fagnano-start","type":"fact+inference","confidence":"confirmed start; impact inferred","detail":"Joe Fagnano named Thu starter vs JAX; ankle brace; Lamar IR; Huntley IR candidate","affected":["Derrick Henry (Vaqueros)","Justice Hill (FA)","Joe Fagnano (FA)"],"source":"https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars","published_utc":"2026-11-03T22:48:14Z","response":"monitor; prepare Henry hedge","deadline":"2026-11-05T19:15-06:00"},
+  {"id":"2026-11-03-love-ir-allgeier","type":"fact","confidence":"confirmed","detail":"Jeremiyah Love IR 4-5 weeks high ankle; Allgeier primary","affected":["Jeremiyah Love (Baby Arm)","Tyler Allgeier (Baby Arm)"],"source":"https://www.espn.com/nfl/story/_/id/50370763/sources-cards-jeremiyah-love-headed-ir-4-5-weeks","published_utc":"2026-11-03T21:17:22Z","response":"no action"},
+  {"id":"2026-11-03-bt-jr-trade-speculation","type":"rumor","detail":"Brian Thomas Jr. trade speculation before Nov 10","affected":["Brian Thomas Jr. (FA)"],"source":"https://www.espn.com/nfl/story/_/id/50366346/jaguars-wr-brian-thomas-jr-trade-deadline-rumors","published_utc":"2026-11-03T19:06:35Z","response":"monitor","deadline":"2026-11-10T15:00-06:00"},
+  {"id":"2026-W09-opponent-big-balls","type":"fact","confidence":"confirmed","detail":"Big Balls lineup unchanged; Steelers DEF on bye in DEF slot; proj 143.11","source":"https://football.fantasysports.yahoo.com/f1/668216/3","retrieved_ct":"2026-11-03T16:57-06:00","response":"no action"},
+  {"id":"2026-11-03-league-transactions","type":"fact","confidence":"confirmed","detail":"No new transactions since 2026-11-01 17:04 CT","source":"https://football.fantasysports.yahoo.com/f1/668216/transactions","response":"no action"}
+ ],
+ "quarantine": ["Yahoo New Player Notes for Caleb Williams, Odunze, Matt Gay not read","CMC practice status pending Wed-Fri"]
+}

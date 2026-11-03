@@ -85,3 +85,9 @@ Prior: 2026-10-04 (Yahoo failure; routine paused Oct 4 → Nov 1; Oct 5–31 new
 - **Jonah Coleman** (DEN RB, Baby Arm): led DEN backfield with Harvey out.
 - **Jonathan Taylor** (Deepest) and **Josh Downs** (Vaqueros): trade rumors through Nov 10.
 - Geno Smith / Gardner Minshew / Cam Ward FA QBs (2-QB league depth, not a Vaqueros need).
+
+## 2026-11-03 (daily 5 PM)
+- **Vaqueros W9 state (Yahoo 4:57 PM CT):** lineup reset live; Harvey in IR slot; pending **$15 Mike Washington Jr.** claim (Nov 4); 1 open roster spot; proj 138.29–143.11 vs Big Balls.
+- **Derrick Henry:** Ravens named rookie Joe Fagnano Thursday starter (confirmed); Henry locks Thu Nov 5 7:15 PM CT.
+- **Jeremiyah Love (Baby Arm):** IR 4–5 weeks; Allgeier (Baby Arm) lead back.
+- **Brian Thomas Jr.** (FA): trade speculation to Nov 10 (rumor).
