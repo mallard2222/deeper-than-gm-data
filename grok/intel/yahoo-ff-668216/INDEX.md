@@ -35,6 +35,11 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [W04 weekly-package.json](../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/weekly-package.json)
 - [W04 run](./2026/runs/run-2026-W04-20260929T0810CT.md)
 
+## W09 Tuesday desk (2026-11-03)
+
+- [W09 package](../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/) · [recommendation](../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/RECOMMENDATION.md) · [learning loop](../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/learning-loop.md)
+- [W09 run](./2026/runs/run-2026-W09-20261103T0758CT.json) · [Harvey quarantine](./2026/quarantine/2026-11-03-harvey-ir-designation-vs-slot.md)
+
 ## Seeded W03 record
 
 - [W03 package](../../waivers/yahoo-ff-668216/2026/W03-2026-09-22/)

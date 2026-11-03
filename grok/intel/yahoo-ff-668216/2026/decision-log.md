@@ -1,5 +1,13 @@
 # Decision log — 2026
 
+## `intel-yahoo-ff-668216-2026-W09-2026-11-03-001`
+
+- **Date:** 2026-11-03 (CT), Tuesday intelligence desk (read-only). **No Yahoo transactions.**
+- **Package:** [W09-2026-11-03](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/) · [RECOMMENDATION.md](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/RECOMMENDATION.md) · [learning-loop.md](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/learning-loop.md)
+- **State facts:** 2-6 (7th); FAAB $79; waiver priority 2; IR 0/1; W9 vs Big Balls proj 123.57–139.54; 9 BN confirmed; league trade end Nov 28.
+- **Recommendations (docs only):** lineup reset (CMC/Collins/Warren in, +14.0 Yahoo proj, CMC gated on practice reports); Harvey → IR; claim Mike Washington Jr. $12–18 (max ~$22), optional Gainwell $3–6 / Justice Hill $1–3; drop order Freiermuth then Marks; hold = lineup reset only.
+- **Boundary:** Does not authorize adds/drops/claims/lineup/IR. Earlier records unchanged.
+
 ## `intel-yahoo-ff-668216-2026-daily-2026-10-03-001`
 
 - **Date:** 2026-10-03 (CT)

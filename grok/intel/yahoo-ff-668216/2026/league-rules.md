@@ -31,3 +31,10 @@ Source of truth: Yahoo settings page captures. Last verified: **2026-09-29 ~08:1
 ## Keepers / draft picks
 - Keepers: **not listed** on settings → unknown
 - Traded-pick obligations: unknown
+
+## Trades and waivers (verified 2026-11-03, Yahoo settings page)
+
+- Trade end date: **Nov 28, 2026**; commissioner review, 2-day reject time; draft-pick trades allowed.
+- Waivers: FAB with weekly rolling-standings tiebreak; 1-day waiver time; weekly waivers at game time Tuesday; injured players cannot go directly to IR from waivers; no acquisition/trade maximum.
+- Keeper rules: not shown on settings page (**unknown**).
+- Source: [W09 settings evidence](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/evidence/settings.txt)

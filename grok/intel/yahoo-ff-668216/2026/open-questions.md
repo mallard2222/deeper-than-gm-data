@@ -34,3 +34,10 @@
 - Downs/Taylor trade rumors — any named-source report before Nov 10.
 - Deeper Than league trade deadline date (not verified vs NFL Nov 10).
 - Content of Rice "New Player Note" (no injury tag shown).
+
+## Added 2026-11-03 W09 desk
+- CMC hamstring practice status (Wed–Fri) before W9 start decision.
+- Harvey: Yahoo IR designation but BN slot; daily 11-02 said "IR" (quarantined discrepancy).
+- Keeper rules and traded-pick obligations: not on settings page (unknown).
+- Exact Wednesday waiver processing clock (unknown).
+- League trade deadline now verified: **Nov 28, 2026** (resolves the 11-02 question; NFL deadline Nov 10, 3 PM CT is separate).

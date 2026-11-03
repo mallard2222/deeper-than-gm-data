@@ -77,3 +77,11 @@ Prior: 2026-10-04 (Yahoo failure; routine paused Oct 4 → Nov 1; Oct 5–31 new
 - **FA targets (W Nov 4):** Mike Washington Jr., Justice Hill, Gainwell, Dowdle (bye W9), Sampson, Gesicki. No claim authorized.
 - **W9 vs Big Balls:** proj 125.53–139.97; byes Freiermuth, Wan'Dale (both BN).
 - **League:** Good Strongs added Deebo Samuel (Q) Nov 1.
+
+## 2026-11-03 (W09 desk)
+- **Mike Washington Jr.** (LV RB, 42744) FA W Nov 4: started over Jeanty, 25 carries (ESPN). Top claim.
+- **Kenny Gainwell** (TB RB, 33538) FA: even split with Irving, passing downs (ESPN).
+- **Justice Hill** (BAL RB, 31945) FA Q: out-snapping Henry (ESPN).
+- **Jonah Coleman** (DEN RB, Baby Arm): led DEN backfield with Harvey out.
+- **Jonathan Taylor** (Deepest) and **Josh Downs** (Vaqueros): trade rumors through Nov 10.
+- Geno Smith / Gardner Minshew / Cam Ward FA QBs (2-QB league depth, not a Vaqueros need).

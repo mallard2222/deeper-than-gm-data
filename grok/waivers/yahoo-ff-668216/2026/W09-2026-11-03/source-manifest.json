@@ -1,0 +1,19 @@
+[
+ {
+  "source": "Yahoo Fantasy /f1/668216 (team pages 1-8, league home standings, scoreboard W9, transactions, settings, players lists)",
+  "retrieved_ct": "2026-11-03 07:58-08:00",
+  "method": "curl + cookie session, 2s spacing",
+  "evidence": "evidence/MANIFEST.json"
+ },
+ {
+  "source": "ESPN NFL news API feed + 4 articles",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
+  "retrieved_ct": "2026-11-03 ~08:05"
+ },
+ {
+  "source": "Yahoo Sports CMC news page",
+  "url": "https://sports.yahoo.com/nfl/players/30121/news/",
+  "retrieved_ct": "2026-11-03 ~08:06",
+  "note": "headlines only"
+ }
+]

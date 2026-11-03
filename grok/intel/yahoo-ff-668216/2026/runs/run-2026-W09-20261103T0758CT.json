@@ -1,0 +1,17 @@
+{
+ "run_id": "intel-yahoo-ff-668216-2026-W09-2026-11-03-001",
+ "routine": "Deeper Than Tuesday intelligence desk",
+ "fired_utc": "2026-11-03T13:58:06Z",
+ "collection_ct": [
+  "2026-11-03T07:58:52-06:00",
+  "2026-11-03T08:06:00-06:00"
+ ],
+ "package": "grok/waivers/yahoo-ff-668216/2026/W09-2026-11-03/",
+ "yahoo_pages": 34,
+ "errors": [
+  "standings2 (/standings) had no table; used league home",
+  "some weather-tooltip roster rows lack parsed projections (left blank)"
+ ],
+ "yahoo_actions_taken": [],
+ "commit_sha": "see git log; recorded in final summary"
+}
