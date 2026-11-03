@@ -1,10 +1,10 @@
 # Deeper Than (yahoo-ff-668216) — coverage report
 
-Generated 2026-11-01T14:54:30-06:00. Seasons covered: 2013–2025 complete; 2026 in progress. Nothing below is inferred; anything not captured is listed as missing.
+Generated 2026-11-03T06:39:40-06:00. Seasons covered: 2013–2025 complete; 2026 in progress. Nothing below is inferred; anything not captured is listed as missing.
 
 ## Matchups
 
-- 2013–2025: 64 games/season (weeks 1–16), all final. 2026: weeks 1–7 final (28 games); Week 8: **in_progress** (last game Mon Nov 2, 2026; snapshots in `matchups/snapshots/`, excluded from records).
+- 2013–2025: 64 games/season (weeks 1–16), all final. 2026: weeks 1–8 final (32 games); Week 8 final captured 2026-11-03 (`raw/captures/2026/matchups-week-08-final.json`); earlier in-progress Week 8 snapshots kept in `matchups/snapshots/` and `raw/captures/2026/matchups-week-08.json`. 2026 Weeks 9–16 not yet played.
 - Standings reconciliation (W-L-T, PF, PA vs Yahoo standings, regular season): 112/112 team-seasons match.
 - Playoff categories standardized: `category` (regular_season / championship_bracket / consolation) + `round` (regular_season / semifinal / final / third_place / consolation_round). Original labels kept in `bracket_source` and `playoff_game_source`. Third-place games are championship_bracket in every season (2017–2025 source rows had them as consolation).
 
@@ -69,14 +69,13 @@ One team page per team per week (`/{season}/f1/{lid}/{team}/team?week=N`). Actua
 | 2023 | 128 | 95 | 33 | 0 | 0 |
 | 2024 | 128 | 106 | 22 | 0 | 0 |
 | 2025 | 128 | 116 | 12 | 0 | 0 |
-| 2026 | 64 | 56 | 0 | 0 | 8 |
+| 2026 | 64 | 64 | 0 | 0 | 0 |
 
 **Cause of roster score mismatches (2022–2025), checked 2026-11-01 on 2022 t1 w7:** Yahoo's historical team page marks some started players as "Bye" in weeks when they actually played (e.g. Davante Adams, 2022 Week 7). For those rows it omits the fantasy-points cell, so `actual_points` is blank and the starter sum falls short of the official matchup score. Those rows are kept as captured, with blank points. The missing points were NOT inferred. Recovering them would need a different source, such as the matchup page or player game logs. The matchup scores themselves are unaffected and still reconcile 100% to standings.
 
 ## Remaining gaps (exact)
 
-- 2026 Week 8 matchups not final (4 games in_progress); 2026 Weeks 9–16 not yet played.
-- 2026 Week 8 rosters not archived (the live week renders different markup; capture after the games are final). 2026 Weeks 9–16 not played.
+- 2026 Weeks 9–16 not yet played (matchups and rosters).
 - 2022 rosters: t1 w7 (captured_score_mismatch), t1 w9 (captured_score_mismatch), t1 w10 (captured_score_mismatch), t1 w14 (captured_score_mismatch), t2 w7 (captured_score_mismatch), t2 w8 (captured_score_mismatch), t2 w9 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w6 (captured_score_mismatch), t3 w7 (captured_score_mismatch), t3 w8 (captured_score_mismatch), t3 w14 (captured_score_mismatch), t4 w6 (captured_score_mismatch), t4 w9 (captured_score_mismatch), t4 w10 (captured_score_mismatch), t4 w14 (captured_score_mismatch), t5 w6 (captured_score_mismatch), t5 w8 (captured_score_mismatch), t5 w9 (captured_score_mismatch), t5 w10 (captured_score_mismatch), t5 w13 (captured_score_mismatch), t6 w6 (captured_score_mismatch), t6 w7 (captured_score_mismatch), t6 w9 (captured_score_mismatch), t6 w14 (captured_score_mismatch), t7 w7 (captured_score_mismatch), t7 w8 (captured_score_mismatch), t7 w9 (captured_score_mismatch), t7 w14 (captured_score_mismatch), t8 w7 (captured_score_mismatch), t8 w9 (captured_score_mismatch), t8 w10 (captured_score_mismatch), t8 w14 (captured_score_mismatch)
 - 2023 rosters: t1 w6 (captured_score_mismatch), t1 w9 (captured_score_mismatch), t1 w11 (captured_score_mismatch), t2 w6 (captured_score_mismatch), t2 w7 (captured_score_mismatch), t2 w10 (captured_score_mismatch), t2 w11 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w5 (captured_score_mismatch), t3 w10 (captured_score_mismatch), t3 w11 (captured_score_mismatch), t3 w13 (captured_score_mismatch), t4 w5 (captured_score_mismatch), t4 w7 (captured_score_mismatch), t4 w9 (captured_score_mismatch), t4 w10 (captured_score_mismatch), t4 w13 (captured_score_mismatch), t5 w6 (captured_score_mismatch), t5 w9 (captured_score_mismatch), t5 w10 (captured_score_mismatch), t5 w13 (captured_score_mismatch), t6 w6 (captured_score_mismatch), t6 w7 (captured_score_mismatch), t6 w9 (captured_score_mismatch), t6 w13 (captured_score_mismatch), t6 w14 (captured_score_mismatch), t7 w7 (captured_score_mismatch), t7 w11 (captured_score_mismatch), t7 w13 (captured_score_mismatch), t7 w14 (captured_score_mismatch), t8 w6 (captured_score_mismatch), t8 w10 (captured_score_mismatch), t8 w13 (captured_score_mismatch)
 - 2024 rosters: t1 w12 (captured_score_mismatch), t1 w14 (captured_score_mismatch), t2 w6 (captured_score_mismatch), t2 w12 (captured_score_mismatch), t2 w14 (captured_score_mismatch), t3 w5 (captured_score_mismatch), t3 w10 (captured_score_mismatch), t3 w14 (captured_score_mismatch), t4 w7 (captured_score_mismatch), t4 w10 (captured_score_mismatch), t4 w12 (captured_score_mismatch), t5 w6 (captured_score_mismatch), t5 w11 (captured_score_mismatch), t5 w14 (captured_score_mismatch), t6 w6 (captured_score_mismatch), t6 w12 (captured_score_mismatch), t7 w6 (captured_score_mismatch), t7 w14 (captured_score_mismatch), t8 w6 (captured_score_mismatch), t8 w11 (captured_score_mismatch), t8 w12 (captured_score_mismatch), t8 w14 (captured_score_mismatch)

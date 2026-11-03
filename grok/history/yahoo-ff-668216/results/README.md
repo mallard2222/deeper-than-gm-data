@@ -2,7 +2,7 @@
 
 Underlying matchup records, identity drafts, summaries, evidence, and coverage/gaps.
 
-**Status:** Seasons covered: 2013–2025 complete (weeks 1–16) + 2026 weeks 1–7 final. Not all-time until 2026 finishes and identity caveats clear — see `validation/coverage-report.md`.
+**Status:** Seasons covered: 2013–2025 complete (weeks 1–16) + 2026 weeks 1–8 final (Week 8 finalized 2026-11-03). Not all-time until 2026 finishes and identity caveats clear — see `validation/coverage-report.md`.
 
 Organization:
 - `matchups/` — per-season JSONL + CSV (source of truth for scores)
