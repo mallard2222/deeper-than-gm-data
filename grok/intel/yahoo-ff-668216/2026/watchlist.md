@@ -5,6 +5,13 @@ Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition
 Last daily: **2026-11-01 ~5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-01.md)) — **success** (Yahoo cookie OK).  
 Prior: 2026-10-04 (Yahoo failure; routine paused Oct 4 → Nov 1; Oct 5–31 news not reviewed).
 
+## RESOLVED / WATCH — Wed Nov 4 W9 waiver recon (~8:04 AM CT)
+
+- **RESOLVED — Mike Washington Jr.:** claim won $15 (no drop); on Vaqueros BN. FAAB now **$64**. Roster full (BN 9/9, IR 1/1 Harvey) → any add needs a drop.
+- **WATCH — J.K. Dobbins (DEN RB):** dropped by Big Balls, **W (Nov 6)**, W9 proj 7.54, 77% rostered. DEN backfield w/ Coleman (Baby Arm) + Harvey IR. Not authorized.
+- **WATCH — Baker Mayfield (QB), Kyle Pitts Sr. (TE):** W (Nov 6); low Vaqueros need.
+- **WATCH — Gainwell / Justice Hill:** still FA (not submitted Tue).
+
 ## WATCH — new Sun Nov 1 (~5:00 PM CT)
 
 - **Derrick Henry (Vaqueros RB):** Lamar Jackson thumb surgery + IR; Huntley toe; rookie Fagnano QB3 finished. ROS downgrade risk — evaluate hold vs trade at Tue desk.

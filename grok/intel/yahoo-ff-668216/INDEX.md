@@ -14,7 +14,14 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 - [Runs](./2026/runs/) — collection/analysis run manifests.
 
-## Latest Wed waiver recon (2026-09-30 ~8:05 AM CT)
+## Latest Wed waiver recon (2026-11-04 ~8:04 AM CT)
+
+- [W09 outcomes](./2026/outcomes/W09-2026-11-04-waiver-outcomes.md)
+- [W09 reconciliation](../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.md) · [JSON](../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.json)
+- [run meta](./2026/runs/2026-11-04-wednesday-waiver-reconciliation.json) · [FAAB ledger](./2026/faab-ledger.md) · [manager notes W09](./2026/managers/behavior-notes-2026-W09.md)
+- Result: processed; **Washington Jr. won $15**; FAAB **$64**; 0 open spots.
+
+## Prior Wed waiver recon (2026-09-30 ~8:05 AM CT)
 
 - [W04 outcomes](./2026/outcomes/W04-2026-09-30-waiver-outcomes.md)
 - [W04 reconciliation](../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.md) · [JSON](../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.json)

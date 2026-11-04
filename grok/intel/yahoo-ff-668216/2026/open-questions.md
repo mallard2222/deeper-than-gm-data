@@ -47,3 +47,12 @@
 - CMC practice participation Wed–Fri (he is in the starting lineup).
 - Content of Yahoo New Player Notes for Caleb Williams, Odunze, Matt Gay.
 - Resolved: Harvey IR-slot discrepancy — he is now in the IR slot (Yahoo 4:57 PM CT).
+
+## Added 2026-11-04 W9 waiver recon
+
+- **Resolved:** "Did the $15 Mike Washington Jr. claim win?" → **Yes**, $15, no drop (Yahoo Nov 4, 3:46 am).
+- Who submitted the W9 claim / Harvey IR move / lineup reset, and when? No execution record; Yahoo does not show the actor.
+- Is the Yahoo "3:46 am" processing time CST/CT? Page footer says times are CST, but the stamp itself is unlabeled.
+- Did waiver priority change after processing? Standings show 2 but say "Last standings update: 01:51am CST", earlier than processing.
+- Waiver-clear dates for Jake Bates (K) and Rams DEF (dropped 5:52–5:54 am by Wet Serapas) not captured.
+- What does Yahoo's "Baby Arm $3 (Lower Offer)" on Baby Arm's own winning $11 Geno Smith claim mean? (see quarantine)

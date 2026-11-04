@@ -1,0 +1,309 @@
+{
+ "record_type": "yahoo_waiver_reconciliation",
+ "record_id": "reconciliation-yahoo-ff-668216-2026-W09-2026-11-04-001",
+ "record_status": "reconciled",
+ "league": {
+  "name": "Deeper Than",
+  "yahoo_league_id": "668216",
+  "team_name": "Vaqueros",
+  "team_id": 8,
+  "season": 2026,
+  "week": 9
+ },
+ "run": {
+  "run_id": "routine-deeper-than-wednesday-waiver-reconciliation-2026-11-04-001",
+  "started_ct": "2026-11-04T08:00:00-06:00",
+  "yahoo_checks_ct": [
+   "2026-11-04T08:01:39-06:00",
+   "2026-11-04T08:04:03-06:00"
+  ],
+  "timezone": "America/Chicago",
+  "method": "curl + Netscape cookie jar (logged-in Yahoo HTML); read-only",
+  "yahoo_actions_taken": "none",
+  "retries": 0
+ },
+ "reconciliation": {
+  "processing_status": "processed",
+  "yahoo_processing_display": "Nov 4, 3:46 am",
+  "yahoo_processing_display_timezone": "unlabeled (site states times in CST)",
+  "pending_claims_remaining": false,
+  "pending_evidence": "team-page waiver panel present 2026-11-03 16:57 CT, absent 2026-11-04 08:01 CT; player rostered; FAAB -15",
+  "pending_claims_ui": "not_fetched_known_document_not_found"
+ },
+ "source_records": {
+  "recommendation": "RECOMMENDATION.md",
+  "execution_record": null,
+  "execution_record_note": "claim submitted outside a recorded execution record; actor/time unknown; first observed in daily-report-2026-11-03 (16:57 CT)"
+ },
+ "claims": [
+  {
+   "label": "Waiver 1 (Nov 4)",
+   "recommended": {
+    "add": "Mike Washington Jr.",
+    "yahoo_player_id": 42744,
+    "bid_range": [
+     12,
+     18
+    ],
+    "max": 22
+   },
+   "submitted": {
+    "state": "submitted_outside_execution_record",
+    "bid": 15,
+    "drop": null
+   },
+   "processed": {
+    "status": "success",
+    "acquired": "Mike Washington Jr.",
+    "dropped": null,
+    "spend": 15,
+    "competing_bids_visible": [
+     {
+      "team": "Baby Arm",
+      "bid": 6,
+      "result": "Lower Offer"
+     }
+    ]
+   }
+  },
+  {
+   "label": "optional",
+   "recommended": {
+    "add": "Kenny Gainwell",
+    "yahoo_player_id": 33538,
+    "bid_range": [
+     3,
+     6
+    ]
+   },
+   "submitted": {
+    "state": "not_submitted"
+   },
+   "processed": {
+    "status": "not_submitted",
+    "current_status": "FA"
+   }
+  },
+  {
+   "label": "optional",
+   "recommended": {
+    "add": "Justice Hill",
+    "yahoo_player_id": 31945,
+    "bid_range": [
+     1,
+     3
+    ]
+   },
+   "submitted": {
+    "state": "not_submitted"
+   },
+   "processed": {
+    "status": "not_submitted",
+    "current_status": "FA"
+   }
+  }
+ ],
+ "team_state": {
+  "record": "2-6-0",
+  "rank": 7,
+  "faab_before": 79,
+  "faab_remaining": 64,
+  "faab_spent_w9": 15,
+  "waiver_priority_shown": 2,
+  "waiver_priority_note": "standings last update 01:51 CST; may predate processing",
+  "waiver_moves": 10,
+  "ir_used": 1,
+  "ir_capacity": 1,
+  "ir_players": [
+   "RJ Harvey"
+  ],
+  "bench_used": 9,
+  "bench_capacity": 9,
+  "open_roster_spots": 0,
+  "starters": [
+   "Jordan Love",
+   "Caleb Williams",
+   "Derrick Henry",
+   "Christian McCaffrey",
+   "Nico Collins",
+   "Matthew Golden",
+   "Tyler Warren",
+   "Rashee Rice",
+   "Tetairoa McMillan",
+   "Matt Gay",
+   "Commanders DEF"
+  ],
+  "bench": [
+   "Sam LaPorta",
+   "Josh Downs",
+   "Quinshon Judkins",
+   "Woody Marks",
+   "Bo Nix",
+   "Pat Freiermuth",
+   "Rome Odunze",
+   "Wan'Dale Robinson",
+   "Mike Washington Jr."
+  ],
+  "roster_deltas_vs_2026-11-03_evening": [
+   "+ Mike Washington Jr. (BN)"
+  ],
+  "w9_projection": {
+   "Vaqueros": 138.36,
+   "Big Balls": 153.18
+  }
+ },
+ "league_winning_claims": [
+  {
+   "add": "Mike Washington Jr.",
+   "price": 15,
+   "drop": null,
+   "team": "Vaqueros",
+   "team_id": 8,
+   "competing": [
+    {
+     "team": "Baby Arm",
+     "bid": 6
+    }
+   ]
+  },
+  {
+   "add": "Geno Smith",
+   "price": 11,
+   "drop": null,
+   "team": "Baby Arm",
+   "team_id": 2,
+   "competing": [
+    {
+     "team": "Baby Arm",
+     "bid": 3,
+     "note": "displayed as Lower Offer from the same team"
+    }
+   ]
+  },
+  {
+   "add": "Seth McGowan",
+   "price": 3,
+   "drop": "Kyle Pitts Sr.",
+   "team": "Baby Arm",
+   "team_id": 2,
+   "competing": []
+  },
+  {
+   "add": "Keenan Allen",
+   "price": 3,
+   "drop": "Baker Mayfield",
+   "team": "DUGASM",
+   "team_id": 5,
+   "competing": []
+  },
+  {
+   "add": "Saints DEF",
+   "price": 2,
+   "drop": "J.K. Dobbins",
+   "team": "Big Balls",
+   "team_id": 3,
+   "competing": []
+  }
+ ],
+ "competing_bids_note": "FAB Offers page lists only multi-bid claims; empty list = none shown, no unseen bids inferred",
+ "post_processing_fa_adds": [
+  {
+   "add": "Adonai Mitchell",
+   "drop": "Rams DEF",
+   "team": "Wet Serapas",
+   "time": "Nov 4, 5:52 am"
+  },
+  {
+   "add": "Terrance Ferguson",
+   "drop": "Jake Bates",
+   "team": "Wet Serapas",
+   "time": "Nov 4, 5:54 am"
+  }
+ ],
+ "faab_league": {
+  "DUGASM": [
+   74,
+   71
+  ],
+  "Big Balls": [
+   14,
+   12
+  ],
+  "Wet Serapas": [
+   67,
+   67
+  ],
+  "Baby Arm": [
+   79,
+   65
+  ],
+  "Good Strongs": [
+   29,
+   29
+  ],
+  "Deepest": [
+   92,
+   92
+  ],
+  "Vaqueros": [
+   79,
+   64
+  ],
+  "FFAmuseBouche": [
+   90,
+   90
+  ]
+ },
+ "notable_drops": [
+  {
+   "player": "J.K. Dobbins",
+   "yahoo_player_id": 32725,
+   "by": "Big Balls",
+   "status": "W (Nov 6)",
+   "w9_proj": 7.54,
+   "pct_rostered": 77
+  },
+  {
+   "player": "Baker Mayfield",
+   "yahoo_player_id": 30971,
+   "by": "DUGASM",
+   "status": "W (Nov 6)",
+   "w9_proj": 14.84
+  },
+  {
+   "player": "Kyle Pitts Sr.",
+   "yahoo_player_id": 33392,
+   "by": "Baby Arm",
+   "status": "W (Nov 6)",
+   "w9_proj": 7.9
+  },
+  {
+   "player": "Jake Bates",
+   "by": "Wet Serapas",
+   "status": "To Waivers (not on pulled lists)"
+  },
+  {
+   "player": "Rams DEF",
+   "by": "Wet Serapas",
+   "status": "To Waivers (not on pulled lists)"
+  }
+ ],
+ "sources": [
+  "https://football.fantasysports.yahoo.com/f1/668216/8",
+  "https://football.fantasysports.yahoo.com/f1/668216/transactions",
+  "https://football.fantasysports.yahoo.com/f1/668216/transactions?transactionsfilter=add",
+  "https://football.fantasysports.yahoo.com/f1/668216/transactions?transactionsfilter=faab",
+  "https://football.fantasysports.yahoo.com/f1/668216",
+  "https://football.fantasysports.yahoo.com/f1/668216/1",
+  "https://football.fantasysports.yahoo.com/f1/668216/2",
+  "https://football.fantasysports.yahoo.com/f1/668216/3",
+  "https://football.fantasysports.yahoo.com/f1/668216/4",
+  "https://football.fantasysports.yahoo.com/f1/668216/5",
+  "https://football.fantasysports.yahoo.com/f1/668216/6",
+  "https://football.fantasysports.yahoo.com/f1/668216/7",
+  "https://football.fantasysports.yahoo.com/f1/668216/players?status=A&pos=O&cut_type=9&stat1=S_PW_9&myteam=0&sort=AR&sdir=1",
+  "https://football.fantasysports.yahoo.com/f1/668216/players?status=A&pos=RB&cut_type=9&stat1=S_PW_9&myteam=0&sort=PTS&sdir=1",
+  "https://football.fantasysports.yahoo.com/f1/668216/players?status=W&pos=O&cut_type=9&stat1=S_PW_9&myteam=0&sort=AR&sdir=1"
+ ],
+ "evidence": "evidence/recon-2026-11-04/MANIFEST.json"
+}

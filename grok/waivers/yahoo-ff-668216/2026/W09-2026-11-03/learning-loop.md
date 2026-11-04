@@ -13,3 +13,9 @@
 
 ## Calibration notes
 - Yahoo projections for Henry have stayed ~13–14 while ESPN usage reports declined; treat Henry's projection as optimistic until snap share recovers (signal quarantined as "report", not validated stats).
+
+## Outcome addendum — Wed 2026-11-04 reconciliation (added; text above unchanged)
+- Mike Washington Jr. claim **won at $15** (inside the $12–18 range), no drop. Only visible competing bid: Baby Arm $6. First-price FAAB, so ~$8–9 of margin was paid for certainty; the bid was set without knowing others' bids, and that cost is the price of not losing the player.
+- Gainwell / Justice Hill: recommended as optional, **not submitted**, both still FA. Roster is now full (9/9 BN, IR 1/1), so further RB hedges cost a drop.
+- Harvey → IR and the lineup reset were done (seen Nov 3 4:57 PM CT), so the Tuesday recurring finding about unused IR capacity is resolved this week.
+- Details: [reconciliation.md](./reconciliation.md)

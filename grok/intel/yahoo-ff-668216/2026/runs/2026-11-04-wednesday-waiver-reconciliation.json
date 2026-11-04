@@ -1,0 +1,54 @@
+{
+ "run_id": "routine-deeper-than-wednesday-waiver-reconciliation-2026-11-04-001",
+ "routine_folder": "deeper-than-wednesday-waiver-reconciliation",
+ "started_at": "2026-11-04T14:00:00Z",
+ "finished_at": "2026-11-04T14:07:08Z",
+ "timezone": "America/Chicago",
+ "nfl_week": 9,
+ "coverage": {
+  "league": "yahoo-ff-668216",
+  "team": "Vaqueros",
+  "team_id": 8,
+  "mode": "wednesday_waiver_reconciliation",
+  "auth_ok": true,
+  "processing_status": "processed",
+  "last_check_ct": "2026-11-04T08:04:03-06:00",
+  "yahoo_processing_display": "Nov 4, 3:46 am (unlabeled)",
+  "execution_record": null,
+  "claims": {
+   "success": [
+    "Mike Washington Jr. $15 (no drop)"
+   ],
+   "failed": [],
+   "pending": [],
+   "not_submitted": [
+    "Kenny Gainwell (optional rec)",
+    "Justice Hill (optional rec)"
+   ]
+  },
+  "faab_remaining": 64,
+  "open_roster_spots": 0,
+  "ir": "1/1 RJ Harvey",
+  "roster_deltas": [
+   "+ Mike Washington Jr."
+  ],
+  "yahoo_actions_taken": "none (read/reconcile only)",
+  "retries": 0
+ },
+ "errors": [],
+ "yahoo_requests": 16,
+ "files_changed": [
+  "grok/waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.md",
+  "grok/waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.json",
+  "grok/waivers/yahoo-ff-668216/2026/W09-2026-11-03/learning-loop.md (appended)",
+  "grok/waivers/yahoo-ff-668216/2026/W09-2026-11-03/evidence/recon-2026-11-04/",
+  "grok/intel/yahoo-ff-668216/2026/outcomes/W09-2026-11-04-waiver-outcomes.md",
+  "grok/intel/yahoo-ff-668216/2026/faab-ledger.md",
+  "grok/intel/yahoo-ff-668216/2026/managers/behavior-notes-2026-W09.md",
+  "grok/intel/yahoo-ff-668216/2026/decision-log.md (entry added)",
+  "grok/intel/yahoo-ff-668216/2026/watchlist.md (section added)",
+  "grok/intel/yahoo-ff-668216/2026/open-questions.md (appended)",
+  "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-04-w09-claim-no-execution-record.md",
+  "grok/intel/yahoo-ff-668216/INDEX.md (section added)"
+ ]
+}

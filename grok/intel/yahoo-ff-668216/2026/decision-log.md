@@ -1,5 +1,15 @@
 # Decision log — 2026
 
+## `outcome-yahoo-ff-668216-2026-W09-2026-11-04-001`
+
+- **Date:** 2026-11-04 (CT), Wednesday waiver reconciliation (read-only, Yahoo checks 8:01–8:04 AM CT). **No Yahoo transactions by this run.**
+- **Outcome:** League processing complete (Yahoo display Nov 4, 3:46 am). **Mike Washington Jr. claim SUCCESS at $15** (no drop; next visible bid Baby Arm $6). Failed: none. Pending: none. FAAB **$79 → $64**; BN 9/9, IR 1/1 (Harvey), **0 open spots**.
+- **Execution:** no W09 execution record exists; claim, Harvey → IR and lineup reset were done outside a recorded execution (actor unknown; first seen Nov 3 4:57 PM CT).
+- **Recommended vs outcome:** Washington $12–18 → submitted $15 → won. Optional Gainwell / Justice Hill → **not_submitted**, still FA.
+- **League:** Geno Smith $11 + Seth McGowan $3 (Baby Arm), Keenan Allen $3 (DUGASM), Saints DEF $2 (Big Balls). New drops on W (Nov 6): Dobbins, Mayfield, Pitts.
+- **Records:** [reconciliation](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.md) · [JSON](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.json) · [outcomes](./outcomes/W09-2026-11-04-waiver-outcomes.md) · [FAAB ledger](./faab-ledger.md) · [manager notes](./managers/behavior-notes-2026-W09.md)
+- **Boundary:** RECOMMENDATION.md and the 2026-11-03 entry left unchanged. Does not authorize any new claims/drops/IR/lineup moves.
+
 ## `intel-yahoo-ff-668216-2026-W09-2026-11-03-001`
 
 - **Date:** 2026-11-03 (CT), Tuesday intelligence desk (read-only). **No Yahoo transactions.**
