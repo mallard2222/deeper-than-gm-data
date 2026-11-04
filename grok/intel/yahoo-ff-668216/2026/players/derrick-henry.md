@@ -5,3 +5,8 @@
 
 ## 2026-11-02 (daily intel)
 - W8: 13.0 pts (11/53/1, 2/7). ESPN (Moody, 2026-11-02T22:32Z) reports <50% snaps, Justice Hill more snaps and routes; 3 straight games <60 rush yds. Lamar on IR (confirmed Nov 1). Status: **report**; ROS downgrade is inference. Response: prepare sell/hedge before Nov 10.
+
+## 2026-11-04 (daily intel)
+- **Huntley:** season-ending turf toe (Schefter Wed AM; [Ravens.com](https://www.baltimoreravens.com/news/tyler-huntley-toe-injury-season-ending-2026) 8:54 AM ET). Confirmed.
+- **Brissett:** sources say Cardinals finalizing trade to Ravens; expected this weekend; Week 10 MNF vs LAC possible first start ([ESPN Hensley/Weinfuss](https://www.espn.com/nfl/story/_/id/50381318/sources-ravens-finalizing-trade-cardinals-qb-brissett), 22:31Z). **Report** — not completed at retrieval.
+- **TNF:** Fagnano still starts vs JAX; Henry Yahoo proj 12.45; locks Thu Nov 5 7:15 PM CT. Response: start; ROS slightly less bleak *if* Brissett lands (inference). Hedge/sell window: NFL deadline Nov 10 3 PM CT / league Nov 28.

@@ -10,6 +10,7 @@ Append-only. Each snapshot is the Yahoo league-home standings "Waiver Bdgt" colu
 | 2026-09-30 | W04: no claims submitted | $0 | $79 | [W04 reconciliation](../../../waivers/yahoo-ff-668216/2026/W04-2026-09-29/reconciliation.md) |
 | 2026-11-03 | Tue desk snapshot | — | $79 | [W09 standings.csv](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/standings.csv) |
 | 2026-11-04 | W09: Mike Washington Jr. $15 | $15 | **$64** | [W09 reconciliation](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/reconciliation.md) |
+| 2026-11-04 ~4:57 PM | Daily confirm (no new spend) | $0 | **$64** | [daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-04.md) |
 
 Oct 5–Nov 2 Wednesdays were not reconciled at the time; Vaqueros FAAB was $79 on both Sep 30 and Nov 3, so no net FAAB was spent in between (individual Oct moves not reconciled here).
 

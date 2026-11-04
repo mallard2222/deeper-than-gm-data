@@ -56,3 +56,13 @@
 - Did waiver priority change after processing? Standings show 2 but say "Last standings update: 01:51am CST", earlier than processing.
 - Waiver-clear dates for Jake Bates (K) and Rams DEF (dropped 5:52–5:54 am by Wet Serapas) not captured.
 - What does Yahoo's "Baby Arm $3 (Lower Offer)" on Baby Arm's own winning $11 Geno Smith claim mean? (see quarantine)
+
+## Added 2026-11-04 daily
+
+- **Resolved (partial):** CMC Wed practice = **DNP**; Thu/Fri still open for W9 start decision.
+- **Resolved:** Huntley season-ending turf toe (Schefter / Ravens.com).
+- Brissett→Ravens: sources say finalizing — confirm official transaction + Week 10 starter status.
+- Rice Thu/Fri practice after Wed LP; why Yahoo Q vs Chiefs.com unspecified game status.
+- Amon-Ra St. Brown Q reason (Big Balls starter).
+- Yahoo New Player Note bodies still unread (CMC, Rice, Downs, Washington Jr., etc.).
+- Dobbins clear Nov 6 — any Vaqueros interest requires drop ask (roster full).
