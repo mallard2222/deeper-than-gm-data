@@ -1,0 +1,43 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-05T16:58-06:00",
+ "collection_status": "success",
+ "yahoo_access": {
+  "cookie_jar_curl": "fail_redirect_login",
+  "signed_in_browser": "ok",
+  "retrieved_ct": "2026-11-05T16:59-06:00"
+ },
+ "previous_successful_daily_ct": "2026-11-04T16:57-06:00",
+ "previous_successful_daily_commit": "bea7a1563761901e7954fc70ca08177e176be77e",
+ "yahoo_transactions_made": false,
+ "vaqueros_snapshot": {
+  "record": "2-6-0",
+  "rank": 7,
+  "faab": 64,
+  "ir_used": "1/1",
+  "bn_full": true,
+  "pending_claims": 0,
+  "w9_proj": {"vaqueros": 137.49, "big_balls": 154.68},
+  "retrieved_ct": "2026-11-05T16:59-06:00",
+  "access_method": "signed_in_box_browser"
+ },
+ "changes": [
+  {"id":"2026-11-05-vaqueros-state-browser","type":"fact","confidence":"confirmed","detail":"Washington Jr BN; FAAB $64; Harvey IR 1/1; no pending claims; BN 9/9; W9 proj 137.49 vs 154.68; Rice Q tag cleared on Yahoo; CMC still Q","source":"https://football.fantasysports.yahoo.com/f1/668216/8","retrieved_ct":"2026-11-05T16:59-06:00","response":"no action"},
+  {"id":"2026-11-05-cmc-thu-limited","type":"fact","confidence":"confirmed LP; availability unknown until Fri","detail":"CMC hamstring Wed DNP → Thu limited; Wagoner saw suited open period; Raiders.com joint IR DNP/LP","affected":["Christian McCaffrey (Vaqueros)","Quinshon Judkins (Vaqueros BN)"],"source":"https://www.raiders.com/news/raiders-49ers-week-9-injury-report","published_approx_ct":"2026-11-05T16:40-06:00","response":"prepare Judkins if OUT","deadline":"2026-11-08T15:25-06:00"},
+  {"id":"2026-11-05-rice-thu-full","type":"fact","confidence":"confirmed FP; Fri designation pending","detail":"Rashee Rice Wed LP → Thu FP hamstring/knee; Yahoo Q cleared; Chapter 7 bankruptcy ESPN no lineup impact","affected":["Rashee Rice (Vaqueros)"],"source":"https://www.chiefs.com/news/week-9-injury-report-jets-vs-chiefs","retrieved_ct":"2026-11-05T17:00-06:00","response":"monitor Fri only","deadline":"2026-11-08T12:00-06:00"},
+  {"id":"2026-11-05-henry-tnf-start","type":"fact","confidence":"kickoff confirmed; active until inactives inference","detail":"Jax@Bal 7:15 PM CT / 8:15 PM ET; Fagnano starts; Henry no designation; weather ~67F ~49% precip; inactives not posted at collection","affected":["Derrick Henry (Vaqueros)"],"source":"espn-cdn-game-401873037","response":"start Henry","deadline":"2026-11-05T19:15-06:00"},
+  {"id":"2026-11-05-brissett-restructure-pending","type":"fact+report","confidence":"restructure report (Yates); official txn not confirmed","detail":"Cardinals converted $2.7M Brissett remaining salary to signing bonus; trade still expected after TNF/weekend; Fagnano TNF","affected":["Derrick Henry (Vaqueros)","Jacoby Brissett (FA pending)","Joe Fagnano (FA)"],"source":"https://www.profootballrumors.com/2026/11/cardinals-restructure-jacoby-brissetts-contract-to-facilitate-ravens-trade","published_approx_ct":"2026-11-05T09:48-06:00","response":"monitor official txn; hedge thinking to Nov 10","deadline":"2026-11-10T15:00-06:00"},
+  {"id":"2026-11-05-w9-opponent-amon-ra-ribs","type":"fact","confidence":"confirmed limited ribs; Sunday play report","detail":"Amon-Ra Q reason=ribs; limited Thu again; on track @MIA; Big Balls proj 154.68; Meyers BN TNF expected; Saints DEF; Adams IR","source":"https://www.prideofdetroit.com/detroit-lions-injuries/179745/lions-dolphins-week-9-injury-report-amon-ra-st-brown-limited-brian-branch-full","retrieved_ct":"2026-11-05T17:01-06:00","response":"monitor Fri"},
+  {"id":"2026-11-05-league-txn-and-fa","type":"fact","confidence":"confirmed","detail":"FFAmuseBouche +Pineiro/-Little Nov 5 12:33pm; Dobbins W Nov 6; Gainwell FA Thu full hip; Justice Hill FA; Tuten Q/GTD TNF; JT no trade request wants verdict by Nov 10; roster full","source":"https://football.fantasysports.yahoo.com/f1/668216/transactions","response":"monitor; ask before add"}
+ ],
+ "quarantine": [
+  "Cookie-jar curl redirect to login (browser OK)",
+  "TNF official inactives not posted at ~5:02 PM CT",
+  "Brissett trade not yet official league transaction",
+  "CMC Fri practice / designation still open",
+  "Yahoo New Player Note bodies unread where present",
+  "Justice Hill FantasyPros groin vs ankle label inconsistency"
+ ]
+}

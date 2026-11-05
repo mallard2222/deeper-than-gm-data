@@ -1,0 +1,128 @@
+{
+  "retrieved_note": "parsed from espn-game-cdn.json",
+  "kickoff_utc": "2026-11-06T01:15Z",
+  "status": {
+    "isTBDFlex": false,
+    "type": {
+      "name": "STATUS_SCHEDULED",
+      "description": "Scheduled",
+      "id": "1",
+      "state": "pre",
+      "completed": false,
+      "detail": "Thu, November 5th at 8:15 PM EST",
+      "shortDetail": "11/5 - 8:15 PM EST"
+    }
+  },
+  "weather": {
+    "precipitation": 49,
+    "conditionId": "7",
+    "highTemperature": 67,
+    "temperature": 67,
+    "link": {
+      "isExternal": true,
+      "shortText": "Weather",
+      "rel": [
+        "21230"
+      ],
+      "language": "en-US",
+      "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=1&hbhhour=20&lang=en-us",
+      "text": "Weather",
+      "isPremium": false
+    },
+    "lowTemperature": 67,
+    "gust": 10
+  },
+  "venue": "M&T Bank Stadium",
+  "injuries": [
+    {
+      "team": "Baltimore Ravens",
+      "player": "Tyler Huntley",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Sprain",
+      "fantasy": "IR",
+      "date": "2026-11-05T21:20Z"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Lamar Jackson",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Surgery",
+      "fantasy": "IR",
+      "date": "2026-11-05T21:17Z"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Jaylinn Hawkins",
+      "status": "Out",
+      "type": "out",
+      "detail": "Not Specified",
+      "fantasy": "OUT",
+      "date": "2026-11-05T01:14Z"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Adam Randall",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Not Specified",
+      "fantasy": "IR-R",
+      "date": "2026-11-05T01:10Z"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Nate Wiggins",
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Not Specified",
+      "fantasy": "QUESTIONABLE",
+      "date": "2026-11-05T01:06Z"
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "player": "Bhayshul Tuten",
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Not Specified",
+      "fantasy": "QUESTIONABLE",
+      "date": "2026-11-05T21:51Z"
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "player": "Travon Walker",
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Not Specified",
+      "fantasy": "QUESTIONABLE",
+      "date": "2026-11-05T00:51Z"
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "player": "Eric Murray",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Not Specified",
+      "fantasy": "IR",
+      "date": "2026-11-04T01:11Z"
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "player": "DaVon Hamilton",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Strain",
+      "fantasy": "IR",
+      "date": "2026-11-04T01:05Z"
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "player": "Anton Harrison",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Surgery",
+      "fantasy": "IR",
+      "date": "2026-10-24T01:25Z"
+    }
+  ]
+}

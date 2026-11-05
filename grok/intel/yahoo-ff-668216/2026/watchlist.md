@@ -2,15 +2,27 @@
 
 Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition (not an instruction to transact).
 
-Last daily: **2026-11-04 ~4:57–5:00 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-04.md)) — **success** (Yahoo cookie OK).  
-Prior daily: 2026-11-03; Wed recon 2026-11-04 AM. Oct 5–31 news still not reviewed.
+Last daily: **2026-11-05 ~4:58–5:15 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-05.md)) — **success** (Yahoo browser OK; cookie-jar curl fail).  
+Prior daily: 2026-11-04; Wed recon 2026-11-04 AM. Oct 5–31 news still not reviewed.
 
 
-## WATCH — Wed Nov 4 daily (~5:00 PM CT)
+## WATCH — Thu Nov 5 daily (~5:00 PM CT)
 
-- **CMC (Vaqueros, Q hamstring):** Wed DNP; hopefully limited Thu (Shanahan); CMC says chance to practice/play Sun. Prepare Judkins. Lock Sun 3:25 PM CT.
-- **Rashee Rice (Vaqueros, Yahoo Q):** Wed LP hamstring/knee (Chiefs.com). Monitor Thu/Fri. Lock Sun noon CT.
-- **Derrick Henry:** Huntley season-ending (confirmed); Brissett trade to BAL finalizing (sources, weekend). Fagnano still TNF starter. Start Henry Thu 7:15 PM CT; hedge thinking to Nov 10.
+- **RESOLVED — CMC Wed DNP → Thu LP (hamstring):** Raiders.com joint IR + Wagoner suited open period. Still Yahoo Q starter. Prepare Judkins until Fri/designation. Lock Sun 3:25 PM CT.
+- **RESOLVED — Rice Wed LP → Thu FP:** Chiefs/Jets IR; Yahoo Q tag cleared on team page. Monitor Fri only. Lock Sun noon CT. Bankruptcy Ch.7 ESPN — no lineup action.
+- **RESOLVED — Amon-Ra (Big Balls) Q reason = ribs:** limited Thu again; on track @MIA (Pride of Detroit). Monitor Fri.
+- **Derrick Henry TNF:** start; Fagnano still starts; weather ~67°F / ~49% precip; inactives pending ~5:45 PM CT. Lock Thu 7:15 PM CT.
+- **Brissett→BAL:** still not official; NEW Cardinals $2.7M salary→signing bonus restructure (Field Yates via PFR). Expected after TNF/weekend. Hedge to Nov 10.
+- **W9 proj:** 137.49–154.68 vs Big Balls (browser 4:59 PM CT).
+- **FA/W:** Dobbins still W Nov 6; Gainwell FA Thu full (hip); Justice Hill FA; roster full (ask before add).
+- **Tuten still Q/GTD TNF**; Meyers expected to play (opponent BN). JT no trade request; verdict by Mon Nov 10 3 PM CT.
+- **Cookie-jar curl broken** (login redirect); prefer signed-in browser until jar refreshed.
+
+## WATCH — Wed Nov 4 daily (~5:00 PM CT) — superseded by Nov 5 resolutions above
+
+- **CMC (Vaqueros, Q hamstring):** Wed DNP; hopefully limited Thu (Shanahan); CMC says chance to practice/play Sun. Prepare Judkins. Lock Sun 3:25 PM CT. → **RESOLVED Thu LP**.
+- **Rashee Rice (Vaqueros, Yahoo Q):** Wed LP hamstring/knee (Chiefs.com). Monitor Thu/Fri. Lock Sun noon CT. → **RESOLVED Thu FP / Yahoo Q cleared**.
+- **Derrick Henry:** Huntley season-ending (confirmed); Brissett trade to BAL finalizing (sources, weekend). Fagnano still TNF starter. Start Henry Thu 7:15 PM CT; hedge thinking to Nov 10. → still open for Brissett official txn.
 - **W9 proj:** 138.54–154.62 vs Big Balls (gap wider; Saints DEF starting for them).
 - **FA/W:** Dobbins still W Nov 6; Gainwell + Justice Hill still FA; roster full (any add needs drop; not authorized).
 - **Tuten GTD TNF**; Good Strongs added Chris Rodriguez Jr. this afternoon.

@@ -28,11 +28,12 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [run meta](./2026/runs/2026-09-30-wednesday-waiver-reconciliation.json)
 - Result: league processed; **Vaqueros not_submitted** (Tue docs-only); FAAB **$79**; Ravens DEF + Gainwell still FA.
 
-## Latest daily (2026-10-02 ~5:00 PM CT)
+## Latest daily (2026-11-05 ~5:00 PM CT)
 
-- [daily-report-2026-10-02.md](../../daily/yahoo-ff-668216/2026/daily-report-2026-10-02.md)
-- [batch_20261002T170000_daily-intel.json](../../daily/yahoo-ff-668216/2026/batches/batch_20261002T170000_daily-intel.json)
-- Prior: [daily-report-2026-10-01.md](../../daily/yahoo-ff-668216/2026/daily-report-2026-10-01.md)
+- [daily-report-2026-11-05.md](../../daily/yahoo-ff-668216/2026/daily-report-2026-11-05.md)
+- [batch_20261105T170000_daily-intel.json](../../daily/yahoo-ff-668216/2026/batches/batch_20261105T170000_daily-intel.json)
+- [run meta](./2026/runs/2026-11-05-daily-intelligence-report.json)
+- Prior: [daily-report-2026-11-04.md](../../daily/yahoo-ff-668216/2026/daily-report-2026-11-04.md) · [daily-report-2026-11-03.md](../../daily/yahoo-ff-668216/2026/daily-report-2026-11-03.md)
 
 ## Current weekly package (W04)
 

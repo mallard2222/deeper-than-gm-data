@@ -66,3 +66,15 @@
 - Amon-Ra St. Brown Q reason (Big Balls starter).
 - Yahoo New Player Note bodies still unread (CMC, Rice, Downs, Washington Jr., etc.).
 - Dobbins clear Nov 6 — any Vaqueros interest requires drop ask (roster full).
+
+## Added 2026-11-05 daily
+
+- **Resolved:** Amon-Ra St. Brown Q reason = **ribs**; limited Thu again; on track to play (Pride of Detroit / Twentyman).
+- **Resolved:** Rice Thu **FP**; Yahoo Q tag **cleared** on Vaqueros team page (Chiefs/Jets IR + CBS).
+- **Resolved (partial):** CMC Wed DNP → Thu **LP** (Raiders.com joint IR + Wagoner). **Fri practice / designation still open** for W9 start decision.
+- Brissett→Ravens: still not official; NEW Cardinals $2.7M salary→signing bonus restructure (Field Yates via PFR Nov 5). Confirm official transaction + Week 10 starter.
+- **Cookie-jar curl broken** (redirect to Sign in) though signed-in **browser** Yahoo OK this run — refresh jar / prefer browser until fixed.
+- TNF official inactives (Henry/Tuten/Meyers) not posted at ~5:02 PM CT collection.
+- Yahoo New Player Note bodies still unread where present.
+- Dobbins clear Nov 6 — any Vaqueros interest requires drop ask (roster full).
+- Gainwell Thu full (hip) — FA; ask before drop-add.

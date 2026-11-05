@@ -1,0 +1,51 @@
+{
+  "league": "yahoo-ff-668216",
+  "team": "Vaqueros",
+  "routine": "deeper-than-daily-intelligence-report",
+  "report_date": "2026-11-05",
+  "collected_ct": "2026-11-05T16:58:40-06:00 to 2026-11-05T17:02:20-06:00",
+  "window_vs_prior": "since ~2026-11-04 17:00 America/Chicago through ~2026-11-05 17:00 America/Chicago",
+  "prior_daily_commit": "bea7a1563761901e7954fc70ca08177e176be77e",
+  "yahoo_fantasy_fetches": "browser_ok_cookie_jar_fail",
+  "git_commit_push": "pending_this_run",
+  "apis": {
+    "content.core.api.espn.com/v1/sports/news": 200,
+    "cdn.espn.com/core/nfl/scoreboard": 200,
+    "cdn.espn.com/core/nfl/game?gameId=401873037": 200,
+    "content.core.api.espn.com/v1/sports/news/50381318": 200,
+    "site.api.espn.com scoreboard/summary/search": "403 blocked",
+    "site.web.api.espn.com athlete news": "404",
+    "espn.com HTML story pages": "HTTP 202 empty body (blocked)",
+    "content.core.api.espn.com/v1/content?id=...": "404"
+  },
+  "official_injury_reports": {
+    "chiefs.com Week 9 IR (updated with Thursday)": 200,
+    "jets.com Week 9 Thursday IR (includes Chiefs side)": 200,
+    "raiders.com Raiders-49ers Week 9 IR (includes 49ers Thursday)": 200,
+    "49ers.com/team/injury-report/": "200 but JS/shell; Wed-centric table incomplete for Thu",
+    "detroitlions.com/team/injury-report/": "200 but JS/shell empty of Thu table",
+    "baltimoreravens.com/team/injury-report/": "200 but JS/shell empty of usable table"
+  },
+  "note": "Prefer original team IR + named beat reporters. Syndications (CBS RotoWire, FantasyPros, NBC) used when they cite named sources. Yahoo: cookie-jar curl redirected to Sign in; signed-in box browser capture used instead (~4:59 PM CT). No invented facts.",
+  "evidence_dir": "/workspace/deeper-than-gm-data/grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-11-05",
+  "findings_md": "/tmp/daily-2026-11-05-public-findings.md",
+  "yahoo_status": {
+    "cookie_jar_curl": "fail_redirect_login",
+    "signed_in_browser": "ok",
+    "browser_capture_ct": "2026-11-05T16:59-06:00",
+    "pages": [
+      "team8",
+      "team3",
+      "league_home",
+      "transactions",
+      "fa_watchlist_check"
+    ],
+    "evidence": [
+      "yahoo-browser-capture.txt",
+      "vaqueros-team-8.png",
+      "big-balls-team-3.png",
+      "league-home.png",
+      "transactions.png"
+    ]
+  }
+}
