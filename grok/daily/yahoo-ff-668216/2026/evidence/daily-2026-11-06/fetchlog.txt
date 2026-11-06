@@ -1,0 +1,17 @@
+Collection window: 2026-11-06 ~5:02–5:10 PM America/Chicago (CST / UTC-6)
+Box clock start: Fri Nov 6 17:02:18 CST 2026 / 23:02:18 UTC
+League: yahoo-ff-668216 / Vaqueros
+News window vs prior daily: after 2026-11-05 ~5:00 PM CT through ~5:10 PM CT Nov 6
+
+HTTP notes:
+- Most team official pages, CBS, NBC, Ravens/Cardinals/Jaguars/Lions/Jets/Chiefs/Bucs/Raiders: 200
+- apnews.com NFL injury report: 403
+- site.api.espn.com scoreboard dates=20261108: 200 (weather empty in JSON)
+- site.web.api.espn.com summary game 401873037: 200
+- cdn.espn.com boxscore/game/scoreboard: 200
+- content.core.api.espn.com news: 200
+- site.web.api.espn.com common search: empty items (0 results) for CMC/Brissett/JT queries
+- ESPN HTML story pages: 200 but often heavy JS; used content.core article body successfully for 50402463
+- Truncated some HTML saves at 200–250KB by design; key facts extracted to .txt
+
+Yahoo browser capture: NOT done in this news-collector subagent (listed under Yahoo still needed).

@@ -1,0 +1,25 @@
+{
+  "schema": "run-metadata.schema.json",
+  "routine": "deeper-than-daily-intelligence-report",
+  "league_id": "yahoo-ff-668216",
+  "team_id": 8,
+  "season": 2026,
+  "nfl_week": 9,
+  "run_at_ct": "2026-11-06T17:10:00-06:00",
+  "status": "success",
+  "yahoo_access": "browser_ok_cookie_jar_not_retested",
+  "transactions_executed": false,
+  "previous_successful_daily_commit": "6f7f7ce3bdaa6534206be0043d135dcf88a82d0e",
+  "commit_sha": "4f6d79fcac38bc9739af8ec67ad40e72840c1e20",
+  "artifacts": [
+    "grok/daily/yahoo-ff-668216/2026/daily-report-2026-11-06.md",
+    "grok/daily/yahoo-ff-668216/2026/batches/batch_20261106T170000_daily-intel.json",
+    "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-11-06/",
+    "grok/intel/yahoo-ff-668216/2026/watchlist.md",
+    "grok/intel/yahoo-ff-668216/2026/open-questions.md",
+    "grok/intel/yahoo-ff-668216/INDEX.md",
+    "grok/intel/yahoo-ff-668216/2026/players/derrick-henry.md",
+    "grok/intel/yahoo-ff-668216/2026/runs/2026-11-06-daily-intelligence-report.json"
+  ],
+  "notes": "Yahoo via signed-in box browser (~5:05 PM CT); cookie-jar curl not retested (known broken). PNGs not saved — structured text capture only. Public collector ~5:03–5:08 PM CT. TNF Final; Brissett official; CMC/Rice Fri cleared."
+}

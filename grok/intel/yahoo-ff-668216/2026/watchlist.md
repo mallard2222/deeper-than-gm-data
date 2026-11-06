@@ -2,21 +2,33 @@
 
 Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition (not an instruction to transact).
 
-Last daily: **2026-11-05 ~4:58–5:15 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-05.md)) — **success** (Yahoo browser OK; cookie-jar curl fail).  
+Last daily: **2026-11-06 ~5:05–5:10 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-06.md)) — **success** (Yahoo browser OK; cookie-jar not retested; PNGs not saved).  
 Prior daily: 2026-11-04; Wed recon 2026-11-04 AM. Oct 5–31 news still not reviewed.
 
 
-## WATCH — Thu Nov 5 daily (~5:00 PM CT)
+## WATCH — Fri Nov 6 daily (~5:05 PM CT)
 
-- **RESOLVED — CMC Wed DNP → Thu LP (hamstring):** Raiders.com joint IR + Wagoner suited open period. Still Yahoo Q starter. Prepare Judkins until Fri/designation. Lock Sun 3:25 PM CT.
-- **RESOLVED — Rice Wed LP → Thu FP:** Chiefs/Jets IR; Yahoo Q tag cleared on team page. Monitor Fri only. Lock Sun noon CT. Bankruptcy Ch.7 ESPN — no lineup action.
-- **RESOLVED — Amon-Ra (Big Balls) Q reason = ribs:** limited Thu again; on track @MIA (Pride of Detroit). Monitor Fri.
-- **Derrick Henry TNF:** start; Fagnano still starts; weather ~67°F / ~49% precip; inactives pending ~5:45 PM CT. Lock Thu 7:15 PM CT.
-- **Brissett→BAL:** still not official; NEW Cardinals $2.7M salary→signing bonus restructure (Field Yates via PFR). Expected after TNF/weekend. Hedge to Nov 10.
-- **W9 proj:** 137.49–154.68 vs Big Balls (browser 4:59 PM CT).
-- **FA/W:** Dobbins still W Nov 6; Gainwell FA Thu full (hip); Justice Hill FA; roster full (ask before add).
-- **Tuten still Q/GTD TNF**; Meyers expected to play (opponent BN). JT no trade request; verdict by Mon Nov 10 3 PM CT.
-- **Cookie-jar curl broken** (login redirect); prefer signed-in browser until jar refreshed.
+- **RESOLVED — CMC Fri FP / no designation:** Raiders.com IR + Wagoner/Maiocco; Yahoo Q tag cleared. **Start** Sun 3:25 PM CT; Judkins contingency lower urgency.
+- **RESOLVED — Rice Fri FP / no designation:** Chiefs/Jets IR; Yahoo no Q tag. **Start** Sun noon CT.
+- **RESOLVED — Henry TNF Final:** JAX 33–BAL 10; Henry 17-57-0 / Yahoo Final 5.58; no injury; Fagnano 2 INT. Hill FA 9-85-1; Meyers BN Final 8.50.
+- **RESOLVED — Brissett→BAL official:** BAL gets Brissett+2027 5th for 2027 4th+2028 7th; Cards paid >half; start W10 MNF LAC. Brissett on Yahoo waivers (FFAmuseBouche drop). Hedge/sell Henry to Nov 10.
+- **Amon-Ra (Big Balls) Fri LP×3 Q (rib):** expect play; watch Sun inactives DET@MIA noon CT.
+- **W9 proj:** 5.58 actual / 133.44 proj vs Big Balls 0.00 / 154.85 (browser 5:05 PM CT).
+- **FA/W:** Dobbins now **FA** (proj 7.47, 74%); Gainwell FA Fri FP; Justice Hill + Rodriguez **W Nov 11**; roster full (ask before add).
+- **JT** still rumor (Giants serious / 1st asking) to Mon Nov 10 3 PM CT. Sunday weather Low impact all Vaqueros locks.
+- **Cookie-jar curl** not retested (known broken); prefer signed-in browser.
+
+## WATCH — Thu Nov 5 daily (~5:00 PM CT) — superseded by Nov 6 resolutions above
+
+- **RESOLVED — CMC Wed DNP → Thu LP (hamstring):** → Fri FP / no designation (Nov 6).
+- **RESOLVED — Rice Wed LP → Thu FP:** → Fri FP / no designation (Nov 6).
+- **RESOLVED — Amon-Ra (Big Balls) Q reason = ribs:** → Fri LP×3 still Q; expect play (Nov 6).
+- **RESOLVED — Derrick Henry TNF:** Final 5.58; 17-57-0; no injury (Nov 5/6).
+- **RESOLVED — Brissett→BAL:** official Fri Nov 6 (terms confirmed).
+- **W9 proj (Thu):** 137.49–154.68 — superseded by Fri 5.58/133.44 vs 0.00/154.85.
+- **FA/W (Thu):** Dobbins W Nov 6 → now FA (Nov 6 browser); Gainwell still FA; Justice Hill → W Nov 11.
+- **Tuten / Meyers TNF:** Meyers BN Final 8.50; Tuten 12-29-1.
+- **Cookie-jar curl broken** — carried; not retested Nov 6.
 
 ## WATCH — Wed Nov 4 daily (~5:00 PM CT) — superseded by Nov 5 resolutions above
 

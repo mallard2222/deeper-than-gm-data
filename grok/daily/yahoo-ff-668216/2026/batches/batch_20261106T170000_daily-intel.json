@@ -1,0 +1,46 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-06T17:02-06:00",
+ "collection_status": "success",
+ "yahoo_access": {
+  "cookie_jar_curl": "not_retested_known_broken",
+  "signed_in_browser": "ok",
+  "screenshots_saved": false,
+  "retrieved_ct": "2026-11-06T17:05-06:00"
+ },
+ "previous_successful_daily_ct": "2026-11-05T16:58-06:00",
+ "previous_successful_daily_commit": "6f7f7ce3bdaa6534206be0043d135dcf88a82d0e",
+ "yahoo_transactions_made": false,
+ "vaqueros_snapshot": {
+  "record": "2-6-0",
+  "rank": 7,
+  "faab": 64,
+  "wo_priority": 2,
+  "moves": 10,
+  "ir_used": "1/1",
+  "bn_full": true,
+  "pending_claims": 0,
+  "w9_actual_proj": {"vaqueros_actual": 5.58, "vaqueros_proj": 133.44, "big_balls_actual": 0.00, "big_balls_proj": 154.85},
+  "retrieved_ct": "2026-11-06T17:05-06:00",
+  "access_method": "signed_in_box_browser"
+ },
+ "changes": [
+  {"id":"2026-11-06-vaqueros-state-browser","type":"fact","confidence":"confirmed","detail":"FAAB $64; Harvey IR 1/1; no pending claims; BN 9/9; WO 2; W9 5.58/133.44 vs 0.00/154.85; Henry Final 5.58; CMC no tag; Rice no Q tag","source":"https://football.fantasysports.yahoo.com/f1/668216/8","retrieved_ct":"2026-11-06T17:05-06:00","response":"no action"},
+  {"id":"2026-11-06-cmc-fri-full-no-designation","type":"fact","confidence":"confirmed FP + no designation; inactives final check","detail":"CMC hamstring Wed DNP → Thu LP → Fri FP / no designation; Wagoner good to go; Maiocco Shanahan cleared; Yahoo Q tag cleared","affected":["Christian McCaffrey (Vaqueros)","Quinshon Judkins (Vaqueros BN)"],"source":"https://www.raiders.com/news/raiders-49ers-week-9-injury-report","published_approx_ct":"2026-11-06T17:03-06:00","response":"start CMC; Judkins lower urgency","deadline":"2026-11-08T15:25-06:00"},
+  {"id":"2026-11-06-rice-fri-full-no-designation","type":"fact","confidence":"confirmed FP + no designation","detail":"Rashee Rice Wed LP → Thu FP → Fri FP / no designation; Yahoo no Q tag","affected":["Rashee Rice (Vaqueros)"],"source":"https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026","retrieved_ct":"2026-11-06T17:05-06:00","response":"start Rice","deadline":"2026-11-08T12:00-06:00"},
+  {"id":"2026-11-05/06-henry-tnf-final","type":"fact","confidence":"confirmed","detail":"JAX 33 BAL 10 Final; Henry 17-57-0 pass -3 no injury Yahoo Final 5.58; Fagnano 10/18-60-2INT; Hill FA 9-85-1; Tuten 12-29-1; Meyers BN Final 8.50","affected":["Derrick Henry (Vaqueros)","Justice Hill (FA)","Jakobi Meyers (Big Balls BN)"],"source":"espn-cdn-game-401873037","response":"no action week locked","deadline":"2026-11-05T19:15-06:00"},
+  {"id":"2026-11-06-brissett-trade-official","type":"fact","confidence":"confirmed official","detail":"BAL gets Brissett+2027 5th for 2027 4th+2028 7th; Cards paid >half salary; start W10 MNF LAC; FFAmuseBouche dropped Brissett to Yahoo waivers","affected":["Derrick Henry (Vaqueros)","Jacoby Brissett (waivers)","Joe Fagnano (FA)"],"source":"https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026","published_approx_ct":"2026-11-06T11:00-06:00","response":"monitor W10 depth; hedge to Nov 10","deadline":"2026-11-10T15:00-06:00"},
+  {"id":"2026-11-06-w9-opponent-amon-ra-q","type":"fact","confidence":"confirmed Q ribs; Sunday play report","detail":"Amon-Ra Fri LP×3 Q rib; expect play; Big Balls proj 154.85; Meyers BN Final 8.50; Saints DEF; Adams IR; Lloyd BN Q","source":"https://www.detroitlions.com/news/lions-at-dolphins-injury-report-nov-6-branch-stbrown-reed","retrieved_ct":"2026-11-06T17:05-06:00","response":"monitor Sun inactives"},
+  {"id":"2026-11-06-league-txn-and-fa","type":"fact","confidence":"confirmed","detail":"Deepest +Malik Washington/-Lemon; FFAmuseBouche +Penix/-Brissett; Good Strongs +Sampson/-Rodriguez; Wet Serapas +Butker; Dobbins FA proj 7.47 74%; Gainwell FA Fri FP; Hill+Rodriguez W Nov 11; JT rumor to Nov 10; roster full; Sunday weather Low impact","source":"https://football.fantasysports.yahoo.com/f1/668216/transactions","response":"monitor; ask before add"}
+ ],
+ "quarantine": [
+  "Cookie-jar curl not retested (known broken); browser OK",
+  "Screenshots not saved successfully — structured text only",
+  "Brissett Yahoo waiver clear date not captured",
+  "Yahoo New Player Note bodies unread where present",
+  "JT/Giants/Henry backup-plan = rumor only",
+  "apnews.com Week 9 IR aggregate HTTP 403"
+ ]
+}

@@ -78,3 +78,17 @@
 - Yahoo New Player Note bodies still unread where present.
 - Dobbins clear Nov 6 — any Vaqueros interest requires drop ask (roster full).
 - Gainwell Thu full (hip) — FA; ask before drop-add.
+
+## Added 2026-11-06 daily
+
+- **Resolved:** CMC Fri **FP / no designation**; Yahoo Q tag cleared — start Sun 3:25 PM CT (Judkins lower urgency).
+- **Resolved:** Rice Fri **FP / no designation** — start Sun noon CT.
+- **Resolved:** Brissett→BAL **official** Fri (BAL gets Brissett+2027 5th for 2027 4th+2028 7th); start W10 MNF LAC. Brissett on Yahoo waivers (clear date not captured).
+- **Resolved:** TNF inactives / Henry result — Final JAX 33–BAL 10; Henry 17-57-0 / Yahoo Final 5.58; no injury.
+- **Resolved:** Dobbins now **FA** (cleared; proj 7.47, 74% rostered).
+- Amon-Ra Fri LP×3 still **Q (rib)** — Sunday play until inactives.
+- Justice Hill + Rodriguez ON WAIVERS clear **Nov 11**.
+- **Cookie-jar curl** still broken (not retested) — prefer browser.
+- Yahoo New Player Note bodies still unread where present.
+- Keepers unknown; private claims not visible; Oct 5–31 daily news backfill still never reviewed.
+- JT trade market still rumor to Mon Nov 10 3 PM CT; Henry sell/hold thinking tied to same deadline.
