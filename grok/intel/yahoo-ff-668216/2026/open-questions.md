@@ -92,3 +92,16 @@
 - Yahoo New Player Note bodies still unread where present.
 - Keepers unknown; private claims not visible; Oct 5–31 daily news backfill still never reviewed.
 - JT trade market still rumor to Mon Nov 10 3 PM CT; Henry sell/hold thinking tied to same deadline.
+
+## Added 2026-11-07 daily
+
+- **Resolved:** Henry NFL-trade speculation — Schefter: Ravens informed Henry they will not trade him; Giants inquired only about Justice Hill.
+- **Resolved (partial):** Brissett Yahoo waiver clear date — browser shows **W (Nov 11)** (proj 0.04, 21%).
+- **Resolved:** NFL trade deadline weekday — **Tue Nov 10, 3:00 PM CT** (prior “Mon Nov 10” label was wrong).
+- Downs trade request + 4th-round offer — watch through Tue Nov 10; destination unknown.
+- Daniel Jones trade talks — ROS for Warren/Downs if Indy moves him.
+- JT outcome still open (conflicting named reports) through Tue Nov 10 3 PM CT.
+- Amon-Ra Sun inactive status still open (~10:30 AM CT Sun).
+- Cookie-jar curl still broken (not retested) — prefer browser.
+- Yahoo New Player Note bodies still unread where present.
+- Keepers unknown; private claims not visible; Oct 5–31 daily news backfill still never reviewed.

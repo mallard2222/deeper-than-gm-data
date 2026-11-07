@@ -1,0 +1,132 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-07T16:56-06:00",
+ "collection_status": "success",
+ "yahoo_access": {
+  "cookie_jar_curl": "not_retested_known_broken",
+  "signed_in_browser": "ok",
+  "screenshots_saved": false,
+  "retrieved_ct": "2026-11-07T17:00:50-06:00"
+ },
+ "previous_successful_daily_ct": "2026-11-06T17:05-06:00",
+ "previous_successful_daily_commit": "65c2f80723aedd2fd75c7409809c090c701d5616",
+ "yahoo_transactions_made": false,
+ "vaqueros_snapshot": {
+  "record": "2-6-0",
+  "rank": 7,
+  "faab": 64,
+  "wo_priority": 2,
+  "moves": 10,
+  "ir_used": "1/1",
+  "bn_full": true,
+  "pending_claims": 0,
+  "w9_actual_proj": {
+   "vaqueros_actual": 5.58,
+   "vaqueros_proj": 133.25,
+   "big_balls_actual": 0.0,
+   "big_balls_proj": 154.82
+  },
+  "retrieved_ct": "2026-11-07T17:00:50-06:00",
+  "access_method": "signed_in_box_browser"
+ },
+ "changes": [
+  {
+   "id": "2026-11-07-vaqueros-state-browser",
+   "type": "fact",
+   "confidence": "confirmed",
+   "detail": "FAAB $64; Harvey IR; no pending claims; BN 9/9; WO 2; W9 5.58/133.25 vs 0.00/154.82; CMC/Rice no tags; Tetairoa McMillan W/R; no new txns after Fri 5pm CT",
+   "source": "https://football.fantasysports.yahoo.com/f1/668216/8",
+   "retrieved_ct": "2026-11-07T17:00:50-06:00",
+   "response": "no action"
+  },
+  {
+   "id": "2026-11-07-henry-not-traded",
+   "type": "report",
+   "confidence": "high Schefter league sources",
+   "detail": "Ravens told Henry no trade intent; never considered dealing him; Giants inquired only Justice Hill; Brissett on 53 after Reed waived; W10 MNF vs LAC Nov 16",
+   "affected": [
+    "Derrick Henry (Vaqueros)",
+    "Justice Hill (W Nov 11)",
+    "Jacoby Brissett (W Nov 11)"
+   ],
+   "source": "https://www.espn.com/nfl/story/_/id/50400748/sources-ravens-not-expected-trade-star-rb-derrick-henry",
+   "published_approx_ct": "2026-11-07T07:16-06:00",
+   "response": "monitor; NFL-trade risk closed; fantasy sell/hold to Nov 28",
+   "deadline": "2026-11-28"
+  },
+  {
+   "id": "2026-11-07-downs-trade-request-4th-offer",
+   "type": "report",
+   "confidence": "high Schefter/Rapoport; destination inference",
+   "detail": "Downs requested trade; Colts have 4th-round offer (wanted 3rd); Pelissero 4th+asset; Warren/Rice ROS inference only",
+   "affected": [
+    "Josh Downs (Vaqueros BN)",
+    "Tyler Warren (Vaqueros)",
+    "Rashee Rice (Vaqueros)"
+   ],
+   "source": "https://www.espn.com/nfl/story/_/id/50403627/trade-talks-pick-nfl-tuesday-deadline-looming",
+   "published_approx_ct": "2026-11-07T11:06-06:00",
+   "response": "monitor",
+   "deadline": "2026-11-10T15:00-06:00"
+  },
+  {
+   "id": "2026-11-07-colts-jones-jt-market",
+   "type": "report_rumor",
+   "confidence": "medium conflicting JT takes",
+   "detail": "Colts listening on Daniel Jones; JT Pelissero likelier stay vs Athletic Jones expects trade; 2nd+ offer on table",
+   "affected": [
+    "Tyler Warren",
+    "Josh Downs",
+    "Jonathan Taylor (not owned)"
+   ],
+   "source": "https://www.espn.com/nfl/story/_/id/50403440/sources-colts-engaged-daniel-jones-trade-talks",
+   "response": "monitor",
+   "deadline": "2026-11-10T15:00-06:00"
+  },
+  {
+   "id": "2026-11-07-trade-deadline-correction",
+   "type": "fact",
+   "confidence": "confirmed",
+   "detail": "NFL deadline Tue Nov 10 4pm ET / 3pm CT; prior dailies mislabeled weekday as Mon",
+   "source": "espn-schefter-rapoport",
+   "response": "fix wording"
+  },
+  {
+   "id": "2026-11-07-cmc-rice-start",
+   "type": "fact",
+   "confidence": "confirmed no Sat setback; inactives final",
+   "detail": "CMC off IR report; Rice cleared; SF Kirk to IR; Jets 3 more D OUTs Sat",
+   "affected": [
+    "Christian McCaffrey",
+    "Rashee Rice"
+   ],
+   "response": "start both",
+   "deadline": "2026-11-08T12:00-06:00"
+  },
+  {
+   "id": "2026-11-07-amonra-opponent",
+   "type": "fact",
+   "confidence": "confirmed Q; play expectation",
+   "detail": "Amon-Ra still Q rib no Sat update; Big Balls 154.82 proj; Kendre Miller NA after Saints waive",
+   "source": "yahoo-big-balls",
+   "response": "monitor Sun inactives"
+  },
+  {
+   "id": "2026-11-07-league-fa-weather",
+   "type": "fact",
+   "confidence": "confirmed",
+   "detail": "Dobbins FA 7.28 bye10; Gainwell FA; Hill/Rodriguez/Brissett W Nov11; weather Low all outdoor Vaqueros locks; Watson cleared protocol still Q Shedeur starts",
+   "response": "monitor; ask before add"
+  }
+ ],
+ "quarantine": [
+  "Cookie-jar curl not retested (known broken); browser OK",
+  "USA Today network HTTP 402",
+  "Athletic Jones JT/Downs-KC only via secondary",
+  "Ravens.com Reed article said Rams for W10; schedule says Chargers",
+  "Sunday inactives not posted Sat PM",
+  "Yahoo New Player Note bodies unread"
+ ]
+}

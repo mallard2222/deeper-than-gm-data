@@ -1,0 +1,37 @@
+# fetchlog daily-2026-11-07 (times America/Chicago). NOTE: dir shared with parent run; line below (bare ISO timestamp) was written by another writer and overwrote 3 original subagent lines, restored here from console output:
+2026-11-07 16:58:14 CT curl 200 234177B https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261108 -> espn-sb-sun-20261108.json
+2026-11-07 16:58:15 CT curl 200 23275B https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261109 -> espn-sb-mon-20261109.json
+2026-11-07 16:58:16 CT curl 200 204467B https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=50 -> espn-nfl-news.json
+2026-11-07T16:58:16-06:00
+2026-11-07 16:58:16 CT curl 200 990266B https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-nov-7 -> nfl-saturday-roundup-nov7.html
+2026-11-07 16:58:19 CT curl 200 1654704B https://www.cbssports.com/nfl/transactions/ -> cbs-transactions.html
+2026-11-07 16:58:32 CT curl 200 20911B https://content.core.api.espn.com/v1/sports/news/50400748 -> espn-art-50400748-henry-not-traded.json
+2026-11-07 16:58:33 CT curl 200 14681B https://content.core.api.espn.com/v1/sports/news/50409705 -> espn-art-50409705-watson-protocol.json
+2026-11-07 16:58:33 CT curl 200 27232B https://content.core.api.espn.com/v1/sports/news/50403627 -> espn-art-50403627-trade-talks-colts.json
+2026-11-07 16:58:34 CT curl 200 19155B https://content.core.api.espn.com/v1/sports/news/50403440 -> espn-art-50403440-colts-daniel-jones.json
+2026-11-07 16:58:34 CT curl 200 31801B https://content.core.api.espn.com/v1/sports/news/50392079 -> espn-art-50392079-last-minute-pickups.json
+2026-11-07 16:58:35 CT curl 200 28703B https://content.core.api.espn.com/v1/sports/news/50401403 -> espn-art-50401403-brissett-ravens-expectations.json
+2026-11-07 16:58:55 CT curl 200 905189B https://www.nbcsports.com/fantasy/football/player-news/2026-11-07/schefter-colts-have-fourth-round-pick-offer-for-downs -> nbc-downs-4th-offer.html
+2026-11-07 16:58:55 CT curl 402 254B https://coltswire.usatoday.com/story/sports/nfl/colts/2026/11/07/report-colts-trade-offer-table-josh-downs/92659396007/ -> coltswire-downs.html
+2026-11-07 16:58:56 CT curl 200 257844B https://www.fantasyalarm.com/articles/nfl/nfl-weather/nfl-week-9-weather-report-fantasy-football-dfs-impact/198269 -> fantasyalarm-week9-weather.html
+2026-11-07 16:58:56 CT curl 200 698012B https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-deshaun-watson-clears-concussion-protocol-but-shedeur-sanders-will-start-for-browns-180454816.html -> yahoo-injury-tracker-w9.html
+2026-11-07 16:58:57 CT curl 402 254B https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-new-york-jets-reveal-lengthy-final-injury-reports-nfl-week-9/92662302007/ -> chiefswire-final-ir.html
+2026-11-07 16:58:57 CT curl 402 254B https://coltswire.usatoday.com/story/sports/nfl/colts/2026/11/07/tracking-latest-trade-reports-rumors-around-colts-jonathan-taylor/92663377007/ -> coltswire-jt-tracker.html
+2026-11-07 16:58:57 CT curl 200 86700B https://www.profootballrumors.com/2026/11/no-team-coming-close-to-colts-jonathan-taylor-price -> pfr-jt-price.html
+2026-11-07 16:58:58 CT curl 200 83538B https://www.profootballrumors.com/2026/11/colts-have-fourth-round-offer-for-josh-downs-keenan-allen-drawing-interest -> pfr-downs.html
+2026-11-07 16:58:58 CT curl 200 1045874B https://www.rotoballer.com/player-news/amon-ra-st-brown-rib-listed-as-questionable/1985815 -> rotoballer-amonra.html
+2026-11-07 16:58:59 CT curl 200 310795B https://www.detroitlions.com/news/lions-at-dolphins-injury-report-nov-6-branch-stbrown-reed -> lions-fri-ir.html
+2026-11-07 16:59:19 CT curl 200 https://api.weather.gov/gridpoints/EAX/47,48/forecast/hourly -> nws-hourly-arrowhead.json
+2026-11-07 16:59:19 CT curl 200 https://api.weather.gov/gridpoints/MTR/97,86/forecast/hourly -> nws-hourly-levis.json
+2026-11-07 16:59:19 CT curl 200 https://api.weather.gov/gridpoints/BOX/67,88/forecast/hourly -> nws-hourly-gillette.json
+2026-11-07 16:59:19 CT curl 200 https://api.weather.gov/gridpoints/LWX/102,73/forecast/hourly -> nws-hourly-northwest.json
+2026-11-07 16:59:20 CT curl 200 https://api.weather.gov/gridpoints/LOT/76,72/forecast/hourly -> nws-hourly-soldier.json
+2026-11-07 16:59:20 CT curl 200 https://api.weather.gov/gridpoints/MFL/107,58/forecast/hourly -> nws-hourly-hardrock.json
+2026-11-07 16:59:34 CT curl 200 1052558B https://www.nfl.com/news/nfl-week-9-injury-report-2026-season -> nfl-week9-injury-report.html
+2026-11-07 17:00:04 CT curl 000 B https://www.raiders.com/team/transactions/ -> raiders-transactions.html
+2026-11-07 17:00:04 CT curl 200 338028B https://www.raiders.com/news/raiders-unofficial-depth-chart-for-week-9-vs-san-francisco-49ers -> raiders-depth-w9.html
+2026-11-07 17:00:05 CT curl 404 290211B https://www.49ers.com/news/49ers-activate-demarcus-robinson-place-christian-kirk-on-ir -> 49ers-moves-guess.html
+2026-11-07 17:00:39 CT note: NWS points->forecastHourly for 6 stadiums (status 200 each) logged above
+# WebSearch (tool, no HTTP status) ~16:58–17:02 CT queries: CMC 49ers Raiders Nov 7; Amon-Ra ribs Sat; JT trade Nov 7; NFL Saturday roster moves Nov 7; Josh Downs 4th-round offer; Rice Chiefs Jets Sat; Week 9 weather; Saturday downgrades; Raiders Sat moves/Washington Jr; Packers Love/Golden; Nico/Warren; Stafford status; Bears/Bucs SNF; Panthers T. McMillan.
+# Search-only (not fetched/saved) sources cited from search snippets: rg.org CMC/Bosa (pub Nov 7 5:47 AM, tz unstated); FantasyPros CMC (Nov 6 9:05 PM ET); rotoballer Amon-Ra (Nov 6 5:46 PM ET, updated Nov 7 12:54 PM ET); Yardbarker JT (Nov 7 4:59 PM ET); heavy.com JT/Schefter; PFR Giants JT; Packers.com/Texans.com/Panthers.com/therams.com/Bucs.com injury reports (Fri, not re-fetched); Mile High Report Broncos-Panthers final IR.
+# Blocked: coltswire/chiefswire usatoday 402 (removed empty files). raiders.com/team/transactions curl timeout 30s (000). 49ers.com guessed URL 404 (removed).

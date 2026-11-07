@@ -2,11 +2,22 @@
 
 Statuses: **PENDING** = awaiting external result; **WATCH** = re-check condition (not an instruction to transact).
 
-Last daily: **2026-11-06 ~5:05–5:10 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-06.md)) — **success** (Yahoo browser OK; cookie-jar not retested; PNGs not saved).  
-Prior daily: 2026-11-04; Wed recon 2026-11-04 AM. Oct 5–31 news still not reviewed.
+Last daily: **2026-11-07 ~5:00–5:10 PM CT** ([daily report](../../../daily/yahoo-ff-668216/2026/daily-report-2026-11-07.md)) — **success** (Yahoo browser OK; cookie-jar not retested; structured text only).  
+Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not reviewed.
 
 
-## WATCH — Fri Nov 6 daily (~5:05 PM CT)
+## WATCH — Sat Nov 7 daily (~5:00 PM CT)
+
+- **RESOLVED — Henry NFL-trade risk:** Schefter — Ravens told Henry no trade; never considered; Giants asked only about Justice Hill. Fantasy sell/hold only (league Nov 28). Brissett on 53 (Reed waived); debut W10 MNF vs LAC Mon Nov 16.
+- **NEW — Downs trade request:** Schefter/Rapoport — Downs requested trade; Colts have 4th-round offer. Monitor to **Tue Nov 10 3 PM CT**. Warren/Rice ROS inference only.
+- **JT / D. Jones:** conflicting named reports on JT; Colts listening on Daniel Jones — monitor to Tue Nov 10 3 PM CT (deadline weekday corrected from prior “Mon”).
+- **CMC / Rice:** no Sat setback — **start** Sun (Rice noon CT; CMC 3:25 PM CT). Judkins contingency low.
+- **Amon-Ra (Big Balls) still Q (rib):** no Sat update; watch Sun ~10:30 AM CT inactives.
+- **W9 proj:** 5.58 actual / 133.25 proj vs Big Balls 0.00 / 154.82 (browser 5:00 PM CT).
+- **FA/W:** Dobbins FA (proj 7.28, bye W10); Gainwell FA; Hill + Rodriguez + **Brissett** W Nov 11; roster full (ask before add).
+- **Cookie-jar curl** not retested (known broken); prefer signed-in browser.
+
+## WATCH — Fri Nov 6 daily (~5:05 PM CT) — superseded in part by Nov 7 above
 
 - **RESOLVED — CMC Fri FP / no designation:** Raiders.com IR + Wagoner/Maiocco; Yahoo Q tag cleared. **Start** Sun 3:25 PM CT; Judkins contingency lower urgency.
 - **RESOLVED — Rice Fri FP / no designation:** Chiefs/Jets IR; Yahoo no Q tag. **Start** Sun noon CT.
