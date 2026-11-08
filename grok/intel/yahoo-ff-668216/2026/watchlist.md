@@ -143,3 +143,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Derrick Henry:** Ravens named rookie Joe Fagnano Thursday starter (confirmed); Henry locks Thu Nov 5 7:15 PM CT.
 - **Jeremiyah Love (Baby Arm):** IR 4–5 weeks; Allgeier (Baby Arm) lead back.
 - **Brian Thomas Jr.** (FA): trade speculation to Nov 10 (rumor).
+
+## 2026-11-08 (daily 5 PM)
+- **W9 live:** Vaqueros 117.74/169.78 vs Big Balls 104.94/145.64; Allen MNF is Big Balls' swing. Live, not final.
+- **Josh Downs:** Schefter — likely moves for a 4th; KC + PIT interested (report). Hold through Tue Nov 10 3 PM CT.
+- **Rice:** Worthy ruled out (hamstring) in KC game → volume up (inference); KC–Downs would add competition.
+- **Jonathan Taylor:** Giants 2nd+5th offer revoked; likely stays (report).
+- **Brian Thomas Jr. (JAX) / Calvin Ridley (TEN):** teams will listen / late-round price (Schefter); check league availability if moved.
+- **Amon-Ra** active (resolved). **CMC** full workload, 19.50 (resolved).
+- **Puka Nacua** knee testing Mon (not believed ACL). Ownership unchecked.
