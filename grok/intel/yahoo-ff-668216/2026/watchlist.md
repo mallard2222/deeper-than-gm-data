@@ -152,3 +152,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Brian Thomas Jr. (JAX) / Calvin Ridley (TEN):** teams will listen / late-round price (Schefter); check league availability if moved.
 - **Amon-Ra** active (resolved). **CMC** full workload, 19.50 (resolved).
 - **Puka Nacua** knee testing Mon (not believed ACL). Ownership unchecked.
+
+## 2026-11-09 (daily 5 PM)
+- **W9:** Vaqueros 160.52 final vs Big Balls 127.86 + Allen MNF (needs >32.66). Pending.
+- **Josh Downs (Vaqueros BN):** ≥4th offer on table; KC confirmed, WAS/PIT in mix (report). Hold to Tue Nov 10 3 PM CT.
+- **Rice:** Worthy + Mahomes day-to-day (Reid); Thornton fractured ankle. Watch Wed–Fri KC practice.
+- **W10 QB2 need:** Caleb Williams + Bo Nix both on bye W10; Love only active QB. Target via Wed Nov 11 waivers (approval needed).
+- **W10 opp Wet Serapas:** Mahomes Q, Stevenson Q (knee imaging), Butker undecided.
+- **Nacua (DUGASM):** likely IR, min 4 games. Rams WR Atwell/Mumpfield appear unrostered (unverified).
+- **Dylan Sampson** (CLE RB) dropped by Good Strongs Nov 8 → waivers.

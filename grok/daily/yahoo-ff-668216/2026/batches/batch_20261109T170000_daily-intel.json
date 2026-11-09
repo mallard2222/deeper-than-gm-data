@@ -1,0 +1,13 @@
+{"run":"deeper-than-daily-intelligence-report","league":"yahoo-ff-668216","team_id":8,"run_started_ct":"2026-11-09T16:59-06:00","collection_status":"success_partial_depth","yahoo_access":{"cookie_jar_curl":"ok_http_200","retrieved_ct":"2026-11-09T17:05-06:00"},"previous_successful_daily_ct":"2026-11-08T17:10-06:00","previous_successful_daily_commit":"8adc73119240b430200a5f43fb8d3d52f49a0e2c","yahoo_transactions_made":false,
+"w9":{"vaqueros_actual":160.52,"big_balls_actual":127.86,"big_balls_proj":148.44,"remaining":"Josh Allen MNF","status":"in_progress"},
+"w10":{"opponent":"Wet Serapas","opp_team_id":1,"vaqueros_proj":123.01,"opp_proj":141.80,"vaqueros_byes":["Caleb Williams","Bo Nix","Rome Odunze","RJ Harvey (IR)"]},
+"changes":[
+{"id":"2026-11-09-downs-offer","type":"report","confidence":"medium","source":"https://www.profootballrumors.com/2026/11/colts-eyeing-fourth-round-pick-for-dt-grover-stewart-latest-on-josh-downs-charvarius-ward","response":"monitor","deadline":"2026-11-10T15:00-06:00"},
+{"id":"2026-11-09-worthy-mahomes-dtd","type":"fact","confidence":"high","source":"https://www.kansascity.com/sports/nfl/kansas-city-chiefs/article317999364.html","response":"monitor"},
+{"id":"2026-11-09-cmc-clear","type":"fact","confidence":"high","source":"https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/11/09/49ers-injury-update-christian-mccaffrey-hamstring-no-longer-a-concern/92689098007/","response":"none"},
+{"id":"2026-11-09-brissett-w10","type":"report","confidence":"medium-high","source":"https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/minter-brissett-expected-to-start-vs-chargers","response":"none"},
+{"id":"2026-11-09-w10-qb-byes","type":"fact","confidence":"high","source":"yahoo team 8 week 10","response":"prepare","deadline":"2026-11-15T12:00-06:00"},
+{"id":"2026-11-09-nacua-ir","type":"fact","confidence":"high","owner":"DUGASM","source":"https://www.espn.com/nfl/story/_/id/50435879/rams-nacua-likely-hit-ir-mcl-pcl-sprain-turf-toe","response":"monitor"},
+{"id":"2026-11-09-gs-rodgers","type":"fact","confidence":"high","source":"yahoo transactions","response":"monitor"}],
+"quarantine":["FA status of Atwell/Mumpfield/Worthy/BTJ/Ridley (roster-scan inference only)"],
+"gaps":["originals not re-fetched","QB slot count not re-read","pending claims not visible"]}

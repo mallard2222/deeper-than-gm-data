@@ -110,3 +110,7 @@
 - Closed: Amon-Ra Sunday status (active); cookie-jar curl works again with jar mtime Nov 8 ~2 PM CT.
 - Open: Downs destination/price by Tue Nov 10 3 PM CT; JT final; BTJ/Ridley moves; Worthy status; W9 final (Allen MNF).
 - Open: pending claims/league txn detail not re-parsed 11/8; ESPN originals not re-fetched.
+
+## 2026-11-09
+- Closed: CMC hamstring (Shanahan: no concern); Nacua MRI (MCL/PCL + turf toe, likely IR); Worthy W10 → day-to-day (still open for Sunday).
+- Open: W9 final (Allen MNF); Downs destination by Tue 3 PM CT; JT final; Mahomes practice status; confirm Deeper Than QB slot count and best FA QB2 for W10; FA status of Rams WRs.

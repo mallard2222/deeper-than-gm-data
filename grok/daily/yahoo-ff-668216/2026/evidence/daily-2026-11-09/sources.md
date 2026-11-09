@@ -1,0 +1,14 @@
+# Sources 2026-11-09 (retrieved ~5:05–5:15 PM CT via web search extracts; originals not individually re-fetched)
+- PFN, Downs landing spots, Nov 9 3:15 PM ET: https://www.profootballnetwork.com/josh-downs-trade-rumors-week-10-2026/
+- PFR, Nov 9 3:11 pm: Downs offer ≥4th (separate report: 4th + another asset); KC prime suitor as JAX reluctant on BTJ to AFC contender; WAS + PIT in mix; Rapoport: Indy may want more. https://www.profootballrumors.com/2026/11/colts-eyeing-fourth-round-pick-for-dt-grover-stewart-latest-on-josh-downs-charvarius-ward
+- Chiefs Wire Nov 9 11:19 AM CT (Rapoport GMFB confirms KC interest): https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/09/rumor-chiefs-interest-in-colts-wr-josh-downs-confirmed-by-insider/92692088007/
+- Colts Wire tracker Nov 9 12:35 PM ET: https://coltswire.usatoday.com/story/sports/nfl/colts/2026/11/09/tracking-every-colts-trade-deadline-rumor-report/92692117007/
+- KC Star Nov 9 1:27 PM (Reid presser): Mahomes, Worthy, J. Moore day-to-day; Butker decision pending. https://www.kansascity.com/sports/nfl/kansas-city-chiefs/article317999364.html
+- FantasyPros/McMullen (Chiefs official) Nov 9: https://www.fantasypros.com/nfl/news/618889/xavier-worthy-hamstring-considered-day-to-day.php
+- AP: Thornton fractured ankle. https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72
+- ESPN Nov 9 5:16 PM ET / NFL.com / NBC (McVay): Nacua likely IR, MCL+PCL sprain + turf toe; min 4 games, earliest W15. https://www.espn.com/nfl/story/_/id/50435879/rams-nacua-likely-hit-ir-mcl-pcl-sprain-turf-toe
+- NFL.com Monday roundup: Stevenson knee imaging; AJ Brown Germany travel TBD; Michael Wilson (ARI) out for season; McCarthy expected to play W10. https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-9
+- Niners Wire Nov 9 12:00 PT: Shanahan "forgot about" CMC hamstring. https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/11/09/49ers-injury-update-christian-mccaffrey-hamstring-no-longer-a-concern/92689098007/
+- 49ers Webzone Nov 9: Deebo may return to practice Wed; Evans not expected Wed. https://www.49erswebzone.com/articles/204974-shanahan-provides-updated-injury-heading/
+- NBC Nov 9: Minter — Brissett expected to start vs LAC (W10). https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/minter-brissett-expected-to-start-vs-chargers
+- CBS/NFL.com/ESPN trackers Nov 9: JAX acquired Jordan Davis, Jessie Bates, Godchaux; DET Cisco. No offensive fantasy-relevant trades completed Nov 9 found. CBS: Rapoport — Colts still want "CMC-type" package for JT; Eagles could move Goedert. https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-live-updates-latest-rumors-buzz-news/live/
