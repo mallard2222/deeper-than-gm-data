@@ -1,0 +1,18 @@
+{
+ "run_id": "intel-yahoo-ff-668216-2026-W10-2026-11-10-001",
+ "routine": "Deeper Than Tuesday weekly intelligence refresh + waiver assessment",
+ "routine_automation_id": "42c782ff-cae1-5af6-a771-a1a964d6d0a0",
+ "fired_utc": "2026-11-10T13:59:50Z",
+ "collection_ct": ["2026-11-10T08:01:23-06:00", "2026-11-10T08:06:48-06:00"],
+ "news_ct": "~2026-11-10T08:08-06:00 to 08:20-06:00",
+ "package": "grok/waivers/yahoo-ff-668216/2026/W10-2026-11-10/",
+ "yahoo_pages": 59,
+ "yahoo_auth": "cookie-jar curl OK (all HTTP 200, signed-in pages)",
+ "errors": [
+  "TNF/dome weather-tooltip roster rows needed text-based recovery (flagged parse_note); all W10 starter sums reconcile with scoreboard",
+  "transactions waivers/pending filters return 'No recent transactions' (pending claims unknown)",
+  "taken-player QB list rows not parsed for columns (owner-name layout); not used"
+ ],
+ "yahoo_actions_taken": [],
+ "commit_sha": "recorded in final summary / git log"
+}

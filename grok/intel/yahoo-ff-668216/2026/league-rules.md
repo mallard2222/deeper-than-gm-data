@@ -38,3 +38,7 @@ Source of truth: Yahoo settings page captures. Last verified: **2026-09-29 ~08:1
 - Waivers: FAB with weekly rolling-standings tiebreak; 1-day waiver time; weekly waivers at game time Tuesday; injured players cannot go directly to IR from waivers; no acquisition/trade maximum.
 - Keeper rules: not shown on settings page (**unknown**).
 - Source: [W09 settings evidence](../../../waivers/yahoo-ff-668216/2026/W09-2026-11-03/evidence/settings.txt)
+
+## Re-verified 2026-11-10 (Yahoo settings page, ~8:03 AM CT)
+- No changes vs 2026-11-03. Also recorded: **interceptions −2**, pass yds 25/pt, fumbles lost −2, missed FG 0–29 penalized, missed PAT −1. DEF points-allowed scale runs 15/10/8/4/0/−5/−10.
+- Source: [W10 settings.json](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/settings.json) · [evidence](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/evidence/settings.txt)

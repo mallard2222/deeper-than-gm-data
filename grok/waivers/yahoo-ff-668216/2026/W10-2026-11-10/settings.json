@@ -1,0 +1,92 @@
+{
+ "source": "https://football.fantasysports.yahoo.com/f1/668216/settings",
+ "retrieved_ct": "2026-11-10T08:0x-06:00 (see evidence/MANIFEST.json)",
+ "teams": 8,
+ "scoring": "Head-to-Head, fractional, negative points",
+ "offense": {
+  "pass_yds_per_pt": 25,
+  "pass_td": 4,
+  "interception": -2,
+  "rush_yds_per_pt": 10,
+  "rush_td": 6,
+  "reception": 0.5,
+  "rec_yds_per_pt": 10,
+  "rec_td": 6,
+  "return_td": 6,
+  "two_pt": 2,
+  "fumble_lost": -2
+ },
+ "kicker": {
+  "fg_0_39": 3,
+  "fg_40_49": 4,
+  "fg_50_plus": 5,
+  "fg_miss_0_19": -2,
+  "fg_miss_20_29": -1,
+  "pat": 1,
+  "pat_miss": -1
+ },
+ "defense": {
+  "sack": 1,
+  "int": 2,
+  "fumble_rec": 2,
+  "td": 6,
+  "safety": 2,
+  "block": 2,
+  "pa_0": 15,
+  "pa_1_6": 10,
+  "pa_7_13": 8,
+  "pa_14_20": 4,
+  "pa_21_27": 0,
+  "pa_28_34": -5,
+  "pa_35_plus": -10
+ },
+ "roster": [
+  "QB",
+  "QB",
+  "WR",
+  "WR",
+  "RB",
+  "RB",
+  "TE",
+  "W/T",
+  "W/R",
+  "K",
+  "DEF",
+  "BN",
+  "BN",
+  "BN",
+  "BN",
+  "BN",
+  "BN",
+  "BN",
+  "BN",
+  "BN",
+  "IR"
+ ],
+ "waivers": {
+  "type": "FAB w/ weekly rolling standings tiebreak",
+  "waiver_time": "1 day",
+  "weekly_waivers": "Game Time - Tuesday",
+  "injured_direct_to_IR": false,
+  "processing_clock": "unknown (Yahoo shows W (Nov 11); past ~3:42-3:46 AM)"
+ },
+ "trades": {
+  "end_date": "2026-11-28",
+  "review": "Commissioner",
+  "reject_time": "2 days",
+  "draft_pick_trades": true,
+  "max": "none"
+ },
+ "playoffs": {
+  "teams": 4,
+  "weeks": [
+   15,
+   16
+  ],
+  "ends": "Monday Dec 28",
+  "tiebreak": "Best regular season record vs opponent wins",
+  "reseeding": false
+ },
+ "keepers": "unknown (not on settings page)",
+ "traded_picks": "unknown"
+}

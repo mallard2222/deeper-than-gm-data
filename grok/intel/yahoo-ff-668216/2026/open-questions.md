@@ -114,3 +114,14 @@
 ## 2026-11-09
 - Closed: CMC hamstring (Shanahan: no concern); Nacua MRI (MCL/PCL + turf toe, likely IR); Worthy W10 → day-to-day (still open for Sunday).
 - Open: W9 final (Allen MNF); Downs destination by Tue 3 PM CT; JT final; Mahomes practice status; confirm Deeper Than QB slot count and best FA QB2 for W10; FA status of Rams WRs.
+
+## 2026-11-10 (Tue W10 desk), ranked by impact
+1. **Does Andrew approve a W10 QB2 claim?** Recommended: Brissett $5–9 / drop Freiermuth, Penix $2–4 fallback. Without one, QB2 scores 0 in a near must-win week. Claims must be in before Wed Nov 11 processing (~3:45 AM historically).
+2. **Downs NFL trade outcome** (deadline 3 PM CT today). The landing spot changes his ROS and Rice's (if KC).
+3. **Mahomes/Worthy practice status** (Wed–Fri). Affects Rice's W/T start.
+4. **Other teams' pending claims:** not visible (the pending/waivers filters return none).
+5. **Exact waiver processing clock:** unlabeled; past ~3:42–3:46 AM.
+6. **W11–W14 opponents:** inferred from rotation (Deepest, FFAmuseBouche, Baby Arm, DUGASM), not verified on Yahoo.
+7. **Brissett's Yahoo ROS (26.81)** looks stale relative to his confirmed starter role.
+8. Keepers / traded picks: still unknown.
+- **Resolved:** W9 final (W 160.52–140.72); Deeper Than QB slot count confirmed 2 (settings); best W10 FA QBs identified; cookie-jar curl working 2026-11-10 8:01 AM CT.

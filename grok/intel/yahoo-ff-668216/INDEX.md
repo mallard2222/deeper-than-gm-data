@@ -14,6 +14,12 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 - [Runs](./2026/runs/) — collection/analysis run manifests.
 
+## W10 Tuesday desk (2026-11-10)
+
+- [W10 package](../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/) · [recommendation](../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/RECOMMENDATION.md) · [learning loop](../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/learning-loop.md) · [weekly-package.json](../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/weekly-package.json)
+- [W10 run](./2026/runs/run-2026-W10-20261110T0801CT.json) · [manager notes W10](./2026/managers/behavior-notes-2026-W10.md) · [Brissett](./2026/players/29325-jacoby-brissett.md)
+- Headline: W9 won 160.52–140.72 (3-6); W10 QB2 hole (Caleb + Nix bye). Docs-only plan: Brissett $5–9 / drop Freiermuth, Penix $2–4 fallback.
+
 ## Latest Wed waiver recon (2026-11-04 ~8:04 AM CT)
 
 - [W09 outcomes](./2026/outcomes/W09-2026-11-04-waiver-outcomes.md)

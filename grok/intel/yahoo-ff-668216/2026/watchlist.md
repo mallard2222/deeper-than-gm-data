@@ -161,3 +161,13 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **W10 opp Wet Serapas:** Mahomes Q, Stevenson Q (knee imaging), Butker undecided.
 - **Nacua (DUGASM):** likely IR, min 4 games. Rams WR Atwell/Mumpfield appear unrostered (unverified).
 - **Dylan Sampson** (CLE RB) dropped by Good Strongs Nov 8 → waivers.
+
+## 2026-11-10 (Tue W10 desk, Yahoo 8:01–8:07 AM CT)
+- **W9 final:** W 160.52–140.72; 3-6, 6th; 3 games behind 4th (Baby Arm 6-3).
+- **W10 QB2 (headline):** FA starters available: **Brissett (29325, BAL, W10 14.59, named starter Mon vs LAC)**, **Penix (40889, ATL, 14.63, bye W11)**, Cam Ward (41786, 13.41, best Yahoo ROS 131.41), Wentz (29236, 11.51, if Kyler sits), Beck (42687, 11.23, first start). All "W (Nov 11)".
+- **Competition:** FFAmuseBouche (priority 1, $90): Shedeur 4.78 + Kyler Q. Most likely QB bidder.
+- **Downs:** NFL deadline 3 PM CT today, ≥4th on table (KC/PIT/WAS). Re-check after 3 PM.
+- **Rice:** Mahomes elbow + Worthy hamstring are day-to-day. Watch the Wed–Fri KC practice reports.
+- **Streams:** Ravens DEF 100033 (9.35) and Cam Little K 41062 (9.10) are FA. Optional only.
+- **RB/WR FA of note:** Gainwell (33538) L4W 34.80; DeMario Douglas (40222) L4W 47.70; Germie Bernard (42669) W10 8.57; Rico Dowdle (33100) 8.48.
+- **Harvey:** eligible ~W13 per reports (unverified).

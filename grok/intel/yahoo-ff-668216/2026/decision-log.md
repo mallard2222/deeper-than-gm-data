@@ -1,5 +1,13 @@
 # Decision log — 2026
 
+## `intel-yahoo-ff-668216-2026-W10-2026-11-10-001`
+
+- **Date:** 2026-11-10 (CT), Tuesday weekly intelligence refresh (read-only; Yahoo 8:01–8:07 AM CT). **No Yahoo transactions.**
+- **Package:** [W10-2026-11-10](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/) · [RECOMMENDATION.md](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/RECOMMENDATION.md) · [learning-loop.md](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/learning-loop.md)
+- **State facts:** W9 **W 160.52–140.72**; 3-6 (6th); FAAB $64; priority 3; BN 9/9, IR 1/1; W10 vs Wet Serapas Yahoo 122.92 (QB2 bye = 0) vs 130.65.
+- **Recommendations (docs only):** claim Brissett $5–9 (max ~$12), drop Freiermuth; fallback claim Penix $2–4 (same drop); Wed-AM FA floor Ward/Beck/Wentz; start the added QB over Caleb Williams (bye); optional LaPorta over Warren; Ravens DEF optional (second drop); Downs hold through 3 PM CT NFL deadline. No-move option = QB2 at 0 (not recommended).
+- **Boundary:** Does not authorize adds/drops/claims/lineup/IR. Earlier records unchanged.
+
 ## `outcome-yahoo-ff-668216-2026-W09-2026-11-04-001`
 
 - **Date:** 2026-11-04 (CT), Wednesday waiver reconciliation (read-only, Yahoo checks 8:01–8:04 AM CT). **No Yahoo transactions by this run.**
