@@ -125,3 +125,7 @@
 7. **Brissett's Yahoo ROS (26.81)** looks stale relative to his confirmed starter role.
 8. Keepers / traded picks: still unknown.
 - **Resolved:** W9 final (W 160.52–140.72); Deeper Than QB slot count confirmed 2 (settings); best W10 FA QBs identified; cookie-jar curl working 2026-11-10 8:01 AM CT.
+
+## 2026-11-10 (daily)
+- Closed: Downs destination (KC, official); NFL deadline passed (JT stays IND); Stevenson W10 (out).
+- Open: claim results Wed AM (Brissett $8 vs FFAmuseBouche); Mahomes/Worthy Wed practice; Downs' KC snap role; Mendoza start confirmation + actual FA status; Kubiak confirmation; Love vs MIN with Cousins.

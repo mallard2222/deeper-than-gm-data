@@ -171,3 +171,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Streams:** Ravens DEF 100033 (9.35) and Cam Little K 41062 (9.10) are FA. Optional only.
 - **RB/WR FA of note:** Gainwell (33538) L4W 34.80; DeMario Douglas (40222) L4W 47.70; Germie Bernard (42669) W10 8.57; Rico Dowdle (33100) 8.48.
 - **Harvey:** eligible ~W13 per reports (unverified).
+
+## 2026-11-10 (daily 5 PM CT, Yahoo 5:04–5:10 PM CT)
+- **Downs → KC (official):** Vaqueros BN, W10 7.85 @ ATL. Hold/bench W10; watch KC role (slot) and Worthy status.
+- **Pending claims (Yahoo):** #1 Brissett $8, #2 Penix $3, both drop Freiermuth; Wed Nov 11 processing.
+- **FFAmuseBouche QB need confirmed:** Kyler grade-2 hamstring, out W10 (Palmer).
+- **Fallback QB2 (Wed AM FA):** Cam Ward → **Fernando Mendoza** (LV, first start vs SEA; unrostered per scan) → Carson Beck. Wentz dropped from list (Cousins to MIN).
+- **Opp Wet Serapas:** Stevenson out W10 (D), Barkley bye, Mahomes Q. Yahoo 126.06 vs 124.83 with our QB2 at 0.
+- **Warren:** Colts traded Allen + Downs → Warren top IND target (inference).
+- **FA RB of note:** Kaleb Johnson (GB, Jacobs fractured finger/extended), Corey Kiner (NE W10 lead; NE bye W11). Both need a drop.

@@ -1,0 +1,15 @@
+{"run":"deeper-than-daily-intelligence-report","league":"yahoo-ff-668216","team_id":8,"run_started_ct":"2026-11-10T17:03-06:00","collection_status":"success_partial_depth","yahoo_access":{"cookie_jar_curl":"ok_http_200","retrieved_ct":"2026-11-10T17:06-06:00"},"previous_successful_daily_ct":"2026-11-09T17:15-06:00","previous_successful_daily_commit":"5f2f8a16112508332ae2fccdf796602b3ce4dc81","yahoo_transactions_made":false,
+"w10":{"opponent":"Wet Serapas","vaqueros_proj":126.06,"opp_proj":124.83,"note":"Vaqueros QB2 slot = Caleb Williams BYE (0)","pending_claims":[{"order":1,"add":"Jacoby Brissett","bid":8,"drop":"Pat Freiermuth"},{"order":2,"add":"Michael Penix Jr.","bid":3,"drop":"Pat Freiermuth"}]},
+"changes":[
+{"id":"2026-11-10-downs-to-kc","type":"fact","confidence":"high","players":["Josh Downs"],"owner":"Vaqueros","source":"https://www.colts.com/news/colts-acquire-2027-fourth-round-fifth-round-pick-from-kansas-city-chiefs-in-exchange-for-wide-receiver-josh-downs-2027-seventh-round-pick","published":"2026-11-10T16:15-05:00?","response":"hold"},
+{"id":"2026-11-10-rice-dilution","type":"inference","confidence":"medium","players":["Rashee Rice"],"owner":"Vaqueros","response":"monitor","deadline":"2026-11-11 KC injury report"},
+{"id":"2026-11-10-pending-claims","type":"fact","confidence":"high","source":"yahoo team 8","response":"none_optional_bid_raise","deadline":"2026-11-11 waiver processing"},
+{"id":"2026-11-10-kyler-out-w10","type":"report","confidence":"medium-high","owner":"FFAmuseBouche","source":"https://clutchpoints.com/nfl/minnesota-vikings/vikings-news-whats-up-with-kyler-murray-after-kirk-cousins-trade","response":"prepare"},
+{"id":"2026-11-10-mendoza-start","type":"report","confidence":"medium-high","owner":"FA (roster-scan)","source":"https://www.fantasypros.com/nfl/news/619068/fernando-mendoza-to-start-week-10-against-seattle.php","response":"prepare"},
+{"id":"2026-11-10-stevenson-out","type":"report","confidence":"high","owner":"Wet Serapas","source":"https://www.cbssports.com/fantasy/football/news/patriots-rhamondre-stevenson-likely-to-miss-multiple-weeks/","response":"none"},
+{"id":"2026-11-10-warren-role","type":"inference","confidence":"medium","owner":"Vaqueros","source":"https://www.nbcsports.com/fantasy/football/news/nfl-week-10-injury-report-pats-backfield-in-flux-plus-gardner-minshew-michael-wilson-puka-nacua-injuries","response":"none"},
+{"id":"2026-11-10-cousins-min","type":"fact","confidence":"high","owner":"Good Strongs","source":"https://www.vikings.com/news/signing-quarterback-kirk-cousins-trade-raiders","response":"none"},
+{"id":"2026-11-10-jacobs-out","type":"fact","confidence":"high","owner":"FFAmuseBouche","response":"monitor"},
+{"id":"2026-11-10-kiner-lead","type":"report","confidence":"medium","owner":"FA (roster-scan)","response":"monitor"}],
+"quarantine":["FA status of Mendoza/Kiner/Kaleb Johnson/Ward/Beck (roster-scan inference only)","Mendoza start pending Kubiak confirmation","Downs KC role (inference)"],
+"gaps":["originals mostly not re-fetched","other teams' pending claims not visible","waiver clock unlabeled"]}
