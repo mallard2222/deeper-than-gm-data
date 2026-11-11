@@ -182,3 +182,10 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **FA RB of note:** Kaleb Johnson (GB, Jacobs fractured finger/extended), Corey Kiner (NE W10 lead; NE bye W11). Both need a drop.
 
 - **2026-11-11 W10 outcome:** Brissett lost to FFAmuseBouche ($21); Mendoza won $30 (Vaqueros BN, drop Mike Washington Jr.); Penix unrostered, claim not acquired. Newly dropped (waivers): Shedeur Sanders, Malik Willis (IR), Michael Wilson (IR), Kendre Miller, Jake Bates, Darren Waller, Mike Washington Jr. FAAB $34. Action needed by user: start QB2 in place of Caleb Williams (BYE) before Sun noon CT.
+
+## 2026-11-11 (daily 5 PM CT, Yahoo 5:01 PM CT)
+- **QB2 resolved:** Mendoza in QB slot (official LV starter); Caleb (BYE) benched.
+- **KC:** Mahomes/Rice/Worthy all FP Wed (official). Downs bench W10.
+- **Woody Marks:** Yahoo Q, knee LP Wed (Texans official); bench.
+- **Opp Wet Serapas:** Yahoo 153.85 vs our 138.37; swapped to Bates K / Rams DEF; Butker now on waivers.
+- **Jacobs:** DNP, IR decision Sat (report) → Kaleb Johnson watch (FA status unverified).

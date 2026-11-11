@@ -129,3 +129,7 @@
 ## 2026-11-10 (daily)
 - Closed: Downs destination (KC, official); NFL deadline passed (JT stays IND); Stevenson W10 (out).
 - Open: claim results Wed AM (Brissett $8 vs FFAmuseBouche); Mahomes/Worthy Wed practice; Downs' KC snap role; Mendoza start confirmation + actual FA status; Kubiak confirmation; Love vs MIN with Cousins.
+
+## 2026-11-11 (daily)
+- Closed: Mendoza start (official) and lineup swap (Yahoo shows him in QB slot); Mahomes Wed practice (FP); Worthy (FP).
+- Open: Marks Thu/Fri practice; Jacobs IR decision (Sat); Downs' KC snap role; Kaleb Johnson/Kiner Yahoo FA status.

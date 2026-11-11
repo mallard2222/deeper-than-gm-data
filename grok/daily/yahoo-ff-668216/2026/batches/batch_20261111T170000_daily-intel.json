@@ -1,0 +1,10 @@
+{"run":"deeper-than-daily-intelligence-report","league":"yahoo-ff-668216","team_id":8,"run_started_ct":"2026-11-11T17:00-06:00","collection_status":"success_partial_depth","yahoo_access":{"cookie_jar_curl":"ok_http_200","retrieved_ct":"2026-11-11T17:01-06:00"},"previous_successful_daily_ct":"2026-11-10T17:20-06:00","previous_successful_daily_commit":"72dc23662c165a044b1a7775921aa9a6c5500e89","yahoo_transactions_made":false,
+"w10":{"opponent":"Wet Serapas","vaqueros_proj":138.37,"opp_proj":153.85,"faab":34,"qb_slots":["Jordan Love","Fernando Mendoza"]},
+"changes":[
+{"id":"2026-11-11-mendoza-in-qb2","type":"fact","confidence":"high","players":["Fernando Mendoza"],"owner":"Vaqueros","source":"yahoo team 8; https://www.raiders.com/news/fernando-mendoza-named-raiders-starting-quarterback","response":"none"},
+{"id":"2026-11-11-kc-wed-fp","type":"fact","confidence":"high","players":["Patrick Mahomes","Rashee Rice","Xavier Worthy","Josh Downs"],"owners":{"Rice":"Vaqueros","Downs":"Vaqueros","Mahomes":"Wet Serapas"},"source":"https://www.chiefs.com/news/week-10-injury-report-chiefs-vs-falcons-2026","published":"2026-11-11T15:21","response":"none"},
+{"id":"2026-11-11-marks-q-lp","type":"fact","confidence":"medium-high","players":["Woody Marks"],"owner":"Vaqueros","source":"https://www.houstontexans.com/news/week-10-injury-report-texans-at-browns","published":"2026-11-11T16:33","response":"monitor","deadline":"Fri game status"},
+{"id":"2026-11-11-opp-proj","type":"fact_projection","confidence":"high","source":"yahoo matchup w10","response":"none"},
+{"id":"2026-11-11-opp-k-def-swap","type":"fact","confidence":"high","players":["Harrison Butker","Jake Bates"],"owner":"Wet Serapas","source":"yahoo transactions 2026-11-11 06:49-06:51","response":"no_action"},
+{"id":"2026-11-11-jacobs-ir-pending","type":"report","confidence":"medium","players":["Josh Jacobs","Kaleb Johnson"],"owner":"FFAmuseBouche (Jacobs)","response":"monitor","deadline":"Sat"}],
+"quarantine":["FA status of Kaleb Johnson/Kiner unverified","non-fetched team injury pages (search synthesis)"]}

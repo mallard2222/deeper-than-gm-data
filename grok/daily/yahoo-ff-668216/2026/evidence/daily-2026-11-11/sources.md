@@ -1,0 +1,14 @@
+# Sources 2026-11-11 (retrieved ~5:01–5:10 PM CT; web-search extracts unless marked Yahoo)
+- Yahoo (cookie-jar curl, HTTP 200, 5:01 PM CT): team 8 page, W10 matchup vs Wet Serapas, league transactions. Raw text in this folder.
+- Chiefs.com official W10 injury report, published Nov 11 3:21 PM (CT presumed): Mahomes (knee/right elbow) FP, Rice (knee) FP, Worthy (hamstring) FP, Kelce FP; Downs not listed. https://www.chiefs.com/news/week-10-injury-report-chiefs-vs-falcons-2026
+- PFT/NBC (Myles Simmons) Nov 11 5:02 PM: Mahomes "I'm in a great spot", pain management. https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-practiced-in-full-on-wednesday-im-in-a-great-spot
+- CBS/RotoWire Nov 11 4:46 PM ET (repeat of official report): https://www.cbssports.com/fantasy/football/news/chiefs-patrick-mahomes-practices-fully-wednesday-647181/
+- Arrowhead Pride Nov 11 3:45 PM CT (repeat): https://www.arrowheadpride.com/kansas-city-chiefs-injuries/216131/chiefs-falcons-week-10-wednesday-injury-report-xavier-worthy-practices
+- HoustonTexans.com official W10 report Nov 11 4:33 PM: Woody Marks (knee) LP; David Montgomery (groin) DNP; Tank Dell LP; Marvin Harrison Jr. (hamstring) LP. https://www.houstontexans.com/news/week-10-injury-report-texans-at-browns
+- NBC player news Nov 11 (Bodiford, source Mary Kay Cabot): Marks should be good to go, 18 car + 4 tgt last week. https://www.nbcsports.com/fantasy/football/player-news/2026-11-11/woody-marks-knee-limited-on-wednesday
+- Raiders.com official Nov 10 3:07 PM: Mendoza named starter (Spytek/Kubiak). https://www.raiders.com/news/fernando-mendoza-named-raiders-starting-quarterback ; NFL.com context (SEA top pass D vs rookies): https://www.nfl.com/news/how-fernando-mendoza-changes-the-raiders-offense-ahead-of-his-first-nfl-start
+- Packers.com official W10 report (Wed): Jacobs (finger) DNP; Love/Golden not listed; Chris Brooks (ankle) LP. https://www.packers.com/team/injury-report/week/reg-10 ; Kaleb Johnson lead-back report (Schneidman via CBS, Nov 10): https://www.cbssports.com/fantasy/football/news/packers-kaleb-johnson-could-lead-backfield-again-week-10/ ; Athlon/Zenitz: Jacobs ≤3 weeks, IR decision pending: https://www.mahoningmatters.com/sports/article318011575.html
+- NFL.com injuries page (Wed/Thu W10): Daniels FP, Nabers FP; Stevenson DNP; Henderson (NE) out illness. https://www.nfl.com/injuries/
+- Sports Injury Central W10 Wed summary: Montgomery DNP, Pickens LP, Deebo LP, Evans DNP, Willis IR (MIA). https://sicscore.com/news/2026-nfl-week-10-injury-report
+- Search-synthesis only (not verified against team pages): SF/BAL/CAR report no McCaffrey/Henry/McMillan entries; Warren not listed on IND report; Gibbs/JSN/McBride/DJ Moore not listed.
+Syndication note: Mahomes FP is one fact (Chiefs official report); CBS/Arrowhead/MARCA/Schefter are repeats.
