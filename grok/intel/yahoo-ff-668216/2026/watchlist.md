@@ -180,3 +180,5 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Opp Wet Serapas:** Stevenson out W10 (D), Barkley bye, Mahomes Q. Yahoo 126.06 vs 124.83 with our QB2 at 0.
 - **Warren:** Colts traded Allen + Downs → Warren top IND target (inference).
 - **FA RB of note:** Kaleb Johnson (GB, Jacobs fractured finger/extended), Corey Kiner (NE W10 lead; NE bye W11). Both need a drop.
+
+- **2026-11-11 W10 outcome:** Brissett lost to FFAmuseBouche ($21); Mendoza won $30 (Vaqueros BN, drop Mike Washington Jr.); Penix unrostered, claim not acquired. Newly dropped (waivers): Shedeur Sanders, Malik Willis (IR), Michael Wilson (IR), Kendre Miller, Jake Bates, Darren Waller, Mike Washington Jr. FAAB $34. Action needed by user: start QB2 in place of Caleb Williams (BYE) before Sun noon CT.

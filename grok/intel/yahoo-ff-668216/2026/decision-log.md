@@ -91,3 +91,7 @@
 - Routine collected Sunday W03 intel; **no Yahoo adds/drops/trades/lineup changes**.
 - Recommendations only (need Andrew): (1) optional Reed IR stash vs keeping slot for Caleb Grade-2 timeline; (2) W04 Downs start over weak WR/flex; (3) Tue DEF stream after Packers −8.00.
 - Matchup context: trailing Wet Serapas live at cutoff; W04 opponent **Deepest**.
+
+## `outcome-yahoo-ff-668216-2026-W10-2026-11-11-001`
+- **Outcome (appended; earlier W10 recommendations unchanged):** Waivers processed Nov 11, 3:53 am. **Brissett $8: FAILED** (FFAmuseBouche won at $21). **Penix $3: not acquired** (no transaction; outcome detail not shown). **Mendoza $30 (drop Mike Washington Jr.): SUCCESS**, a claim not in the Tue recommendation and with unknown submitter. FAAB **$64 → $34**. Freiermuth kept.
+- **Open:** Caleb Williams (BYE) still in QB slot; Mendoza on BN, start unconfirmed. Records: [reconciliation](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/reconciliation.md).

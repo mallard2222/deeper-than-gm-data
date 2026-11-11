@@ -1,0 +1,55 @@
+{
+ "record_type": "yahoo_waiver_reconciliation",
+ "record_id": "reconciliation-yahoo-ff-668216-2026-W10-2026-11-11-001",
+ "record_status": "reconciled",
+ "week": 10,
+ "checked_ct": "2026-11-11T07:57-08:02-06:00",
+ "processing_status": "processed",
+ "processing_display": "Nov 11, 3:53 am",
+ "execution_record": null,
+ "claims": [
+  {
+   "add": "Jacoby Brissett",
+   "submitted_bid": 8,
+   "recommended": [
+    5,
+    9
+   ],
+   "status": "failed",
+   "winner": "FFAmuseBouche",
+   "winning_price": 21
+  },
+  {
+   "add": "Michael Penix Jr.",
+   "submitted_bid": 3,
+   "recommended": [
+    2,
+    4
+   ],
+   "status": "not_acquired_outcome_detail_unknown"
+  },
+  {
+   "add": "Fernando Mendoza",
+   "drop": "Mike Washington Jr.",
+   "submitted_bid": 30,
+   "recommended": null,
+   "status": "success",
+   "spend": 30,
+   "submitter": "unknown"
+  }
+ ],
+ "faab": {
+  "Vaqueros": {
+   "before": 64,
+   "after": 34
+  },
+  "DUGASM": 56,
+  "Big Balls": 4,
+  "Wet Serapas": 67,
+  "Baby Arm": 65,
+  "Good Strongs": 22,
+  "Deepest": 92,
+  "FFAmuseBouche": 69
+ },
+ "yahoo_actions_taken": "none"
+}

@@ -31,3 +31,17 @@ All W9 changes match the winning prices (no unexplained FAAB movement).
 | 2026-11-10 | Tue W10 desk snapshot (no Vaqueros spend since Nov 4) | $0 | **$64** | [W10 standings.csv](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/standings.csv) |
 
 League FAAB at 2026-11-10 8:0x AM CT (league home): DUGASM $71, Big Balls $12, Wet Serapas $67, Baby Arm $65, Good Strongs $29, Vaqueros $64, Deepest $92, FFAmuseBouche $90. These are unchanged from Nov 4; the one waiver claim since then was Penix $0 (FFAmuseBouche, Nov 6).
+
+## W10 (Wed 2026-11-11 reconciliation, 8:00 AM CT)
+| Team | Before | After | W10 spend |
+|---|---:|---:|---|
+| DUGASM | $71 | $56 | Flournoy $15 |
+| Big Balls | $12 | $4 | GB DEF $3, Dowdle $5 |
+| Wet Serapas | $67 | $67 | — |
+| Baby Arm | $65 | $65 | — |
+| Good Strongs | $29 | $22 | Tank Dell $7 |
+| Deepest | $92 | $92 | — |
+| Vaqueros | $64 | **$34** | Mendoza $30 (drop Mike Washington Jr.) |
+| FFAmuseBouche | $90 | $69 | Brissett $21 |
+
+All changes match visible winning prices. Details: [W10 reconciliation](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/reconciliation.md).
