@@ -133,3 +133,7 @@
 ## 2026-11-11 (daily)
 - Closed: Mendoza start (official) and lineup swap (Yahoo shows him in QB slot); Mahomes Wed practice (FP); Worthy (FP).
 - Open: Marks Thu/Fri practice; Jacobs IR decision (Sat); Downs' KC snap role; Kaleb Johnson/Kiner Yahoo FA status.
+
+## 2026-11-12 (daily)
+- Closed: Mahomes/Rice/Worthy Thu (FP); Love/Golden health (unlisted).
+- Open: Marks/Montgomery Fri status; CMC Thu/Fri participation; Jacobs IR (Sat); TNF inactives/Skattebo; Kaleb Johnson Yahoo FA status.

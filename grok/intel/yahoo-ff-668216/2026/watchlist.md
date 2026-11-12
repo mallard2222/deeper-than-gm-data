@@ -189,3 +189,10 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Woody Marks:** Yahoo Q, knee LP Wed (Texans official); bench.
 - **Opp Wet Serapas:** Yahoo 153.85 vs our 138.37; swapped to Bates K / Rams DEF; Butker now on waivers.
 - **Jacobs:** DNP, IR decision Sat (report) → Kaleb Johnson watch (FA status unverified).
+
+## 2026-11-12 (daily 5 PM CT, Yahoo 4:55 PM CT)
+- **Woody Marks:** DNP Thu (knee; left Wed practice per Wilson); Montgomery back limited. Bench; ROS role risk.
+- **KC:** Mahomes/Rice/Worthy FP Thu (official). **GB:** Love/Golden unlisted; Jacobs surgery Fri, IR decision Sat.
+- **TNF WAS@NYG:** our Commanders DEF; rain ~75%, gusty. Opp Daniels/White/Nabers play tonight.
+- **Opp proj:** 152.81 vs our 138.41 (Yahoo 39%).
+- **Waivers:** Kyler Murray dropped by FFAmuseBouche (MIN, Yahoo D) — no interest.
