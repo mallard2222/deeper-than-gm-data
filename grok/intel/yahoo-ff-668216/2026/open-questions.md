@@ -137,3 +137,7 @@
 ## 2026-11-12 (daily)
 - Closed: Mahomes/Rice/Worthy Thu (FP); Love/Golden health (unlisted).
 - Open: Marks/Montgomery Fri status; CMC Thu/Fri participation; Jacobs IR (Sat); TNF inactives/Skattebo; Kaleb Johnson Yahoo FA status.
+
+## 2026-11-13 (daily)
+- Closed: Marks Fri (FP, no designation); CMC Fri (FP rest, no designation); Jacobs W10 (OUT; IR not announced, "hope is no IR"); Downs plays W10; TNF result (DEF 5.00).
+- Open: Montgomery Sunday inactive status; Henry Fri/Sat report; Downs KC snap share; Kaleb Johnson/Lloyd Yahoo FA status.

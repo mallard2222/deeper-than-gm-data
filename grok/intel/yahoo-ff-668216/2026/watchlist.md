@@ -196,3 +196,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **TNF WAS@NYG:** our Commanders DEF; rain ~75%, gusty. Opp Daniels/White/Nabers play tonight.
 - **Opp proj:** 152.81 vs our 138.41 (Yahoo 39%).
 - **Waivers:** Kyler Murray dropped by FFAmuseBouche (MIN, Yahoo D) — no interest.
+
+## 2026-11-13 (daily 5 PM CT, Yahoo ~4:58 PM CT)
+- **TNF:** Commanders DEF 5.00; opp banked 31.36. Yahoo live proj 137.96 vs 143.24 (46%).
+- **All Vaqueros starters undesignated** on final reports; Henry Fri unverified (all Ravens practiced Thu).
+- **Woody Marks:** cleared (FP Fri); Montgomery Q → Marks flex only if Monty inactive.
+- **Josh Downs:** plays KC debut (bench).
+- **Opp:** Mahomes/Gibbs/JSN clear; SEA Darnold OUT (Lock).
+- **Jacobs:** OUT W10, no IR yet; GB bye W11 → Kaleb Johnson/Lloyd short-term (FA status unverified).
+- **Waivers:** Cam Ward taken by Baby Arm; Waller by Good Strongs.
