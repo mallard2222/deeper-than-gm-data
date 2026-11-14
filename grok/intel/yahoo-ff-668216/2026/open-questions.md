@@ -145,3 +145,18 @@
 ## 2026-11-14 (daily)
 - Closed: Henry W10 status (not listed Sat); Montgomery W10 (OUT); Kaleb Johnson Yahoo status (FA).
 - Open: Marks-for-Rice swap decision (Andrew, Sun 12:00 PM CT); Sunday inactives; Downs KC role; Worthy FA timing in Deeper Than; Kaleb Johnson vs Chris Brooks split.
+
+## Added 2026-11-14 (gap-closure pass)
+- **Resolved:** who submitted the W9 claim / Harvey IR / lineup reset → FF GM via computerUse ~8:07–8:11 AM CT Nov 3 after Andrew's card approval ([W09 addendum](../../../transactions/yahoo-ff-668216/2026/corrections/2026-11-14-W09-execution-addendum.md)).
+- **Resolved:** Penix $3 "not acquired" → verified cancelled before processing on Andrew's instruction; Brissett final bid was $12, not $8 ([W10 addendum](../../../transactions/yahoo-ff-668216/2026/corrections/2026-11-14-W10-reconcile-addendum.md)).
+- **Resolved:** Mendoza $30 submitter → FF GM on Andrew's explicit instruction (not a desk recommendation).
+- **Resolved:** Caleb (bye) in QB slot → Mendoza in QB; verified live Nov 14 ~5:10 PM CT.
+- **Open — unrecoverable:** exact text of Andrew's W9 choice-card answer (Nov 3, 08:05:55–08:07:02 CT). Stays `unknown`.
+- **Open (high):** Deeper Than keeper rules, keeper costs, traded-pick obligations — not on Yahoo settings; Andrew says keeper rules make Mendoza valuable. All keeper valuations provisional.
+- **Open (decision, Andrew):** merge the two Brads (`brad95652`, `brad58794`)? Kept separate until evidence or Andrew says otherwise.
+- **Open (decision, Andrew):** stale `GH_TOKEN` secret still injected and rejected; git/gh run with it unset.
+- **Open (decision, Andrew):** scrub older evidence files (pre-policy captures) — not done; no deletions without approval.
+- **Open (low confidence):** Xavier Worthy shows FA on Yahoo (players list and player search, Nov 14 ~5:10–5:14 PM CT, "Add Player" offered) but his drop is not in the latest 25 transactions; when/who dropped him is unknown.
+- **Open:** Downs' KC role (first KC game W10) and effect on Rice — see [usage analysis](./usage/analysis-W10.md).
+- **Open:** pregame runs Oct 5–Nov 13 left no records → collection incomplete for that span (not "no changes"). Sun 8:30 AM CT and other pre-10:54 AM kickoffs are not covered by the routine schedule.
+- **Open:** routes run unavailable in public data (usage table `routes` = null).

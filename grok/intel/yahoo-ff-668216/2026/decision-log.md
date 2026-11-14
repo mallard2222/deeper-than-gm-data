@@ -95,3 +95,9 @@
 ## `outcome-yahoo-ff-668216-2026-W10-2026-11-11-001`
 - **Outcome (appended; earlier W10 recommendations unchanged):** Waivers processed Nov 11, 3:53 am. **Brissett $8: FAILED** (FFAmuseBouche won at $21). **Penix $3: not acquired** (no transaction; outcome detail not shown). **Mendoza $30 (drop Mike Washington Jr.): SUCCESS**, a claim not in the Tue recommendation and with unknown submitter. FAAB **$64 → $34**. Freiermuth kept.
 - **Open:** Caleb Williams (BYE) still in QB slot; Mendoza on BN, start unconfirmed. Records: [reconciliation](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/reconciliation.md).
+
+## 2026-11-14 — execution-record backfill and corrections (no Yahoo changes)
+- Created the [transaction ledger](../../../transactions/yahoo-ff-668216/2026/ledger-2026.csv) and [PROTOCOL](../../../transactions/yahoo-ff-668216/PROTOCOL.md): recommendation / submission / outcome stages kept separate; approval text verbatim or `unknown`.
+- Backfilled W09 (Washington $15; approval received, text unknown) and W10 (Brissett $8→$12 lost; Penix $3 cancelled; Mendoza $30 won, Andrew-directed; Mendoza QB swap under standing rule).
+- `outcome-yahoo-ff-668216-2026-W10-2026-11-11-001` above is corrected by [W10 reconcile addendum](../../../transactions/yahoo-ff-668216/2026/corrections/2026-11-14-W10-reconcile-addendum.md): Brissett final $12 (not $8); Penix cancelled before processing (verified); Mendoza submitter = FF GM on Andrew's instruction. Original entry left unchanged.
+- Pending recommendation (Andrew decides by Sun Nov 15 12:00 PM CT): optional Marks→W/R, McMillan→W/T, Rice→BN. Not authorized.

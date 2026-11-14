@@ -10,3 +10,6 @@ These are the four active intelligence routines for `yahoo-ff-668216`. Cron expr
 | Weekly matchup/reconciliation review | `deeper-than-weekly-review` | `0 18 * * 1` | Reconcile prior-week results, injuries, roster state, and open questions; identify next checks | This Grok Bot chat to Andrew |
 
 Routine outputs should carry a `run-metadata.schema.json` record. A routine may report that an approved action is pending, but only Andrew can authorize any Yahoo transaction and any such action must be separately recorded.
+
+## Addendum 2026-11-14 — current routines
+The table above reflects the original routine set and is kept for history. Current routines and pregame coverage: [pregame-routine-status-2026-11-14.md](./pregame-routine-status-2026-11-14.md) (pregame hourly Sun/Mon/Thu 10:54 AM–8:54 PM CT; daily 4:54 PM; Tue desk 7:54 AM; Wed reconcile 7:54 AM; delivery via FF GM to Andrew's Grok Bot chat).
