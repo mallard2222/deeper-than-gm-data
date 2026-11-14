@@ -205,3 +205,13 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Opp:** Mahomes/Gibbs/JSN clear; SEA Darnold OUT (Lock).
 - **Jacobs:** OUT W10, no IR yet; GB bye W11 → Kaleb Johnson/Lloyd short-term (FA status unverified).
 - **Waivers:** Cam Ward taken by Baby Arm; Waller by Good Strongs.
+
+## 2026-11-14 (daily 5 PM CT, Yahoo ~5:05 PM CT)
+- **All Vaqueros starters undesignated** (Sat final reports; Henry not on Ravens Sat report).
+- **Montgomery OUT (Sat)** → Marks HOU RB1 @ CLE (12.33 proj). Optional swap: McMillan→W/T, Marks→W/R, Rice→BN (+0.75 Yahoo) — Andrew's call before Sun 12:00 PM CT.
+- **KC:** K. Walker OUT → Emmett Johnson (Good Strongs) starts; Rice/Downs target share TBD.
+- **HOU:** Harrison Jr. OUT → slight Collins bump (inference).
+- **Freiermuth (BN):** Q illness, SNF.
+- **Opp:** starters clear; BN Montgomery O, McConkey Q, Stevenson Q. Yahoo live 137.66 vs 143.89 (45%).
+- **FA:** Kaleb Johnson (GB) available; Xavier Worthy shown available (timing unverified). FAAB $34.
+- **Waivers/tx:** Shakir → FFAmuseBouche (−Hunter Henry); Kiner → Baby Arm (−Cam Ward).

@@ -1,0 +1,11 @@
+# Sources — daily 2026-11-14 (retrieved ~5:05–5:15 PM CT)
+Yahoo (cookie-jar curl, HTTP 200, ~5:05 PM CT): team 8, W10 matchup, transactions, league home → txt in this folder. Available players (status=A, RB/WR/TE/QB) ~5:10 PM CT → yahoo-fa-extract.txt.
+Official/original:
+- Montgomery OUT (Texans PR, Nov 14; did not travel): https://www.si.com/nfl/texans/onsi/texans-facing-rb-shortage-vs-browns-with-david-montgomery-out ; ESPN (also Harrison Jr., Hunter, Al-Shaair OUT): https://www.espn.com/nfl/story/_/id/50481864/rb-montgomery-de-hunter-texans-ruled-vs-browns ; CBS (Ogunbowale elevated Sat): https://www.cbssports.com/fantasy/football/news/texans-woody-marks-will-once-again-serve-as-rb1/
+- Ravens Saturday report (Henry not listed; Hawkins OUT, Randall Q) Nov 14 2:39 PM ET: https://www.baltimoreravens.com/news/injury-report-ravens-chargers-jaylinn-hawkins-2026 ; table: https://www.baltimoreravens.com/team/injury-report/
+- Chargers (McConkey DNP x3, Q) Nov 14 1:42 PM PT: https://www.chargers.com/news/chargers-vs-ravens-injury-report-ladd-mcconkey-daiyan-henley-2026
+- Freiermuth Q illness (Steelers tweet Nov 14): https://steelersdepot.com/2026/11/steelers-add-pat-freiermuth-to-injury-report-ahead-of-week-10/ ; PFT 1:18 PM ET: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-say-pat-freiermuth-is-questionable-for-sunday-night-vs-bengals-with-an-illness
+- Saturday roundup (Walker OUT/Emmett Johnson; GB Brooks/Moore activated; NE Henderson IR, Stevenson Q, Callahan expects him to play; Mendoza starts): https://www.footballguys.com/article/saturday-night-injury-watch-week-10-skill-players ; ESPN inactives preview: https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active
+Weather: https://dknetwork.draftkings.com/2026/11/13/nfl-week-10-weather-forecast/ ; https://keelstats.com/nfl/weather (NWS, as of Sat 4:20 PM) ; https://www.scoresandstats.com/blog/nfl-weather-report/ (Sat 9:11 AM ET) ; https://mysportsweather.com/nfl/2026-11-15/min-gb
+Syndication deduped: NBC/CBS/SI/ESPN repeat Texans PR; RavensWire repeats Ravens.com; NBC/BTSC repeat Steelers tweet.
+Quarantined: Worthy FA timing; Downs role; Kaleb Johnson vs Chris Brooks split.

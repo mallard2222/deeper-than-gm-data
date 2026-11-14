@@ -141,3 +141,7 @@
 ## 2026-11-13 (daily)
 - Closed: Marks Fri (FP, no designation); CMC Fri (FP rest, no designation); Jacobs W10 (OUT; IR not announced, "hope is no IR"); Downs plays W10; TNF result (DEF 5.00).
 - Open: Montgomery Sunday inactive status; Henry Fri/Sat report; Downs KC snap share; Kaleb Johnson/Lloyd Yahoo FA status.
+
+## 2026-11-14 (daily)
+- Closed: Henry W10 status (not listed Sat); Montgomery W10 (OUT); Kaleb Johnson Yahoo status (FA).
+- Open: Marks-for-Rice swap decision (Andrew, Sun 12:00 PM CT); Sunday inactives; Downs KC role; Worthy FA timing in Deeper Than; Kaleb Johnson vs Chris Brooks split.
