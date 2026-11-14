@@ -14,6 +14,11 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 - [Runs](./2026/runs/) — collection/analysis run manifests.
 
+## W10 decision memo (2026-11-14 ~5:40 PM CT)
+
+- [decision-memo-W10-2026-11-14.md](./2026/usage/decision-memo-W10-2026-11-14.md) — recommendation only: approve Marks→W/R / McMillan→W/T / Rice→BN (low–moderate); hold on Worthy/Freiermuth (moderate). Deadline Sun Nov 15 12:00 PM CT.
+- [fresh check sources + Yahoo extracts](./2026/evidence/2026-11-14-w10-decision-checks/sources.md) · usage table v1.1 ([README](./2026/usage/README.md), [sources manifest](./2026/usage/usage-2026-W01-W09-sources.json))
+
 ## Gap-closure pass (2026-11-14 CT)
 
 - **Transactions:** [ledger-2026.csv](../../transactions/yahoo-ff-668216/2026/ledger-2026.csv) · [README](../../transactions/yahoo-ff-668216/2026/README.md) · [PROTOCOL](../../transactions/yahoo-ff-668216/PROTOCOL.md) · corrections: [W10 reconcile addendum](../../transactions/yahoo-ff-668216/2026/corrections/2026-11-14-W10-reconcile-addendum.md), [W09 execution addendum](../../transactions/yahoo-ff-668216/2026/corrections/2026-11-14-W09-execution-addendum.md) · [evidence extracts](../../transactions/yahoo-ff-668216/2026/evidence/)
