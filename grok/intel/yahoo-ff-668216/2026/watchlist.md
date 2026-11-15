@@ -215,3 +215,11 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Opp:** starters clear; BN Montgomery O, McConkey Q, Stevenson Q. Yahoo live 137.66 vs 143.89 (45%).
 - **FA:** Kaleb Johnson (GB) available; Xavier Worthy shown available (timing unverified). FAAB $34.
 - **Waivers/tx:** Shakir → FFAmuseBouche (−Hunter Henry); Kiner → Baby Arm (−Cam Ward).
+
+## 2026-11-15 (daily 5 PM CT — PARTIAL: Yahoo 302 login, public sources OK)
+- **Woody Marks:** concussion, ruled out Q3 at CLE (ESPN). **W11 TNF Thu 11/19 short week** → WATCH Texans Wed/Thu reports; don't plan him in W/R unless cleared.
+- **W11 byes:** Love, Golden (GB), Judkins (CLE). PREPARE QB2 (Caleb Williams/Nix), WR, flex fill. First lock Thu 7:15 PM CT (Collins/Marks/Warren-IND).
+- **KC:** Downs 4-53-1 debut; Rice 6 tgts 5-82; Worthy 0/3. Worthy is the weakest KC piece → WATCH as drop candidate (Andrew approval required).
+- **W10:** very likely loss (public-stat estimate ≈92+live vs ≈155+live). Swap cost ≈3.7 (Rice > Marks).
+- **PENDING — Yahoo re-auth:** needed by Tue 11/17 PM for FA/waiver/proj checks.
+- **League:** Maye (ankle), A.J. Brown (hamstring), Geno Smith (ankle) ruled out; KC TE Wiley fractured ankle. Ownership unknown (Yahoo down).

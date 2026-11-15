@@ -1,0 +1,159 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-15T17:00-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built",
+   "/workspace/jar.txt"
+  ],
+  "retrieved_ct": "2026-11-15T17:00:54-06:00",
+  "login_attempted": false
+ },
+ "public_sources": "ok",
+ "previous_successful_daily_ct": "2026-11-14T17:04-06:00",
+ "previous_successful_daily_commit": "6bbc6a9",
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14 Worthy add)"
+ },
+ "w10_estimate_public_stats": {
+  "method": "ESPN API box scores x league settings; partial; not Yahoo",
+  "as_of_ct": "2026-11-15T17:15-06:00",
+  "vaqueros_approx": 92,
+  "opp_approx_final_plus": 155,
+  "assessment": "loss very likely",
+  "type": "inference"
+ },
+ "changes": [
+  {
+   "id": "2026-11-15-marks-concussion",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Woody Marks"
+   ],
+   "owner": "Vaqueros (W/R starter)",
+   "source": "https://www.espn.com/nfl/story/_/id/50493317/texans-lose-rb-woody-marks-concussion-browns",
+   "published": "2026-11-15T14:50-06:00",
+   "response": "prepare",
+   "deadline": "2026-11-19T19:15-06:00",
+   "detail": "ruled out Q3; HOU W11 TNF vs IND short week (availability inference: at risk)"
+  },
+  {
+   "id": "2026-11-15-swap-cost",
+   "type": "inference",
+   "confidence": "moderate",
+   "players": [
+    "Rashee Rice",
+    "Woody Marks"
+   ],
+   "detail": "Rice ~10.7 BN vs Marks ~7.0 W/R",
+   "response": "none"
+  },
+  {
+   "id": "2026-11-15-starters-active",
+   "type": "fact",
+   "confidence": "high",
+   "source": "https://www.fantasypros.com/nfl/players/inactives",
+   "response": "none"
+  },
+  {
+   "id": "2026-11-15-collins",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Nico Collins"
+   ],
+   "detail": "9-94-1, 16 tgts",
+   "source": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-very-busy-in-week-10-loss/",
+   "response": "start W11 (prepare)",
+   "deadline": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-15-warren",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Tyler Warren"
+   ],
+   "detail": "2-1 on 3 tgts; near every snap",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-15/tyler-warren-silent-in-week-10-win-over-dolphins",
+   "response": "monitor"
+  },
+  {
+   "id": "2026-11-15-kc-roles",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Emmett Johnson"
+   ],
+   "owner": "Vaqueros; Good Strongs (E. Johnson)",
+   "detail": "Rice 6t 5-82; Downs 5t 4-53-1; Worthy 3t 0; EJ 22-101 + 6-70-2; Wiley fractured ankle",
+   "source": "https://static.www.nfl.com/image/upload/v1794777676/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+   "response": "monitor"
+  },
+  {
+   "id": "2026-11-15-w11-byes",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Jordan Love",
+    "Matthew Golden",
+    "Quinshon Judkins"
+   ],
+   "detail": "W11 byes ATL CLE GB LAR NE SEA",
+   "source": "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week",
+   "response": "prepare",
+   "deadline": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-15-mendoza-bowers",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Fernando Mendoza",
+    "Brock Bowers"
+   ],
+   "source": "https://www.nfl.com/news/notable-injuries-news-sunday-week-10-games-2026",
+   "response": "monitor"
+  },
+  {
+   "id": "2026-11-15-league-injuries",
+   "type": "fact",
+   "confidence": "high",
+   "players": [
+    "Drake Maye",
+    "A.J. Brown",
+    "Geno Smith",
+    "Jared Wiley"
+   ],
+   "owner": "unknown (Yahoo unavailable)",
+   "source": "https://www.nfl.com/news/notable-injuries-news-sunday-week-10-games-2026",
+   "response": "monitor",
+   "deadline": "2026-11-17"
+  },
+  {
+   "id": "2026-11-15-yahoo-auth",
+   "type": "fact",
+   "confidence": "high",
+   "detail": "302 to login both jars",
+   "response": "act (Andrew re-sign-in)",
+   "deadline": "2026-11-17T15:00-06:00"
+  }
+ ],
+ "quarantine": [
+  "W10 point estimates (public stats)",
+  "W11 opponent Deepest (rotation inference)",
+  "FA ownership today unknown",
+  "3:58 PM pregame failure no repo evidence"
+ ]
+}

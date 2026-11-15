@@ -12,3 +12,4 @@
 - **2026-11-10 daily (5 PM CT):** **Traded to KC** (Colts.com 4:15 PM; KC sends 2027 4th+5th, gets Downs + 2027 7th). Yahoo shows KC-WR, W10 proj 7.85 @ ATL. Recommendation: hold, bench W10. ROS: likely slot role while Worthy (hamstring) DTD — inference; shares Mahomes elbow risk with Rice. Keeper: contract year → 2027 value depends on re-signing (unknown).
 
 - **2026-11-14 daily (5 PM CT):** KC debut Sun @ ATL (dome). K. Walker OUT (Emmett Johnson starts). Yahoo W10 6.16; Vaqueros BN. No change: hold.
+- **2026-11-15 daily:** KC debut (BN): 5 tgts, 4-53-1 (≈13.3 est.), 3 punt returns, 1 fumble (recovered). Rice 6 tgts; Worthy 3 tgts/0. Viable W11 flex fill for Golden/Marks (inference). Source: KC@ATL gamebook https://static.www.nfl.com/image/upload/v1794777676/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf

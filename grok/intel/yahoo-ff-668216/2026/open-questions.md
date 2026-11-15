@@ -160,3 +160,7 @@
 - **Open:** Downs' KC role (first KC game W10) and effect on Rice — see [usage analysis](./usage/analysis-W10.md).
 - **Open:** pregame runs Oct 5–Nov 13 left no records → collection incomplete for that span (not "no changes"). Sun 8:30 AM CT and other pre-10:54 AM kickoffs are not covered by the routine schedule.
 - **Open:** routes run unavailable in public data (usage table `routes` = null).
+
+## 2026-11-15 (daily — partial, Yahoo 302 login)
+- Closed: Sunday W10 inactives (no Vaqueros starter inactive); Downs' KC debut role (5 tgts, TD; Rice still 6 tgts).
+- Open: Marks W11 availability (concussion protocol, TNF Thu 11/19); Montgomery W11 return; Yahoo W10 final score vs public estimate; W11 opponent (Deepest inferred) roster/projections; W11 FA options (Yahoo needed); FAAB balance re-read; Yahoo re-auth (Andrew); Bowers' ankle severity (affects Mendoza).

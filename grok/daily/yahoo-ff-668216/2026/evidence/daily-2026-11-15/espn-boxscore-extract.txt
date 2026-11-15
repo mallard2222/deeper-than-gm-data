@@ -1,0 +1,60 @@
+# ESPN public API extract (site.api.espn.com scoreboard + summary), retrieved 2026-11-15 17:03 CST
+# Raw stat lines for Vaqueros starters/bench and Wet Serapas starters; no fantasy calc here.
+
+GAME SEA @ LV | 6:39 - 3rd | LV 10 SEA 21 | event 401873062
+GAME LAR @ ARI | 8:48 - 3rd | ARI 6 LAR 24 | event 401873061
+GAME SF @ DAL | Halftime | DAL 16 SF 17 | event 401873063
+GAME NE VS DET | Final | DET 35 NE 10 | event 401873053
+GAME KC @ ATL | Final | ATL 13 KC 35 | event 401873058
+GAME HOU @ CLE | Final | CLE 27 HOU 24 | event 401873056
+GAME MIN @ GB | Final | GB 10 MIN 30 | event 401873060
+GAME JAX @ TEN | Final | TEN 23 JAX 40 | event 401873057
+GAME MIA @ IND | Final | IND 24 MIA 22 | event 401873059
+GAME CAR @ NO | Final | NO 17 CAR 20 | event 401873055
+GAME BUF @ NYJ | Final | NYJ 12 BUF 31 | event 401873054
+GAME PIT @ CIN | 11/15 - 8:20 PM EST | CIN 0 PIT 0 | event 401873064
+
+NE rushing Rhamondre Stevenson {'CAR': '6', 'YDS': '4', 'AVG': '0.7', 'TD': '0', 'LONG': '4'}
+NE receiving Rhamondre Stevenson {'REC': '1', 'YDS': '1', 'AVG': '1.0', 'TD': '0', 'LONG': '1', 'TGTS': '1'}
+DET rushing Jahmyr Gibbs {'CAR': '22', 'YDS': '153', 'AVG': '7.0', 'TD': '2', 'LONG': '28'}
+DET receiving Jahmyr Gibbs {'REC': '7', 'YDS': '99', 'AVG': '14.1', 'TD': '0', 'LONG': '50', 'TGTS': '8'}
+DET receiving Sam LaPorta {'REC': '1', 'YDS': '16', 'AVG': '16.0', 'TD': '0', 'LONG': '16', 'TGTS': '4'}
+DET kicking Jake Bates {'FG': '0/0', 'PCT': '0.0', 'LONG': '0', 'XP': '5/5', 'PTS': '5'}
+BUF rushing DJ Moore {'CAR': '1', 'YDS': '4', 'AVG': '4.0', 'TD': '0', 'LONG': '4'}
+BUF receiving DJ Moore {'REC': '4', 'YDS': '90', 'AVG': '22.5', 'TD': '1', 'LONG': '45', 'TGTS': '6'}
+CAR receiving Tetairoa McMillan {'REC': '3', 'YDS': '35', 'AVG': '11.7', 'TD': '0', 'LONG': '20', 'TGTS': '7'}
+HOU rushing Woody Marks {'CAR': '12', 'YDS': '50', 'AVG': '4.2', 'TD': '0', 'LONG': '11'}
+HOU rushing Emari Demercado {'CAR': '7', 'YDS': '16', 'AVG': '2.3', 'TD': '0', 'LONG': '13'}
+HOU receiving Nico Collins {'REC': '9', 'YDS': '94', 'AVG': '10.4', 'TD': '1', 'LONG': '22', 'TGTS': '16'}
+HOU receiving Woody Marks {'REC': '1', 'YDS': '15', 'AVG': '15.0', 'TD': '0', 'LONG': '15', 'TGTS': '1'}
+HOU receiving Emari Demercado {'REC': '1', 'YDS': '-1', 'AVG': '-1.0', 'TD': '0', 'LONG': '-1', 'TGTS': '2'}
+CLE rushing Quinshon Judkins {'CAR': '10', 'YDS': '38', 'AVG': '3.8', 'TD': '1', 'LONG': '8'}
+CLE receiving Quinshon Judkins {'REC': '3', 'YDS': '33', 'AVG': '11.0', 'TD': '0', 'LONG': '21', 'TGTS': '5'}
+JAX receiving Parker Washington {'REC': '7', 'YDS': '152', 'AVG': '21.7', 'TD': '1', 'LONG': '50', 'TGTS': '9'}
+JAX puntReturns Parker Washington {'NO': '1', 'YDS': '10', 'AVG': '10.0', 'LONG': '10', 'TD': '0'}
+TEN receiving Wan'Dale Robinson {'REC': '3', 'YDS': '10', 'AVG': '3.3', 'TD': '0', 'LONG': '6', 'TGTS': '4'}
+KC passing Patrick Mahomes {'C/ATT': '22/35', 'YDS': '348', 'AVG': '9.9', 'TD': '5', 'INT': '0', 'SACKS': '1-9', 'QBR': '80.7', 'RTG': '135.5'}
+KC rushing Emmett Johnson {'CAR': '22', 'YDS': '101', 'AVG': '4.6', 'TD': '0', 'LONG': '18'}
+KC rushing Patrick Mahomes {'CAR': '2', 'YDS': '15', 'AVG': '7.5', 'TD': '0', 'LONG': '9'}
+KC receiving Rashee Rice {'REC': '5', 'YDS': '82', 'AVG': '16.4', 'TD': '0', 'LONG': '50', 'TGTS': '6'}
+KC receiving Emmett Johnson {'REC': '6', 'YDS': '70', 'AVG': '11.7', 'TD': '2', 'LONG': '34', 'TGTS': '7'}
+KC receiving Josh Downs {'REC': '4', 'YDS': '53', 'AVG': '13.3', 'TD': '1', 'LONG': '21', 'TGTS': '5'}
+KC receiving Xavier Worthy {'REC': '0', 'YDS': '0', 'AVG': '0.0', 'TD': '0', 'LONG': '0', 'TGTS': '3'}
+KC fumbles Josh Downs {'FUM': '1', 'LOST': '0', 'REC': '1'}
+KC fumbles Emmett Johnson {'FUM': '1', 'LOST': '0', 'REC': '0'}
+KC puntReturns Josh Downs {'NO': '3', 'YDS': '10', 'AVG': '3.3', 'LONG': '11', 'TD': '0'}
+IND rushing Tyler Warren {'CAR': '1', 'YDS': '3', 'AVG': '3.0', 'TD': '0', 'LONG': '3'}
+IND receiving Tyler Warren {'REC': '2', 'YDS': '1', 'AVG': '0.5', 'TD': '0', 'LONG': '2', 'TGTS': '3'}
+GB passing Jordan Love {'C/ATT': '17/27', 'YDS': '220', 'AVG': '8.1', 'TD': '1', 'INT': '1', 'SACKS': '8-59', 'QBR': '46.6', 'RTG': '85.4'}
+GB rushing Kaleb Johnson {'CAR': '10', 'YDS': '42', 'AVG': '4.2', 'TD': '0', 'LONG': '9'}
+GB rushing Jordan Love {'CAR': '1', 'YDS': '0', 'AVG': '0.0', 'TD': '0', 'LONG': '0'}
+GB receiving Matthew Golden {'REC': '5', 'YDS': '70', 'AVG': '14.0', 'TD': '0', 'LONG': '20', 'TGTS': '9'}
+GB puntReturns Matthew Golden {'NO': '1', 'YDS': '13', 'AVG': '13.0', 'LONG': '13', 'TD': '0'}
+ARI receiving Trey McBride {'REC': '3', 'YDS': '26', 'AVG': '8.7', 'TD': '0', 'LONG': '13', 'TGTS': '3'}
+SEA receiving Jaxon Smith-Njigba {'REC': '4', 'YDS': '135', 'AVG': '33.8', 'TD': '1', 'LONG': '71', 'TGTS': '6'}
+LV passing Fernando Mendoza {'C/ATT': '12/16', 'YDS': '89', 'AVG': '5.6', 'TD': '0', 'INT': '0', 'SACKS': '2-16', 'RTG': '87.8'}
+LV rushing Fernando Mendoza {'CAR': '6', 'YDS': '22', 'AVG': '3.7', 'TD': '1', 'LONG': '10'}
+LV defensive Matt Gay {'TOT': '1', 'SOLO': '0', 'SACKS': '0', 'TFL': '0', 'PD': '0', 'QB HTS': '0', 'TD': '0'}
+LV kicking Matt Gay {'FG': '1/1', 'PCT': '100.0', 'LONG': '34', 'XP': '1/1', 'PTS': '4'}
+SF rushing Christian McCaffrey {'CAR': '8', 'YDS': '21', 'AVG': '2.6', 'TD': '0', 'LONG': '9'}
+SF receiving Christian McCaffrey {'REC': '2', 'YDS': '81', 'AVG': '40.5', 'TD': '1', 'LONG': '74', 'TGTS': '2'}
