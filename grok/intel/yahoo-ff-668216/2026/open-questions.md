@@ -164,3 +164,7 @@
 ## 2026-11-15 (daily — partial, Yahoo 302 login)
 - Closed: Sunday W10 inactives (no Vaqueros starter inactive); Downs' KC debut role (5 tgts, TD; Rice still 6 tgts).
 - Open: Marks W11 availability (concussion protocol, TNF Thu 11/19); Montgomery W11 return; Yahoo W10 final score vs public estimate; W11 opponent (Deepest inferred) roster/projections; W11 FA options (Yahoo needed); FAAB balance re-read; Yahoo re-auth (Andrew); Bowers' ankle severity (affects Mendoza).
+
+## 2026-11-16 (daily — partial, Yahoo 302 login)
+- Closed: Sunday W10 finals for CMC/Mendoza (public stats); Bowers severity (day-to-day, not major); Marks W11 (coach: probably out); Kelce calf (minor).
+- Open: Henry MNF line + Yahoo W10 final; Marks official W11 designation; Montgomery W11; Demercado ownership/FA status; W11 opponent confirmation (Deepest?) + projections; FAAB balance; pending claims (none known); Bowers Wed practice; Yahoo re-auth (Andrew) — needed by Tue 11/17 ~3 PM CT; whether the paused pregame routine should resume once Yahoo works.

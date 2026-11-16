@@ -223,3 +223,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **W10:** very likely loss (public-stat estimate ≈92+live vs ≈155+live). Swap cost ≈3.7 (Rice > Marks).
 - **PENDING — Yahoo re-auth:** needed by Tue 11/17 PM for FA/waiver/proj checks.
 - **League:** Maye (ankle), A.J. Brown (hamstring), Geno Smith (ankle) ruled out; KC TE Wiley fractured ankle. Ownership unknown (Yahoo down).
+
+## 2026-11-16 (daily 5 PM CT — PARTIAL: Yahoo 302 login again, public sources OK)
+- **Woody Marks:** Ryans — in protocol, "probably won't have him for Thursday night." Treat as OUT W11 (official designation pending Texans Wed/Thu reports). Montgomery (Wet Serapas) uncertain; AP: Demercado likely HOU starter.
+- **W10:** CMC ≈42.3, Mendoza ≈13.9 final; public estimate ≈124 + Henry + DEF vs ≈207 → loss near-certain. **Henry MNF 7:15 PM CT** (not on injury list; inactives ~5:45 PM).
+- **PREPARE W11:** first lock Thu 11/19 7:15 PM CT (Collins, Warren). QB2 Caleb Williams (vs NO) or Nix (vs LV); WR/flex from Odunze/McMillan/Rice/Downs. CMC SNF Mexico City.
+- **WATCH:** Bowers (day-to-day, Wed practice) → Mendoza @DEN. KC: Walker likely back W11; Wiley fx ankle; Kelce calf minor.
+- **WATCH (drop candidates, Andrew approval):** Marks, Worthy. Possible add idea: Demercado (ownership unknown).
+- **PENDING — Yahoo re-auth:** still failing (2nd straight daily). Needed by Tue 11/17 ~3 PM CT.
+- **League:** Maye (likely fracture, out past bye), A.J. Brown imaging, Geno Smith imaging, Mayfield lower leg, Addison thumb surgery, Darnold W12 optimistic, Njoku off IR. Ownership unknown.

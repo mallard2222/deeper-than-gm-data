@@ -6,3 +6,4 @@
 - **IR note:** Not on NFL IR (game OUT only) — **cannot** use fantasy IR slot. Slot still empty after Reed drop.
 - Stays BN stash behind Love/Nix
 - Sources: daily 2026-09-28/29/30/10-01/10-02
+- **2026-11-16 daily:** Off CHI bye, no designation (Bears Wire 11/16). W11 QB2 candidate vs NO Sun 11/22 12:00 PM CT (Love on bye); alternative Nix vs LV 3:25 PM. Andrew decides.

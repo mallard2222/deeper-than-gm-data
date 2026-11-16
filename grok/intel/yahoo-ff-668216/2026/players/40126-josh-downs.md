@@ -13,3 +13,4 @@
 
 - **2026-11-14 daily (5 PM CT):** KC debut Sun @ ATL (dome). K. Walker OUT (Emmett Johnson starts). Yahoo W10 6.16; Vaqueros BN. No change: hold.
 - **2026-11-15 daily:** KC debut (BN): 5 tgts, 4-53-1 (≈13.3 est.), 3 punt returns, 1 fumble (recovered). Rice 6 tgts; Worthy 3 tgts/0. Viable W11 flex fill for Golden/Marks (inference). Source: KC@ATL gamebook https://static.www.nfl.com/image/upload/v1794777676/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf
+- **2026-11-16 daily:** KC Walker "shut down for a week" (Schefter) → likely back W11 vs ARI; Wiley fx ankle. Downs W11 W/R fill option (Sun noon) — Andrew decides.
