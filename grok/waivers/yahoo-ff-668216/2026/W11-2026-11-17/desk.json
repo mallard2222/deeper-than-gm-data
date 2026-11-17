@@ -1,0 +1,40 @@
+{
+  "run": "deeper-than-tuesday-waiver-desk",
+  "fired_utc": "2026-11-17T14:03:03Z",
+  "league": "yahoo-ff-668216",
+  "team": 8,
+  "nfl_week": 11,
+  "status": "failed_partial",
+  "yahoo_access": {
+    "attempted_ct": "2026-11-17T08:03:57-06:00",
+    "result": "HTTP 302 -> login.yahoo.com",
+    "attempts": 1,
+    "consecutive_failures": 4
+  },
+  "last_successful_yahoo": {
+    "full": "2026-11-14T17:31-06:00",
+    "roster": "2026-11-15T11:27-06:00"
+  },
+  "public_observed": [
+    {
+      "source": "ESPN site API summary event 401873065",
+      "retrieved_ct": "2026-11-17T08:05-06:00",
+      "fact": "Henry W10 MNF: 10-10-2 rush, 5 rec/5 tgt/10 yds; LAC 23 BAL 20 Final"
+    }
+  ],
+  "not_collected": [
+    "rosters",
+    "fa_pool",
+    "faab",
+    "waiver_order",
+    "transactions",
+    "standings",
+    "projections",
+    "w10_official_final"
+  ],
+  "recommendations": {
+    "hold": "No move; fill W11 from bench (QB2 Caleb/Nix; WR/WR flex from Odunze/McMillan/Rice/Downs); Marks excluded",
+    "conditional": "If Yahoo restored and Demercado FA: consider modest bid, drop Marks or Worthy — requires Andrew explicit approval"
+  },
+  "yahoo_changes_made": false
+}
