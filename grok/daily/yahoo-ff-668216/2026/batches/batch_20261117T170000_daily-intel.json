@@ -1,0 +1,162 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-17T17:00-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-17 17:00 CT)"
+  ],
+  "retrieved_ct": "2026-11-17T17:01:08-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures": 5
+ },
+ "public_sources": "ok",
+ "previous_daily_ct": "2026-11-16T17:00-06:00",
+ "previous_daily_commit": "9084742",
+ "deduped_against": [
+  "ed527b2 (Tuesday desk 2026-11-17 08:03 CT)"
+ ],
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown \u2013 Yahoo stale",
+  "pending_claims": "none known \u2013 Yahoo stale"
+ },
+ "changes": [
+  {
+   "id": "2026-11-17-wandale-robinson-ir",
+   "type": "fact (team official)",
+   "confidence": "high",
+   "players": [
+    "Wan'Dale Robinson"
+   ],
+   "owner": "Vaqueros BN (last-known 2026-11-15)",
+   "source": "https://www.tennesseetitans.com/news/titans-promote-wr-xavier-restrepo-to-53-man-roster-place-wr-wan-dale-robinson-on-injured-reserveroster-moves",
+   "published": "2026-11-17T15:06-06:00 (zone not stated; Nashville)",
+   "retrieved": "2026-11-17T17:04-06:00",
+   "response": "prepare (drop candidate; Andrew approval)",
+   "deadline": "before next add; no W11 urgency"
+  },
+  {
+   "id": "2026-11-17-marks-dnp-tue",
+   "type": "fact (official report)",
+   "confidence": "high",
+   "players": [
+    "Woody Marks"
+   ],
+   "owner": "Vaqueros (W/R last-known)",
+   "source": "https://www.houstontexans.com/news/week-11-injury-report-texans-vs-colts",
+   "published": "2026-11-17T15:46 (site, zone not stated)",
+   "retrieved": "2026-11-17T17:02-06:00",
+   "response": "prepare (remove from W/R)",
+   "deadline": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-17-montgomery-fp",
+   "type": "fact (official FP) + report (Aaron Wilson/KPRC)",
+   "confidence": "high",
+   "players": [
+    "David Montgomery",
+    "Emari Demercado"
+   ],
+   "owner": "Wet Serapas (Montgomery, 11/14); Demercado unknown",
+   "source": "https://www.cbssports.com/fantasy/football/news/texans-david-montgomery-taking-part-in-practice-tuesday/",
+   "published": "2026-11-17T11:39-06:00",
+   "response": "no action (Demercado idea downgraded)",
+   "deadline": null
+  },
+  {
+   "id": "2026-11-17-warren-collins-clear",
+   "type": "fact (official report; Colts estimated)",
+   "confidence": "high",
+   "players": [
+    "Tyler Warren",
+    "Nico Collins"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://www.colts.com/team/injury-report/week/reg-11",
+   "response": "start (prepare)",
+   "deadline": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-17-burden-cleared",
+   "type": "fact (coach)",
+   "confidence": "high",
+   "players": [
+    "Luther Burden III",
+    "Rome Odunze",
+    "Caleb Williams",
+    "Kyle Monangai"
+   ],
+   "owner": "Vaqueros (Odunze, Caleb); others unknown",
+   "source": "https://bearswire.usatoday.com/story/sports/nfl/bears/2026/11/17/bears-injury-updates-on-wr-luther-burden-cb-kyler-gordon/92828628007/",
+   "published": "2026-11-17T12:14-06:00",
+   "response": "monitor",
+   "deadline": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-17-walker-mixed",
+   "type": "report (Rapoport)",
+   "confidence": "moderate",
+   "players": [
+    "Kenneth Walker III",
+    "Emmett Johnson",
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy"
+   ],
+   "owner": "Good Strongs (E. Johnson, last-known); Vaqueros (Rice/Downs/Worthy)",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-17/rapsheet-wouldnt-be-surprised-if-walker-sits",
+   "response": "monitor",
+   "deadline": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-17-henry-trend",
+   "type": "fact (stats/quote) + inference",
+   "confidence": "moderate",
+   "players": [
+    "Derrick Henry"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-10-carries-for-10-yards-i-dont-have-an-answer-just-not-good-enough",
+   "response": "monitor (keep starting)",
+   "deadline": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-17-league-qb-wr",
+   "type": "report",
+   "confidence": "moderate-high",
+   "players": [
+    "Drake Maye",
+    "Baker Mayfield",
+    "Jalon Daniels",
+    "Jordan Addison"
+   ],
+   "owner": "unknown \u2013 Yahoo stale",
+   "source": "https://www.nbcsports.com/fantasy/football/news/nfl-week-11-injury-report-drake-maye-likely-done-for-season-surgery-for-jordan-addison",
+   "response": "monitor",
+   "deadline": "tonight's waiver run (~3:45 AM CT Wed, unverified)"
+  },
+  {
+   "id": "2026-11-17-yahoo-auth",
+   "type": "fact",
+   "confidence": "high",
+   "detail": "302 to login, 5th straight failure",
+   "response": "act (Andrew re-sign-in)",
+   "deadline": "2026-11-19T19:15-06:00"
+  }
+ ],
+ "quarantine": [
+  "W11 opponent Deepest (rotation inference) + partial roster from 2026-11-02 owners extract",
+  "CMC 'FP rest' (search synthesis; SF has not practiced yet)",
+  "McMillan not on CAR report (search synthesis; first report Wed)",
+  "Weather fields in ESPN W11 scoreboard (5-day placeholders)",
+  "Robinson est. return 12/20 (RotoWire estimate)"
+ ]
+}

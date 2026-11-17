@@ -168,3 +168,7 @@
 ## 2026-11-16 (daily — partial, Yahoo 302 login)
 - Closed: Sunday W10 finals for CMC/Mendoza (public stats); Bowers severity (day-to-day, not major); Marks W11 (coach: probably out); Kelce calf (minor).
 - Open: Henry MNF line + Yahoo W10 final; Marks official W11 designation; Montgomery W11; Demercado ownership/FA status; W11 opponent confirmation (Deepest?) + projections; FAAB balance; pending claims (none known); Bowers Wed practice; Yahoo re-auth (Andrew) — needed by Tue 11/17 ~3 PM CT; whether the paused pregame routine should resume once Yahoo works.
+
+## 2026-11-17 (daily — partial, Yahoo 302 login, 5th straight)
+- Closed: Henry MNF line (desk). Montgomery W11 (FP Mon/Tue, practicing → expected to play). Burden W11 (cleared). Harvey return eligibility (W13 Dec 6).
+- New/open: **Wan'Dale Robinson NFL IR** → hold vs drop (Andrew). Yahoo IR slot is 1/1 (Harvey), unverified since 11/14. Marks official W11 designation (Wed). Walker W11 (Wed report). Bowers/Waddle Wed practice. W11 opponent (Deepest?) and their current roster. FAAB/pending claims. Tonight's waiver results (needs Yahoo). Yahoo re-auth (Andrew) — now blocking the Thu 7:15 PM CT lineup fix.

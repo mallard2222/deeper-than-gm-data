@@ -232,3 +232,13 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **WATCH (drop candidates, Andrew approval):** Marks, Worthy. Possible add idea: Demercado (ownership unknown).
 - **PENDING — Yahoo re-auth:** still failing (2nd straight daily). Needed by Tue 11/17 ~3 PM CT.
 - **League:** Maye (likely fracture, out past bye), A.J. Brown imaging, Geno Smith imaging, Mayfield lower leg, Addison thumb surgery, Darnold W12 optimistic, Njoku off IR. Ownership unknown.
+
+## 2026-11-17 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 5th straight; public sources OK)
+- **NEW — Wan'Dale Robinson (Vaqueros BN, last-known):** Titans placed him on **NFL IR** Tue 3:06 PM CT. Out ≥4 games (W11–W14). Our Yahoo IR slot is held by Harvey (eligible W13). → **Top drop candidate** (Andrew approval required).
+- **Woody Marks:** DNP Mon(est)/Tue. OUT expected Wed. **Remove from W/R before Thu 11/19 7:15 PM CT.** Montgomery FP and practicing → HOU RB1 TNF. Marks' ROS = timeshare. Demercado add idea downgraded.
+- **Warren / Collins:** not on Mon/Tue reports → start TNF. IND OTs Raimann/Travis DNP. MHJ DNP (Collins volume steady/up — inference).
+- **CHI:** Burden cleared protocol, good to go. Monangai on track → Odunze CHI WR2 at best. Caleb Williams QB2 option intact.
+- **KC:** Walker "minor" but may sit (Rapoport). Wed report. Rice/Downs/Worthy unaffected (inference).
+- **Henry:** 10-10-2 + 5-10 MNF. BAL 5-game skid → monitor efficiency. Keep starting @CAR.
+- **PENDING — Yahoo re-auth (Andrew):** missed tonight's waiver window. Lineup-safety deadline Thu 7:15 PM CT.
+- **League:** Maye likely done for 2026 (Rapoport). Mayfield foot strain (Daniels trending). Addison surgery. CBS: weak FA week, "save your FAAB" (Andrews, Hutchinson, Lemon). Ownership unknown.
