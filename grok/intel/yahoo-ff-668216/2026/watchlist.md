@@ -240,5 +240,5 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **CHI:** Burden cleared protocol, good to go. Monangai on track → Odunze CHI WR2 at best. Caleb Williams QB2 option intact.
 - **KC:** Walker "minor" but may sit (Rapoport). Wed report. Rice/Downs/Worthy unaffected (inference).
 - **Henry:** 10-10-2 + 5-10 MNF. BAL 5-game skid → monitor efficiency. Keep starting @CAR.
-- **PENDING — Yahoo re-auth (Andrew):** missed tonight's waiver window. Lineup-safety deadline Thu 7:15 PM CT.
+- **PENDING — Yahoo re-auth (Andrew):** past the ~3 PM target, so agents can't check or use tonight's waiver run. Lineup-safety deadline Thu 7:15 PM CT.
 - **League:** Maye likely done for 2026 (Rapoport). Mayfield foot strain (Daniels trending). Addison surgery. CBS: weak FA week, "save your FAAB" (Andrews, Hutchinson, Lemon). Ownership unknown.
