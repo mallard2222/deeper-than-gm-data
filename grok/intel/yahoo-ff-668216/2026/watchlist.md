@@ -242,3 +242,15 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **Henry:** 10-10-2 + 5-10 MNF. BAL 5-game skid → monitor efficiency. Keep starting @CAR.
 - **PENDING — Yahoo re-auth (Andrew):** past the ~3 PM target, so agents can't check or use tonight's waiver run. Lineup-safety deadline Thu 7:15 PM CT.
 - **League:** Maye likely done for 2026 (Rapoport). Mayfield foot strain (Daniels trending). Addison surgery. CBS: weak FA week, "save your FAAB" (Andrews, Hutchinson, Lemon). Ownership unknown.
+
+## 2026-11-18 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 7th consecutive on record; public sources OK)
+- **ACT — Woody Marks OFFICIALLY OUT TNF** (Texans final report, DNP x3). He is in W/R. **Remove before Thu 11/19 7:15 PM CT.** Agents can't reach Yahoo, so Andrew must re-auth or swap manually. Suggested: Rice → W/R. Montgomery: FP x3, no designation.
+- **Wan'Dale Robinson: out for the 2026 season** (Saleh, NFL.com Wed roundup). Dead roster spot → **#1 drop** (Andrew approval). Keeper value pending keeper rules.
+- **Collins / Warren:** not on the final reports → start. IND has ruled out both starting OTs (Raimann, Travis); Heck is Q. MHJ OUT.
+- **CMC:** an unverified "DNP hamstring" aggregator claim is contradicted by Shanahan's list (only Evans/Greenlaw out) → quarantined. WATCH the SF official report Thu.
+- **Sunday (not on Wed reports):** Henry, McMillan, Downs, Worthy, Odunze/Caleb (CHI estimate), LaPorta. Rice FP (knee tag).
+  - **CAR:** TEs Waller/Tremble DNP.
+  - **KC:** Walker DNP; T. Smith and Moore DNP; Wiley IR.
+- **QB2:** Bowers DNP ("doesn't need to practice"; Fri) → Mendoza risk. Waddle back at practice (protocol unconfirmed) → Nix mild plus. Caleb gets Burden back. Decision by Sun 12:00 PM CT.
+- **League (ownership unknown):** Milton starts PHI; Mayfield DNP (Fri decision); Pittman and Lohner designated to return; Tate LP (gains with Robinson out); Mayer if Bowers sits; E. Johnson if Walker sits.
+- **PENDING — Yahoo re-auth (Andrew):** this morning's waiver results, FAAB and ownership are all unknown.

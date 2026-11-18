@@ -172,3 +172,13 @@
 ## 2026-11-17 (daily — partial, Yahoo 302 login, 5th straight)
 - Closed: Henry MNF line (desk). Montgomery W11 (FP Mon/Tue, practicing → expected to play). Burden W11 (cleared). Harvey return eligibility (W13 Dec 6).
 - New/open: **Wan'Dale Robinson NFL IR** → hold vs drop (Andrew). Yahoo IR slot is 1/1 (Harvey), unverified since 11/14. Marks official W11 designation (Wed). Walker W11 (Wed report). Bowers/Waddle Wed practice. W11 opponent (Deepest?) and their current roster. FAAB/pending claims. Tonight's waiver results (needs Yahoo). Yahoo re-auth (Andrew) — now blocking the Thu 7:15 PM CT lineup fix.
+
+## 2026-11-18 (daily — partial, Yahoo 302 login, 7th consecutive on record)
+- Closed: Marks W11 (official OUT). Montgomery W11 (no designation). Collins/Warren W11 (not on final report). Wan'Dale Robinson timeline (out for season, Saleh).
+- New/open:
+  - Who moves Marks out of W/R before Thu 7:15 PM CT (Andrew manual vs. re-auth + agent)?
+  - CMC hamstring rumor (verify vs SF official Thu report).
+  - Waddle protocol clearance; Bowers W11 (Fri); Walker W11.
+  - Wed 11/18 waiver results / FAAB / pending claims (Yahoo).
+  - Robinson keeper relevance (keeper rules still unknown).
+  - Failure-count labeling: the Wed recon file says "5th", the list implies 6th; this run counts 7th.

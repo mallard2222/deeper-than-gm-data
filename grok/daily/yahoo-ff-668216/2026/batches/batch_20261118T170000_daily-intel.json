@@ -1,0 +1,228 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-18T16:58-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-18 16:59 CT)"
+  ],
+  "retrieved_ct": "2026-11-18T16:59:41-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 7,
+  "note": "Wed recon 11/18 08:00 labeled itself 5th; by the 11/17 list it was 6th"
+ },
+ "public_sources": "ok",
+ "previous_daily_ct": "2026-11-17T17:00-06:00",
+ "previous_daily_commit": "5ae300b / 1cf5dfa",
+ "deduped_against": [
+  "23ec4aa (Wed recon 2026-11-18 08:00 CT, no news content)"
+ ],
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo stale",
+  "pending_claims": "none known - Yahoo stale",
+  "waiver_results_2026-11-18": "unknown"
+ },
+ "changes": [
+  {
+   "id": "2026-11-18-marks-out",
+   "type": "fact (official final report)",
+   "confidence": "high",
+   "players": [
+    "Woody Marks",
+    "David Montgomery"
+   ],
+   "owner": "Vaqueros W/R (last-known); Montgomery Wet Serapas (11/14)",
+   "source": "https://www.houstontexans.com/news/week-11-injury-report-texans-vs-colts",
+   "published": "2026-11-18T14:46 (site, zone not stated)",
+   "retrieved": "2026-11-18T17:01-06:00",
+   "response": "act (remove Marks from W/R; Andrew or re-authed agent)",
+   "deadline": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-18-wandale-season",
+   "type": "fact (head coach via NFL.com)",
+   "confidence": "high",
+   "players": [
+    "Wan'Dale Robinson",
+    "Carnell Tate"
+   ],
+   "owner": "Vaqueros BN (last-known)",
+   "source": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-18",
+   "published": "2026-11-18 (time not stated)",
+   "retrieved": "2026-11-18T17:07-06:00",
+   "response": "prepare (drop candidate #1; Andrew approval)",
+   "deadline": "before next add"
+  },
+  {
+   "id": "2026-11-18-collins-warren-clear",
+   "type": "fact (official final report)",
+   "confidence": "high",
+   "players": [
+    "Nico Collins",
+    "Tyler Warren",
+    "Marvin Harrison Jr.",
+    "Bernhard Raimann",
+    "Jalen Travis",
+    "Charlie Heck"
+   ],
+   "owner": "Vaqueros (Collins, Warren)",
+   "source": "https://www.colts.com/team/injury-report/week/reg-11",
+   "retrieved": "2026-11-18T17:01-06:00",
+   "response": "start",
+   "deadline": "2026-11-19T19:15-06:00",
+   "analysis": "IND both starting OTs OUT + Heck Q -> pass-pro downgrade (inference)"
+  },
+  {
+   "id": "2026-11-18-cmc-rumor",
+   "type": "unvalidated claim, contradicted (quarantined)",
+   "confidence": "moderate that CMC is fine",
+   "players": [
+    "Christian McCaffrey",
+    "Mike Evans"
+   ],
+   "owner": "Vaqueros RB",
+   "source": "https://www.49erswebzone.com/articles/205277-49ers-injury-practice-wednesday-updates/",
+   "retrieved": "2026-11-18T17:08-06:00",
+   "response": "monitor (SF official report Thu)",
+   "deadline": "2026-11-22T19:20-06:00"
+  },
+  {
+   "id": "2026-11-18-kc-wed",
+   "type": "fact (official) + report (AP)",
+   "confidence": "high",
+   "players": [
+    "Kenneth Walker III",
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Emmett Johnson",
+    "Jared Wiley"
+   ],
+   "owner": "Vaqueros (Rice, Downs, Worthy); EJ Good Strongs (last-known); Walker unknown",
+   "source": "https://www.chiefs.com/news/week-11-injury-report-cardinals-vs-chiefs-2026",
+   "published": "2026-11-18T15:37 (site, zone not stated)",
+   "retrieved": "2026-11-18T17:03-06:00",
+   "response": "flex candidates (Rice first)",
+   "deadline": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-18-henry-mcmillan-clear",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Derrick Henry",
+    "Tetairoa McMillan",
+    "Darren Waller",
+    "Tommy Tremble"
+   ],
+   "owner": "Vaqueros (Henry, McMillan); Waller Good Strongs (last-known)",
+   "source": "https://www.panthers.com/team/injury-report/week/reg-11",
+   "retrieved": "2026-11-18T17:04-06:00",
+   "response": "start",
+   "deadline": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-18-bowers-dnp",
+   "type": "report",
+   "confidence": "moderate",
+   "players": [
+    "Brock Bowers",
+    "Fernando Mendoza",
+    "Michael Mayer"
+   ],
+   "owner": "Vaqueros (Mendoza); Bowers unknown",
+   "source": "https://www.cbssports.com/fantasy/football/news/raiders-brock-bowers-could-play-this-week-without-practicing/",
+   "published": "2026-11-18T16:01-06:00",
+   "retrieved": "2026-11-18T17:05-06:00",
+   "response": "monitor (Fri report)",
+   "deadline": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-18-waddle-practice",
+   "type": "report",
+   "confidence": "moderate",
+   "players": [
+    "Jaylen Waddle",
+    "Bo Nix"
+   ],
+   "owner": "Vaqueros (Nix); Waddle unknown",
+   "source": "https://www.cbssports.com/fantasy/football/news/broncos-jaylen-waddle-practices-wednesday/",
+   "published": "2026-11-18T15:50-06:00",
+   "retrieved": "2026-11-18T17:06-06:00",
+   "response": "monitor",
+   "deadline": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-18-chi-estimate",
+   "type": "fact (official estimate)",
+   "confidence": "high",
+   "players": [
+    "Rome Odunze",
+    "Caleb Williams",
+    "Luther Burden III",
+    "Kyle Monangai"
+   ],
+   "owner": "Vaqueros (Odunze, Caleb)",
+   "source": "https://www.neworleanssaints.com/news/injury-report-chicago-bears-vs-new-orleans-saints-2026-nfl-week-11-wednesday",
+   "published": "2026-11-18T15:49 (site, zone not stated)",
+   "retrieved": "2026-11-18T17:02-06:00",
+   "response": "monitor (QB2 choice)",
+   "deadline": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-18-deepest-opp",
+   "type": "inference + stale repo",
+   "confidence": "low",
+   "players": [
+    "Jonathan Taylor",
+    "Daniel Jones",
+    "T.J. Hockenson",
+    "Ashton Jeanty"
+   ],
+   "owner": "Deepest (2026-11-02 extract)",
+   "source": "https://www.vikings.com/news/49ers-injury-report-week-11-2026-nfl-season",
+   "response": "monitor (verify on Yahoo)",
+   "deadline": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-18-league-wed",
+   "type": "fact/report",
+   "confidence": "moderate-high",
+   "players": [
+    "Joe Milton III",
+    "Baker Mayfield",
+    "Geno Smith",
+    "Michael Pittman",
+    "Caleb Lohner",
+    "Carnell Tate",
+    "Aidan Hutchinson",
+    "Jordan Addison"
+   ],
+   "owner": "unknown (Yahoo stale)",
+   "source": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-18",
+   "retrieved": "2026-11-18T17:07-06:00",
+   "response": "monitor",
+   "deadline": null
+  },
+  {
+   "id": "2026-11-18-yahoo-auth",
+   "type": "fact (collection)",
+   "confidence": "high",
+   "players": [],
+   "owner": null,
+   "source": "local attempt",
+   "retrieved": "2026-11-18T16:59:41-06:00",
+   "response": "act (Andrew re-auth in box browser or manual Marks swap)",
+   "deadline": "2026-11-19T19:15-06:00"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-18-daily-unvalidated.md"
+}

@@ -1,0 +1,11 @@
+# Quarantine — daily 2026-11-18 (unvalidated signals)
+- **CMC "did not practice Wednesday with hamstring injury"** comes from downattheone.com, an aggregator that attributes it to Steve Gardner ("Yahoo Sports"). Two things contradict it:
+  - Gardner's actual USA Today W11 injury column (updated 1:03 PM CT) has no CMC entry.
+  - Shanahan (49ers Webzone) named only Evans and Greenlaw as non-participants and listed the limited players; CMC was not among them.
+  - The 49ers' official Wed report was not posted at retrieval. **Not used. Re-check against the SF official report Thu.**
+- **Hockenson "did not practice" (SI fantasy)** conflicts with the vikings.com official report, which lists him **LP**. The official report is used.
+- **Waddle "full participant / questionable"** is a search synthesis. The RotoBaller FP item is dated Nov 4 (an old week), and the Broncos official Wed report was not posted. Only "present at practice" (Tomasson via CBS) is used.
+- **McMillan "full participant"** is a search synthesis. The official Panthers report simply does not list him.
+- **NFL.com league injury page vs Texans PR:** NFL.com shows Lassiter DNP and Al-Shaair DNP; the Texans team page shows Lassiter FP Wed and does not list Al-Shaair. This is probably a different-day snapshot. The team page is used.
+- **W11 opponent = Deepest:** a rotation inference. Their roster comes from the 2026-11-02 extract and is 16 days stale.
+- **Last-known Vaqueros roster / IR occupancy / FAAB $34:** repo-derived (11/14–11/15) and unverifiable while Yahoo is down. The Wed 11/18 waiver results are unknown.
