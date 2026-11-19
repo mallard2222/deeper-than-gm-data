@@ -1,0 +1,176 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-19T16:58-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-19 16:54 CT)"
+  ],
+  "retrieved_ct": "2026-11-19T16:58:21-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 8
+ },
+ "public_sources": "ok",
+ "previous_daily_ct": "2026-11-18T16:58-06:00",
+ "previous_daily_commit": "c94f111",
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked",
+  "marks_in_wr_slot_now": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-19-marks-out",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Woody Marks",
+    "David Montgomery"
+   ],
+   "owner": "Vaqueros W/R (last-known)",
+   "source": "https://www.nfl.com/injuries/league/2026/reg11",
+   "recommended_response": "act: Andrew moves Marks out of W/R (Rice suggested)",
+   "decision_deadline_ct": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-19-gay-hip-dnp-kicker-workouts",
+   "type": "fact (team report via beat reporters) + NFL personnel notice",
+   "confidence": "high (DNP) / moderate (miss)",
+   "players": [
+    "Matt Gay"
+   ],
+   "owner": "Vaqueros K (last-known)",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-matt-gay-dealing-with-a-hip-injury-the-raiders-worked-out-three-kickers",
+   "recommended_response": "prepare: K contingency drop(Robinson)+add, needs Andrew approval + Yahoo",
+   "decision_deadline_ct": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-19-cmc-nir-rest",
+   "type": "fact (official Wed report)",
+   "confidence": "high",
+   "players": [
+    "Christian McCaffrey"
+   ],
+   "owner": "Vaqueros RB",
+   "source": "https://www.49ers.com/team/injury-report/week/reg-11",
+   "recommended_response": "start; monitor Fri status",
+   "decision_deadline_ct": "2026-11-22T19:20-06:00"
+  },
+  {
+   "id": "2026-11-19-collins-warren-clear",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Nico Collins",
+    "Tyler Warren"
+   ],
+   "owner": "Vaqueros starters",
+   "source": "https://www.nfl.com/injuries/league/2026/reg11",
+   "recommended_response": "start",
+   "decision_deadline_ct": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-19-kc-thu",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Rashee Rice",
+    "Kenneth Walker",
+    "Josh Downs",
+    "Xavier Worthy"
+   ],
+   "owner": "Rice/Downs/Worthy Vaqueros",
+   "source": "https://www.azcardinals.com/news/injury-report-week-11-vs-chiefs",
+   "recommended_response": "Rice to W/R",
+   "decision_deadline_ct": "2026-11-19T19:15-06:00"
+  },
+  {
+   "id": "2026-11-19-car-tes-lp",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Darren Waller",
+    "Tommy Tremble",
+    "Jalen McMillan"
+   ],
+   "owner": "McMillan Vaqueros",
+   "source": "https://www.panthers.com/news/week-11-thursday-injury-report-tight-ends-back-on-the-field-darren-waller-tommy-tremble",
+   "recommended_response": "start McMillan",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-19-bowers-lp",
+   "type": "report (beats/PFT)",
+   "confidence": "moderate-high",
+   "players": [
+    "Brock Bowers",
+    "Fernando Mendoza"
+   ],
+   "owner": "Bowers unknown",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-returns-to-limited-participation-thursday",
+   "recommended_response": "monitor Fri",
+   "decision_deadline_ct": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-19-waddle-fp",
+   "type": "fact (official) + RotoWire",
+   "confidence": "moderate",
+   "players": [
+    "Jaylen Waddle",
+    "Bo Nix"
+   ],
+   "owner": "Waddle unknown; Nix Vaqueros",
+   "source": "https://www.denverbroncos.com/news/injuryreport/injury-report-3-broncos-improve-to-full-participants-ahead-of-week-11-game-vs-raiders",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-19-min-thu",
+   "type": "fact (official)",
+   "confidence": "moderate",
+   "players": [
+    "T.J. Hockenson",
+    "Kyler Murray",
+    "Jordan Addison"
+   ],
+   "owner": "Deepest (stale, inferred opponent)",
+   "source": "https://www.vikings.com/news/49ers-injury-report-week-11-2026-nfl-season",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-19-cin-healthy",
+   "type": "fact (official, search-level)",
+   "confidence": "moderate",
+   "players": [
+    "Joe Burrow",
+    "Tee Higgins"
+   ],
+   "owner": "opponent of Vaqueros WAS DEF",
+   "source": "https://www.bengals.com/news/bengals-commanders-week-11-2026-injury-report-monday-night-football",
+   "recommended_response": "no action",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-19-mayfield-lp",
+   "type": "fact (official, search-level)",
+   "confidence": "moderate",
+   "players": [
+    "Baker Mayfield"
+   ],
+   "owner": "unknown",
+   "source": "https://www.buccaneers.com/news/buccaneers-lions-injury-report-nov-19-week-11-2026",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": null
+  }
+ ],
+ "quarantined": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-19-daily-unvalidated.md"
+}

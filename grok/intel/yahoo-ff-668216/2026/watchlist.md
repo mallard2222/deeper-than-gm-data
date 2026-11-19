@@ -254,3 +254,10 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **QB2:** Bowers DNP ("doesn't need to practice"; Fri) → Mendoza risk. Waddle back at practice (protocol unconfirmed) → Nix mild plus. Caleb gets Burden back. Decision by Sun 12:00 PM CT.
 - **League (ownership unknown):** Milton starts PHI; Mayfield DNP (Fri decision); Pittman and Lohner designated to return; Tate LP (gains with Robinson out); Mayer if Bowers sits; E. Johnson if Walker sits.
 - **PENDING — Yahoo re-auth (Andrew):** this morning's waiver results, FAAB and ownership are all unknown.
+
+## 2026-11-19 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 8th consecutive; public sources OK)
+- **ACT Thu 7:15 PM CT — Marks OUT (concussion), must leave W/R**; Andrew manual swap (Rice suggested). Collins/Warren start.
+- **NEW — K Matt Gay (LV) DNP Thu (hip); Raiders worked out Havrisik/Koo/Romo.** Watch Fri status / any LV K signing. K contingency (drop Robinson + add) needs Andrew approval + Yahoo by Sun 3:25 PM CT.
+- **RESOLVED — CMC hamstring rumor:** official Wed DNP = NIR-rest. Start; check Fri status.
+- **Bowers LP Thu** (Mendoza +); **Waddle FP x2**, awaiting neuro clearance (Nix +); **Walker DNP x3**; **CAR TEs back LP** (McMillan angle softer).
+- QB2 decision by Sun 12:00 PM CT. Robinson drop pending approval.

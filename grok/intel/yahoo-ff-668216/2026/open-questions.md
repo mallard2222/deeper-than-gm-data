@@ -182,3 +182,10 @@
   - Wed 11/18 waiver results / FAAB / pending claims (Yahoo).
   - Robinson keeper relevance (keeper rules still unknown).
   - Failure-count labeling: the Wed recon file says "5th", the list implies 6th; this run counts 7th.
+
+## 2026-11-19 (daily — partial, Yahoo 302 login, 8th consecutive on record)
+- Did Andrew move Marks out of W/R before 7:15 PM CT? (verify when Yahoo works)
+- Matt Gay Fri status / does LV sign a kicker? FA kicker pool unknown (Yahoo blocked).
+- SF Thursday/Friday report for CMC (Thu column not posted at 5:03 PM CT).
+- Waddle independent-neurologist clearance.
+- Keeper rules still unknown (affects Robinson drop value).
