@@ -1,0 +1,214 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-20T17:02-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-20 17:03 CT)"
+  ],
+  "retrieved_ct": "2026-11-20T17:03:26-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 9
+ },
+ "public_sources": "ok",
+ "previous_daily_ct": "2026-11-19T16:58-06:00",
+ "previous_daily_commit": "ca1f879",
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked",
+  "marks_in_wr_slot_at_tnf": "unknown - Yahoo blocked",
+  "fa_kickers": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-20-gay-questionable",
+   "type": "fact (official) + coach quotes",
+   "confidence": "high (status) / moderate (plays)",
+   "players": [
+    "Matt Gay"
+   ],
+   "owner": "Vaqueros K (last-known)",
+   "source": "https://www.raiders.com/news/raiders-broncos-week-11-injury-report",
+   "recommended_response": "prepare: K contingency drop(Robinson)+add; triggers = LV K signing/elevation, downgrade, or inactive; needs Andrew approval + Yahoo",
+   "decision_deadline_ct": "2026-11-22T13:55-06:00 (inactives) / 15:25 lock"
+  },
+  {
+   "id": "2026-11-20-tnf-final",
+   "type": "fact (official gamebook)",
+   "confidence": "high",
+   "players": [
+    "Nico Collins",
+    "Tyler Warren",
+    "Woody Marks"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://www.pro-football-reference.com/boxscores/202611190htx.htm",
+   "stats": {
+    "Collins": "5 tgt 3-58-1",
+    "Warren": "5 tgt 1-22",
+    "Marks": "inactive"
+   },
+   "recommended_response": "verify W/R slot when Yahoo works",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-20-ind-richardson-starter",
+   "type": "fact (official)",
+   "confidence": "high (fact) / low-moderate (impact)",
+   "players": [
+    "Anthony Richardson",
+    "Daniel Jones",
+    "Tyler Warren"
+   ],
+   "owner": "Warren Vaqueros; others unknown",
+   "source": "https://www.colts.com/news/colts-to-start-anthony-richardson-sr-at-quarterback-release-daniel-jones",
+   "recommended_response": "monitor Warren W12+",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-20-sunday-starters-clear",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Derrick Henry",
+    "Tetairoa McMillan",
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Rome Odunze",
+    "Caleb Williams",
+    "Bo Nix"
+   ],
+   "owner": "Vaqueros",
+   "source": "team-official Friday reports (see sources.md)",
+   "recommended_response": "set lineup: WR2 Rice (then Downs/Odunze); QB2 lean Nix",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-20-cmc-no-designation-inferred",
+   "type": "fact (official Wed/Thu) + inference",
+   "confidence": "high",
+   "players": [
+    "Christian McCaffrey"
+   ],
+   "owner": "Vaqueros RB",
+   "source": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-20",
+   "recommended_response": "start",
+   "decision_deadline_ct": "2026-11-22T19:20-06:00"
+  },
+  {
+   "id": "2026-11-20-waddle-cleared",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Jaylen Waddle",
+    "Bo Nix"
+   ],
+   "owner": "Nix Vaqueros; Waddle unknown",
+   "source": "https://www.denverbroncos.com/news/injuryreport/injury-report-s-talanoa-hufanga-among-broncos-not-assigned-game-statuses-s-brandon-jones-questionable-for-week-11-vs-raiders",
+   "recommended_response": "QB2 lean Nix",
+   "decision_deadline_ct": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-20-bowers-q",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Brock Bowers",
+    "Fernando Mendoza"
+   ],
+   "owner": "Mendoza Vaqueros; Bowers unknown",
+   "source": "https://www.raiders.com/news/raiders-broncos-week-11-injury-report",
+   "recommended_response": "Mendoza third QB2 choice",
+   "decision_deadline_ct": "2026-11-22T15:25-06:00"
+  },
+  {
+   "id": "2026-11-20-chi-weather",
+   "type": "forecast",
+   "confidence": "moderate",
+   "players": [
+    "Caleb Williams",
+    "Rome Odunze"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://dknetwork.draftkings.com/2026/11/20/nfl-week-11-weather-forecast/",
+   "recommended_response": "factor into QB2/WR2",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-20-kc-final",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Kenneth Walker",
+    "Rashee Rice"
+   ],
+   "owner": "Rice Vaqueros; Walker unknown",
+   "source": "https://www.chiefs.com/news/week-11-injury-report-cardinals-vs-chiefs-2026",
+   "recommended_response": "start Rice",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-20-min-final",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "T.J. Hockenson",
+    "Kyler Murray",
+    "Jordan Addison"
+   ],
+   "owner": "Deepest (stale)",
+   "source": "https://www.vikings.com/news/49ers-injury-report-week-11-2026-nfl-season",
+   "recommended_response": "no action",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-20-cin-healthy",
+   "type": "fact (official, search-level)",
+   "confidence": "moderate",
+   "players": [
+    "Joe Burrow"
+   ],
+   "owner": "vs Vaqueros WAS DEF",
+   "source": "https://www.bengals.com/news/bengals-commanders-week-11-2026-injury-report-monday-night-football",
+   "recommended_response": "no action",
+   "decision_deadline_ct": "2026-11-23T19:15-06:00"
+  },
+  {
+   "id": "2026-11-20-league-injuries",
+   "type": "fact (official/national)",
+   "confidence": "high/moderate",
+   "players": [
+    "Puka Nacua",
+    "Drake Maye",
+    "A.J. Brown",
+    "Jake Ferguson",
+    "Baker Mayfield",
+    "Dalton Kincaid"
+   ],
+   "owner": "unknown - Yahoo blocked",
+   "source": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-20",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-20-yahoo-auth",
+   "type": "fact (collection)",
+   "confidence": "high",
+   "players": [],
+   "owner": null,
+   "source": "local",
+   "recommended_response": "act: Andrew re-auth Yahoo in box browser",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-20-daily-unvalidated.md"
+}

@@ -189,3 +189,13 @@
 - SF Thursday/Friday report for CMC (Thu column not posted at 5:03 PM CT).
 - Waddle independent-neurologist clearance.
 - Keeper rules still unknown (affects Robinson drop value).
+
+## 2026-11-20 (daily — partial, Yahoo 302 login, 9th consecutive on record)
+- Closed: Gay Friday designation (Questionable). TNF result (Collins 3-58-1, Warren 1-22, Marks inactive). Friday statuses for all Sunday Vaqueros (clear). Waddle clearance (cleared). Hockenson/Murray (clear/OUT).
+- Open:
+  - Does LV sign/elevate a K Saturday, and is Gay active Sunday (~1:55 PM CT)?
+  - Which kickers are FA on Yahoo (blocked)?
+  - Was Marks moved out of W/R before TNF (W/R TNF score)?
+  - SF Saturday report (Evans; any CMC change).
+  - Keeper rules (affects Robinson drop value).
+  - Warren usage with Richardson (W12+).

@@ -261,3 +261,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **RESOLVED — CMC hamstring rumor:** official Wed DNP = NIR-rest. Start; check Fri status.
 - **Bowers LP Thu** (Mendoza +); **Waddle FP x2**, awaiting neuro clearance (Nix +); **Walker DNP x3**; **CAR TEs back LP** (McMillan angle softer).
 - QB2 decision by Sun 12:00 PM CT. Robinson drop pending approval.
+
+## 2026-11-20 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 9th consecutive; public sources OK)
+- **PREPARE — K Matt Gay QUESTIONABLE** (LP/DNP/LP, hip). Coach optimistic, no K signed as of ~5 PM CT. K swap (drop Robinson + add) triggers: LV signs/elevates a K (Sat), downgrade, or Gay inactive ~1:55 PM CT Sun. Needs Andrew approval + Yahoo. FA kickers unknown.
+- **TNF final:** HOU 26-3. Collins 3-58-1; Warren 1-22; Marks inactive (W/R slot status unverified).
+- **NEW — IND: Richardson named starter, Daniel Jones released.** Warren W12+ volatility (monitor).
+- **All Sunday Vaqueros clear:** Henry, McMillan, Rice, Downs, Worthy, Odunze, Caleb, Nix. CMC (SNF) expected no designation.
+- **QB2 lean Nix** (Waddle cleared; CHI rain + 15 mph wind for Caleb; Bowers Q for Mendoza). **WR2 (Golden bye): Rice**, then Downs/Odunze. Deadline Sun 12:00 PM CT.
+- **Opp Deepest (inferred):** Hockenson clear; K. Murray OUT; J. Taylor/D. Jones weak TNF.
+- **League:** Nacua likely season, Maye fibula, AJB multi-week, Walker OUT, Ferguson OUT, Mayfield Q, Kincaid doubtful. Ownership unknown.

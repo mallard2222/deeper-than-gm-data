@@ -15,3 +15,4 @@
 - **2026-11-17 daily:** Not on Texans W11 report. MHJ DNP Mon/Tue (likely out again). Start TNF vs IND (indoor). https://www.houstontexans.com/news/week-11-injury-report-texans-vs-colts
 - **2026-11-18 daily:** Not on Texans' final W11 report → plays TNF vs IND (Thu 7:15 PM CT, indoor). MHJ OUT (hamstring) again → Collins remains HOU alpha (inference). Colts CB Gardner Q, C. Ward OUT. Start. https://www.houstontexans.com/news/week-11-injury-report-texans-vs-colts
 - **2026-11-19 daily:** Not on HOU's final report. MHJ and TE B. Jordan are OUT, so targets should concentrate on him (inference). Start TNF.
+- **2026-11-20 daily:** TNF 5 tgt, 3-58-1 TD (42-yd TD), quiet after early lead (PFR/NBC).

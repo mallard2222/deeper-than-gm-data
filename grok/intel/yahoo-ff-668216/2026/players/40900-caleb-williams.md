@@ -10,3 +10,4 @@
 - **2026-11-17 daily:** Bears: Burden cleared concussion protocol, good to go W11; Monangai on track (Ben Johnson via Bears Wire 12:14 PM CT). Full weapons vs NO Sun noon (Soldier Field) → QB2 option vs Nix (LV@DEN 3:25 PM; Waddle in protocol). https://bearswire.usatoday.com/story/sports/nfl/bears/2026/11/17/bears-injury-updates-on-wr-luther-burden-cb-kyler-gordon/92828628007/
 - **2026-11-18 daily:** Not listed on Bears' Wed estimate (CHI did not practice); Burden FP, Monangai FP. Saints CB Emerson (concussion) DNP plus multiple OL/LB DNP. QB2 option vs Nix; decision by Sun 12:00 PM CT. https://www.neworleanssaints.com/news/injury-report-chicago-bears-vs-new-orleans-saints-2026-nfl-week-11-wednesday
 - **2026-11-19 daily:** Not on CHI's Thu report (search-level). QB2 option for noon Sun.
+- **2026-11-20 daily:** Not on CHI final report. vs NO Sun 12:00 PM CT, rain likely + W 15 mph (forecast) → QB2 lean Nix over Caleb (low-moderate).

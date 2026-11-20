@@ -7,3 +7,4 @@
 - **2026-11-17 daily:** Not on Colts W11 report Mon/Tue (walkthrough estimates). TE1 on depth chart (Alie-Cox IR; Mallory DNP). OTs Raimann (concussion)/Travis (knee) DNP → mild IND OL downgrade (inference). Start TNF Thu 7:15 PM CT @HOU. https://www.colts.com/team/injury-report/week/reg-11
 - **2026-11-18 daily:** Not on Colts' final W11 report → plays TNF. TE3 Mallory OUT. Both starting OTs Raimann (concussion) and Travis (knee) OUT; swing T Heck Q (personal) → pass-protection downgrade (inference). Start. https://www.colts.com/team/injury-report/week/reg-11
 - **2026-11-19 daily:** Not on IND's final report. Mallory (TE2) is OUT and both starting OTs are OUT. Start TNF; pass-pro downgrade (inference).
+- **2026-11-20 daily:** TNF 5 tgt, 1-22 (HOU 26-3). Colts released Daniel Jones and named Anthony Richardson starter (colts.com 11/20) → W12+ volatility (inference). Monitor.

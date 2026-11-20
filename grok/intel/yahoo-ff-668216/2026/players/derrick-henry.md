@@ -22,3 +22,4 @@
 - **2026-11-17 daily:** MNF W10 10-10-2 rush, 5-10 rec (ESPN API, desk 08:05 CT). Postgame: "I don't have an answer, just not good enough" (PFT). BAL has lost 5 straight. W11 @CAR Sun noon (outdoor). Keep starting; watch efficiency (inference). https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-10-carries-for-10-yards-i-dont-have-an-answer-just-not-good-enough
 - **2026-11-18 daily:** Not on Ravens' Wed report (BAL@CAR Sun noon). Adam Randall activated off IR, FP. Start. https://www.baltimoreravens.com/team/injury-report/week/reg-11
 - **2026-11-19 daily:** BAL Thu report doesn't list Henry. Humphrey (personal) sits for BAL's D. Start.
+- **2026-11-20 daily:** Not on BAL final report. BAL D without Madubuike, Hawkins, Humphrey. @CAR Sun 12:00 PM CT (dry, N 12 mph).

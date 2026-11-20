@@ -16,3 +16,4 @@
 - **2026-11-16 daily:** KC Walker "shut down for a week" (Schefter) → likely back W11 vs ARI; Wiley fx ankle. Downs W11 W/R fill option (Sun noon) — Andrew decides.
 - **2026-11-18 daily:** Not on Chiefs' Wed report (Rice FP knee; Walker DNP). Flex/WR2 candidate for W11 (ARI@KC Sun noon) behind Rice (inference). https://www.chiefs.com/news/week-11-injury-report-cardinals-vs-chiefs-2026
 - **2026-11-19 daily:** KC Thu report doesn't list Downs. Rice is FP x2 and the preferred W/R; Downs is a WR2/W/R fill option.
+- **2026-11-20 daily:** Not on KC final report. Walker/T. Smith/J. Moore OUT; ARI may start Josh Johnson. Arrowhead NNW ~15 mph wind (forecast). WR2/W/R option behind Rice.
