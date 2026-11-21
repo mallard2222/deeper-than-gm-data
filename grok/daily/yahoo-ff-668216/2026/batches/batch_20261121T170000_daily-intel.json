@@ -1,0 +1,194 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-21T16:58-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-21 16:55 CT)"
+  ],
+  "retrieved_ct": "2026-11-21T16:59:48-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 10
+ },
+ "public_sources": "ok",
+ "previous_daily_ct": "2026-11-20T17:02-06:00",
+ "previous_daily_commit": "53d5683",
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked",
+  "marks_in_wr_slot_at_tnf": "unknown - Yahoo blocked",
+  "fa_kickers": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-21-lv-no-k-elevation",
+   "type": "fact (beat report) + inference",
+   "confidence": "high (fact) / high (Gay plays, inference)",
+   "players": [
+    "Matt Gay",
+    "Kansei Matsuzawa"
+   ],
+   "owner": "Gay Vaqueros K (last-known)",
+   "source": "https://www.reviewjournal.com/sports/raiders/raiders-elevate-two-players-from-practice-squad-ahead-of-sundays-game-3917644/",
+   "recommended_response": "monitor: K swap (drop Robinson + add late-game FA K) only if Gay inactive at ~1:55 PM CT; needs Andrew approval + Yahoo; no preemptive swap",
+   "decision_deadline_ct": "2026-11-22T13:55-06:00 (inactives) / 15:25 lock"
+  },
+  {
+   "id": "2026-11-21-sf-saturday",
+   "type": "fact (official) + report",
+   "confidence": "high (CMC) / moderate-high (Evans report)",
+   "players": [
+    "Christian McCaffrey",
+    "Mike Evans",
+    "Nate Hobbs",
+    "Brandin Cooks"
+   ],
+   "owner": "CMC Vaqueros; others unknown",
+   "source": "https://www.49ers.com/news/49ers-make-a-series-of-moves-ahead-of-minvssf ; https://www.nfl.com/news/niners-wr-mike-evans-achilles-expected-to-play-sunday-vs-vikings",
+   "recommended_response": "start CMC",
+   "decision_deadline_ct": "2026-11-22T19:20-06:00"
+  },
+  {
+   "id": "2026-11-21-chi-weather-update",
+   "type": "forecast (NWS hourly)",
+   "confidence": "moderate",
+   "players": [
+    "Caleb Williams",
+    "Rome Odunze"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://mysportsweather.com/nfl/2026-11-22/no-chi",
+   "details": "rain 84% at kickoff (97% prior hour), WSW 15 mph gusts 25",
+   "recommended_response": "QB2 Nix (moderate); WR2 Rice > Downs > Odunze",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-21-kc-den-weather",
+   "type": "forecast (NWS hourly)",
+   "confidence": "moderate",
+   "players": [
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Bo Nix",
+    "Matt Gay"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://mysportsweather.com/nfl/2026-11-22/ari-kc ; https://mysportsweather.com/nfl/2026-11-22/lv-den",
+   "details": "KC dry N 15 g24; DEN dry N 5 g7 44F",
+   "recommended_response": "no change",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-21-ari-josh-johnson",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Carson Beck",
+    "Josh Johnson",
+    "Rashee Rice",
+    "Josh Downs"
+   ],
+   "owner": "KC WRs Vaqueros; others unknown",
+   "source": "https://www.azcardinals.com/news/josh-johnson-start-confirmed-after-carson-beck-downgraded",
+   "recommended_response": "Rice WR2",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-21-was-cin-final",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Joe Burrow",
+    "Tee Higgins",
+    "Dalton Risner",
+    "Andrei Iosivas",
+    "Dax Hill"
+   ],
+   "owner": "vs Vaqueros WAS DEF",
+   "source": "https://www.bengals.com/news/bengals-commanders-week-11-2026-injury-report-monday-night-football ; https://www.commanders.com/news/game-status-commanders-bengals-week-11",
+   "recommended_response": "no action",
+   "decision_deadline_ct": "2026-11-23T19:15-06:00"
+  },
+  {
+   "id": "2026-11-21-mayfield",
+   "type": "report (Pelissero via Bucs Wire)",
+   "confidence": "moderate-high",
+   "players": [
+    "Baker Mayfield"
+   ],
+   "owner": "unknown - Yahoo blocked",
+   "source": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2026/11/21/baker-mayfield-expected-to-start-against-lions/92898350007/",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-21-saints-k-smyth",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Charlie Smyth"
+   ],
+   "owner": "unknown - Yahoo blocked",
+   "source": "https://www.neworleanssaints.com/news/saints-roster-moves-week-11-elevations-game-status-bears-2026",
+   "recommended_response": "monitor (future K option)",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-21-sat-transactions-misc",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Jonathon Brooks",
+    "Roman Wilson",
+    "Nick Herbig",
+    "Michael Pittman Jr.",
+    "Brandin Cooks"
+   ],
+   "owner": "unknown - Yahoo blocked",
+   "source": "https://www.panthers.com/news/panthers-activate-mike-jackson-from-ir-among-other-moves-isaiah-simmons-ir ; https://www.steelers.com/news/steelers-make-roster-moves-ahead-of-eagles-game",
+   "recommended_response": "no action",
+   "decision_deadline_ct": null
+  },
+  {
+   "id": "2026-11-21-no-vaqueros-changes",
+   "type": "fact (absence in official Saturday moves) ",
+   "confidence": "moderate-high",
+   "players": [
+    "Derrick Henry",
+    "Tetairoa McMillan",
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Rome Odunze",
+    "Caleb Williams",
+    "Bo Nix",
+    "Fernando Mendoza",
+    "Sam LaPorta"
+   ],
+   "owner": "Vaqueros",
+   "source": "team sites + X search (see sources.md)",
+   "recommended_response": "set lineup per summary",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  },
+  {
+   "id": "2026-11-21-yahoo-auth",
+   "type": "fact (collection)",
+   "confidence": "high",
+   "players": [],
+   "owner": null,
+   "source": "local",
+   "recommended_response": "act: Andrew re-auth Yahoo in box browser",
+   "decision_deadline_ct": "2026-11-22T12:00-06:00"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-21-daily-unvalidated.md"
+}

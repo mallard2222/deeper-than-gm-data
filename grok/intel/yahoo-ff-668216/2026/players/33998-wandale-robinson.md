@@ -8,3 +8,4 @@
 - **2026-11-18 daily:** Head coach Saleh: **out for the remainder of the season** (NFL.com Wed roundup, retrieved 5:07 PM CT). Upgrades 11/17 'IR ≥4 games'. Dead roster spot for 2026; Yahoo IR full (Harvey). **#1 drop candidate** (Andrew approval). Carnell Tate (LP Wed) is the main TEN beneficiary (SI analysis). https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-18
 - **2026-11-19 daily:** No change; season over. He's the drop candidate for any K contingency (approval needed).
 - **2026-11-20 daily:** No change (season over). Still the top drop candidate (K contingency likely trigger); needs Andrew approval.
+- **2026-11-21 daily:** No change (season over). Drop candidate; no longer tied to K this week unless Gay is inactive Sunday (approval needed).

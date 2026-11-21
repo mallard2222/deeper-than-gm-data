@@ -11,3 +11,4 @@
 - **2026-11-18 daily:** Not listed on Bears' Wed estimate (CHI did not practice); Burden FP, Monangai FP. Saints CB Emerson (concussion) DNP plus multiple OL/LB DNP. QB2 option vs Nix; decision by Sun 12:00 PM CT. https://www.neworleanssaints.com/news/injury-report-chicago-bears-vs-new-orleans-saints-2026-nfl-week-11-wednesday
 - **2026-11-19 daily:** Not on CHI's Thu report (search-level). QB2 option for noon Sun.
 - **2026-11-20 daily:** Not on CHI final report. vs NO Sun 12:00 PM CT, rain likely + W 15 mph (forecast) → QB2 lean Nix over Caleb (low-moderate).
+- **2026-11-21 daily:** No Saturday change. Updated NWS hourly: Soldier Field rain 84% at kickoff (97% prior hour), WSW 15 mph gusts 25 → **QB2 Nix (moderate)** over Caleb. Caleb locks Sun 12:00 PM CT. https://mysportsweather.com/nfl/2026-11-22/no-chi

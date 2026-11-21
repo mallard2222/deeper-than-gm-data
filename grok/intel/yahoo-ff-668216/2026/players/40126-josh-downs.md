@@ -17,3 +17,4 @@
 - **2026-11-18 daily:** Not on Chiefs' Wed report (Rice FP knee; Walker DNP). Flex/WR2 candidate for W11 (ARI@KC Sun noon) behind Rice (inference). https://www.chiefs.com/news/week-11-injury-report-cardinals-vs-chiefs-2026
 - **2026-11-19 daily:** KC Thu report doesn't list Downs. Rice is FP x2 and the preferred W/R; Downs is a WR2/W/R fill option.
 - **2026-11-20 daily:** Not on KC final report. Walker/T. Smith/J. Moore OUT; ARI may start Josh Johnson. Arrowhead NNW ~15 mph wind (forecast). WR2/W/R option behind Rice.
+- **2026-11-21 daily:** No Saturday change. ARI confirmed Josh Johnson starts (Beck OUT). Arrowhead dry, N 15 g24. WR2/W/R #2 option behind Rice; now ahead of Odunze (CHI rain). https://www.azcardinals.com/news/josh-johnson-start-confirmed-after-carson-beck-downgraded

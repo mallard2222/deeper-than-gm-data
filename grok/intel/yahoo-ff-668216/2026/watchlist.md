@@ -270,3 +270,11 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **QB2 lean Nix** (Waddle cleared; CHI rain + 15 mph wind for Caleb; Bowers Q for Mendoza). **WR2 (Golden bye): Rice**, then Downs/Odunze. Deadline Sun 12:00 PM CT.
 - **Opp Deepest (inferred):** Hockenson clear; K. Murray OUT; J. Taylor/D. Jones weak TNF.
 - **League:** Nacua likely season, Maye fibula, AJB multi-week, Walker OUT, Ferguson OUT, Mayfield Q, Kincaid doubtful. Ownership unknown.
+
+## 2026-11-21 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 10th consecutive; public sources OK)
+- **K Matt Gay → MONITOR (was PREPARE).** LV elevated TE Runyon + DT C. Williams Sat; **did not elevate PS K Matsuzawa or sign a tryout K** (RJ ~4:21 PM CT). Gay still Q but is LV's only K (inference: plays). Swap (drop Robinson + late-game FA K) only if inactive ~1:55 PM CT Sun; needs Andrew approval + Yahoo.
+- **CMC start** (no designation; SF Sat moves: West activated, Cooks waived, Hobbs OUT). **Evans expected to play** (Garafolo).
+- **QB2 Nix (moderate)**: CHI rain 84% at kickoff, WSW 15 g25; DEN dry/calm. **WR2: Rice > Downs > Odunze.** ARI starts Josh Johnson (Beck OUT). Deadline Sun 12:00 PM CT.
+- **WAS DEF (MNF):** CIN Burrow/Higgins clear; G Risner OUT, Iosivas D, Dax Hill Q. No action.
+- **Opp Deepest (inferred):** nothing new.
+- **League:** Mayfield expected to start (Pelissero); NO signed K Smyth (2-yr); CAR Brooks OUT; PIT R. Wilson activated, Herbig OUT; SF waived Cooks. Ownership unknown.

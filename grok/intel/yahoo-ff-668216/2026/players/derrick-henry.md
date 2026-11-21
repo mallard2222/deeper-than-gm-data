@@ -23,3 +23,4 @@
 - **2026-11-18 daily:** Not on Ravens' Wed report (BAL@CAR Sun noon). Adam Randall activated off IR, FP. Start. https://www.baltimoreravens.com/team/injury-report/week/reg-11
 - **2026-11-19 daily:** BAL Thu report doesn't list Henry. Humphrey (personal) sits for BAL's D. Start.
 - **2026-11-20 daily:** Not on BAL final report. BAL D without Madubuike, Hawkins, Humphrey. @CAR Sun 12:00 PM CT (dry, N 12 mph).
+- **2026-11-21 daily:** No Saturday change. BAL elevated blocking TE Vannett + DT Olajiga. CAR RB Brooks downgraded OUT (not their D). Start @CAR Sun 12:00 PM CT. https://www.baltimoreravens.com/news/ravens-elevate-practice-squad-nick-vannett-david-olajiga-2026

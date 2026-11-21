@@ -199,3 +199,12 @@
   - SF Saturday report (Evans; any CMC change).
   - Keeper rules (affects Robinson drop value).
   - Warren usage with Richardson (W12+).
+
+## 2026-11-21 (daily — partial, Yahoo 302 login, 10th consecutive on record)
+- Closed: LV Saturday K elevation/signing (none). SF Saturday moves (CMC unaffected; Evans expected to play). WAS/CIN Saturday final reports. Mayfield (expected to start, report). ARI QB (Josh Johnson).
+- Open:
+  - Is Gay active Sunday (~1:55 PM CT)?
+  - Which kickers are FA on Yahoo (blocked)? Is Smyth (NO) available?
+  - Was Marks moved out of W/R before TNF (W/R TNF score)?
+  - Keeper rules (affects Robinson drop value).
+  - Warren usage with Richardson (W12+).

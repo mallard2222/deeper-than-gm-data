@@ -1,0 +1,8 @@
+# Yahoo access attempt — daily 2026-11-21 (single attempt, per instructions)
+Retrieved: 2026-11-21 16:59:48 CST (box clock)
+Target: https://football.fantasysports.yahoo.com/f1/668216/8 (team 8 page), curl, browser UA, no login attempted.
+Jar: Netscape jar built from /home/box/agent-data/chrome-cookie-seed.json (seed mtime 2026-11-21 16:55 CT; 57 yahoo-domain cookies; values not printed or stored; temp jar deleted immediately after use).
+Result: HTTP 302 -> https://login.yahoo.com/config/login?noprompt=1&.src=Fantasy... (sign-in). FAILED (session expired / signed out).
+No retry, no login, no circumvention.
+Consecutive Yahoo auth failures on record: 10th (9 on record through daily-2026-11-20 + this run).
+Last successful Yahoo pull: roster/lineup 2026-11-15 ~11:27 AM CT. Last full pull: 2026-11-14 ~5:05-5:31 PM CT.
