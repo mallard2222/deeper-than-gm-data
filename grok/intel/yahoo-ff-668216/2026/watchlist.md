@@ -278,3 +278,12 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **WAS DEF (MNF):** CIN Burrow/Higgins clear; G Risner OUT, Iosivas D, Dax Hill Q. No action.
 - **Opp Deepest (inferred):** nothing new.
 - **League:** Mayfield expected to start (Pelissero); NO signed K Smyth (2-yr); CAR Brooks OUT; PIT R. Wilson activated, Herbig OUT; SF waived Cooks. Ownership unknown.
+
+## 2026-11-22 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 11th consecutive; public sources OK)
+- **K Matt Gay ACTIVE** (raiders.com inactives 1:55 PM CT); FG 1/1 (28), XP 1/1 in progress. **K contingency closed.**
+- **Henry**: concussion eval after go-ahead TD (Ravens 3:00 PM CT) → **cleared** (Hensley 3:58 PM CT). Final 13-94-1, 4-17, 1 FL. Watch Wed BAL report.
+- **CMC SNF 7:20 PM CT**: no designation; SF inactives pending (~5:50 PM CT). Evans ready to return (Rapoport).
+- **Finals:** McMillan 6-71-1; Rice 6-53; Worthy 2-38-1; Downs 4-59; Odunze 4-45; Caleb 181/2 TD/1 INT; LaPorta 3-62. In progress: Nix, Mendoza (Bowers inactive). Lineup started unknown.
+- **WAS DEF (MNF):** Croskey-Merritt poised to return (Standig). No action.
+- **Opp Deepest (inferred):** D. Smith 5-41; Hockenson SNF (Addison/Murray OUT); McLaurin MNF.
+- **W12 waiver prep (ownership unknown):** Emmett Johnson (KC RB, 23-105-1), Ted Hurst III (TB WR, 5-56-2), Max Hurleman (PIT WR, 6-61-1), Mitchell Evans (CAR TE, 5-44-1), Zavion Thomas (CHI WR). In-game: Juwan Johnson hamstring, Noah Gray rib, Keaton Mitchell back/knee, Njoku shoulder. K Smyth 2/3 (56 long).

@@ -24,3 +24,4 @@
 - **2026-11-19 daily:** BAL Thu report doesn't list Henry. Humphrey (personal) sits for BAL's D. Start.
 - **2026-11-20 daily:** Not on BAL final report. BAL D without Madubuike, Hawkins, Humphrey. @CAR Sun 12:00 PM CT (dry, N 12 mph).
 - **2026-11-21 daily:** No Saturday change. BAL elevated blocking TE Vannett + DT Olajiga. CAR RB Brooks downgraded OUT (not their D). Start @CAR Sun 12:00 PM CT. https://www.baltimoreravens.com/news/ravens-elevate-practice-squad-nick-vannett-david-olajiga-2026
+- **2026-11-22 daily:** FINAL @CAR (L 33-35): 13-94-1 rush, 4-17 rec (5 tgt), 1 fumble lost (ESPN feed). Went to the medical tent after the go-ahead 15-yd TD (6:32 left; hit his head on the turf); concussion evaluation (Ravens official, 3:00 PM CT); **cleared from protocol** (Hensley, 3:58 PM CT); said he "feels fine" (4:25 PM CT). Monitor Wed BAL report. https://x.com/Ravens/status/2124609049488453664 ; https://x.com/jamisonhensley/status/2124623630495813668

@@ -9,3 +9,4 @@
 - **2026-11-19 daily:** No change; season over. He's the drop candidate for any K contingency (approval needed).
 - **2026-11-20 daily:** No change (season over). Still the top drop candidate (K contingency likely trigger); needs Andrew approval.
 - **2026-11-21 daily:** No change (season over). Drop candidate; no longer tied to K this week unless Gay is inactive Sunday (approval needed).
+- **2026-11-22 daily:** No change (season over). K contingency closed (Gay active), so no K-tied drop this week; remains the default drop candidate for W12 waivers (approval needed).

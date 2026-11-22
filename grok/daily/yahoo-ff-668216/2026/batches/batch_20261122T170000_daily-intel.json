@@ -1,0 +1,195 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-22T16:55-06:00",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-22 16:56 CT)"
+  ],
+  "retrieved_ct": "2026-11-22T16:56:51-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 11
+ },
+ "public_sources": "ok (SNF inactives not yet posted; 3 games in progress at retrieval)",
+ "previous_daily_ct": "2026-11-21T16:58-06:00",
+ "previous_daily_commit": "5a3fc77",
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked",
+  "w11_started_lineup": "unknown - Yahoo blocked",
+  "w11_fantasy_points": "unknown - Yahoo blocked",
+  "fa_kickers": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-22-gay-active",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Matt Gay"
+   ],
+   "owner": "Gay Vaqueros K (last-known)",
+   "source": "https://www.raiders.com/news/las-vegas-raiders-week-11-inactives-vs-denver-broncos",
+   "recommended_response": "no action; K contingency closed (Gay active, FG 1/1 28, XP 1/1 in progress at 4:58 PM CT)",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-22-henry-concussion-cleared",
+   "type": "fact (official + beat)",
+   "confidence": "high",
+   "players": [
+    "Derrick Henry"
+   ],
+   "owner": "Vaqueros RB (last-known)",
+   "source": "https://x.com/Ravens/status/2124609049488453664 ; https://x.com/jamisonhensley/status/2124623630495813668",
+   "recommended_response": "monitor Wed BAL practice report; final 13-94-1 rush, 4-17 rec, 1 FL",
+   "decision_deadline_ct": "2026-11-25 (Wed report)"
+  },
+  {
+   "id": "2026-11-22-cmc-snf-pending",
+   "type": "fact (official Fri) + pending inactives",
+   "confidence": "high",
+   "players": [
+    "Christian McCaffrey",
+    "Mike Evans"
+   ],
+   "owner": "CMC Vaqueros; Evans unknown",
+   "source": "https://www.49ers.com/news/evans-greenlaw-questionable-no-players-ruled-out-vs-vikings-practice-report-minvssf ; https://x.com/RapSheet/status/2124473099399913808",
+   "recommended_response": "start; monitor SF inactives ~5:50 PM CT",
+   "decision_deadline_ct": "2026-11-22T19:20-06:00"
+  },
+  {
+   "id": "2026-11-22-vaqueros-final-lines",
+   "type": "fact (ESPN stat feed, unofficial)",
+   "confidence": "high (lines)",
+   "players": [
+    "Tetairoa McMillan",
+    "Rashee Rice",
+    "Xavier Worthy",
+    "Josh Downs",
+    "Rome Odunze",
+    "Caleb Williams",
+    "Sam LaPorta"
+   ],
+   "owner": "Vaqueros (started/benched unknown)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873068 (+067,071,072)",
+   "recommended_response": "record only",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-22-den-lv-in-progress",
+   "type": "fact (in progress)",
+   "confidence": "n/a",
+   "players": [
+    "Bo Nix",
+    "Fernando Mendoza",
+    "Matt Gay"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873075",
+   "recommended_response": "none; lines partial (DEN 17-10, 0:11 2Q at 4:58 PM CT)",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-22-bowers-inactive",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Brock Bowers",
+    "Fernando Mendoza"
+   ],
+   "owner": "Bowers unknown",
+   "source": "https://www.raiders.com/news/las-vegas-raiders-week-11-inactives-vs-denver-broncos",
+   "recommended_response": "none (Mendoza W11 downgrade)",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-22-was-cin-mnf",
+   "type": "report (beat)",
+   "confidence": "moderate",
+   "players": [
+    "Jacory Croskey-Merritt"
+   ],
+   "owner": "vs Vaqueros WAS DEF",
+   "source": "https://x.com/BenStandig/status/2124521013660541417",
+   "recommended_response": "no action",
+   "decision_deadline_ct": "2026-11-23T19:15-06:00"
+  },
+  {
+   "id": "2026-11-22-in-game-injuries",
+   "type": "fact (official team posts)",
+   "confidence": "high (fact) / low (impact)",
+   "players": [
+    "Juwan Johnson",
+    "Noah Gray",
+    "Keaton Mitchell",
+    "David Njoku"
+   ],
+   "owner": "unknown",
+   "source": "https://x.com/SaintsPR/status/2124600276254327185 ; https://x.com/Chiefs/status/2124603634789110061 ; https://x.com/chargers/status/2124633629737582640",
+   "recommended_response": "monitor Mon/Tue updates",
+   "decision_deadline_ct": "W12 waiver run (unverified)"
+  },
+  {
+   "id": "2026-11-22-waiver-relevant-lines",
+   "type": "fact (stat feed) + inference",
+   "confidence": "high (lines) / low-moderate (value)",
+   "players": [
+    "Emmett Johnson",
+    "Ted Hurst III",
+    "Max Hurleman",
+    "Mitchell Evans",
+    "Zavion Thomas"
+   ],
+   "owner": "unknown - Yahoo blocked",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873067 (+072,076,068,071)",
+   "recommended_response": "prepare: verify availability on Yahoo; any bid/drop needs Andrew approval",
+   "decision_deadline_ct": "W12 waiver run (unverified)"
+  },
+  {
+   "id": "2026-11-22-smyth-k",
+   "type": "fact (stat feed)",
+   "confidence": "high",
+   "players": [
+    "Charlie Smyth"
+   ],
+   "owner": "unknown",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873071",
+   "recommended_response": "monitor (future K option)",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-22-opp-deepest",
+   "type": "fact (stat feed) + inference",
+   "confidence": "moderate (opponent inferred)",
+   "players": [
+    "DeVonta Smith",
+    "T.J. Hockenson",
+    "Terry McLaurin"
+   ],
+   "owner": "Deepest (inferred, stale)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873076",
+   "recommended_response": "none",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-22-yahoo-auth",
+   "type": "fact (collection)",
+   "confidence": "high",
+   "players": [],
+   "owner": "\u2014",
+   "source": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-11-22/yahoo-access-attempt.txt",
+   "recommended_response": "act: Andrew re-auth Yahoo in box browser",
+   "decision_deadline_ct": "before W12 waivers"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-22-daily-unvalidated.md"
+}

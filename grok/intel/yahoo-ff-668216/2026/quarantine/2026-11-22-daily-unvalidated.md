@@ -1,0 +1,12 @@
+# Quarantine — daily 2026-11-22 (unvalidated signals)
+- **Stat lines** come from ESPN's public feed (site.api.espn.com), not NFL gamebooks or Yahoo. Stat corrections are possible. Yahoo fantasy points and the lineup actually started are unknown (Yahoo blocked).
+- **In-progress games (LV@DEN, NYJ@LAC, JAX@NYG)**: partial lines at 4:58 PM CT. Do not treat them as final.
+- **Henry "cleared"**: from ESPN beat Jamison Hensley (3:58 PM CT); no Ravens official "cleared" post was fetched (the official post covers the evaluation only). Henry's own "feels fine" comes via Hensley.
+- **Evans "ready to return"**: Rapoport citing his agent; officially Questionable until SF inactives (~5:50 PM CT).
+- **Trey Hendrickson (BAL) knee/lower-body questionable to return**: aggregator/fan relays only (FantasyPros, RavensNationCP, WireReportNFL); no official/beat post fetched.
+- **Keaton Mitchell injury**: Chargers posted "back" (3:25 PM CT) and later "knee" (4:38 PM CT). Possibly two separate injuries or a correction; unclear.
+- **Croskey-Merritt "poised to return"**: Standig (The Athletic) preview; official status was Q on Saturday.
+- **Waiver candidates**: single-game lines; ownership unknown. Value is inference.
+- **W12 waiver deadline**: assumed Tue night/Wed per prior weeks; not verified on Yahoo.
+- **Deepest as W11 opponent and their roster**: rotation inference + stale roster.
+- **Fan/bettor chatter on X** ("Henry got hurt… shut him down", "our best WR got hurt"): non-informational; ignored.

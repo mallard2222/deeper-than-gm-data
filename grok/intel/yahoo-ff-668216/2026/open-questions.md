@@ -208,3 +208,13 @@
   - Was Marks moved out of W/R before TNF (W/R TNF score)?
   - Keeper rules (affects Robinson drop value).
   - Warren usage with Richardson (W12+).
+
+## 2026-11-22 (daily — partial, Yahoo 302 login, 11th consecutive on record)
+- Closed: Gay active Sunday (yes, kicking). Mayfield started (active per Schefter; 187 yd, 2 TD). Henry concussion eval (cleared in-game).
+- Open:
+  - CMC/Evans SNF inactives (~5:50 PM CT) and CMC SNF line.
+  - Which Vaqueros lineup was actually started (QB2, WR2, W/R/Marks) and W11 score vs Deepest (Yahoo blocked).
+  - Henry on Wednesday BAL injury report?
+  - Severity: Juwan Johnson hamstring, Keaton Mitchell knee/back, Noah Gray rib, Njoku shoulder.
+  - FA status of Emmett Johnson / Hurst / Hurleman / Mitchell Evans / Smyth; W12 waiver deadline; FAAB (Yahoo blocked).
+  - Keeper rules (affects Robinson drop value).

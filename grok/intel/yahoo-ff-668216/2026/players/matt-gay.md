@@ -8,3 +8,4 @@
   - Contingency unchanged (drop Robinson + add K; approval + Yahoo). Decide by Sun ~1:55 PM CT inactives at the latest.
 - **2026-11-21 daily:** Sat: LV elevated TE Runyon + DT C. Williams; **did not elevate PS K Matsuzawa and did not sign Koo/Havrisik/Romo** (RJ, Adam Hill, ~4:21 PM CT: "a good sign for Matt Gay's availability"). Still officially Questionable; no downgrade. Inference (high): plays. DEN forecast 44°F, N 5 mph, dry. https://www.reviewjournal.com/sports/raiders/raiders-elevate-two-players-from-practice-squad-ahead-of-sundays-game-3917644/
   - Contingency → MONITOR: swap only if inactive at ~1:55 PM CT Sun (approval + Yahoo; K must be from an unlocked late game). No preemptive swap.
+- **2026-11-22 daily:** **Active** (not on official LV inactives, raiders.com 11:55 AM PT = 1:55 PM CT; RJ 2:07 PM CT). In progress at 4:58 PM CT: FG 1/1 (28), XP 1/1. K contingency closed. https://www.raiders.com/news/las-vegas-raiders-week-11-inactives-vs-denver-broncos
