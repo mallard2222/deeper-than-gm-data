@@ -13,3 +13,4 @@
 - **2026-11-20 daily:** Not on CHI final report. vs NO Sun 12:00 PM CT, rain likely + W 15 mph (forecast) → QB2 lean Nix over Caleb (low-moderate).
 - **2026-11-21 daily:** No Saturday change. Updated NWS hourly: Soldier Field rain 84% at kickoff (97% prior hour), WSW 15 mph gusts 25 → **QB2 Nix (moderate)** over Caleb. Caleb locks Sun 12:00 PM CT. https://mysportsweather.com/nfl/2026-11-22/no-chi
 - **2026-11-22 daily:** FINAL vs NO (W 21-13, rain): 15/23, 181 yd, 2 TD, 1 INT; 4-11 rush (ESPN feed). Whether started over Nix is unknown (Yahoo blocked).
+- **2026-11-23 daily:** W12 @ DET Thu 11/26 12:00 PM CT (early lock). Official CHI Monday report not retrieved; not listed on CBS secondary.

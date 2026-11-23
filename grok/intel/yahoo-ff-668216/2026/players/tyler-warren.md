@@ -8,3 +8,4 @@
 - **2026-11-18 daily:** Not on Colts' final W11 report → plays TNF. TE3 Mallory OUT. Both starting OTs Raimann (concussion) and Travis (knee) OUT; swing T Heck Q (personal) → pass-protection downgrade (inference). Start. https://www.colts.com/team/injury-report/week/reg-11
 - **2026-11-19 daily:** Not on IND's final report. Mallory (TE2) is OUT and both starting OTs are OUT. Start TNF; pass-pro downgrade (inference).
 - **2026-11-20 daily:** TNF 5 tgt, 1-22 (HOU 26-3). Colts released Daniel Jones and named Anthony Richardson starter (colts.com 11/20) → W12+ volatility (inference). Monitor.
+- **2026-11-23 daily:** W12 vs NYG Sun 11/29 12:00 PM CT. Richardson is the starter. Pierce (IR heel) not ruled out for the season (Steichen); McGowan to miss time. W11: 1-22 on 5 tgt.

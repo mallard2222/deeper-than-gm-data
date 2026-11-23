@@ -1,0 +1,220 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-23T16:55-06:00",
+ "nfl_week_note": "MNF 11/23 is NFL Week 11 (ESPN schedule); Week 12 starts Wed 11/25",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-23 16:55 CT)"
+  ],
+  "retrieved_ct": "2026-11-23T16:56:19-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 12
+ },
+ "public_sources": "ok (official CHI/DET/PHI/DAL Monday reports not retrieved; MNF inactives not yet posted)",
+ "previous_daily_ct": "2026-11-22T16:55-06:00",
+ "previous_daily_commit": "06654872defc8f88942dd940db88e9b0e9aef552",
+ "yahoo_transactions_made": false,
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked",
+  "w11_started_lineup": "unknown - Yahoo blocked",
+  "w11_fantasy_points": "unknown - Yahoo blocked",
+  "w12_opponent": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-23-cmc-snf-final",
+   "type": "fact (stat feed)",
+   "confidence": "high",
+   "players": [
+    "Christian McCaffrey"
+   ],
+   "owner": "Vaqueros RB (last-known)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873077",
+   "recommended_response": "start W12 vs SEA; 12-49-1 rush, 2-13 rec, no injury",
+   "decision_deadline_ct": "2026-11-29T15:25-06:00"
+  },
+  {
+   "id": "2026-11-23-mckivitz-season",
+   "type": "report (HC via insider)",
+   "confidence": "high",
+   "players": [
+    "Colton McKivitz",
+    "Christian McCaffrey"
+   ],
+   "owner": "SF",
+   "source": "https://x.com/AdamSchefter/status/2124821572431343867",
+   "recommended_response": "monitor; mild CMC run-block downgrade (inference)",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-23-henry-followup",
+   "type": "fact (secondary) + absence of new negatives",
+   "confidence": "high",
+   "players": [
+    "Derrick Henry"
+   ],
+   "owner": "Vaqueros RB (last-known)",
+   "source": "https://x.com/jamisonhensley/status/2124978993623712097",
+   "recommended_response": "monitor Wed BAL report",
+   "decision_deadline_ct": "2026-11-25"
+  },
+  {
+   "id": "2026-11-23-w12-schedule-locks",
+   "type": "fact (schedule feed)",
+   "confidence": "high",
+   "players": [
+    "Jordan Love",
+    "Matthew Golden",
+    "Caleb Williams",
+    "Rome Odunze",
+    "Sam LaPorta",
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Bo Nix"
+   ],
+   "owner": "Vaqueros (last-known)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?seasontype=2&week=12",
+   "recommended_response": "prepare W12 lineup; first lock Wed 7:00 PM CT",
+   "decision_deadline_ct": "2026-11-25T19:00-06:00"
+  },
+  {
+   "id": "2026-11-23-waiver-timing",
+   "type": "inference (prior Yahoo data)",
+   "confidence": "moderate",
+   "players": [],
+   "owner": "\u2014",
+   "source": "grok/intel/yahoo-ff-668216/2026/outcomes/W10-2026-11-11-waiver-outcomes.md",
+   "recommended_response": "claims by Tue night (W10 processed Wed 3:53 AM CT)",
+   "decision_deadline_ct": "2026-11-24 night"
+  },
+  {
+   "id": "2026-11-23-trade-end",
+   "type": "fact (Yahoo settings 11/03, 11/10)",
+   "confidence": "high",
+   "players": [],
+   "owner": "league",
+   "source": "grok/intel/yahoo-ff-668216/2026/league-rules.md",
+   "recommended_response": "consider; trade end date Sat 11/28",
+   "decision_deadline_ct": "2026-11-28"
+  },
+  {
+   "id": "2026-11-23-gb-report",
+   "type": "fact (official)",
+   "confidence": "high",
+   "players": [
+    "Jordan Love",
+    "Matthew Golden",
+    "Josh Jacobs"
+   ],
+   "owner": "Vaqueros QB/WR (last-known)",
+   "source": "https://www.packers.com/news/packers-rams-injury-report-nov-23-2026",
+   "recommended_response": "monitor Tue designations",
+   "decision_deadline_ct": "2026-11-25T19:00-06:00"
+  },
+  {
+   "id": "2026-11-23-marks-concussion",
+   "type": "report (HC via beat, secondary feed)",
+   "confidence": "moderate",
+   "players": [
+    "Woody Marks"
+   ],
+   "owner": "Vaqueros RB (last-known)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries",
+   "recommended_response": "monitor HOU practice reports",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-23-walker-dnp-emmett-johnson",
+   "type": "fact (official estimate) + inference",
+   "confidence": "high (fact) / moderate (value)",
+   "players": [
+    "Kenneth Walker III",
+    "Emmett Johnson"
+   ],
+   "owner": "E. Johnson unknown",
+   "source": "https://x.com/Chiefs/status/2124991426299916345",
+   "recommended_response": "prepare claim E. Johnson, drop Wan'Dale Robinson (Andrew approval + Yahoo needed; bid TBD)",
+   "decision_deadline_ct": "2026-11-24 night"
+  },
+  {
+   "id": "2026-11-23-was-mnf",
+   "type": "report (insiders)",
+   "confidence": "high",
+   "players": [
+    "Jacory Croskey-Merritt"
+   ],
+   "owner": "vs Vaqueros WAS DEF",
+   "source": "https://x.com/AdamSchefter/status/2124971338347708591",
+   "recommended_response": "no action",
+   "decision_deadline_ct": "2026-11-23T19:15-06:00"
+  },
+  {
+   "id": "2026-11-23-metcalf-coker",
+   "type": "report (insider / AP)",
+   "confidence": "high",
+   "players": [
+    "DK Metcalf",
+    "Max Hurleman",
+    "Jalen Coker",
+    "Mitchell Evans"
+   ],
+   "owner": "unknown",
+   "source": "https://x.com/AdamSchefter/status/2124970950936678498 ; https://x.com/SteveReedAP/status/2124934487943291344",
+   "recommended_response": "monitor; no role bump for Hurleman/M. Evans",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-23-league-news",
+   "type": "report (insiders/beat)",
+   "confidence": "high",
+   "players": [
+    "Brandon Aiyuk",
+    "Daniel Jones",
+    "Terrance Ferguson",
+    "Justin Herbert",
+    "Alec Pierce",
+    "Saquon Barkley",
+    "Juwan Johnson",
+    "Bhayshul Tuten"
+   ],
+   "owner": "unknown",
+   "source": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-11-23/sources.md",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-23-opp-deepest",
+   "type": "fact (stat feed) + inference",
+   "confidence": "moderate (opponent inferred)",
+   "players": [
+    "T.J. Hockenson",
+    "Terry McLaurin"
+   ],
+   "owner": "Deepest (inferred, stale)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873077",
+   "recommended_response": "none",
+   "decision_deadline_ct": "\u2014"
+  },
+  {
+   "id": "2026-11-23-yahoo-auth",
+   "type": "fact (collection)",
+   "confidence": "high",
+   "players": [],
+   "owner": "\u2014",
+   "source": "grok/daily/yahoo-ff-668216/2026/evidence/daily-2026-11-23/yahoo-access-attempt.txt",
+   "recommended_response": "act: Andrew re-auth Yahoo in box browser",
+   "decision_deadline_ct": "2026-11-24 PM (before waiver run)"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-23-daily-unvalidated.md"
+}

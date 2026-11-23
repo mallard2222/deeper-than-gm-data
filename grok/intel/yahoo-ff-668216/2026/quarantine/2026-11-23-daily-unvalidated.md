@@ -1,0 +1,13 @@
+# Quarantine — daily 2026-11-23 (unvalidated signals)
+- **Stat lines** (CMC, Nix, Mendoza, Gay, Hockenson) are from ESPN's public feed, not gamebooks or Yahoo. Yahoo fantasy points, the W11 lineup actually started, and the W11 result vs Deepest are unknown.
+- **Marks "trending / hopeful"**: Ryans quote relayed by the ESPN/RotoWire feed citing Aaron Wilson; the original Wilson post wasn't fetched. He's still in the protocol.
+- **Henry**: "cleared + media-available" via the ESPN feed citing Giana Han. Monday: absence of a Henry injury item in the Hensley/Zrebiec Minter-presser posts is not a clearance statement.
+- **Waiver processing time** (early Wed 11/25) is inferred from W10 (processed Wed 3:53 AM CT). Not verified on Yahoo this week; the Thanksgiving schedule could change it.
+- **Trade end date Nov 28** is from the 11/03 and 11/10 Yahoo settings captures, not re-verified.
+- **Jacobs "not expected to play"**: CBS citing LaFleur; officially he was LP/LP with no designation yet (designations come Tue).
+- **Trey Hendrickson knee sprain**: @RavensMed11 (independent injury-analysis account) "may have"; no official/beat confirmation fetched.
+- **Aiyuk to WAS practice squad**: Rapoport calls it the "most likely" option, which is speculation.
+- **CHI/DET, PHI/DAL Monday reports**: official PDFs/pages not retrieved; CBS secondary only (CHI Gordon Q, Roschon Johnson Q).
+- **Emmett Johnson / Hurst / Hurleman / M. Evans ownership** and FAAB: unknown (Yahoo blocked). Value calls are inference.
+- **W12 opponent**: unknown; no rotation record in repo.
+- **Fan/bettor chatter** (MNF parlays, "Henry left with a head injury" recaps): non-informational; ignored.

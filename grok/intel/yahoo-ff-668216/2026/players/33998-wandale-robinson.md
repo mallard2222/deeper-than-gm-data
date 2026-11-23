@@ -10,3 +10,4 @@
 - **2026-11-20 daily:** No change (season over). Still the top drop candidate (K contingency likely trigger); needs Andrew approval.
 - **2026-11-21 daily:** No change (season over). Drop candidate; no longer tied to K this week unless Gay is inactive Sunday (approval needed).
 - **2026-11-22 daily:** No change (season over). K contingency closed (Gay active), so no K-tied drop this week; remains the default drop candidate for W12 waivers (approval needed).
+- **2026-11-23 daily:** Default drop candidate for a W12 Emmett Johnson claim (needs Andrew approval + Yahoo). Claims due Tue night 11/24 (inferred).

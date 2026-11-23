@@ -218,3 +218,15 @@
   - Severity: Juwan Johnson hamstring, Keaton Mitchell knee/back, Noah Gray rib, Njoku shoulder.
   - FA status of Emmett Johnson / Hurst / Hurleman / Mitchell Evans / Smyth; W12 waiver deadline; FAAB (Yahoo blocked).
   - Keeper rules (affects Robinson drop value).
+
+## 2026-11-23 (daily — partial, Yahoo 302 login, 12th consecutive on record)
+- Closed: CMC SNF (played, 12-49-1, no injury); Evans returned (6-109-1); Henry no new issue Monday.
+- Open:
+  - W11 lineup started, final score vs Deepest, result (Yahoo blocked; MNF McLaurin + our WAS DEF tonight).
+  - Exact W12 waiver processing time (Thanksgiving week; inferred early Wed 11/25).
+  - Emmett Johnson / Hurst / Hurleman / M. Evans availability; FAAB balance; pending claims.
+  - W12 opponent identity.
+  - Marks's protocol clearance (HOU Wed–Fri reports).
+  - GB Tuesday designations (Love/Golden); KC Walker participation Tue/Wed.
+  - Keeper rules (affects Robinson drop value, Johnson add value).
+  - Is a trade worth exploring before the Nov 28 trade end date? (needs Yahoo rosters)

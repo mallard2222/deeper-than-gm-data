@@ -287,3 +287,15 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **WAS DEF (MNF):** Croskey-Merritt poised to return (Standig). No action.
 - **Opp Deepest (inferred):** D. Smith 5-41; Hockenson SNF (Addison/Murray OUT); McLaurin MNF.
 - **W12 waiver prep (ownership unknown):** Emmett Johnson (KC RB, 23-105-1), Ted Hurst III (TB WR, 5-56-2), Max Hurleman (PIT WR, 6-61-1), Mitchell Evans (CAR TE, 5-44-1), Zavion Thomas (CHI WR). In-game: Juwan Johnson hamstring, Noah Gray rib, Keaton Mitchell back/knee, Njoku shoulder. K Smyth 2/3 (56 long).
+
+## 2026-11-23 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 12th consecutive; public sources OK)
+- **Calendar:** MNF tonight is still W11. **W12 locks start early:** Wed 7:00 PM CT GB@LAR (Love, Golden); Thu noon CHI@DET (Caleb, Odunze, LaPorta); Thu 7:20 PM KC@BUF (Rice, Downs, Worthy); Fri 2:00 PM DEN@PIT (Nix).
+- **PENDING — W12 waivers:** claims likely process early Wed 11/25 (inferred from W10's Wed 3:53 AM). **PREPARE: Emmett Johnson (KC RB) claim, drop Wan'Dale Robinson.** Needs Andrew approval + Yahoo (availability, FAAB). Walker DNP Mon (official KC estimate). Secondary: Hurst, Hurleman (Metcalf not suspended), M. Evans (Coker cleared).
+- **RESOLVED — CMC SNF:** 12-49-1, 2-13, no injury. SF RT McKivitz out for season (mild downgrade, inference). W12 vs SEA, start.
+- **RESOLVED — Henry follow-up:** cleared, no Monday negatives. Watch the Wed BAL report.
+- **WATCH — Marks (concussion):** Ryans "trending… hopeful" for Sun vs BAL. HOU reports Wed–Fri.
+- **WATCH — Love/Golden:** not on GB Sun/Mon reports; Jacobs not expected to play. Tue designations.
+- **WATCH — trade end date Sat 11/28** (league settings).
+- **WAS DEF MNF:** Croskey-Merritt activated, plays. No action.
+- **League:** Herbert in concussion protocol; Aiyuk waived; Daniel Jones UFA; Ferguson (LAR TE) out for season; Pierce IR (not ruled out); Barkley LP; Juwan Johnson still being evaluated; Tuten ankle "nothing too bad." Ownership unknown.
+- **PENDING — Yahoo re-auth (Andrew):** needed before Tue night.
