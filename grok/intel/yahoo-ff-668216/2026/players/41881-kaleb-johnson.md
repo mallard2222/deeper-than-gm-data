@@ -10,3 +10,4 @@
   - Value to Vaqueros: depth / keeper flyer (keeper rules unknown).
   - Market: FFAmuseBouche (Jacobs owner, $69, likely #1 priority) is a natural bidder.
   - Suggested bid: $3–8 (max $10), docs only.
+- **2026-11-24 daily:** Jacobs officially **Questionable** (LP/LP/LP; packers.com 12:00 PM CT). LaFleur "remains unlikely" (relay of Demovsky, 2:44 PM CT); an unverified "expected to return" claim is quarantined. Option A stays; lean bid $3–5 (inference). Lock Wed 7:00 PM CT @LAR. Resolves at inactives ~5:30 PM CT Wed.

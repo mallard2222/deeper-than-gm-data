@@ -313,3 +313,14 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
   - LaPorta ankle (limited Mon). Marks protocol. Walker (DNP Mon; OC says Walker starts if he plays). Harvey practice window (W13).
   - Tuten (FFAmuseBouche) ankle Q. Jacobs OUT likely (FFAmuseBouche).
 - **DROPPED-PLAYER TRACKING:** Freiermuth W10 10.50 / W11 6.50. Washington W10 3.20 / W11 4.20.
+
+## 2026-11-24 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 14th consecutive; public sources OK)
+- **RESOLVED — Love/Golden:** not on the GB final report (official 12:00 PM). Start W12; lock Wed 7:00 PM CT.
+- **WATCH — Jacobs (FFAmuseBouche):** officially Q, LP all week; LaFleur "unlikely" (relay). An unverified "expected to return" claim is quarantined. GB inactives Wed ~5:30 PM CT.
+- **PENDING — W12 claim decision tonight (Andrew + Yahoo):** Kaleb Johnson (lean $3–5 now that Jacobs is Q, not OUT) / Antonio Williams (NEW: 9-122, 84% snaps MNF) / Caleb Douglas / Hurst / hold. Drop: Wan'Dale Robinson.
+- **UPGRADE — LaPorta:** LP→FP Tue (official Lions). Lean TE over Warren if he has no Wed designation; lock Thu noon.
+- **RESOLVED — Caleb/Odunze:** not on the Bears' Tue estimated report.
+- **WATCH — KC@BUF weather:** rain and wind. Bench KC WRs (Rice/Downs/Worthy). Walker LIMITED Tue (E. Johnson value down; trade-only).
+- **RESOLVED — WAS DEF W11:** 22–20 W, 3 sacks, 0 TO, 20 PA (~7 pts computed).
+- **DEN:** Dobbins suspended W12; Badie designated to return. Nix no injury. Harvey (IR) W13+.
+- **League:** Aiyuk cleared waivers, visits WAS Wed; Barkley full; Parsons activated.

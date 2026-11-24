@@ -20,3 +20,4 @@
 - **2026-11-21 daily:** No Saturday change. ARI confirmed Josh Johnson starts (Beck OUT). Arrowhead dry, N 15 g24. WR2/W/R #2 option behind Rice; now ahead of Odunze (CHI rain). https://www.azcardinals.com/news/josh-johnson-start-confirmed-after-carson-beck-downgraded
 - **2026-11-22 daily:** FINAL vs ARI (W 34-7): 4-59-0 (ESPN feed). Started/benched unknown.
 - **2026-11-23 daily:** W12 @ BUF Thu 11/26 7:20 PM CT (early lock). Not on the KC Monday estimate (walkthrough).
+- **2026-11-24 daily:** not on KC's Tue report. Buffalo forecast rain ~90%, gusts ~30 mph (local TV/aggregators). Bench lean W12 (inference).

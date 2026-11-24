@@ -12,3 +12,4 @@
 - **2026-11-24 W12 desk:** still in the concussion protocol (Ryans Mon: "trending in the right direction… hopeful"). Montgomery returned W11 with 26 carries on 73% of snaps.
   - W10: 12 carries on 45% of snaps, 7.00 pts.
   - Expect a timeshare if he plays. Optional drop candidate (option B). Not suggested for W/R in W12 (Judkins vs LV preferred).
+- **2026-11-24 daily:** no new item; ESPN feed still Questionable (concussion protocol). HOU first report Wed.

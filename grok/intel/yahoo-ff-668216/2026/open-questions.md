@@ -243,3 +243,14 @@
 9. Harvey W13 return and the IR-slot decision (Robinson could take the IR slot instead of being dropped).
 10. Two Brad identities (brad58794 vs brad95652): still kept separate.
 11. Rachaad White W9 scoring mismatch (+2.00): computed vs Yahoo attribution.
+
+## 2026-11-24 (daily — partial, Yahoo 302 login, 14th consecutive on record)
+- Closed: Love/Golden designations (none); Caleb/Odunze Tue (not listed); WAS DEF MNF result (22–20 W).
+- Open:
+  - Jacobs active or inactive (Wed ~5:30 PM CT). It decides Kaleb Johnson's value.
+  - Andrew's decision on a W12 claim (Kaleb / A. Williams / Douglas / Hurst / hold) before the overnight processing; plus FAAB and availability (Yahoo blocked).
+  - LaPorta's final status (Wed CHI/DET final report).
+  - Buffalo weather on Thu night (NWS).
+  - Henry, CMC, Marks on the Wed reports.
+  - Yahoo re-auth (14 straight failures). W11 result; W12 opponent verification.
+  - Keeper rules (still unknown).

@@ -5,3 +5,4 @@
   - Usage: W10 22 carries, 7 targets (88% snaps); W11 23 carries, 4 targets (82%, 6 RZ carries). Computed league points: W10 32.10, W11 22.30.
   - OC: Walker remains the starter when healthy. Walker DNP Mon (groin).
   - Value to Vaqueros: trade-only. Our RB slots are full (Henry/CMC). Keeper: rookie 5th-rounder, rules unknown.
+- **2026-11-24 daily:** Walker (groin) **LIMITED** Tue (Chiefs official 3:46 PM CT). Trending toward playing, so E. Johnson's W12 value is down. Still trade-only (Good Strongs last-known). KC@BUF rain and wind Thu 7:20 PM CT.
