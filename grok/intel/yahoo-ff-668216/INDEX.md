@@ -14,6 +14,15 @@ Scope: Deeper Than / Vaqueros, Yahoo league `668216`. This index is additive; so
 - [Decision log](./2026/decision-log.md) — stable links from analysis to approved execution state.
 - [Runs](./2026/runs/) — collection/analysis run manifests.
 
+## W12 Tuesday desk (2026-11-24, ~7:57–8:20 AM CT) — PARTIAL, Yahoo 302 login (13th consecutive)
+
+- [W12 package](../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/) · [recommendation](../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/RECOMMENDATION.md) · [learning loop](../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/learning-loop.md) · [weekly-package.json](../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/weekly-package.json) · [evidence](../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/evidence/)
+- [Run manifest](./2026/runs/run-2026-W12-20261124T0757CT.json) · [usage W1–W11](./2026/usage/usage-2026-W01-W11.csv) · [league points tool](../../tools/league_points.py) · [E. Johnson dispute](./2026/quarantine/2026-11-24-emmett-johnson-ownership-dispute.md) · players: [Kaleb Johnson](./2026/players/41881-kaleb-johnson.md), [Caleb Douglas](./2026/players/42697-caleb-douglas.md), [LaPorta](./2026/players/40064-sam-laporta.md)
+- Daily chain since the last desk: [daily 11/23](../../daily/yahoo-ff-668216/2026/daily-report-2026-11-23.md) (prior dailies 11/17–11/22 in the same folder) · [W11 desk](../../waivers/yahoo-ff-668216/2026/W11-2026-11-17/README.md)
+- Execution: [transaction ledger](../../transactions/yahoo-ff-668216/2026/ledger-2026.csv). No W11/W12 submissions are recorded; the last execution was 2026-11-14 (Worthy add / Marks swap).
+- Outcomes: W10 computed 141.32 (likely L, not official). W11 unknown. See the learning loop.
+- Headline: docs-only Kaleb Johnson $3–8 (drop Robinson) vs hold. Emmett Johnson is trade-only (Good Strongs, last-known). Playoff odds very low (inference). Trade end Sat 11/28.
+
 ## W10 decision memo (2026-11-14 ~5:40 PM CT)
 
 - [decision-memo-W10-2026-11-14.md](./2026/usage/decision-memo-W10-2026-11-14.md) — recommendation only: approve Marks→W/R / McMillan→W/T / Rice→BN (low–moderate); hold on Worthy/Freiermuth (moderate). Deadline Sun Nov 15 12:00 PM CT.

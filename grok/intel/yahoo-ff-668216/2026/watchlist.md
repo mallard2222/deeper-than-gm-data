@@ -299,3 +299,17 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **WAS DEF MNF:** Croskey-Merritt activated, plays. No action.
 - **League:** Herbert in concussion protocol; Aiyuk waived; Daniel Jones UFA; Ferguson (LAR TE) out for season; Pierce IR (not ruled out); Barkley LP; Juwan Johnson still being evaluated; Tuten ankle "nothing too bad." Ownership unknown.
 - **PENDING — Yahoo re-auth (Andrew):** needed before Tue night.
+
+## 2026-11-24 (W12 Tuesday desk — PARTIAL: Yahoo 302 login, 13th consecutive; public sources OK)
+- **ADD TARGET (docs only):** Kaleb Johnson (GB RB, 41881). Jacobs is not expected to play Wed, so he's the lead early-down back. Bid $3–8 (max $10), drop Wan'Dale Robinson. FFAmuseBouche (Jacobs owner, $69) is a likely competitor.
+- **ALT ADDS:**
+  - Caleb Douglas (MIA WR, 42697): 30% target share W11. $2–6.
+  - Ted Hurst III (TB WR, 42706): 64% snaps, 2 TD W11 (1-game sample). $1–3.
+  - Antonio Williams (WAS WR): 11 targets, 34% share W11.
+  - Mitchell Evans (CAR TE): 12.9 W11; Coker back.
+- **REMOVED:** Max Hurleman. He reverted to the PIT practice squad (NFL transaction log via ESPN feed, 11/24 01:15Z).
+- **CORRECTED:** Emmett Johnson is rostered by Good Strongs (last-known Yahoo 11/10), so he's trade-only. The 11/23 claim prep is superseded.
+- **WATCH:**
+  - LaPorta ankle (limited Mon). Marks protocol. Walker (DNP Mon; OC says Walker starts if he plays). Harvey practice window (W13).
+  - Tuten (FFAmuseBouche) ankle Q. Jacobs OUT likely (FFAmuseBouche).
+- **DROPPED-PLAYER TRACKING:** Freiermuth W10 10.50 / W11 6.50. Washington W10 3.20 / W11 4.20.

@@ -1,0 +1,291 @@
+{
+ "run_id": "intel-yahoo-ff-668216-2026-W12-2026-11-24-001",
+ "routine": "Deeper Than Tuesday intelligence desk (weekly refresh)",
+ "scheduled_fire_ct": "2026-11-24T07:57-06:00",
+ "collected_at_ct": {
+  "yahoo_attempts": [
+   "2026-11-24T08:00:33-06:00",
+   "~2026-11-24T08:01-06:00"
+  ],
+  "nflverse": "2026-11-24T08:00:59-06:00..08:01:04-06:00",
+  "espn_injuries": "2026-11-24T08:03:34-06:00",
+  "web_news": "~2026-11-24T08:08..08:12-06:00"
+ },
+ "league": {
+  "stable_id": "yahoo-ff-668216",
+  "url": "https://football.fantasy.yahoo.com/f1/668216/"
+ },
+ "team": {
+  "name": "Vaqueros",
+  "team_id": 8
+ },
+ "nfl_week": {
+  "completed": 11,
+  "upcoming": 12,
+  "w12_window_ct": "2026-11-25T19:00 .. 2026-11-30T19:15 (no byes)"
+ },
+ "status": "PARTIAL",
+ "yahoo": {
+  "auth": "FAILED (302 -> login.yahoo.com; noprompt redirect ended on sign-in page)",
+  "consecutive_failures": 13,
+  "needed": "Andrew re-signs in to Yahoo in the box browser",
+  "last_success": {
+   "roster_lineup": "2026-11-15T11:27-06:00",
+   "full_pull": "2026-11-14T17:05..17:31-06:00",
+   "all_team_rosters_fa_pool": "2026-11-10T08:01..08:07-06:00"
+  }
+ },
+ "state_lastknown": {
+  "standings_as_of": "2026-11-10 (after W9)",
+  "vaqueros_record_after_w9": "3-6-0 (6th)",
+  "w10_result": "unknown official; computed 141.32 vs Wet Serapas >=160.78 (likely L)",
+  "w11_result": "unknown (opponent Deepest inferred)",
+  "faab_as_of_2026_11_11": {
+   "DUGASM": 56,
+   "Big Balls": 4,
+   "Wet Serapas": 67,
+   "Baby Arm": 65,
+   "Good Strongs": 22,
+   "Deepest": 92,
+   "Vaqueros": 34,
+   "FFAmuseBouche": 69
+  },
+  "waiver_priority_as_of_2026_11_10": {
+   "FFAmuseBouche": 1,
+   "Deepest": 2,
+   "Vaqueros": 3,
+   "Good Strongs": 4,
+   "Baby Arm": 5,
+   "Wet Serapas": 6,
+   "Big Balls": 7,
+   "DUGASM": 8
+  },
+  "w12_opponent": {
+   "team": "FFAmuseBouche",
+   "team_id": 6,
+   "basis": "inferred: 7-week rotation (W8=W1 verified; W9 Big Balls and W10 Wet Serapas match)",
+   "confidence": "moderate"
+  },
+  "vaqueros_roster_lastknown": {
+   "QB": [
+    "Jordan Love 32696",
+    "Fernando Mendoza 42623",
+    "Caleb Williams 40900",
+    "Bo Nix 40875"
+   ],
+   "RB": [
+    "Derrick Henry 29279",
+    "Christian McCaffrey 30121",
+    "Quinshon Judkins 41821",
+    "Woody Marks 41902"
+   ],
+   "WR": [
+    "Nico Collins 33477",
+    "Matthew Golden 41808",
+    "Tetairoa McMillan 41793",
+    "Rashee Rice 40084",
+    "Josh Downs 40126",
+    "Rome Odunze 40901",
+    "Wan'Dale Robinson 33998 (NFL IR)",
+    "Xavier Worthy 40877"
+   ],
+   "TE": [
+    "Tyler Warren 41799",
+    "Sam LaPorta 40064"
+   ],
+   "K": [
+    "Matt Gay 31977"
+   ],
+   "DEF": [
+    "Washington 100028"
+   ],
+   "IR": [
+    "RJ Harvey 41845"
+   ],
+   "basis": "Yahoo 2026-11-14/15 + approved 11/14 moves; not re-read since"
+  }
+ },
+ "rules": {
+  "verified": "2026-11-10 settings",
+  "bench_slots": 9,
+  "bench_resolution": "settings roster list + roster count show BN x9 (resolved; not re-verified today)",
+  "waivers": "FAB, game time-Tuesday, 1-day; processing observed Wed ~03:42-03:53",
+  "trade_end": "2026-11-28",
+  "playoffs": "4 teams W15-16",
+  "keepers": "UNKNOWN",
+  "traded_picks": "UNKNOWN"
+ },
+ "recommendations": [
+  {
+   "id": "W12-A",
+   "priority": 1,
+   "type": "waiver_claim",
+   "add": {
+    "player": "Kaleb Johnson",
+    "pos": "RB",
+    "nfl": "GB",
+    "yahoo_id": 41881,
+    "status_lastknown": "FA 2026-11-14 (18% rostered)"
+   },
+   "drop": {
+    "player": "Wan'Dale Robinson",
+    "yahoo_id": 33998,
+    "reason": "NFL IR through >=W14"
+   },
+   "faab": {
+    "range": [
+     3,
+     8
+    ],
+    "max": 10
+   },
+   "confidence": "low-moderate",
+   "competition": "FFAmuseBouche owns Jacobs, $69, likely #1 priority"
+  },
+  {
+   "id": "W12-A-alt1",
+   "priority": 2,
+   "type": "waiver_claim",
+   "add": {
+    "player": "Caleb Douglas",
+    "pos": "WR",
+    "nfl": "MIA",
+    "yahoo_id": 42697,
+    "status_lastknown": "dropped by Good Strongs 2026-11-12; current unknown"
+   },
+   "drop": {
+    "player": "Wan'Dale Robinson"
+   },
+   "faab": {
+    "range": [
+     2,
+     6
+    ]
+   },
+   "confidence": "low"
+  },
+  {
+   "id": "W12-A-alt2",
+   "priority": 3,
+   "type": "waiver_claim",
+   "add": {
+    "player": "Ted Hurst III",
+    "pos": "WR",
+    "nfl": "TB",
+    "yahoo_id": 42706,
+    "status_lastknown": "FA 2026-11-10 (2%)"
+   },
+   "drop": {
+    "player": "Wan'Dale Robinson"
+   },
+   "faab": {
+    "range": [
+     1,
+     3
+    ]
+   },
+   "confidence": "low (1-game sample)"
+  },
+  {
+   "id": "W12-B",
+   "priority": 4,
+   "type": "optional_second_drop",
+   "drop_candidates": [
+    "Josh Downs 40126",
+    "Woody Marks 41902"
+   ]
+  },
+  {
+   "id": "W12-C",
+   "priority": 5,
+   "type": "trade_exploration",
+   "note": "sell CMC/Henry for younger assets only if keeper rules reward it; propose by ~Wed/Thu to clear before 2026-11-28; contacting managers needs Andrew approval"
+  },
+  {
+   "id": "W12-HOLD",
+   "type": "hold",
+   "note": "no move; Robinson stays dead spot; FAAB $34 (last-known) retained"
+  }
+ ],
+ "superseded": [
+  {
+   "item": "11/23 daily: prepare Emmett Johnson waiver claim (ownership unknown)",
+   "reason": "Yahoo W10 roster 2026-11-10 shows Emmett Johnson on Good Strongs BN; no later drop seen; trade-only",
+   "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-24-emmett-johnson-ownership-dispute.md"
+  }
+ ],
+ "lineup_w12_suggested": {
+  "QB": [
+   "Jordan Love",
+   "Caleb Williams (alt Mendoza)"
+  ],
+  "RB": [
+   "Derrick Henry",
+   "Christian McCaffrey"
+  ],
+  "WR": [
+   "Nico Collins",
+   "Matthew Golden"
+  ],
+  "TE": "Sam LaPorta if off Wed DET report else Tyler Warren",
+  "W/T": "Tetairoa McMillan",
+  "W/R": "Quinshon Judkins (alt Marks if cleared / Rice)",
+  "K": "Matt Gay",
+  "DEF": "Washington",
+  "basis": "computed league points + opponent points allowed by position W1-W11; no Yahoo projections",
+  "approval_needed": true
+ },
+ "deadlines_ct": {
+  "waiver_claims": "2026-11-24 before overnight processing (expected ~2026-11-25 03:45-04:00, inferred)",
+  "first_lock": "2026-11-25T19:00 GB@LAR",
+  "thu_locks": [
+   "2026-11-26T12:00 CHI@DET",
+   "2026-11-26T15:30 PHI@DAL",
+   "2026-11-26T19:20 KC@BUF"
+  ],
+  "fri_lock": "2026-11-27T14:00 DEN@PIT",
+  "sun": [
+   "12:00",
+   "15:05/15:25",
+   "19:20"
+  ],
+  "mnf": "2026-11-30T19:15 CAR@TB",
+  "trade_end": "2026-11-28"
+ },
+ "lineup_risks": [
+  "LaPorta ankle limited Mon walkthrough (Thu noon lock)",
+  "Marks concussion protocol",
+  "Warren low usage (3.6 L4)",
+  "Wan'Dale Robinson NFL IR dead spot",
+  "Henry: check Wed BAL report",
+  "Golden/Love: tough LAR matchup; GB Tue designations"
+ ],
+ "coverage": {
+  "yahoo_pages": 0,
+  "usage_table": "42 players x W1-W11",
+  "league_points_players": "all last-known rostered (160+) + 253 last-known FA",
+  "scoring_validation": "143/144 vs Yahoo W9"
+ },
+ "errors": [
+  "Yahoo auth failed (13th consecutive)",
+  "Yahoo-dependent fields not refreshed (see unknowns)"
+ ],
+ "unknowns": [
+  "current rosters/ownership all teams",
+  "official W10/W11 scores and standings",
+  "FAAB/waiver order since 11/11",
+  "transactions since 11/14 17:10",
+  "pending claims",
+  "Yahoo projections",
+  "keeper rules/costs",
+  "traded-pick obligations",
+  "exact waiver processing clock",
+  "manager identities for teams 1-7 beyond James (Wet Serapas), Jeremy (Deepest); two Brads (brad95652, brad58794) kept separate"
+ ],
+ "last_successful_source_refresh": {
+  "yahoo": "2026-11-15T11:27-06:00",
+  "nflverse": "2026-11-24T08:01-06:00",
+  "espn_injuries": "2026-11-24T08:03-06:00"
+ },
+ "yahoo_actions_taken": []
+}

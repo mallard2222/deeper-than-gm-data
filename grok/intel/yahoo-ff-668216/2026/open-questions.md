@@ -230,3 +230,16 @@
   - GB Tuesday designations (Love/Golden); KC Walker participation Tue/Wed.
   - Keeper rules (affects Robinson drop value, Johnson add value).
   - Is a trade worth exploring before the Nov 28 trade end date? (needs Yahoo rosters)
+
+## 2026-11-24 W12 Tuesday desk — ranked by decision impact (Yahoo 302 login, 13th consecutive)
+1. **Yahoo session (blocks 2–6).** Andrew needs to re-sign in to the box browser before Tue night's waiver deadline.
+2. **Kaleb Johnson / Caleb Douglas / Ted Hurst availability, current FAAB ($34 last-known), pending claims.** Decides whether option A is possible and what it costs.
+3. **Keeper rules and costs; traded-pick obligations.** These decide seller-mode trades (CMC/Henry) before the **11/28 trade end**, and the keeper value of adds and drops (Robinson, Mendoza, rookies).
+4. **Official W10 and W11 results and standings.** These confirm playoff elimination (computed W10 141.32, likely L; W11 unknown).
+5. **Emmett Johnson ownership** (disputed; last-known Good Strongs).
+6. **W12 opponent** (inferred FFAmuseBouche from the rotation).
+7. LaPorta Wed DET report (Thu noon lock). Marks protocol (HOU Wed–Fri). Henry Wed BAL report. GB Tue designations (Love/Golden).
+8. Exact waiver processing time for Thanksgiving week (inferred Wed ~3:45–4:00 AM CT).
+9. Harvey W13 return and the IR-slot decision (Robinson could take the IR slot instead of being dropped).
+10. Two Brad identities (brad58794 vs brad95652): still kept separate.
+11. Rachaad White W9 scoring mismatch (+2.00): computed vs Yahoo attribution.

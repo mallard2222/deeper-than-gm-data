@@ -101,3 +101,14 @@
 - Backfilled W09 (Washington $15; approval received, text unknown) and W10 (Brissett $8→$12 lost; Penix $3 cancelled; Mendoza $30 won, Andrew-directed; Mendoza QB swap under standing rule).
 - `outcome-yahoo-ff-668216-2026-W10-2026-11-11-001` above is corrected by [W10 reconcile addendum](../../../transactions/yahoo-ff-668216/2026/corrections/2026-11-14-W10-reconcile-addendum.md): Brissett final $12 (not $8); Penix cancelled before processing (verified); Mendoza submitter = FF GM on Andrew's instruction. Original entry left unchanged.
 - Pending recommendation (Andrew decides by Sun Nov 15 12:00 PM CT): optional Marks→W/R, McMillan→W/T, Rice→BN. Not authorized.
+
+## `intel-yahoo-ff-668216-2026-W12-2026-11-24-001` — W12 Tuesday desk (docs only)
+- **Date:** 2026-11-24, 7:57–8:20 AM CT.
+- **Status:** PARTIAL. Yahoo 302 login (13th consecutive failure). **No Yahoo actions.**
+- **Recommendation (needs Andrew + Yahoo verification):** Kaleb Johnson (GB RB, 41881) claim **$3–8 (max $10)**, dropping Wan'Dale Robinson (NFL IR).
+  - Alternatives: Caleb Douglas $2–6 or Ted Hurst III $1–3 (same drop). Optional second drop: Downs or Marks. Trade exploration (CMC/Henry) only if keeper rules reward it, before the 11/28 trade end.
+  - **Hold** = no move.
+  - Confidence: low–moderate.
+- **Evidence:** [RECOMMENDATION](../../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/RECOMMENDATION.md) · [weekly-package.json](../../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/weekly-package.json) · [sources](../../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/evidence/sources.md)
+- **Supersedes (does not rewrite)** the 11/23 daily's "prepare Emmett Johnson waiver claim". Last Yahoo evidence puts him on Good Strongs. See [quarantine](./quarantine/2026-11-24-emmett-johnson-ownership-dispute.md).
+- **Approval:** none. **Execution:** none. **Outcome:** pending (to reconcile Wed 11/25 if Yahoo is restored).

@@ -1,0 +1,8 @@
+# Yahoo access attempt — W12 Tuesday desk 2026-11-24 (CT)
+Seed: /home/box/agent-data/chrome-cookie-seed.json (savedAt 2026-11-24 08:00:21 CST; 57 yahoo-domain cookies). Values never printed or stored; temp Netscape jar (0600) deleted right after use.
+Attempt 1 — 08:00:33 CT: GET https://football.fantasysports.yahoo.com/f1/668216/8 (curl, browser UA) -> HTTP 302 -> https://login.yahoo.com/config/login?noprompt=1&.src=Fantasy...
+Attempt 2 — ~08:01 CT: same URL, following redirects (browser-equivalent noprompt flow, max 8) -> 3 redirects, ended HTTP 200 on login.yahoo.com/manage_account?...specId=usernameReg (Yahoo account sign-in page). FAILED.
+No password login, no credential use, no circumvention. Two requests total.
+Result: FAILED — session signed out. 13th consecutive Yahoo auth failure on record (12 through daily 2026-11-23 + this run).
+Last successful Yahoo pulls: roster/lineup 2026-11-15 ~11:27 AM CT; full league pull 2026-11-14 ~5:05–5:31 PM CT; all-team rosters + FA pool 2026-11-10 ~8:01–8:07 AM CT.
+Needed: Andrew signs in to Yahoo in the box browser (so the Chrome profile cookie seed refreshes), then the desk can be re-run read-only.

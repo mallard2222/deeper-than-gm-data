@@ -9,3 +9,6 @@
 - **2026-11-19 daily:** Still OUT (concussion) for TNF on the NFL.com league report and ESPN. He's on FantasyPros' pre-deadline inactive list. Must leave the Vaqueros W/R slot by 7:15 PM CT (Andrew manual; Yahoo blocked).
 - **2026-11-20 daily:** TNF: on HOU inactive list (gamebook). Whether he was moved out of Vaqueros W/R before 7:15 PM CT is unverified (Yahoo blocked). Montgomery 26-107 + 3-17 as HOU lead back.
 - **2026-11-23 daily:** Concussion: Ryans says "trending in the right direction," "hopeful to have him" Sun vs BAL (via Aaron Wilson; ESPN feed 1:05 PM CT). Montgomery 26-107 in his TNF return, so a shared backfield (inference). W12 lock Sun 11/29 12:00 PM CT.
+- **2026-11-24 W12 desk:** still in the concussion protocol (Ryans Mon: "trending in the right direction… hopeful"). Montgomery returned W11 with 26 carries on 73% of snaps.
+  - W10: 12 carries on 45% of snaps, 7.00 pts.
+  - Expect a timeshare if he plays. Optional drop candidate (option B). Not suggested for W/R in W12 (Judkins vs LV preferred).

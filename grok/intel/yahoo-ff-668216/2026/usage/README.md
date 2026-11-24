@@ -52,3 +52,9 @@ Analysis: [analysis-W10.md](./analysis-W10.md).
 Tested: first run `downloaded_200` for all five sources (17:30 CT); immediate rerun `not_modified_304`; `--offline` run `stale_unvalidated`.
 
 **Fix 2 — play-by-play coverage before RZ zeros.** For every game the script checks: (a) the game is in the 2026 schedule, (b) pbp has offensive plays for both scheduled teams, (c) pbp runs through the end (an `END GAME` row or clock at 0:00), (d) the schedule has a final score. Only then are RZ counts (including 0) written; otherwise RZ fields are null and `pbp_coverage` says why. Tested by truncating one game (2026_09_NYJ_KC) in a scratch copy: the KC rows became null / `pbp_partial_not_through_final`. Current data: all 258 player-weeks with a game record have `complete` coverage (137 W1–W9 games); the 66 rows with no game record stay null.
+
+## 2026-11-24 rebuild (W12 desk)
+- `usage-2026-W01-W11.csv` and `-sources.json` were built at 2026-11-24 ~8:05 AM CT. All five nflverse sources were downloaded at 08:00:59–08:01:04 CT and revalidated with 304. W11 PBP is complete (13/13 games, including MNF).
+- Players list changes: Worthy → roster (FA add 11/14). Freiermuth → candidate (dropped 11/14). Added Ted Hurst III, Mitchell Evans, Emari Demercado, David Montgomery, Kenneth Walker III, Antonio Williams. E. Johnson note: Good Strongs (last-known).
+- The earlier `usage-2026-W01-W09.csv` is kept unchanged.
+- League-scored weekly points (separate from usage) come from `grok/tools/league_points.py`. Output for this run: `grok/waivers/yahoo-ff-668216/2026/W12-2026-11-24/data/`.

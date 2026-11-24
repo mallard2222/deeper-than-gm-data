@@ -42,3 +42,9 @@ Source of truth: Yahoo settings page captures. Last verified: **2026-09-29 ~08:1
 ## Re-verified 2026-11-10 (Yahoo settings page, ~8:03 AM CT)
 - No changes vs 2026-11-03. Also recorded: **interceptions −2**, pass yds 25/pt, fumbles lost −2, missed FG 0–29 penalized, missed PAT −1. DEF points-allowed scale runs 15/10/8/4/0/−5/−10.
 - Source: [W10 settings.json](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/settings.json) · [evidence](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/evidence/settings.txt)
+
+## 2026-11-24 W12 desk — not re-verified (Yahoo blocked)
+- Rules above stand as of 11/10. The **bench count of 9** is resolved by the 11/10 `settings.json` roster list (BN×9) plus the roster count.
+- **Schedule rotation (inference):** 2026 matchups repeat on a 7-week cycle. W8 equals W1 (verified), W9 Big Balls and W10 Wet Serapas match W2/W3. That implies **W11 Deepest, W12 FFAmuseBouche, W13 Baby Arm, W14 DUGASM**. Moderate confidence until Yahoo confirms.
+- Keepers, keeper costs and traded-pick obligations are still **unknown**. Historical settings (2014, 2019, 2024) show "Keeper tools enabled" but no cost rules.
+- Scoring was reproduced from public stats with 143/144 exact matches vs Yahoo W9 ([validation](../../../waivers/yahoo-ff-668216/2026/W12-2026-11-24/evidence/scoring-validation.md)).

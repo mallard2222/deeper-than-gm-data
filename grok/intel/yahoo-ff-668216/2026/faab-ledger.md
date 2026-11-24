@@ -45,3 +45,7 @@ League FAAB at 2026-11-10 8:0x AM CT (league home): DUGASM $71, Big Balls $12, W
 | FFAmuseBouche | $90 | $69 | Brissett $21 |
 
 All changes match visible winning prices. Details: [W10 reconciliation](../../../waivers/yahoo-ff-668216/2026/W10-2026-11-10/reconciliation.md).
+
+## 2026-11-24 W12 Tuesday desk — NO NEW SNAPSHOT (Yahoo blocked since 11/15)
+- Vaqueros: last read **$34** (11/14, unchanged after the $0 Worthy FA add). It hasn't been re-verified, and no Vaqueros spend is known since then.
+- League: last full snapshot is the W10 table above (11/11). W11 (11/18) claims and spends are **unknown**, not $0.

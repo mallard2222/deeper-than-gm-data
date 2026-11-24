@@ -1,0 +1,12 @@
+# Kaleb Johnson (RB, GB) — Yahoo 41881 · GSIS 00-0040142
+- **Ownership:** FA on Yahoo player search, 2026-11-14 5:31 PM CT (18% rostered). **Current status unknown** (Yahoo blocked).
+- **2026-11-24 (W12 desk):**
+  - Jacobs (finger, surgery) is "not expected to play" Wed @LAR (LaFleur via CBS 11/23). Kaleb took the first RB reps Sunday (packers.com via ESPN feed).
+  - Usage: W9 12.80 pts (stepped in after Jacobs' injury); W10 10 carries on 25% of snaps, 4.20 pts. GB had its W11 bye.
+  - Matchup: LAR allows 15.1 pts/g to RBs (30th).
+  - Role competition: Lloyd, Brooks (3rd downs). Jacobs is likely back around W13–14.
+- **Valuation:**
+  - Player quality: committee early-down back.
+  - Value to Vaqueros: depth / keeper flyer (keeper rules unknown).
+  - Market: FFAmuseBouche (Jacobs owner, $69, likely #1 priority) is a natural bidder.
+  - Suggested bid: $3–8 (max $10), docs only.

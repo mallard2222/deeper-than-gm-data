@@ -1,0 +1,24 @@
+{
+ "run_id": "intel-yahoo-ff-668216-2026-W12-2026-11-24-001",
+ "routine": "Deeper Than Tuesday intelligence desk (weekly refresh)",
+ "scheduled_fire_ct": "2026-11-24T07:57-06:00",
+ "collected_at_ct": {
+  "yahoo_attempts": [
+   "2026-11-24T08:00:33-06:00",
+   "~2026-11-24T08:01-06:00"
+  ],
+  "nflverse": "2026-11-24T08:00:59-06:00..08:01:04-06:00",
+  "espn_injuries": "2026-11-24T08:03:34-06:00",
+  "web_news": "~2026-11-24T08:08..08:12-06:00"
+ },
+ "status": "PARTIAL",
+ "errors": [
+  "Yahoo auth failed (13th consecutive)",
+  "Yahoo-dependent fields not refreshed (see unknowns)"
+ ],
+ "yahoo_actions_taken": [],
+ "package": "grok/waivers/yahoo-ff-668216/2026/W12-2026-11-24/",
+ "yahoo_auth": "FAILED (302 -> login.yahoo.com; noprompt redirect ended on sign-in page)",
+ "commit_sha": "see git log (recorded post-commit in INDEX)",
+ "files_changed": "see commit"
+}
