@@ -1,0 +1,3 @@
+# Tetairoa McMillan (CAR WR) — Vaqueros W/T starter (last-known)
+
+- **2026-11-25 daily:** **Foot soreness** after Sunday's game. Canales: "It's his foot … a little bit more soreness … Optimistic for T-Mac" (nflpresserwire quote 2:29 PM CT; ESPN feed cites Mike Kaye). No Wed practice report because CAR plays **Mon 11/30 @TB, 7:15 PM CT (MNF)** (Kaye 1:48 PM CT). Not spotted at practice (McDowell News, secondary). First real test: the Thursday report. Inference: risk of a late Monday decision; **Warren (Sun noon) is the natural W/T hedge** if LaPorta takes TE. Keep McMillan in W/T for now; re-check Thu/Fri/Sat CAR reports.

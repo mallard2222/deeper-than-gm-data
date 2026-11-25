@@ -13,3 +13,4 @@
   - W10: 12 carries on 45% of snaps, 7.00 pts.
   - Expect a timeshare if he plays. Optional drop candidate (option B). Not suggested for W/R in W12 (Judkins vs LV preferred).
 - **2026-11-24 daily:** no new item; ESPN feed still Questionable (concussion protocol). HOU first report Wed.
+- **2026-11-25 daily:** **Back at practice Wed** (Houston Chronicle/Alexander; ESPN feed). He must still clear the concussion protocol. Expected back Sun vs BAL per Aaron Wilson (relayed by NBC/ALLPLAY; original not fetched). Inference: timeshare behind Montgomery; bench. Fallback RB only if Henry is out (both play in the BAL@HOU game).

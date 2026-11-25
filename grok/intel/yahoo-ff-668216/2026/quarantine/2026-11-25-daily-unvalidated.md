@@ -1,0 +1,12 @@
+# Quarantine — daily 2026-11-25 (unvalidated signals)
+- **Jacobs INACTIVE (5:18 PM CT):** I only have this via RotoWire and FantasySource relaying Tom Pelissero. Pelissero's original post and the official Packers inactives list weren't captured by 5:35 PM CT. I treat it as a likely report (identifiable insider, relayed) until the official list is seen; the next report reconciles.
+- **Henry "expected to play":** this is the coach's expectation, not a clearance. He's still in the concussion protocol. Treat it as uncertain until the Fri BAL status and independent-neurologist clearance.
+- **McMillan "optimistic":** the Canales quote comes via a quote-relay account (nflpresserwire) plus the ESPN feed citing Mike Kaye. No CAR practice report until Thu (MNF). "Wasn't spotted at practice" is from McDowell News (secondary).
+- **Marks "expected back Sun vs BAL":** Aaron Wilson's original wasn't fetched (NBC/ALLPLAY relays). The Chronicle confirms he practiced, but he's still in the protocol.
+- **Nico Collins no designation:** comes from an aggregator (statgrades), because the official HOU table wasn't populated at retrieval.
+- **CMC DNP "rest":** comes from 49erswebzone (fan site) plus Inman ("vet days"). The official 49ers table wasn't populated.
+- **"Aiyuk signs with Commanders"** (@News_v2_App, @TheDegenDoc and other aggregators): insiders say he **agreed to the practice squad, not signed yet** (Rapoport: "should take place next week"; Jhabvala: Quinn "hopefully" tomorrow). The insider wording on timing is inconsistent, so the signing date is unknown.
+- **ARI W12 starting QB** (WAS DEF opponent): not established in the collected sources. ARI claimed Kedon Slovis.
+- **Buffalo forecast:** NWS (2:57 PM CT update) can still shift by Thu night. Gusts of 36–37 mph are in the period forecast; the hourly table gives sustained winds only.
+- **Ownership / FAAB / claims / W11 result / W12 opponent:** unknown (Yahoo 302, 15th straight). FFAmuseBouche as the opponent is inferred.
+- **Fan, betting, DFS and parody chatter** (Rodgers/Worthy jokes, parlays): non-informational; ignored.

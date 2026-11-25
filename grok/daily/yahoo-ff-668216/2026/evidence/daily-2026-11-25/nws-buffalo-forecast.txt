@@ -1,0 +1,17 @@
+# NWS (api.weather.gov) Orchard Park NY point 42.7738,-78.7870 -> gridpoint BUF/39,42 — retrieved 2026-11-25 ~17:03 CST
+forecast updateTime (UTC): 2026-11-25T20:57:36+00:00 = 2:57 PM CT; generatedAt 2026-11-25T21:34:23+00:00
+- This Afternoon | Mostly sunny, with a high near 43. East wind around 6 mph.
+- Tonight | Mostly cloudy, with a low around 30. East wind around 7 mph.
+- Thanksgiving Day | A slight chance of snow showers between 11am and noon, then rain showers. Cloudy, with a high near 42. East wind 8 to 16 mph, with gusts as high as 37 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.
+- Thursday Night | Rain showers. Cloudy, with a low around 36. Northeast wind 8 to 16 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible.
+- Friday | Rain showers. Cloudy, with a high near 46. South wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible.
+
+Hourly (local ET; kickoff 8:20 PM ET = 7:20 PM CT):
+2026-11-26T18:00:00-05:00 38F 16 mph NE PoP 90 Rain Showers
+2026-11-26T19:00:00-05:00 38F 15 mph NE PoP 98 Rain Showers
+2026-11-26T20:00:00-05:00 38F 15 mph NE PoP 98 Rain Showers
+2026-11-26T21:00:00-05:00 38F 14 mph E PoP 98 Rain Showers
+2026-11-26T22:00:00-05:00 37F 13 mph NE PoP 94 Rain Showers
+2026-11-26T23:00:00-05:00 38F 12 mph NE PoP 94 Rain Showers
+
+URLs: https://api.weather.gov/gridpoints/BUF/39,42/forecast ; https://api.weather.gov/gridpoints/BUF/39,42/forecast/hourly

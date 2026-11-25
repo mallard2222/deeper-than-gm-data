@@ -10,3 +10,4 @@
   - Contingency → MONITOR: swap only if inactive at ~1:55 PM CT Sun (approval + Yahoo; K must be from an unlocked late game). No preemptive swap.
 - **2026-11-22 daily:** **Active** (not on official LV inactives, raiders.com 11:55 AM PT = 1:55 PM CT; RJ 2:07 PM CT). In progress at 4:58 PM CT: FG 1/1 (28), XP 1/1. K contingency closed. https://www.raiders.com/news/las-vegas-raiders-week-11-inactives-vs-denver-broncos
 - **2026-11-23 daily:** FINAL @ DEN (L 24-38): FG 1/1 (28), XP 3/3 (ESPN feed). No K need. W12 @ CLE SNF 11/29 7:20 PM CT.
+- **2026-11-25 daily:** Not listed on the Raiders' Wed report (clevelandbrowns.com combined table, ~5:04 PM CT). W12 @CLE SNF 7:20 PM CT; ESPN weather field "Rain 48." No action.

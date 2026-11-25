@@ -11,3 +11,4 @@
   - Market: FFAmuseBouche (Jacobs owner, $69, likely #1 priority) is a natural bidder.
   - Suggested bid: $3–8 (max $10), docs only.
 - **2026-11-24 daily:** Jacobs officially **Questionable** (LP/LP/LP; packers.com 12:00 PM CT). LaFleur "remains unlikely" (relay of Demovsky, 2:44 PM CT); an unverified "expected to return" claim is quarantined. Option A stays; lean bid $3–5 (inference). Lock Wed 7:00 PM CT @LAR. Resolves at inactives ~5:30 PM CT Wed.
+- **2026-11-25 daily:** No W12 claim was submitted on record (reconciliation 7:59 AM CT), and ownership/availability is unknown (Yahoo 302, 15th). Jacobs arrived at SoFi with his hand in his hoodie; Demovsky (4:33 PM CT): "LaFleur made it seem like no, but it feels like he's got a chance." Inactives status: see daily-report-2026-11-25. Any pickup needs Yahoo + Andrew approval before the 7:00 PM CT lock.

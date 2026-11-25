@@ -1,0 +1,236 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-25T17:01-06:00",
+ "nfl_week_note": "NFL Week 12 (Thanksgiving week); GB@LAR Wed 11/25 7:00 PM CT; CHI@DET Thu noon; KC@BUF Thu 7:20 PM; DEN@PIT Fri 2:00 PM; CAR@TB Mon 7:15 PM",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-25 17:01 CT)"
+  ],
+  "retrieved_ct": "2026-11-25T17:01:38-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 15
+ },
+ "public_sources": "ok (official BAL/HOU/SF tables not populated; CAR no Wed report (MNF); official GB inactives not captured by 5:35 PM CT)",
+ "collection_window_ct": "2026-11-25T17:01-06:00/2026-11-25T17:35-06:00",
+ "previous_daily_ct": "2026-11-24T17:04-06:00",
+ "previous_daily_commit": "e358c774e364de42fce9f925e5f6f4a2d92d3286",
+ "deduped_against": "a0234ef (W12 waiver reconciliation 2026-11-25 07:59 CT)",
+ "yahoo_transactions_made": false,
+ "w12_opponent": "FFAmuseBouche (inferred, not Yahoo-verified)",
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked (none submitted on record)",
+  "w12_waiver_outcome": "unknown - Yahoo blocked",
+  "w11_result": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-25-henry-protocol",
+   "type": "fact (coach via official video) + beat",
+   "confidence": "high (fact) / moderate (plays)",
+   "players": [
+    "Derrick Henry",
+    "Quinshon Judkins"
+   ],
+   "owner": "Vaqueros RB",
+   "source": "https://x.com/Ravens/status/2125678211069845716",
+   "recommended_response": "prepare: keep Henry RB; fallback Judkins if not cleared",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-25-jacobs-inactive",
+   "type": "report (insider Pelissero, relayed; official inactives not captured)",
+   "confidence": "moderate-high",
+   "players": [
+    "Josh Jacobs",
+    "Kaleb Johnson"
+   ],
+   "owner": "Jacobs FFAmuseBouche; Kaleb unknown",
+   "source": "https://x.com/RotoWireNFL/status/2125730780819194264",
+   "recommended_response": "monitor; pickup impractical before 7 PM lock (Yahoo blocked + approval)",
+   "decision_deadline_ct": "2026-11-25T19:00-06:00"
+  },
+  {
+   "id": "2026-11-25-love-golden",
+   "type": "fact (no designation; inactives pending)",
+   "confidence": "high",
+   "players": [
+    "Jordan Love",
+    "Matthew Golden"
+   ],
+   "owner": "Vaqueros QB/WR",
+   "source": "https://www.packers.com/news/packers-list-eight-questionable-vs-rams-week-12-injury-report",
+   "recommended_response": "start (lineup per Andrew)",
+   "decision_deadline_ct": "2026-11-25T19:00-06:00"
+  },
+  {
+   "id": "2026-11-25-laporta-clear",
+   "type": "fact (official final)",
+   "confidence": "high",
+   "players": [
+    "Sam LaPorta",
+    "Tyler Warren"
+   ],
+   "owner": "Vaqueros TE/BN",
+   "source": "https://www.detroitlions.com/team/injury-report/",
+   "recommended_response": "start LaPorta at TE over Warren",
+   "decision_deadline_ct": "2026-11-26T12:00-06:00"
+  },
+  {
+   "id": "2026-11-25-bears-final",
+   "type": "fact (official final)",
+   "confidence": "high",
+   "players": [
+    "Caleb Williams",
+    "Rome Odunze",
+    "Fernando Mendoza"
+   ],
+   "owner": "Vaqueros QB/WR BN",
+   "source": "https://x.com/ChicagoBears/status/2125683287041737134",
+   "recommended_response": "QB2 lean Caleb over Mendoza (inference; Andrew decides)",
+   "decision_deadline_ct": "2026-11-26T12:00-06:00"
+  },
+  {
+   "id": "2026-11-25-mcmillan-foot",
+   "type": "report (coach quote relayed)",
+   "confidence": "moderate",
+   "players": [
+    "Tetairoa McMillan",
+    "Tyler Warren"
+   ],
+   "owner": "Vaqueros W/T",
+   "source": "https://x.com/nflpresserwire_/status/2125688385566376072",
+   "recommended_response": "hold; Warren W/T hedge decided by Sun noon after CAR Thu-Sat reports",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-25-walker-out",
+   "type": "fact (official final)",
+   "confidence": "high",
+   "players": [
+    "Kenneth Walker",
+    "Emmett Johnson"
+   ],
+   "owner": "E. Johnson Good Strongs (last-known)",
+   "source": "https://www.chiefs.com/team/injury-report/",
+   "recommended_response": "no action (trade-only)",
+   "decision_deadline_ct": "2026-11-26T19:20-06:00"
+  },
+  {
+   "id": "2026-11-25-buf-weather-nws",
+   "type": "fact (official forecast)",
+   "confidence": "moderate-high",
+   "players": [
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy"
+   ],
+   "owner": "Vaqueros BN",
+   "source": "https://api.weather.gov/gridpoints/BUF/39,42/forecast/hourly",
+   "recommended_response": "keep KC WRs benched",
+   "decision_deadline_ct": "2026-11-26T19:20-06:00"
+  },
+  {
+   "id": "2026-11-25-sunday-clear",
+   "type": "fact (official Wed reports)",
+   "confidence": "high",
+   "players": [
+    "Tyler Warren",
+    "Quinshon Judkins",
+    "Fernando Mendoza",
+    "Matt Gay",
+    "Bo Nix"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://www.colts.com/team/injury-report/ ; https://www.clevelandbrowns.com/team/injury-report/ ; https://www.denverbroncos.com/team/injury-report/",
+   "recommended_response": "none",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-25-cmc-rest",
+   "type": "report (beat)",
+   "confidence": "moderate",
+   "players": [
+    "Christian McCaffrey",
+    "Brock Purdy"
+   ],
+   "owner": "Vaqueros RB",
+   "source": "https://x.com/49erswebzone/status/2125725547556692403",
+   "recommended_response": "monitor Thu/Fri",
+   "decision_deadline_ct": "2026-11-29T15:25-06:00"
+  },
+  {
+   "id": "2026-11-25-marks-practice",
+   "type": "report (beat)",
+   "confidence": "moderate",
+   "players": [
+    "Woody Marks"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://www.houstonchronicle.com/sports/texans/article/woody-marks-marvin-harrison-practice-22550240.php",
+   "recommended_response": "bench; monitor",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-25-rodgers-released",
+   "type": "fact (insiders + transaction wire)",
+   "confidence": "high",
+   "players": [
+    "Aaron Rodgers",
+    "Mason Rudolph",
+    "Bo Nix"
+   ],
+   "owner": "unknown",
+   "source": "https://x.com/AdamSchefter/status/2125707623152402691",
+   "recommended_response": "none",
+   "decision_deadline_ct": "2026-11-27T14:00-06:00"
+  },
+  {
+   "id": "2026-11-25-aiyuk-ps",
+   "type": "report (insiders/beat)",
+   "confidence": "high (agreement)",
+   "players": [
+    "Brandon Aiyuk",
+    "WAS DEF"
+   ],
+   "owner": "unknown",
+   "source": "https://x.com/AdamSchefter/status/2125655337848209439",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": "n/a"
+  },
+  {
+   "id": "2026-11-25-opp-ffab",
+   "type": "reports",
+   "confidence": "moderate",
+   "players": [
+    "Josh Jacobs",
+    "Bhayshul Tuten",
+    "Joe Burrow",
+    "George Kittle"
+   ],
+   "owner": "FFAmuseBouche (inferred)",
+   "source": "https://x.com/AdamSchefter/status/2125699355697123334",
+   "recommended_response": "none",
+   "decision_deadline_ct": "n/a"
+  },
+  {
+   "id": "2026-11-25-yahoo-auth",
+   "type": "fact (collection)",
+   "confidence": "high",
+   "players": [],
+   "owner": "-",
+   "source": "local: evidence/daily-2026-11-25/yahoo-access-attempt.txt",
+   "recommended_response": "act (Andrew re-auth)",
+   "decision_deadline_ct": "2026-11-25T19:00-06:00"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-25-daily-unvalidated.md"
+}

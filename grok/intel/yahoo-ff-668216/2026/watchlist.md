@@ -324,3 +324,13 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **RESOLVED — WAS DEF W11:** 22–20 W, 3 sacks, 0 TO, 20 PA (~7 pts computed).
 - **DEN:** Dobbins suspended W12; Badie designated to return. Nix no injury. Harvey (IR) W13+.
 - **League:** Aiyuk cleared waivers, visits WAS Wed; Barkley full; Parsons activated.
+
+## 2026-11-25 (daily 5 PM CT — PARTIAL: Yahoo 302 login, 15th consecutive; public sources OK)
+- **NEW RISK — Henry:** back in the concussion protocol, LP Wed. Minter expects him to play Sun @HOU, but he isn't cleared. Fallback: Judkins to RB.
+- **REPORTED — Jacobs (FFAmuseBouche) INACTIVE** tonight (Pelissero via relays, 5:18 PM CT; official inactives not captured). Kaleb Johnson: ownership unknown; no claim submitted on record; W12 pickup impractical.
+- **RESOLVED — LaPorta:** no designation (official final). Start at TE over Warren; lock Thu noon.
+- **RESOLVED — Caleb/Odunze:** not listed (official final). QB2 lean Caleb over Mendoza.
+- **NEW WATCH — McMillan (W/T):** foot soreness; CAR plays MNF (Mon 7:15 PM CT); Canales optimistic. Warren is the W/T hedge (Sun noon).
+- **RESOLVED — Walker OUT** (KC final). E. Johnson starts (trade-only). NWS: rain 98% at kickoff, gusts ~36 mph. KC WRs stay benched.
+- **CLEAR:** Warren, Judkins, Mendoza, Gay, Nix not on the Wed reports. CMC DNP rest (Purdy ankle DNP). Marks back at practice (protocol).
+- **League:** Rodgers benched, then released (Rudolph starts vs DEN Fri). Aiyuk agreed to the WAS practice squad (not signed). Tuten DNP Wed. Trade end Sat 11/28.

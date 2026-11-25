@@ -254,3 +254,21 @@
   - Henry, CMC, Marks on the Wed reports.
   - Yahoo re-auth (14 straight failures). W11 result; W12 opponent verification.
   - Keeper rules (still unknown).
+
+## 2026-11-25 (daily — partial, Yahoo 302 login, 15th consecutive on record)
+- Closed:
+  - LaPorta final status (no designation).
+  - Caleb/Odunze final (not listed).
+  - Walker (OUT).
+  - Buffalo weather (NWS rain/wind).
+  - Marks practice status (returned Wed).
+  - Jacobs (reported inactive; official list to confirm).
+- Open:
+  - Official GB inactives (confirm Jacobs inactive; Love/Golden active).
+  - Henry concussion clearance (BAL Thu/Fri).
+  - McMillan foot (CAR Thu–Sat reports; MNF).
+  - CMC/Purdy (SF Thu/Fri).
+  - Did the W12 waivers process anything for Vaqueros? (No claim submitted on record; Yahoo blocked.) FAAB.
+  - Kaleb Johnson ownership.
+  - Yahoo re-auth (15 straight failures). W11 result; W12 opponent verification.
+  - Keeper rules (still unknown). Trade end Sat 11/28.

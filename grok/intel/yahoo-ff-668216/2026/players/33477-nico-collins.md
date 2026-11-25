@@ -17,3 +17,4 @@
 - **2026-11-19 daily:** Not on HOU's final report. MHJ and TE B. Jordan are OUT, so targets should concentrate on him (inference). Start TNF.
 - **2026-11-20 daily:** TNF 5 tgt, 3-58-1 TD (42-yd TD), quiet after early lead (PFR/NBC).
 - **2026-11-23 daily:** W12 vs BAL Sun 11/29 12:00 PM CT. No injury news.
+- **2026-11-25 daily:** No designation per an aggregator (statgrades, which cites ESPN + nflverse official). The official HOU table wasn't populated at retrieval, so this is secondary only. W12 vs BAL Sun 12:00 PM CT (dome). Start.

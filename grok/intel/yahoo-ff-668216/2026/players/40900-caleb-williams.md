@@ -15,3 +15,4 @@
 - **2026-11-22 daily:** FINAL vs NO (W 21-13, rain): 15/23, 181 yd, 2 TD, 1 INT; 4-11 rush (ESPN feed). Whether started over Nix is unknown (Yahoo blocked).
 - **2026-11-23 daily:** W12 @ DET Thu 11/26 12:00 PM CT (early lock). Official CHI Monday report not retrieved; not listed on CBS secondary.
 - **2026-11-24 daily:** not on the Bears' Tue estimated report (Biggs 4:27 PM / Fishbain 4:14 PM CT). QB2 @DET Thu noon vs Mendoza SNF; Andrew decides.
+- **2026-11-25 daily:** **Not listed** on the official Bears final report (Lions-site combined table; @ChicagoBears 2:09 PM CT ruled out only Gordon, Hicks and R. Johnson). QB2 decision vs Mendoza (not listed; SNF @CLE, ESPN "Rain 48"). Lean Caleb (dome, earlier lock; inference). Lock Thu 12:00 PM CT.
