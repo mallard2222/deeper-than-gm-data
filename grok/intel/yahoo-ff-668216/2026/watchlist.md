@@ -334,3 +334,16 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **RESOLVED — Walker OUT** (KC final). E. Johnson starts (trade-only). NWS: rain 98% at kickoff, gusts ~36 mph. KC WRs stay benched.
 - **CLEAR:** Warren, Judkins, Mendoza, Gay, Nix not on the Wed reports. CMC DNP rest (Purdy ankle DNP). Marks back at practice (protocol).
 - **League:** Rodgers benched, then released (Rudolph starts vs DEN Fri). Aiyuk agreed to the WAS practice squad (not signed). Tuten DNP Wed. Trade end Sat 11/28.
+
+## 2026-11-26 (daily ~5 PM CT — PARTIAL: Yahoo 302 login, 16th consecutive; public sources OK)
+- **UPGRADE — Henry:** FULL participant Thu (Hensley/Zrebiec); "on way out of protocol" (beat inference). Formal clearance and Fri status still the gate. Fallback Judkins.
+- **RESOLVED — Jacobs (FFAmuseBouche) INACTIVE (finger)** at LAR (packers.com recap, ESPN-Pelissero, box score). Expected back GB's next game 12/6 (RotoWire/CBS, report).
+- **DOWNGRADE — Kaleb Johnson:** 8-13-0 + 1-19 as lead back; Jacobs returning → claim lean now hold / $0–2 docs-only. Ownership unknown.
+- **RESOLVED — GB@LAR Final (LAR 26–13):** Love 198/1/2 INT; Golden 1-39. W12 done for both.
+- **RESOLVED — CHI@DET Final (CHI 39–35):** Caleb 345/2 TD; Odunze 6-87-2; LaPorta 4-44-1. Lineup use unknown (Yahoo blocked).
+- **WATCH — KC@BUF Thu 7:20 PM CT:** Walker OUT; rain/37°F. Keep Rice/Downs/Worthy benched. Inactives ~6:20 PM CT.
+- **WATCH — CMC/Purdy:** CMC FP (rest) Thu; Purdy DNP x2 (ankle), Mac Jones possible. Fri SF report.
+- **WATCH — McMillan:** CAR Thu report is an estimate (DNP projected). Fri CAR report is the first real one; Warren hedge; MNF.
+- **WATCH — Marks:** FP Wed/Thu (official Texans), protocol clearance unreported.
+- **CLEAR:** Mendoza, Gay, Judkins, Nix not listed. ARI starts Josh Johnson (WAS DEF context).
+- **League:** Aiyuk SIGNED by WAS (Schefter 11:25 AM CT); Rodgers cleared waivers (FA); Herbert in concussion protocol; Pittman off IR (PIT). Tuten DNP Thu (feed). Trade end Sat 11/28.

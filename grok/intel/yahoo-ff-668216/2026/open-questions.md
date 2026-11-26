@@ -272,3 +272,20 @@
   - Kaleb Johnson ownership.
   - Yahoo re-auth (15 straight failures). W11 result; W12 opponent verification.
   - Keeper rules (still unknown). Trade end Sat 11/28.
+
+## 2026-11-26 (daily — partial, Yahoo 302 login, 16th consecutive on record)
+- Closed:
+  - Jacobs inactive (confirmed by recap/ESPN-Pelissero/box score).
+  - GB@LAR result and Love/Golden lines.
+  - CHI@DET result and Caleb/Odunze/LaPorta lines.
+  - Henry Thu status (FP).
+  - CMC Thu status (FP rest). Purdy Thu (DNP).
+  - Marks Thu (FP). Aiyuk signed.
+- Open:
+  - Henry formal clearance / Fri BAL game status.
+  - McMillan's first real CAR report (Fri) and Sun W/T call.
+  - Purdy Fri/Sun; KC@BUF inactives (~6:20 PM CT).
+  - Was anyone in the W12 lineup from CHI/DET (Caleb/Odunze/LaPorta)? Yahoo lineup and live W12 score unknown.
+  - Did W12 waivers process anything for Vaqueros? FAAB. Kaleb ownership.
+  - Yahoo re-auth (16 straight failures). W11 result; W12 opponent verification.
+  - Keeper rules (still unknown). Trade end Sat 11/28.

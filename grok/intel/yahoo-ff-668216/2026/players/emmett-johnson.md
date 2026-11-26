@@ -7,3 +7,4 @@
   - Value to Vaqueros: trade-only. Our RB slots are full (Henry/CMC). Keeper: rookie 5th-rounder, rules unknown.
 - **2026-11-24 daily:** Walker (groin) **LIMITED** Tue (Chiefs official 3:46 PM CT). Trending toward playing, so E. Johnson's W12 value is down. Still trade-only (Good Strongs last-known). KC@BUF rain and wind Thu 7:20 PM CT.
 - **2026-11-25 daily:** Walker **OUT** for Thu (Chiefs official final report; Schefter 10:51 AM CT: "Emmett Johnson will start … third straight game"). E. Johnson W12 value is back up (NWS: rain, NE ~15 mph, gusts to ~36 Thu night). Still trade-only (Good Strongs last-known; ownership disputed).
+- **2026-11-26 daily:** Walker OUT again for KC@BUF (Thu 7:20 PM CT); E. Johnson starts. Rain/wind per NWS. Ownership still disputed/unknown (last-known Good Strongs).

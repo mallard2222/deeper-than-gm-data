@@ -16,3 +16,4 @@
 - **2026-11-23 daily:** W12 @ DET Thu 11/26 12:00 PM CT (early lock). Official CHI Monday report not retrieved; not listed on CBS secondary.
 - **2026-11-24 daily:** not on the Bears' Tue estimated report (Biggs 4:27 PM / Fishbain 4:14 PM CT). QB2 @DET Thu noon vs Mendoza SNF; Andrew decides.
 - **2026-11-25 daily:** **Not listed** on the official Bears final report (Lions-site combined table; @ChicagoBears 2:09 PM CT ruled out only Gordon, Hicks and R. Johnson). QB2 decision vs Mendoza (not listed; SNF @CLE, ESPN "Rain 48"). Lean Caleb (dome, earlier lock; inference). Lock Thu 12:00 PM CT.
+- **2026-11-26 daily:** CHI@DET Final: Caleb Williams 30/44, 345 yds, 2 TD, 0 INT, 3-15 rush; Odunze 6-87-2 on 9 tgt (ESPN box). Whether either was in our lineup is unknown (Yahoo blocked).

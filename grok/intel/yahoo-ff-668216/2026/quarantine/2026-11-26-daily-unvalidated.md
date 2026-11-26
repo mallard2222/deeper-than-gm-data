@@ -1,0 +1,12 @@
+# Quarantine — daily 2026-11-26 (unvalidated signals)
+- **Henry "on way out of protocol":** Zrebiec's inference from the FP listing (3:35 PM CT); Hensley says only "upgraded to full participant." The formal clearance isn't reported. The @Ravens report image wasn't readable. ESPN feed still shows Questionable.
+- **McMillan DNP:** a Thursday **estimate** (Kaye / @PanthersMagpie; Panthers were off). It isn't an actual practice absence. Friday's CAR report is the first real one.
+- **CMC FP (rest) and Purdy DNP:** from Maiocco/Branch/Niners Wire; the official 49ers table wasn't fetched directly.
+- **Jacobs "expected back for next GB game 12/6":** RotoWire text carried by CBS; no GB official comment captured. Treat as a report.
+- **Tuten DNP Thursday:** ESPN feed citing O'Halloran (Times-Union); JAX official table not fetched. Opponent ownership of Tuten is inferred (FFAmuseBouche).
+- **Marks:** FP in the Texans' official table, but no report of formal protocol clearance. FantasyPros "expects him to play" is an analyst view.
+- **Nix / DEN:** only the Broncos report (not listed); IND Thursday table not captured (Warren status for Thu unseen).
+- **KC@BUF:** inactives (~6:20 PM CT) not available at collection; Rice/Downs/Worthy "expected to play" comes from an aggregator synthesis, not an official inactives list.
+- **Buffalo weather:** NWS hourly shows sustained wind only; the earlier period forecast (11/25) had gusts to ~36 mph. Aggregator wind figures (15–20 mph, gusts 35+) are unverified.
+- **Parody/fan chatter** (@Itsyabo..., Packers fan posts about LaFleur and Kaleb): ignored.
+- **Ownership / FAAB / claims / W11 result / W12 opponent / live W12 score:** UNKNOWN (Yahoo 302, 16th straight). FFAmuseBouche as opponent is inferred.
