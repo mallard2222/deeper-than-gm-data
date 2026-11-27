@@ -1,0 +1,186 @@
+{
+ "run": "deeper-than-daily-intelligence-report",
+ "league": "yahoo-ff-668216",
+ "team_id": 8,
+ "run_started_ct": "2026-11-27T16:58-06:00",
+ "nfl_week_note": "NFL Week 12; finals: GB@LAR, CHI@DET, PHI@DAL 39-38, KC@BUF BUF 13-10, DEN@PIT PIT 27-5; Sunday slate 11/29 noon CT; LV@CLE SNF; CAR@TB Mon 7:15 PM CT",
+ "collection_status": "partial_failure",
+ "yahoo_access": {
+  "cookie_jar_curl": "failed_302_login",
+  "jars_tried": [
+   "seed-built (seed mtime 2026-11-27 16:59:54 CT)"
+  ],
+  "retrieved_ct": "2026-11-27T17:00:08-06:00",
+  "attempts": 1,
+  "login_attempted": false,
+  "consecutive_failures_on_record": 17
+ },
+ "public_sources": "ok (official HOU/BAL, CAR/TB, LV/CLE, IND tables + insiders via X API + ESPN feed; 49ers table via relay; Warren absence-based; no official GB source for Jacobs; waiver aggregators low quality)",
+ "collection_window_ct": "2026-11-27T17:00-06:00/2026-11-27T17:30-06:00",
+ "previous_daily_ct": "2026-11-26T16:58-06:00",
+ "previous_daily_commit": "d7cb447",
+ "deduped_against": "daily 2026-11-26 (d7cb447)",
+ "yahoo_transactions_made": false,
+ "w12_opponent": "FFAmuseBouche (inferred, not Yahoo-verified)",
+ "stale_yahoo_fields": {
+  "lineup_roster": "2026-11-15T11:27-06:00",
+  "matchup_fa_transactions_projections": "2026-11-14T17:05-06:00",
+  "faab": "34 (unverified since 2026-11-14)",
+  "ownership": "unknown - Yahoo blocked",
+  "pending_claims": "unknown - Yahoo blocked (none submitted on record)",
+  "w12_waiver_outcome": "unknown - Yahoo blocked",
+  "w11_result": "unknown - Yahoo blocked",
+  "w12_live_score": "unknown - Yahoo blocked",
+  "fa_pool": "unknown - Yahoo blocked",
+  "transactions": "unknown - Yahoo blocked"
+ },
+ "changes": [
+  {
+   "id": "2026-11-27-henry-cleared",
+   "type": "fact (official table) + report (Caplan, A. Wilson)",
+   "confidence": "high",
+   "players": [
+    "Derrick Henry",
+    "Quinshon Judkins"
+   ],
+   "owner": "Vaqueros RB",
+   "source": "https://www.houstontexans.com/news/week-12-injury-report-texans-vs-ravens",
+   "recommended_response": "prepare: Henry RB; Judkins fallback not needed",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-27-marks-fp3",
+   "type": "fact (official table)",
+   "confidence": "moderate-high",
+   "players": [
+    "Woody Marks"
+   ],
+   "owner": "Vaqueros W/R",
+   "source": "https://www.houstontexans.com/news/week-12-injury-report-texans-vs-ravens",
+   "recommended_response": "prepare: W/R Marks vs Judkins; formal clearance inferred",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-27-mcmillan-lp",
+   "type": "fact (official)",
+   "confidence": "moderate",
+   "players": [
+    "Tetairoa McMillan",
+    "Tyler Warren"
+   ],
+   "owner": "Vaqueros W/T; TE",
+   "source": "https://www.panthers.com/news/week-12-friday-injury-report-tetairoa-mcmillan-back-to-work-monday-night-football-buccaneers-panthers",
+   "recommended_response": "prepare/monitor: Sat designation; Warren hedge",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-27-purdy-out",
+   "type": "fact (Schefter, Rapoport, NFL.com)",
+   "confidence": "high",
+   "players": [
+    "Brock Purdy",
+    "Mac Jones",
+    "Christian McCaffrey"
+   ],
+   "owner": "Vaqueros RB (CMC)",
+   "source": "https://x.com/AdamSchefter/status/2126441202899726511",
+   "recommended_response": "monitor: CMC game script only",
+   "decision_deadline_ct": "2026-11-29T14:25-06:00"
+  },
+  {
+   "id": "2026-11-27-kc-buf-final",
+   "type": "fact (ESPN box)",
+   "confidence": "high",
+   "players": [
+    "Rashee Rice",
+    "Josh Downs",
+    "Xavier Worthy",
+    "Emmett Johnson"
+   ],
+   "owner": "Vaqueros bench (Rice/Downs/Worthy); E. Johnson owner unknown",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873082",
+   "recommended_response": "no action (W12 closed); W13 waivers review",
+   "decision_deadline_ct": "2026-12-02T03:45-06:00"
+  },
+  {
+   "id": "2026-11-27-den-pit-final",
+   "type": "fact (ESPN box, PFT)",
+   "confidence": "high",
+   "players": [
+    "Bo Nix"
+   ],
+   "owner": "Vaqueros bench",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-throws-directly-to-jalen-ramsey-for-pick-six-as-steelers-dominate-the-first-half",
+   "recommended_response": "no action",
+   "decision_deadline_ct": "n/a"
+  },
+  {
+   "id": "2026-11-27-sunday-clear",
+   "type": "fact (official)",
+   "confidence": "high (Warren moderate)",
+   "players": [
+    "Fernando Mendoza",
+    "Matt Gay",
+    "Quinshon Judkins",
+    "Tyler Warren"
+   ],
+   "owner": "Vaqueros",
+   "source": "https://www.raiders.com/news/raiders-browns-week-12-injury-report",
+   "recommended_response": "none",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-27-was-def-opp",
+   "type": "fact (Schefter/Rapoport)",
+   "confidence": "high",
+   "players": [
+    "WAS DEF",
+    "Josh Johnson"
+   ],
+   "owner": "Vaqueros DEF",
+   "source": "https://x.com/AdamSchefter/status/2126367798641181145",
+   "recommended_response": "none",
+   "decision_deadline_ct": "2026-11-29T14:25-06:00"
+  },
+  {
+   "id": "2026-11-27-herbert-out",
+   "type": "fact (Schefter/Rapoport)",
+   "confidence": "high",
+   "players": [
+    "Justin Herbert",
+    "DJ Uiagalelei"
+   ],
+   "owner": "n/a",
+   "source": "https://x.com/AdamSchefter/status/2126439737498210783",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": "2026-11-29T15:05-06:00"
+  },
+  {
+   "id": "2026-11-27-tuten-out",
+   "type": "fact (Schefter)",
+   "confidence": "high (status) / low (ownership)",
+   "players": [
+    "Bhayshul Tuten"
+   ],
+   "owner": "FFAmuseBouche (inferred)",
+   "source": "https://x.com/AdamSchefter/status/2126428337547673823",
+   "recommended_response": "monitor",
+   "decision_deadline_ct": "2026-11-29T12:00-06:00"
+  },
+  {
+   "id": "2026-11-27-walker-jacobs-aggregator",
+   "type": "report/unverified",
+   "confidence": "low-moderate",
+   "players": [
+    "Kenneth Walker III",
+    "Josh Jacobs",
+    "Kaleb Johnson"
+   ],
+   "owner": "unknown",
+   "source": "https://www.espn.com/nfl/story/_/id/50594656/chiefs-rb-kenneth-walker-iii-groin-thursday-vs-bills",
+   "recommended_response": "monitor; Kaleb claim hold/$0-2 docs-only",
+   "decision_deadline_ct": "2026-12-02T03:45-06:00"
+  }
+ ],
+ "quarantine": "grok/intel/yahoo-ff-668216/2026/quarantine/2026-11-27-daily-unvalidated.md"
+}

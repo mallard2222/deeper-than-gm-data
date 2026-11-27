@@ -289,3 +289,20 @@
   - Did W12 waivers process anything for Vaqueros? FAAB. Kaleb ownership.
   - Yahoo re-auth (16 straight failures). W11 result; W12 opponent verification.
   - Keeper rules (still unknown). Trade end Sat 11/28.
+
+## 2026-11-27 (daily — partial, Yahoo 302 login, 17th consecutive on record)
+- Closed:
+  - Henry Fri status (no designation, cleared).
+  - Marks Fri (FP, no designation).
+  - McMillan first real report (LP).
+  - Purdy Fri (OUT) and CMC (FP).
+  - KC@BUF and DEN@PIT finals/box lines.
+  - Mendoza/Gay/Judkins/Warren Fri status.
+  - ARI QB (J. Johnson).
+- Open:
+  - McMillan Sat designation and Sun noon W/T call.
+  - Marks formal clearance language; Sun inactives (Henry, Marks).
+  - Jacobs official Friday status; Walker 12/3.
+  - Yahoo lineup and live W12 score; W12 opponent verification; FAAB; did W12 waivers process anything; Emmett Johnson ownership.
+  - Yahoo re-auth (17 straight failures).
+  - Trade-deadline hour (Sat 11/28) and keeper rules (still unknown).

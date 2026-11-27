@@ -1,0 +1,11 @@
+# Quarantine — daily 2026-11-27 (unvalidated signals)
+- **Marks "cleared protocol":** no designation + FP x3 (official); no explicit clearance statement found. Clearance is inferred.
+- **Warren "no designation":** inferred from the Colts' ruled-out/questionable article (1:24 PM CT); the full table wasn't captured.
+- **McMillan "not in uniform Friday" (NFLPredicted bot, 2:39 PM CT):** conflicts with the official LP listing and the Person/Athletic report (suited up after stretch). Ignored.
+- **Walker back Thu 12/3:** ESPN/aggregator; no club statement. Grade-2 groin strain per PFN/ESPN.
+- **Jacobs "Out Week 13":** StatGrades/Pigskin Nightly aggregators with muddled week labels; no official GB source. Ignored. Earlier RotoWire "back 12/6" is also still a report.
+- **Rodgers "barred from facility":** Schefter relaying Al Michaels relaying Rodgers's text; second-hand.
+- **Waiver data (Emmett Johnson "79K adds, still available", Hurst 37% rostered, bids %):** aggregators (ffbeacon/fflens/parlae), not league-specific; ownership in Deeper Than unknown.
+- **Tuten ownership (FFAmuseBouche):** inferred; Rodriguez "lead back" is a podcast/aggregator view.
+- **Purdy "mid ankle" detail:** Shanahan quote via 49erswebzone (relay), consistent with NFL.com.
+- **Ownership / FAAB / claims / W11 result / W12 opponent / live W12 score / FA pool:** UNKNOWN (Yahoo 302, 17th straight). FFAmuseBouche as opponent is inferred.

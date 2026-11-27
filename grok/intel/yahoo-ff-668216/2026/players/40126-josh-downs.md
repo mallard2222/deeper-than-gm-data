@@ -22,3 +22,4 @@
 - **2026-11-23 daily:** W12 @ BUF Thu 11/26 7:20 PM CT (early lock). Not on the KC Monday estimate (walkthrough).
 - **2026-11-24 daily:** not on KC's Tue report. Buffalo forecast rain ~90%, gusts ~30 mph (local TV/aggregators). Bench lean W12 (inference).
 - **2026-11-25 daily:** Not on KC's final report. NWS Orchard Park Thu night: rain showers, PoP 98% at kickoff, 38°F, NE ~15 mph with gusts to ~36. Bench lean holds (inference).
+- **2026-11-27 daily:** KC@BUF 1-13 on 4 targets, 16 offensive snaps (NBC); two risky punt returns. Boom/bust; KC plays Thu 12/3 @LAR.

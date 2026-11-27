@@ -12,3 +12,4 @@
 - **2026-11-23 daily:** FINAL @ DEN (L 24-38): FG 1/1 (28), XP 3/3 (ESPN feed). No K need. W12 @ CLE SNF 11/29 7:20 PM CT.
 - **2026-11-25 daily:** Not listed on the Raiders' Wed report (clevelandbrowns.com combined table, ~5:04 PM CT). W12 @CLE SNF 7:20 PM CT; ESPN weather field "Rain 48." No action.
 - **2026-11-26 daily:** Not listed on Raiders report (Thu); no designation. LV @ CLE SNF; Bowers LP.
+- **2026-11-27 daily:** Not listed on Raiders Fri report (raiders.com 1:45 PM CT). LV@CLE SNF.

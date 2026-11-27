@@ -347,3 +347,13 @@ Prior daily: 2026-11-06; Wed recon 2026-11-04 AM. Oct 5–31 news still not revi
 - **WATCH — Marks:** FP Wed/Thu (official Texans), protocol clearance unreported.
 - **CLEAR:** Mendoza, Gay, Judkins, Nix not listed. ARI starts Josh Johnson (WAS DEF context).
 - **League:** Aiyuk SIGNED by WAS (Schefter 11:25 AM CT); Rodgers cleared waivers (FA); Herbert in concussion protocol; Pittman off IR (PIT). Tuten DNP Thu (feed). Trade end Sat 11/28.
+
+## 2026-11-27 (daily ~5 PM CT — PARTIAL: Yahoo 302 login, 17th consecutive; public sources OK)
+- **RESOLVED — Henry CLEARED:** no designation @HOU (official table LP/FP/FP; Caplan, Wilson). Judkins fallback not needed.
+- **UPGRADE — Marks:** FP x3, no designation (official). Clearance inferred. W/R option vs Judkins.
+- **WATCH — McMillan:** LP Fri (official); Sat is the last report; MNF. Warren hedge, decide by Sun 12:00 PM CT.
+- **RESOLVED — Purdy OUT:** Mac Jones starts; CMC FP (rest). Purdy W13 'optimistic'.
+- **RESOLVED — KC@BUF Final (BUF 13–10):** Rice 2-19, Downs 1-13, Worthy 0-3 tgt; E. Johnson 17-72-1. KC WRs low value; Worthy drop-candidate (analyst).
+- **RESOLVED — DEN@PIT Final (PIT 27–5):** Nix 169/0/2 INT, 3 sacks (benched).
+- **CLEAR:** Mendoza, Gay, Judkins (Sanders Q hip), Warren (absence-based); WAS DEF vs J. Johnson (Beck out).
+- **League:** Herbert OUT (Uiagalelei starts); Tuten OUT (JAX); Walker Grade-2 groin (Thu 12/3 unconfirmed); Loveland week-to-week; Rodgers FA. Trade end Sat 11/28 (hour unknown). W13 waivers ~Wed 12/2.

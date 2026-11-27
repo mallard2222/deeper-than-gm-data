@@ -10,3 +10,4 @@
 - **2026-11-20 daily:** TNF 5 tgt, 1-22 (HOU 26-3). Colts released Daniel Jones and named Anthony Richardson starter (colts.com 11/20) → W12+ volatility (inference). Monitor.
 - **2026-11-23 daily:** W12 vs NYG Sun 11/29 12:00 PM CT. Richardson is the starter. Pierce (IR heel) not ruled out for the season (Steichen); McGowan to miss time. W11: 1-22 on 5 tgt.
 - **2026-11-25 daily:** **Not listed** on the Colts' Wed practice report (colts.com, retrieved ~5:04 PM CT). TEs Mallory (hamstring) and Ogletree (knee) DNP. W12 vs NYG Sun 12:00 PM CT (dome). Inference: if LaPorta starts at TE Thu, Warren becomes the **W/T hedge for McMillan** (MNF foot) and can be decided Sunday morning.
+- **2026-11-27 daily:** No designation vs NYG (absence from Colts ruled-out/questionable list, colts.com 1:24 PM CT). W/T hedge vs McMillan; Sun noon CT.

@@ -15,3 +15,4 @@
 - **2026-11-24 daily:** no new item; ESPN feed still Questionable (concussion protocol). HOU first report Wed.
 - **2026-11-25 daily:** **Back at practice Wed** (Houston Chronicle/Alexander; ESPN feed). He must still clear the concussion protocol. Expected back Sun vs BAL per Aaron Wilson (relayed by NBC/ALLPLAY; original not fetched). Inference: timeshare behind Montgomery; bench. Fallback RB only if Henry is out (both play in the BAL@HOU game).
 - **2026-11-26 daily:** Houston official table: Marks (concussion) FP Wed and Thu; Harrison Jr. FP Thu; Montgomery LP (rest). Formal protocol clearance not reported.
+- **2026-11-27 daily:** Official Texans table FP Wed/Thu/Fri, no game designation (2:42 PM CT). Formal protocol clearance not stated (inferred). W/R candidate vs Judkins; Sun noon CT.
